@@ -541375,6 +541375,40 @@
 "portal": "https://www.sluzbenilist.me/propisi/371313"
 },
 {
+"slug": "zakon-2024-371314",
+"path": "zakon/2024/371314",
+"kind": "zakon",
+"year": "2024",
+"number": "371314",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o sprečavanju pranja novca i finansiranja terorizma",
+"short": "Zakon o izmjenama i dopunama Zakona o sprečavanju pranja novca i finansiranja terorizma",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2024-07-06",
+"latest": "2024-07-06",
+"portal": "https://www.sluzbenilist.me/propisi/371314",
+"amended_by": [
+{
+"ref": "pis:379759",
+"title": "Zakon o izmjenama i dopunama Zakona o sprečavanju pranja novca i finansiranja terorizma* (Službeni list Crne Gore, broj 24/2025)",
+"url": "https://www.sluzbenilist.me/propisi/379759"
+},
+{
+"ref": "pis:392444",
+"title": "Odluka, U-I br. 28/24 (Službeni list Crne Gore, broj 41/2026)",
+"url": "https://www.sluzbenilist.me/propisi/392444"
+},
+{
+"ref": "pis:398992",
+"title": "Zakon o izmjenama i dopunama Zakona o sprečavanju pranja novca i finansiranja terorizma (Službeni list Crne Gore, broj 150/2026)",
+"url": "https://www.sluzbenilist.me/propisi/398992"
+}
+]
+},
+{
 "slug": "odluka-2024-371316",
 "path": "odluka/2024/371316",
 "kind": "odluka",
@@ -546157,6 +546191,35 @@
 "portal": "https://www.sluzbenilist.me/propisi/373159"
 },
 {
+"slug": "zakon-2024-373162",
+"path": "zakon/2024/373162",
+"kind": "zakon",
+"year": "2024",
+"number": "373162",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o dopuni Zakona o koncesijama",
+"short": "Zakon o dopuni Zakona o koncesijama",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2024-08-31",
+"latest": "2024-08-31",
+"portal": "https://www.sluzbenilist.me/propisi/373162",
+"amended_by": [
+{
+"ref": "pis:383877",
+"title": "Zakon o izmjeni Zakona o koncesijama (Službeni list Crne Gore, broj 82/2025)",
+"url": "https://www.sluzbenilist.me/propisi/383877"
+},
+{
+"ref": "pis:397084",
+"title": "Zakon o dopuni Zakona o koncesijama (Službeni list Crne Gore, broj 119/2026)",
+"url": "https://www.sluzbenilist.me/propisi/397084"
+}
+]
+},
+{
 "slug": "pravilnik-2024-373163",
 "path": "pravilnik/2024/373163",
 "kind": "pravilnik",
@@ -546191,6 +546254,30 @@
 "portal": "https://www.sluzbenilist.me/propisi/373165"
 },
 {
+"slug": "zakon-2024-373167",
+"path": "zakon/2024/373167",
+"kind": "zakon",
+"year": "2024",
+"number": "373167",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o inspekcijskom nadzoru",
+"short": "Zakon o izmjenama i dopunama Zakona o inspekcijskom nadzoru",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2024-09-14",
+"latest": "2024-09-14",
+"portal": "https://www.sluzbenilist.me/propisi/373167",
+"amended_by": [
+{
+"ref": "pis:394049",
+"title": "Zakon o dopuni Zakona o inspekcijskom nadzoru (Službeni list Crne Gore, broj 64/2026)",
+"url": "https://www.sluzbenilist.me/propisi/394049"
+}
+]
+},
+{
 "slug": "odluka-2024-373168",
 "path": "odluka/2024/373168",
 "kind": "odluka",
@@ -546206,6 +546293,40 @@
 "from": "2024-09-07",
 "latest": "2024-09-07",
 "portal": "https://www.sluzbenilist.me/propisi/373168"
+},
+{
+"slug": "zakon-2024-373181",
+"path": "zakon/2024/373181",
+"kind": "zakon",
+"year": "2024",
+"number": "373181",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o unutrašnjim poslovima",
+"short": "Zakon o izmjenama i dopunama Zakona o unutrašnjim poslovima",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2024-09-06",
+"latest": "2024-09-06",
+"portal": "https://www.sluzbenilist.me/propisi/373181",
+"amended_by": [
+{
+"ref": "pis:392156",
+"title": "Zakon o izmjenama i dopunama Zakona o unutrašnjim poslovima (Službeni list Crne Gore, broj 40/2026)",
+"url": "https://www.sluzbenilist.me/propisi/392156"
+},
+{
+"ref": "pis:396951",
+"title": "Zakon o izmjeni i dopuni Zakona o unutrašnjim poslovima (Službeni list Crne Gore, broj 117/2026)",
+"url": "https://www.sluzbenilist.me/propisi/396951"
+},
+{
+"ref": "pis:398329",
+"title": "Zakon o izmjenama i dopunama Zakona o unutrašnjim poslovima (Službeni list Crne Gore, broj 137/2026)",
+"url": "https://www.sluzbenilist.me/propisi/398329"
+}
+]
 },
 {
 "slug": "odluka-2024-373186",
@@ -546240,6 +546361,30 @@
 "from": "2024-08-16",
 "latest": "2024-08-16",
 "portal": "https://www.sluzbenilist.me/propisi/373187"
+},
+{
+"slug": "zakon-2024-373190",
+"path": "zakon/2024/373190",
+"kind": "zakon",
+"year": "2024",
+"number": "373190",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o korišćenju energije iz obnovljivih izvora*",
+"short": "Zakon o korišćenju energije iz obnovljivih izvora*",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2024-08-31",
+"latest": "2024-08-31",
+"portal": "https://www.sluzbenilist.me/propisi/373190",
+"amended_by": [
+{
+"ref": "pis:397076",
+"title": "Zakon o izmjenama i dopunama Zakona o korišćenju energije iz obnovljivih izvora* (Službeni list Crne Gore, broj 119/2026)",
+"url": "https://www.sluzbenilist.me/propisi/397076"
+}
+]
 },
 {
 "slug": "pravila-2024-373192",
@@ -546404,6 +546549,23 @@
 ]
 },
 {
+"slug": "zakon-2024-373337",
+"path": "zakon/2024/373337",
+"kind": "zakon",
+"year": "2024",
+"number": "373337",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjeni i dopuni Zakona o stručnom osposobljavanju lica sa stečenim visokim obrazovanjem",
+"short": "Zakon o izmjeni i dopuni Zakona o stručnom osposobljavanju lica sa stečenim visokim obrazovanjem",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2024-09-21",
+"latest": "2024-09-21",
+"portal": "https://www.sluzbenilist.me/propisi/373337"
+},
+{
 "slug": "odluka-2024-373340",
 "path": "odluka/2024/373340",
 "kind": "odluka",
@@ -546419,6 +546581,40 @@
 "from": "2024-09-21",
 "latest": "2024-09-21",
 "portal": "https://www.sluzbenilist.me/propisi/373340"
+},
+{
+"slug": "zakon-2024-373347",
+"path": "zakon/2024/373347",
+"kind": "zakon",
+"year": "2024",
+"number": "373347",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o porezu na dobit pravnih lica",
+"short": "Zakon o izmjenama i dopunama Zakona o porezu na dobit pravnih lica",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-01-01",
+"latest": "2025-01-01",
+"portal": "https://www.sluzbenilist.me/propisi/373347",
+"amended_by": [
+{
+"ref": "pis:303903",
+"title": "Zakon o izmjenama i dopunama Zakona kojima su propisane novčane kazne za prekršaje (Službeni list Crne Gore, broj 40/2011)",
+"url": "https://www.sluzbenilist.me/propisi/303903"
+},
+{
+"ref": "pis:395609",
+"title": "Zakon o izmjenama Zakona o obligacionim odnosima* (Službeni list Crne Gore, broj 94/2026)",
+"url": "https://www.sluzbenilist.me/propisi/395609"
+},
+{
+"ref": "pis:396194",
+"title": "Zakon o izmjenama i dopunama Zakona o porezu na dobit pravnih lica (Službeni list Crne Gore, broj 104/2026)",
+"url": "https://www.sluzbenilist.me/propisi/396194"
+}
+]
 },
 {
 "slug": "pravilnik-2024-373351",
@@ -547538,6 +547734,40 @@
 "portal": "https://www.sluzbenilist.me/propisi/373698"
 },
 {
+"slug": "zakon-2024-373700",
+"path": "zakon/2024/373700",
+"kind": "zakon",
+"year": "2024",
+"number": "373700",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama Zakona o doprinosima za obavezno socijalno osiguranje",
+"short": "Zakon o izmjenama Zakona o doprinosima za obavezno socijalno osiguranje",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2024-10-01",
+"latest": "2024-10-01",
+"portal": "https://www.sluzbenilist.me/propisi/373700",
+"amended_by": [
+{
+"ref": "pis:303903",
+"title": "Zakon o izmjenama i dopunama Zakona kojima su propisane novčane kazne za prekršaje (Službeni list Crne Gore, broj 40/2011)",
+"url": "https://www.sluzbenilist.me/propisi/303903"
+},
+{
+"ref": "pis:389470",
+"title": "Zakon o izmjenama i dopuni Zakona o doprinosima za obavezno socijalno osiguranje (Službeni list Crne Gore, broj 160/2025)",
+"url": "https://www.sluzbenilist.me/propisi/389470"
+},
+{
+"ref": "pis:395609",
+"title": "Zakon o izmjenama Zakona o obligacionim odnosima* (Službeni list Crne Gore, broj 94/2026)",
+"url": "https://www.sluzbenilist.me/propisi/395609"
+}
+]
+},
+{
 "slug": "odluka-2024-373701",
 "path": "odluka/2024/373701",
 "kind": "odluka",
@@ -548433,6 +548663,30 @@
 "portal": "https://www.sluzbenilist.me/propisi/374036"
 },
 {
+"slug": "zakon-2024-374037",
+"path": "zakon/2024/374037",
+"kind": "zakon",
+"year": "2024",
+"number": "374037",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o Razvojnoj banci Crne Gore",
+"short": "Zakon o Razvojnoj banci Crne Gore",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2024-10-23",
+"latest": "2024-10-23",
+"portal": "https://www.sluzbenilist.me/propisi/374037",
+"amended_by": [
+{
+"ref": "pis:386843",
+"title": "Zakon o izmjenama Zakona o Razvojnoj banci (Službeni list Crne Gore, broj 140/2025)",
+"url": "https://www.sluzbenilist.me/propisi/386843"
+}
+]
+},
+{
 "slug": "odluka-2024-374043",
 "path": "odluka/2024/374043",
 "kind": "odluka",
@@ -549149,6 +549403,30 @@
 ]
 },
 {
+"slug": "zakon-2024-374133",
+"path": "zakon/2024/374133",
+"kind": "zakon",
+"year": "2024",
+"number": "374133",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o elektronskim komunikacijama",
+"short": "Zakon o elektronskim komunikacijama",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2024-10-24",
+"latest": "2024-10-24",
+"portal": "https://www.sluzbenilist.me/propisi/374133",
+"amended_by": [
+{
+"ref": "pis:397046",
+"title": "Zakon o izmjenama i dopunama Zakona o elektronskim komunikacijama* (Službeni list Crne Gore, broj 119/2026)",
+"url": "https://www.sluzbenilist.me/propisi/397046"
+}
+]
+},
+{
 "slug": "pravilnik-2024-374134",
 "path": "pravilnik/2024/374134",
 "kind": "pravilnik",
@@ -549193,6 +549471,50 @@
 "ref": "pis:375526",
 "title": "Odluka o dopuni Odluke o varijabilnom dijelu zarade (Službeni list Crne Gore, broj 118/2024)",
 "url": "https://www.sluzbenilist.me/propisi/375526"
+}
+]
+},
+{
+"slug": "zakon-2024-374136",
+"path": "zakon/2024/374136",
+"kind": "zakon",
+"year": "2024",
+"number": "374136",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o autorskom i srodnim pravima",
+"short": "Zakon o izmjenama i dopunama Zakona o autorskom i srodnim pravima",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2024-10-24",
+"latest": "2024-10-24",
+"portal": "https://www.sluzbenilist.me/propisi/374136",
+"amended_by": [
+{
+"ref": "pis:373173",
+"title": "Zakon o izmjenama i dopunama Zakona kojima su propisane odredbe o inspekcijskom nadzoru (Službeni list Crne Gore, broj 84/2024)",
+"url": "https://www.sluzbenilist.me/propisi/373173"
+},
+{
+"ref": "pis:386006",
+"title": "Zakon o izmjenama i dopunama Zakona o socijalnom stanovanju (Službeni list Crne Gore, broj 121/2025)",
+"url": "https://www.sluzbenilist.me/propisi/386006"
+},
+{
+"ref": "pis:391080",
+"title": "Odluka, U-I br. 12/21 (Službeni list Crne Gore, broj 30/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391080"
+},
+{
+"ref": "pis:397643",
+"title": "Zakon o izmjenama i dopunama Zakona o vodama (Službeni list Crne Gore, broj 128/2026)",
+"url": "https://www.sluzbenilist.me/propisi/397643"
+},
+{
+"ref": "pis:398995",
+"title": "Zakon o izmjenama i dopunama Zakona o autorskom i srodnim pravima (Službeni list Crne Gore, broj 150/2026)",
+"url": "https://www.sluzbenilist.me/propisi/398995"
 }
 ]
 },
@@ -552891,6 +553213,30 @@
 "portal": "https://www.sluzbenilist.me/propisi/374967"
 },
 {
+"slug": "zakon-2024-374968",
+"path": "zakon/2024/374968",
+"kind": "zakon",
+"year": "2024",
+"number": "374968",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjeni i dopuni Zakona o stečaju i likvidaciji banaka",
+"short": "Zakon o izmjeni i dopuni Zakona o stečaju i likvidaciji banaka",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2024-12-05",
+"latest": "2024-12-05",
+"portal": "https://www.sluzbenilist.me/propisi/374968",
+"amended_by": [
+{
+"ref": "pis:384123",
+"title": "Zakon o izmjenama i dopunama Zakona o stečaju i likvidaciji banaka* (Službeni list Crne Gore, broj 89/2025)",
+"url": "https://www.sluzbenilist.me/propisi/384123"
+}
+]
+},
+{
 "slug": "odluka-2024-374971",
 "path": "odluka/2024/374971",
 "kind": "odluka",
@@ -554946,6 +555292,30 @@
 "portal": "https://www.sluzbenilist.me/propisi/375703"
 },
 {
+"slug": "zakon-2024-375705",
+"path": "zakon/2024/375705",
+"kind": "zakon",
+"year": "2024",
+"number": "375705",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o sigurnosti snabdijevanja naftnim derivatima",
+"short": "Zakon o sigurnosti snabdijevanja naftnim derivatima",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2024-12-21",
+"latest": "2024-12-21",
+"portal": "https://www.sluzbenilist.me/propisi/375705",
+"amended_by": [
+{
+"ref": "pis:396967",
+"title": "Zakon o izmjenama i dopunama Zakona o sigurnosti snabdijevanja naftnim derivatima (Službeni list Crne Gore, broj 117/2026)",
+"url": "https://www.sluzbenilist.me/propisi/396967"
+}
+]
+},
+{
 "slug": "rjesenje-2024-375707",
 "path": "rjesenje/2024/375707",
 "kind": "rjesenje",
@@ -555856,6 +556226,30 @@
 "portal": "https://www.sluzbenilist.me/propisi/375969"
 },
 {
+"slug": "zakon-2024-375970",
+"path": "zakon/2024/375970",
+"kind": "zakon",
+"year": "2024",
+"number": "375970",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o budžetskoj inspekciji",
+"short": "Zakon o budžetskoj inspekciji",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2024-12-31",
+"latest": "2024-12-31",
+"portal": "https://www.sluzbenilist.me/propisi/375970",
+"amended_by": [
+{
+"ref": "pis:389550",
+"title": "Zakon o izmjenama i dopuni Zakona o budžetskoj inspekciji (Službeni list Crne Gore, broj 165/2025)",
+"url": "https://www.sluzbenilist.me/propisi/389550"
+}
+]
+},
+{
 "slug": "zakon-2024-375971",
 "path": "zakon/2024/375971",
 "kind": "zakon",
@@ -555871,6 +556265,69 @@
 "from": "2024-12-31",
 "latest": "2024-12-31",
 "portal": "https://www.sluzbenilist.me/propisi/375971"
+},
+{
+"slug": "zakon-2024-375972",
+"path": "zakon/2024/375972",
+"kind": "zakon",
+"year": "2024",
+"number": "375972",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Krivičnog zakonika Crne Gore",
+"short": "Zakon o izmjenama i dopunama Krivičnog zakonika Crne Gore",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2024-12-24",
+"latest": "2024-12-24",
+"portal": "https://www.sluzbenilist.me/propisi/375972",
+"amended_by": [
+{
+"ref": "pis:387464",
+"title": "Zakon o izmjenama i dopunama Krivičnog zakonika Crne Gore* (Službeni list Crne Gore, broj 121/2025)",
+"url": "https://www.sluzbenilist.me/propisi/387464"
+},
+{
+"ref": "pis:398332",
+"title": "Zakon o izmjenama i dopunama Krivičnog zakonika Crne Gore* (Službeni list Crne Gore, broj 137/2026)",
+"url": "https://www.sluzbenilist.me/propisi/398332"
+}
+]
+},
+{
+"slug": "zakon-2024-375974",
+"path": "zakon/2024/375974",
+"kind": "zakon",
+"year": "2024",
+"number": "375974",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopuni Zakona o obligacionim odnosima",
+"short": "Zakon o izmjenama i dopuni Zakona o obligacionim odnosima",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2024-12-31",
+"latest": "2024-12-31",
+"portal": "https://www.sluzbenilist.me/propisi/375974",
+"amended_by": [
+{
+"ref": "pis:303903",
+"title": "Zakon o izmjenama i dopunama Zakona kojima su propisane novčane kazne za prekršaje (Službeni list Crne Gore, broj 40/2011)",
+"url": "https://www.sluzbenilist.me/propisi/303903"
+},
+{
+"ref": "pis:395609",
+"title": "Zakon o izmjenama Zakona o obligacionim odnosima* (Službeni list Crne Gore, broj 94/2026)",
+"url": "https://www.sluzbenilist.me/propisi/395609"
+},
+{
+"ref": "pis:396966",
+"title": "Zakon o izmjenama i dopuni Zakona o obligacionim odnosima* (Službeni list Crne Gore, broj 117/2026)",
+"url": "https://www.sluzbenilist.me/propisi/396966"
+}
+]
 },
 {
 "slug": "uputstvo-2024-375975",
@@ -560124,6 +560581,65 @@
 "portal": "https://www.sluzbenilist.me/propisi/378718"
 },
 {
+"slug": "zakon-2024-387096",
+"path": "zakon/2024/387096",
+"kind": "zakon",
+"year": "2024",
+"number": "387096",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopuni Zakona o radu",
+"short": "Zakon o izmjenama i dopuni Zakona o radu",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2024-09-11",
+"latest": "2024-09-11",
+"portal": "https://www.sluzbenilist.me/propisi/387096",
+"amended_by": [
+{
+"ref": "pis:386006",
+"title": "Zakon o izmjenama i dopunama Zakona o socijalnom stanovanju (Službeni list Crne Gore, broj 121/2025)",
+"url": "https://www.sluzbenilist.me/propisi/386006"
+},
+{
+"ref": "pis:385749",
+"title": "Zakon o dopunama Zakona o radu (Službeni list Crne Gore, broj 122/2025)",
+"url": "https://www.sluzbenilist.me/propisi/385749"
+},
+{
+"ref": "pis:389510",
+"title": "Zakon o dopunama Zakona o radu (Službeni list Crne Gore, broj 165/2025)",
+"url": "https://www.sluzbenilist.me/propisi/389510"
+},
+{
+"ref": "pis:391080",
+"title": "Odluka, U-I br. 12/21 (Službeni list Crne Gore, broj 30/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391080"
+},
+{
+"ref": "pis:391082",
+"title": "Odluka, U-I br. 9/21 (Službeni list Crne Gore, broj 30/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391082"
+},
+{
+"ref": "pis:393230",
+"title": "Zakon o izmjenama i dopunama Zakona o radu* (Službeni list Crne Gore, broj 51/2026)",
+"url": "https://www.sluzbenilist.me/propisi/393230"
+},
+{
+"ref": "pis:396031",
+"title": "Zakon o izmjenama i dopunama Zakona o radu* (Službeni list Crne Gore, broj 103/2026)",
+"url": "https://www.sluzbenilist.me/propisi/396031"
+},
+{
+"ref": "pis:397643",
+"title": "Zakon o izmjenama i dopunama Zakona o vodama (Službeni list Crne Gore, broj 128/2026)",
+"url": "https://www.sluzbenilist.me/propisi/397643"
+}
+]
+},
+{
 "slug": "zakon-2024-387906",
 "path": "zakon/2024/387906",
 "kind": "zakon",
@@ -563137,6 +563653,30 @@
 "portal": "https://www.sluzbenilist.me/propisi/378261"
 },
 {
+"slug": "zakon-2025-378374",
+"path": "zakon/2025/378374",
+"kind": "zakon",
+"year": "2025",
+"number": "378374",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o Budžetu Crne Gore za 2025. godinu",
+"short": "Zakon o Budžetu Crne Gore za 2025. godinu",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-02-10",
+"latest": "2025-02-10",
+"portal": "https://www.sluzbenilist.me/propisi/378374",
+"amended_by": [
+{
+"ref": "pis:381615",
+"title": "Program fitosanitarnih mjera za 2025. godinu (Službeni list Crne Gore, broj 42/2025)",
+"url": "https://www.sluzbenilist.me/propisi/381615"
+}
+]
+},
+{
 "slug": "rjesenje-2025-378489",
 "path": "rjesenje/2025/378489",
 "kind": "rjesenje",
@@ -563725,6 +564265,40 @@
 "portal": "https://www.sluzbenilist.me/propisi/378758"
 },
 {
+"slug": "zakon-2025-378767",
+"path": "zakon/2025/378767",
+"kind": "zakon",
+"year": "2025",
+"number": "378767",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o poreskoj administraciji",
+"short": "Zakon o izmjenama i dopunama Zakona o poreskoj administraciji",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-02-28",
+"latest": "2025-02-28",
+"portal": "https://www.sluzbenilist.me/propisi/378767",
+"amended_by": [
+{
+"ref": "pis:389460",
+"title": "Zakon o izmjenama i dopunama Zakona o poreskoj administraciji (Službeni list Crne Gore, broj 160/2025)",
+"url": "https://www.sluzbenilist.me/propisi/389460"
+},
+{
+"ref": "pis:394391",
+"title": "Zakon o izmjenama Zakona o poreskoj administraciji (Službeni list Crne Gore, broj 70/2026)",
+"url": "https://www.sluzbenilist.me/propisi/394391"
+},
+{
+"ref": "pis:396192",
+"title": "Zakon o izmjenama i dopunama Zakona o poreskoj administraciji (Službeni list Crne Gore, broj 104/2026)",
+"url": "https://www.sluzbenilist.me/propisi/396192"
+}
+]
+},
+{
 "slug": "uredba-2025-378769",
 "path": "uredba/2025/378769",
 "kind": "uredba",
@@ -563745,6 +564319,30 @@
 "ref": "pis:388995",
 "title": "Uredba o izmjeni Uredbe o supstancama koje se mogu dodavati hrani za posebne prehrambene potrebe* (Službeni list Crne Gore, broj 152/2025)",
 "url": "https://www.sluzbenilist.me/propisi/388995"
+}
+]
+},
+{
+"slug": "zakon-2025-378771",
+"path": "zakon/2025/378771",
+"kind": "zakon",
+"year": "2025",
+"number": "378771",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o dobrovoljnim penzionim fondovima*",
+"short": "Zakon o dobrovoljnim penzionim fondovima*",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-02-28",
+"latest": "2025-02-28",
+"portal": "https://www.sluzbenilist.me/propisi/378771",
+"amended_by": [
+{
+"ref": "pis:390547",
+"title": "Zakon o izmjenama i dopunama Zakona o dobrovoljnim penzionim fondovima (Službeni list Crne Gore, broj 14/2026)",
+"url": "https://www.sluzbenilist.me/propisi/390547"
 }
 ]
 },
@@ -563907,6 +564505,79 @@
 ]
 },
 {
+"slug": "zakon-2025-378784",
+"path": "zakon/2025/378784",
+"kind": "zakon",
+"year": "2025",
+"number": "378784",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o građevinskim proizvodima",
+"short": "Zakon o izmjenama i dopunama Zakona o građevinskim proizvodima",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-02-28",
+"latest": "2025-02-28",
+"portal": "https://www.sluzbenilist.me/propisi/378784",
+"amended_by": [
+{
+"ref": "pis:373173",
+"title": "Zakon o izmjenama i dopunama Zakona kojima su propisane odredbe o inspekcijskom nadzoru (Službeni list Crne Gore, broj 84/2024)",
+"url": "https://www.sluzbenilist.me/propisi/373173"
+},
+{
+"ref": "pis:386006",
+"title": "Zakon o izmjenama i dopunama Zakona o socijalnom stanovanju (Službeni list Crne Gore, broj 121/2025)",
+"url": "https://www.sluzbenilist.me/propisi/386006"
+},
+{
+"ref": "pis:391080",
+"title": "Odluka, U-I br. 12/21 (Službeni list Crne Gore, broj 30/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391080"
+},
+{
+"ref": "pis:394526",
+"title": "Zakon o izmjenama i dopunama Zakona o građevinskim proizvodima (Službeni list Crne Gore, broj 73/2026)",
+"url": "https://www.sluzbenilist.me/propisi/394526"
+},
+{
+"ref": "pis:397643",
+"title": "Zakon o izmjenama i dopunama Zakona o vodama (Službeni list Crne Gore, broj 128/2026)",
+"url": "https://www.sluzbenilist.me/propisi/397643"
+}
+]
+},
+{
+"slug": "zakon-2025-378789",
+"path": "zakon/2025/378789",
+"kind": "zakon",
+"year": "2025",
+"number": "378789",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o potrošačkim kreditima",
+"short": "Zakon o potrošačkim kreditima",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-02-28",
+"latest": "2025-02-28",
+"portal": "https://www.sluzbenilist.me/propisi/378789",
+"amended_by": [
+{
+"ref": "pis:391162",
+"title": "Ispravka Zakona o potrošačkim kreditima (Službeni list Crne Gore, broj 32/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391162"
+},
+{
+"ref": "pis:395380",
+"title": "Zakon o izmjenama Zakona o potrošačkim kreditima (Službeni list Crne Gore, broj 87/2026)",
+"url": "https://www.sluzbenilist.me/propisi/395380"
+}
+]
+},
+{
 "slug": "odluka-2025-378790",
 "path": "odluka/2025/378790",
 "kind": "odluka",
@@ -563932,6 +564603,35 @@
 "ref": "pis:389695",
 "title": "Odluka, broj: OD/253-1 (Službeni list Crne Gore, broj 4/2026)",
 "url": "https://www.sluzbenilist.me/propisi/389695"
+}
+]
+},
+{
+"slug": "zakon-2025-378794",
+"path": "zakon/2025/378794",
+"kind": "zakon",
+"year": "2025",
+"number": "378794",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o platnom prometu",
+"short": "Zakon o izmjenama i dopunama Zakona o platnom prometu",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-02-28",
+"latest": "2025-02-28",
+"portal": "https://www.sluzbenilist.me/propisi/378794",
+"amended_by": [
+{
+"ref": "pis:386830",
+"title": "Zakon o izmjeni Zakona o platnom prometu (Službeni list Crne Gore, broj 140/2025)",
+"url": "https://www.sluzbenilist.me/propisi/386830"
+},
+{
+"ref": "pis:396033",
+"title": "Zakon o izmjenama i dopunama Zakona o platnom prometu (Službeni list Crne Gore, broj 103/2026)",
+"url": "https://www.sluzbenilist.me/propisi/396033"
 }
 ]
 },
@@ -564785,6 +565485,45 @@
 "portal": "https://www.sluzbenilist.me/propisi/379404"
 },
 {
+"slug": "zakon-2025-379409",
+"path": "zakon/2025/379409",
+"kind": "zakon",
+"year": "2025",
+"number": "379409",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izgradnji objekata",
+"short": "Zakon o izgradnji objekata",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-03-05",
+"latest": "2025-03-05",
+"portal": "https://www.sluzbenilist.me/propisi/379409",
+"amended_by": [
+{
+"ref": "pis:384206",
+"title": "Zakon o izmjenama i dopunama Zakona o izgradnji objekata (Službeni list Crne Gore, broj 92/2025)",
+"url": "https://www.sluzbenilist.me/propisi/384206"
+},
+{
+"ref": "pis:389479",
+"title": "Zakon o izmjenama i dopunama Zakona o izgradnji objekata (Službeni list Crne Gore, broj 160/2025)",
+"url": "https://www.sluzbenilist.me/propisi/389479"
+},
+{
+"ref": "pis:392569",
+"title": "Odluka o pristupanju izradi izmjena i dopuna Programa privremenih objekata na teritoriji Opštine Kolašin (Službeni list Crne Gore, broj 13/2026)",
+"url": "https://www.sluzbenilist.me/propisi/392569"
+},
+{
+"ref": "pis:396673",
+"title": "Zakon o izmjenama i dopunama Zakona o izgradnji objekata (Službeni list Crne Gore, broj 114/2026)",
+"url": "https://www.sluzbenilist.me/propisi/396673"
+}
+]
+},
+{
 "slug": "pravilnik-2025-379410",
 "path": "pravilnik/2025/379410",
 "kind": "pravilnik",
@@ -564800,6 +565539,35 @@
 "from": "2025-03-12",
 "latest": "2025-03-12",
 "portal": "https://www.sluzbenilist.me/propisi/379410"
+},
+{
+"slug": "zakon-2025-379416",
+"path": "zakon/2025/379416",
+"kind": "zakon",
+"year": "2025",
+"number": "379416",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o uređenju prostora",
+"short": "Zakon o uređenju prostora",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-03-05",
+"latest": "2025-03-05",
+"portal": "https://www.sluzbenilist.me/propisi/379416",
+"amended_by": [
+{
+"ref": "pis:380086",
+"title": "Ispravka Zakona o uređenju prostora (Službeni list Crne Gore, broj 28/2025)",
+"url": "https://www.sluzbenilist.me/propisi/380086"
+},
+{
+"ref": "pis:396674",
+"title": "Zakon o izmjenama i dopunama Zakona o uređenju prostora (Službeni list Crne Gore, broj 114/2026)",
+"url": "https://www.sluzbenilist.me/propisi/396674"
+}
+]
 },
 {
 "slug": "pravilnik-2025-379421",
@@ -565612,6 +566380,40 @@
 "portal": "https://www.sluzbenilist.me/propisi/379734"
 },
 {
+"slug": "zakon-2025-379736",
+"path": "zakon/2025/379736",
+"kind": "zakon",
+"year": "2025",
+"number": "379736",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o državnoj imovini",
+"short": "Zakon o izmjenama i dopunama Zakona o državnoj imovini",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-03-19",
+"latest": "2025-03-19",
+"portal": "https://www.sluzbenilist.me/propisi/379736",
+"amended_by": [
+{
+"ref": "pis:303903",
+"title": "Zakon o izmjenama i dopunama Zakona kojima su propisane novčane kazne za prekršaje (Službeni list Crne Gore, broj 40/2011)",
+"url": "https://www.sluzbenilist.me/propisi/303903"
+},
+{
+"ref": "pis:389445",
+"title": "Zakon o izmjeni Zakona o državnoj imovini (Službeni list Crne Gore, broj 160/2025)",
+"url": "https://www.sluzbenilist.me/propisi/389445"
+},
+{
+"ref": "pis:395609",
+"title": "Zakon o izmjenama Zakona o obligacionim odnosima* (Službeni list Crne Gore, broj 94/2026)",
+"url": "https://www.sluzbenilist.me/propisi/395609"
+}
+]
+},
+{
 "slug": "odluka-2025-379737",
 "path": "odluka/2025/379737",
 "kind": "odluka",
@@ -565670,6 +566472,74 @@
 ]
 },
 {
+"slug": "zakon-2025-379749",
+"path": "zakon/2025/379749",
+"kind": "zakon",
+"year": "2025",
+"number": "379749",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o alternativnim investicionim fondovima",
+"short": "Zakon o alternativnim investicionim fondovima",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-03-20",
+"latest": "2025-03-20",
+"portal": "https://www.sluzbenilist.me/propisi/379749",
+"amended_by": [
+{
+"ref": "pis:385531",
+"title": "Ispravka Zakona o alternativnim investicionim fondovima (Službeni list Crne Gore, broj 117/2025)",
+"url": "https://www.sluzbenilist.me/propisi/385531"
+},
+{
+"ref": "pis:390555",
+"title": "Zakon o izmjenama i dopunama Zakona o alternativnim investicionim fondovima (Službeni list Crne Gore, broj 14/2026)",
+"url": "https://www.sluzbenilist.me/propisi/390555"
+},
+{
+"ref": "pis:398994",
+"title": "Zakon o izmjenama i dopunama Zakona o alternativnim investicionim fondovima (Službeni list Crne Gore, broj 150/2026)",
+"url": "https://www.sluzbenilist.me/propisi/398994"
+}
+]
+},
+{
+"slug": "zakon-2025-379750",
+"path": "zakon/2025/379750",
+"kind": "zakon",
+"year": "2025",
+"number": "379750",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o boračkoj i invalidskoj zaštiti",
+"short": "Zakon o izmjenama i dopunama Zakona o boračkoj i invalidskoj zaštiti",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-03-20",
+"latest": "2025-03-20",
+"portal": "https://www.sluzbenilist.me/propisi/379750",
+"amended_by": [
+{
+"ref": "pis:303903",
+"title": "Zakon o izmjenama i dopunama Zakona kojima su propisane novčane kazne za prekršaje (Službeni list Crne Gore, broj 40/2011)",
+"url": "https://www.sluzbenilist.me/propisi/303903"
+},
+{
+"ref": "pis:385756",
+"title": "Zakon o dopunama Zakona o boračkoj i invalidskoj zaštiti (Službeni list Crne Gore, broj 122/2025)",
+"url": "https://www.sluzbenilist.me/propisi/385756"
+},
+{
+"ref": "pis:395609",
+"title": "Zakon o izmjenama Zakona o obligacionim odnosima* (Službeni list Crne Gore, broj 94/2026)",
+"url": "https://www.sluzbenilist.me/propisi/395609"
+}
+]
+},
+{
 "slug": "pravilnik-2025-379751",
 "path": "pravilnik/2025/379751",
 "kind": "pravilnik",
@@ -565707,6 +566577,35 @@
 "ref": "pis:320271",
 "title": "Uredba o uspostavljanju unutrašnje revizije u javnom sektoru (Službeni list Crne Gore, broj 96/2021)",
 "url": "https://www.sluzbenilist.me/propisi/320271"
+}
+]
+},
+{
+"slug": "zakon-2025-379755",
+"path": "zakon/2025/379755",
+"kind": "zakon",
+"year": "2025",
+"number": "379755",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o finansijskim konglomeratima*",
+"short": "Zakon o finansijskim konglomeratima*",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-03-20",
+"latest": "2025-03-20",
+"portal": "https://www.sluzbenilist.me/propisi/379755",
+"amended_by": [
+{
+"ref": "pis:390548",
+"title": "Zakon o izmjeni i dopuni Zakona o finansijskim konglomeratima* (Službeni list Crne Gore, broj 14/2026)",
+"url": "https://www.sluzbenilist.me/propisi/390548"
+},
+{
+"ref": "pis:399150",
+"title": "Zakon o izmjenama i dopuni Zakona o finansijskim konglomeratima (Službeni list Crne Gore, broj 152/2026)",
+"url": "https://www.sluzbenilist.me/propisi/399150"
 }
 ]
 },
@@ -566143,6 +567042,23 @@
 "portal": "https://www.sluzbenilist.me/propisi/379879"
 },
 {
+"slug": "zakon-2025-379959",
+"path": "zakon/2025/379959",
+"kind": "zakon",
+"year": "2025",
+"number": "379959",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjeni Zakona o ličnoj karti",
+"short": "Zakon o izmjeni Zakona o ličnoj karti",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2025-03-25",
+"latest": "2025-03-25",
+"portal": "https://www.sluzbenilist.me/propisi/379959"
+},
+{
 "slug": "uredba-2025-379961",
 "path": "uredba/2025/379961",
 "kind": "uredba",
@@ -566367,6 +567283,69 @@
 "from": "2025-03-27",
 "latest": "2025-03-27",
 "portal": "https://www.sluzbenilist.me/propisi/380081"
+},
+{
+"slug": "zakon-2025-380083",
+"path": "zakon/2025/380083",
+"kind": "zakon",
+"year": "2025",
+"number": "380083",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o patentima",
+"short": "Zakon o izmjenama i dopunama Zakona o patentima",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-03-27",
+"latest": "2025-03-27",
+"portal": "https://www.sluzbenilist.me/propisi/380083",
+"amended_by": [
+{
+"ref": "pis:373173",
+"title": "Zakon o izmjenama i dopunama Zakona kojima su propisane odredbe o inspekcijskom nadzoru (Službeni list Crne Gore, broj 84/2024)",
+"url": "https://www.sluzbenilist.me/propisi/373173"
+},
+{
+"ref": "pis:386006",
+"title": "Zakon o izmjenama i dopunama Zakona o socijalnom stanovanju (Službeni list Crne Gore, broj 121/2025)",
+"url": "https://www.sluzbenilist.me/propisi/386006"
+},
+{
+"ref": "pis:391080",
+"title": "Odluka, U-I br. 12/21 (Službeni list Crne Gore, broj 30/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391080"
+},
+{
+"ref": "pis:397643",
+"title": "Zakon o izmjenama i dopunama Zakona o vodama (Službeni list Crne Gore, broj 128/2026)",
+"url": "https://www.sluzbenilist.me/propisi/397643"
+}
+]
+},
+{
+"slug": "zakon-2025-380090",
+"path": "zakon/2025/380090",
+"kind": "zakon",
+"year": "2025",
+"number": "380090",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o energetici",
+"short": "Zakon o energetici",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-03-27",
+"latest": "2025-03-27",
+"portal": "https://www.sluzbenilist.me/propisi/380090",
+"amended_by": [
+{
+"ref": "pis:389919",
+"title": "Zakon o izmjenama i dopuni Zakona o energetici (Službeni list Crne Gore, broj 3/2026)",
+"url": "https://www.sluzbenilist.me/propisi/389919"
+}
+]
 },
 {
 "slug": "pravilnik-2025-380093",
@@ -566839,6 +567818,30 @@
 "portal": "https://www.sluzbenilist.me/propisi/380218"
 },
 {
+"slug": "zakon-2025-380219",
+"path": "zakon/2025/380219",
+"kind": "zakon",
+"year": "2025",
+"number": "380219",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o posredovanju pri zapošljavanju i pravima za vrijeme nezaposlenosti",
+"short": "Zakon o izmjenama i dopunama Zakona o posredovanju pri zapošljavanju i pravima za vrijeme nezaposlenosti",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-03-29",
+"latest": "2025-03-29",
+"portal": "https://www.sluzbenilist.me/propisi/380219",
+"amended_by": [
+{
+"ref": "pis:391459",
+"title": "Zakon o izmjeni i dopuni Zakona o posredovanju pri zapošljavanju i pravima za vrijeme nezaposlenosti* (Službeni list Crne Gore, broj 3/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391459"
+}
+]
+},
+{
 "slug": "odluka-2025-380220",
 "path": "odluka/2025/380220",
 "kind": "odluka",
@@ -567284,6 +568287,99 @@
 "from": "2025-03-28",
 "latest": "2025-03-28",
 "portal": "https://www.sluzbenilist.me/propisi/380599"
+},
+{
+"slug": "zakon-2025-380601",
+"path": "zakon/2025/380601",
+"kind": "zakon",
+"year": "2025",
+"number": "380601",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama Zakona o socijalnoj i dječijoj zaštiti",
+"short": "Zakon o izmjenama Zakona o socijalnoj i dječijoj zaštiti",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-04-05",
+"latest": "2025-04-05",
+"portal": "https://www.sluzbenilist.me/propisi/380601",
+"amended_by": [
+{
+"ref": "pis:373173",
+"title": "Zakon o izmjenama i dopunama Zakona kojima su propisane odredbe o inspekcijskom nadzoru (Službeni list Crne Gore, broj 84/2024)",
+"url": "https://www.sluzbenilist.me/propisi/373173"
+},
+{
+"ref": "pis:386006",
+"title": "Zakon o izmjenama i dopunama Zakona o socijalnom stanovanju (Službeni list Crne Gore, broj 121/2025)",
+"url": "https://www.sluzbenilist.me/propisi/386006"
+},
+{
+"ref": "pis:385767",
+"title": "Zakon o dopunama Zakona o socijalnoj i dječjoj zaštiti (Službeni list Crne Gore, broj 122/2025)",
+"url": "https://www.sluzbenilist.me/propisi/385767"
+},
+{
+"ref": "pis:389469",
+"title": "Zakon o dopunama Zakona o socijalnoj i dječjoj zaštiti (Službeni list Crne Gore, broj 160/2025)",
+"url": "https://www.sluzbenilist.me/propisi/389469"
+},
+{
+"ref": "pis:391080",
+"title": "Odluka, U-I br. 12/21 (Službeni list Crne Gore, broj 30/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391080"
+},
+{
+"ref": "pis:391472",
+"title": "Zakon o izmjenama i dopuni Zakona o socijalnoj i dječjoj zaštiti (Službeni list Crne Gore, broj 33/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391472"
+},
+{
+"ref": "pis:393315",
+"title": "Zakon o izmjenama i dopunama Zakona o socijalnoj i dječjoj zaštiti (Službeni list Crne Gore, broj 52/2026)",
+"url": "https://www.sluzbenilist.me/propisi/393315"
+},
+{
+"ref": "pis:396195",
+"title": "Zakon o izmjenama i dopunama Zakona o socijalnoj i dječjoj zaštiti (Službeni list Crne Gore, broj 104/2026)",
+"url": "https://www.sluzbenilist.me/propisi/396195"
+},
+{
+"ref": "pis:397643",
+"title": "Zakon o izmjenama i dopunama Zakona o vodama (Službeni list Crne Gore, broj 128/2026)",
+"url": "https://www.sluzbenilist.me/propisi/397643"
+}
+]
+},
+{
+"slug": "zakon-2025-380602",
+"path": "zakon/2025/380602",
+"kind": "zakon",
+"year": "2025",
+"number": "380602",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o osiguranju",
+"short": "Zakon o osiguranju",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-04-05",
+"latest": "2025-04-05",
+"portal": "https://www.sluzbenilist.me/propisi/380602",
+"amended_by": [
+{
+"ref": "pis:389447",
+"title": "Zakon o izmjenama i dopunama Zakona o osiguranju (Službeni list Crne Gore, broj 160/2025)",
+"url": "https://www.sluzbenilist.me/propisi/389447"
+},
+{
+"ref": "pis:391422",
+"title": "Zakon o izmjenama i dopunama Zakona o osiguranju (Službeni list Crne Gore, broj 33/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391422"
+}
+]
 },
 {
 "slug": "odluka-2025-380604",
@@ -573480,6 +574576,55 @@
 ]
 },
 {
+"slug": "zakon-2025-382226",
+"path": "zakon/2025/382226",
+"kind": "zakon",
+"year": "2025",
+"number": "382226",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o divljači i lovstvu",
+"short": "Zakon o izmjenama i dopunama Zakona o divljači i lovstvu",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-06-04",
+"latest": "2025-06-04",
+"portal": "https://www.sluzbenilist.me/propisi/382226",
+"amended_by": [
+{
+"ref": "pis:303903",
+"title": "Zakon o izmjenama i dopunama Zakona kojima su propisane novčane kazne za prekršaje (Službeni list Crne Gore, broj 40/2011)",
+"url": "https://www.sluzbenilist.me/propisi/303903"
+},
+{
+"ref": "pis:373173",
+"title": "Zakon o izmjenama i dopunama Zakona kojima su propisane odredbe o inspekcijskom nadzoru (Službeni list Crne Gore, broj 84/2024)",
+"url": "https://www.sluzbenilist.me/propisi/373173"
+},
+{
+"ref": "pis:386006",
+"title": "Zakon o izmjenama i dopunama Zakona o socijalnom stanovanju (Službeni list Crne Gore, broj 121/2025)",
+"url": "https://www.sluzbenilist.me/propisi/386006"
+},
+{
+"ref": "pis:391080",
+"title": "Odluka, U-I br. 12/21 (Službeni list Crne Gore, broj 30/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391080"
+},
+{
+"ref": "pis:395609",
+"title": "Zakon o izmjenama Zakona o obligacionim odnosima* (Službeni list Crne Gore, broj 94/2026)",
+"url": "https://www.sluzbenilist.me/propisi/395609"
+},
+{
+"ref": "pis:397643",
+"title": "Zakon o izmjenama i dopunama Zakona o vodama (Službeni list Crne Gore, broj 128/2026)",
+"url": "https://www.sluzbenilist.me/propisi/397643"
+}
+]
+},
+{
 "slug": "zakon-2025-382227",
 "path": "zakon/2025/382227",
 "kind": "zakon",
@@ -573495,6 +574640,52 @@
 "from": "2025-06-04",
 "latest": "2025-06-04",
 "portal": "https://www.sluzbenilist.me/propisi/382227"
+},
+{
+"slug": "zakon-2025-382228",
+"path": "zakon/2025/382228",
+"kind": "zakon",
+"year": "2025",
+"number": "382228",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama Zakona o osnovnom obrazovanju i vaspitanju",
+"short": "Zakon o izmjenama Zakona o osnovnom obrazovanju i vaspitanju",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-06-04",
+"latest": "2025-06-04",
+"portal": "https://www.sluzbenilist.me/propisi/382228",
+"amended_by": [
+{
+"ref": "pis:303903",
+"title": "Zakon o izmjenama i dopunama Zakona kojima su propisane novčane kazne za prekršaje (Službeni list Crne Gore, broj 40/2011)",
+"url": "https://www.sluzbenilist.me/propisi/303903"
+},
+{
+"ref": "pis:395609",
+"title": "Zakon o izmjenama Zakona o obligacionim odnosima* (Službeni list Crne Gore, broj 94/2026)",
+"url": "https://www.sluzbenilist.me/propisi/395609"
+}
+]
+},
+{
+"slug": "zakon-2025-382247",
+"path": "zakon/2025/382247",
+"kind": "zakon",
+"year": "2025",
+"number": "382247",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o upravnom sporu",
+"short": "Zakon o izmjenama i dopunama Zakona o upravnom sporu",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2025-06-06",
+"latest": "2025-06-06",
+"portal": "https://www.sluzbenilist.me/propisi/382247"
 },
 {
 "slug": "odluka-2025-382250",
@@ -573891,6 +575082,23 @@
 "from": "2025-05-31",
 "latest": "2025-05-31",
 "portal": "https://www.sluzbenilist.me/propisi/382286"
+},
+{
+"slug": "zakon-2025-382287",
+"path": "zakon/2025/382287",
+"kind": "zakon",
+"year": "2025",
+"number": "382287",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o nacionalnom okviru kvalifikacija",
+"short": "Zakon o izmjenama i dopunama Zakona o nacionalnom okviru kvalifikacija",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2025-06-06",
+"latest": "2025-06-06",
+"portal": "https://www.sluzbenilist.me/propisi/382287"
 },
 {
 "slug": "program-2025-382289",
@@ -574308,6 +575516,23 @@
 "portal": "https://www.sluzbenilist.me/propisi/382322"
 },
 {
+"slug": "zakon-2025-382323",
+"path": "zakon/2025/382323",
+"kind": "zakon",
+"year": "2025",
+"number": "382323",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o dopuni Zakona o eksproprijaciji",
+"short": "Zakon o dopuni Zakona o eksproprijaciji",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2025-06-06",
+"latest": "2025-06-06",
+"portal": "https://www.sluzbenilist.me/propisi/382323"
+},
+{
 "slug": "odluka-2025-382324",
 "path": "odluka/2025/382324",
 "kind": "odluka",
@@ -574517,6 +575742,23 @@
 "from": "2025-05-23",
 "latest": "2025-05-23",
 "portal": "https://www.sluzbenilist.me/propisi/382341"
+},
+{
+"slug": "zakon-2025-382344",
+"path": "zakon/2025/382344",
+"kind": "zakon",
+"year": "2025",
+"number": "382344",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o inovacionoj djelatnosti",
+"short": "Zakon o izmjenama i dopunama Zakona o inovacionoj djelatnosti",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2025-06-06",
+"latest": "2025-06-06",
+"portal": "https://www.sluzbenilist.me/propisi/382344"
 },
 {
 "slug": "odluka-2025-382346",
@@ -574767,6 +576009,23 @@
 "from": "2025-05-27",
 "latest": "2025-05-27",
 "portal": "https://www.sluzbenilist.me/propisi/382373"
+},
+{
+"slug": "zakon-2025-382374",
+"path": "zakon/2025/382374",
+"kind": "zakon",
+"year": "2025",
+"number": "382374",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o alternativnom rješavanju sporova",
+"short": "Zakon o izmjenama i dopunama Zakona o alternativnom rješavanju sporova",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2025-06-06",
+"latest": "2025-06-06",
+"portal": "https://www.sluzbenilist.me/propisi/382374"
 },
 {
 "slug": "odluka-2025-382375",
@@ -576976,6 +578235,30 @@
 "portal": "https://www.sluzbenilist.me/propisi/382945"
 },
 {
+"slug": "zakon-2025-382947",
+"path": "zakon/2025/382947",
+"kind": "zakon",
+"year": "2025",
+"number": "382947",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o ostvarivanju prava na finansijsku podršku licima koja su bila zaposlena u privrednim društvima u sektoru drvoprerađivačke šumarske industrije",
+"short": "Zakon o ostvarivanju prava na finansijsku podršku licima koja su bila zaposlena u privrednim društvima u sektoru drvoprerađivačke šumarske industrije",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-06-25",
+"latest": "2025-06-25",
+"portal": "https://www.sluzbenilist.me/propisi/382947",
+"amended_by": [
+{
+"ref": "pis:391230",
+"title": "Zakon o izmjenama Zakona o ostvarivanju prava na finansijsku podršku licima koja su bila zaposlena u privrednim društvima u sektoru drvoprerađivačke i šumarske industrije (Službeni list Crne Gore, broj 33/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391230"
+}
+]
+},
+{
 "slug": "akt-2025-382953",
 "path": "akt/2025/382953",
 "kind": "akt",
@@ -578296,6 +579579,115 @@
 "from": "2025-07-09",
 "latest": "2025-07-09",
 "portal": "https://www.sluzbenilist.me/propisi/383326"
+},
+{
+"slug": "zakon-2025-383347",
+"path": "zakon/2025/383347",
+"kind": "zakon",
+"year": "2025",
+"number": "383347",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o obaveznom osiguranju u saobraćaju",
+"short": "Zakon o izmjenama i dopunama Zakona o obaveznom osiguranju u saobraćaju",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-07-11",
+"latest": "2025-07-11",
+"portal": "https://www.sluzbenilist.me/propisi/383347",
+"amended_by": [
+{
+"ref": "pis:396675",
+"title": "Zakon o izmjenama i dopunama Zakona o obaveznom osiguranju u saobraćaju (Službeni list Crne Gore, broj 114/2026)",
+"url": "https://www.sluzbenilist.me/propisi/396675"
+}
+]
+},
+{
+"slug": "zakon-2025-383353",
+"path": "zakon/2025/383353",
+"kind": "zakon",
+"year": "2025",
+"number": "383353",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o tržištu kapitala",
+"short": "Zakon o izmjenama i dopunama Zakona o tržištu kapitala",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2025-07-11",
+"latest": "2025-07-11",
+"portal": "https://www.sluzbenilist.me/propisi/383353"
+},
+{
+"slug": "zakon-2025-383356",
+"path": "zakon/2025/383356",
+"kind": "zakon",
+"year": "2025",
+"number": "383356",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o uzimanju i presađivanju ljudskih organa u svrhu liječenja",
+"short": "Zakon o izmjenama i dopunama Zakona o uzimanju i presađivanju ljudskih organa u svrhu liječenja",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-07-11",
+"latest": "2025-07-11",
+"portal": "https://www.sluzbenilist.me/propisi/383356",
+"amended_by": [
+{
+"ref": "pis:386006",
+"title": "Zakon o izmjenama i dopunama Zakona o socijalnom stanovanju (Službeni list Crne Gore, broj 121/2025)",
+"url": "https://www.sluzbenilist.me/propisi/386006"
+},
+{
+"ref": "pis:390421",
+"title": "Zakon o izmjenama i dopunama Zakona o uzimanju i presađivanju ljudskih organa u svrhu liječenja* (Službeni list Crne Gore, broj 12/2026)",
+"url": "https://www.sluzbenilist.me/propisi/390421"
+},
+{
+"ref": "pis:391080",
+"title": "Odluka, U-I br. 12/21 (Službeni list Crne Gore, broj 30/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391080"
+},
+{
+"ref": "pis:391984",
+"title": "Zakon o izmjeni i dopuni Zakona o uzimanju i presađivanju ljudskih organa u svrhu liječenja* (Službeni list Crne Gore, broj 39/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391984"
+},
+{
+"ref": "pis:397643",
+"title": "Zakon o izmjenama i dopunama Zakona o vodama (Službeni list Crne Gore, broj 128/2026)",
+"url": "https://www.sluzbenilist.me/propisi/397643"
+}
+]
+},
+{
+"slug": "zakon-2025-383357",
+"path": "zakon/2025/383357",
+"kind": "zakon",
+"year": "2025",
+"number": "383357",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o stručnom obrazovanju",
+"short": "Zakon o izmjenama i dopunama Zakona o stručnom obrazovanju",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-07-11",
+"latest": "2025-07-11",
+"portal": "https://www.sluzbenilist.me/propisi/383357",
+"amended_by": [
+{
+"ref": "pis:389790",
+"title": "Zakon o izmjeni Zakona o stručnom obrazovanju* (Službeni list Crne Gore, broj 3/2026)",
+"url": "https://www.sluzbenilist.me/propisi/389790"
+}
+]
 },
 {
 "slug": "uredba-2025-383358",
@@ -580420,6 +581812,45 @@
 "portal": "https://www.sluzbenilist.me/propisi/383870"
 },
 {
+"slug": "zakon-2025-383872",
+"path": "zakon/2025/383872",
+"kind": "zakon",
+"year": "2025",
+"number": "383872",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o državnim službenicima i namještenicima",
+"short": "Zakon o izmjenama i dopunama Zakona o državnim službenicima i namještenicima",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-08-07",
+"latest": "2025-08-07",
+"portal": "https://www.sluzbenilist.me/propisi/383872",
+"amended_by": [
+{
+"ref": "pis:391555",
+"title": "Zakon o izmjenama i dopunama Zakona o državnim službenicima i namještenicima* (Službeni list Crne Gore, broj 3/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391555"
+},
+{
+"ref": "pis:391077",
+"title": "Odluka, U-I br. 11/21 (Službeni list Crne Gore, broj 30/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391077"
+},
+{
+"ref": "pis:391305",
+"title": "Zakon o izmjeni i dopuni Zakona o državnim službenicima i namještenicima* (Službeni list Crne Gore, broj 33/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391305"
+},
+{
+"ref": "pis:398330",
+"title": "Zakon o izmjeni i dopunama Zakona o državnim službenicima i namještenicima (Službeni list Crne Gore, broj 137/2026)",
+"url": "https://www.sluzbenilist.me/propisi/398330"
+}
+]
+},
+{
 "slug": "pravila-2025-383873",
 "path": "pravila/2025/383873",
 "kind": "pravila",
@@ -580471,6 +581902,47 @@
 "portal": "https://www.sluzbenilist.me/propisi/383875"
 },
 {
+"slug": "zakon-2025-383876",
+"path": "zakon/2025/383876",
+"kind": "zakon",
+"year": "2025",
+"number": "383876",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjeni Zakona o zaštiti i spašavanju",
+"short": "Zakon o izmjeni Zakona o zaštiti i spašavanju",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2025-08-07",
+"latest": "2025-08-07",
+"portal": "https://www.sluzbenilist.me/propisi/383876"
+},
+{
+"slug": "zakon-2025-383877",
+"path": "zakon/2025/383877",
+"kind": "zakon",
+"year": "2025",
+"number": "383877",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjeni Zakona o koncesijama",
+"short": "Zakon o izmjeni Zakona o koncesijama",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-08-07",
+"latest": "2025-08-07",
+"portal": "https://www.sluzbenilist.me/propisi/383877",
+"amended_by": [
+{
+"ref": "pis:397084",
+"title": "Zakon o dopuni Zakona o koncesijama (Službeni list Crne Gore, broj 119/2026)",
+"url": "https://www.sluzbenilist.me/propisi/397084"
+}
+]
+},
+{
 "slug": "pravilnik-2025-383878",
 "path": "pravilnik/2025/383878",
 "kind": "pravilnik",
@@ -580520,6 +581992,30 @@
 "from": "2025-08-07",
 "latest": "2025-08-07",
 "portal": "https://www.sluzbenilist.me/propisi/383880"
+},
+{
+"slug": "zakon-2025-383881",
+"path": "zakon/2025/383881",
+"kind": "zakon",
+"year": "2025",
+"number": "383881",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izdavanju pokrivenih obveznica i nadzoru pokrivenih obveznica*",
+"short": "Zakon o izdavanju pokrivenih obveznica i nadzoru pokrivenih obveznica*",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-08-07",
+"latest": "2025-08-07",
+"portal": "https://www.sluzbenilist.me/propisi/383881",
+"amended_by": [
+{
+"ref": "pis:390546",
+"title": "Zakon o dopunama Zakona o izdavanju pokrivenih obveznica i nadzoru pokrivenih obveznica* (Službeni list Crne Gore, broj 14/2026)",
+"url": "https://www.sluzbenilist.me/propisi/390546"
+}
+]
 },
 {
 "slug": "naredba-2025-383909",
@@ -581009,6 +582505,30 @@
 "portal": "https://www.sluzbenilist.me/propisi/383992"
 },
 {
+"slug": "zakon-2025-383993",
+"path": "zakon/2025/383993",
+"kind": "zakon",
+"year": "2025",
+"number": "383993",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o sanaciji investicionih društava*",
+"short": "Zakon o sanaciji investicionih društava*",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-08-08",
+"latest": "2025-08-08",
+"portal": "https://www.sluzbenilist.me/propisi/383993",
+"amended_by": [
+{
+"ref": "pis:390561",
+"title": "Zakon o izmjenama i dopunama Zakona o sanaciji investicionih društava* (Službeni list Crne Gore, broj 14/2026)",
+"url": "https://www.sluzbenilist.me/propisi/390561"
+}
+]
+},
+{
 "slug": "odluka-2025-383995",
 "path": "odluka/2025/383995",
 "kind": "odluka",
@@ -581329,6 +582849,47 @@
 ]
 },
 {
+"slug": "zakon-2025-384088",
+"path": "zakon/2025/384088",
+"kind": "zakon",
+"year": "2025",
+"number": "384088",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopuni Zakona o obligacionim odnosima i osnovama svojinsko - pravnih odnosa u vazdušnom saobraćaju",
+"short": "Zakon o izmjenama i dopuni Zakona o obligacionim odnosima i osnovama svojinsko - pravnih odnosa u vazdušnom saobraćaju",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2025-08-13",
+"latest": "2025-08-13",
+"portal": "https://www.sluzbenilist.me/propisi/384088"
+},
+{
+"slug": "zakon-2025-384090",
+"path": "zakon/2025/384090",
+"kind": "zakon",
+"year": "2025",
+"number": "384090",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjeni i dopunama Zakona o poreskim savjetnicima",
+"short": "Zakon o izmjeni i dopunama Zakona o poreskim savjetnicima",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-08-06",
+"latest": "2025-08-06",
+"portal": "https://www.sluzbenilist.me/propisi/384090",
+"amended_by": [
+{
+"ref": "pis:394048",
+"title": "Zakon o izmjeni Zakona o poreskim savjetnicima (Službeni list Crne Gore, broj 64/2026)",
+"url": "https://www.sluzbenilist.me/propisi/394048"
+}
+]
+},
+{
 "slug": "odluka-2025-384091",
 "path": "odluka/2025/384091",
 "kind": "odluka",
@@ -581370,6 +582931,30 @@
 "portal": "https://www.sluzbenilist.me/propisi/384092"
 },
 {
+"slug": "zakon-2025-384093",
+"path": "zakon/2025/384093",
+"kind": "zakon",
+"year": "2025",
+"number": "384093",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Opšteg zakona o obrazovanju i vaspitanju",
+"short": "Zakon o izmjenama i dopunama Opšteg zakona o obrazovanju i vaspitanju",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-08-06",
+"latest": "2025-08-06",
+"portal": "https://www.sluzbenilist.me/propisi/384093",
+"amended_by": [
+{
+"ref": "pis:390419",
+"title": "Zakon o izmjenama Opšteg zakona o obrazovanju i vaspitanju (Službeni list Crne Gore, broj 12/2026)",
+"url": "https://www.sluzbenilist.me/propisi/390419"
+}
+]
+},
+{
 "slug": "odluka-2025-384094",
 "path": "odluka/2025/384094",
 "kind": "odluka",
@@ -581387,6 +582972,23 @@
 "portal": "https://www.sluzbenilist.me/propisi/384094"
 },
 {
+"slug": "zakon-2025-384095",
+"path": "zakon/2025/384095",
+"kind": "zakon",
+"year": "2025",
+"number": "384095",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o zaštiti lica i imovine",
+"short": "Zakon o izmjenama i dopunama Zakona o zaštiti lica i imovine",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2025-08-13",
+"latest": "2025-08-13",
+"portal": "https://www.sluzbenilist.me/propisi/384095"
+},
+{
 "slug": "odluka-2025-384096",
 "path": "odluka/2025/384096",
 "kind": "odluka",
@@ -581402,6 +583004,40 @@
 "from": "2025-08-06",
 "latest": "2025-08-06",
 "portal": "https://www.sluzbenilist.me/propisi/384096"
+},
+{
+"slug": "zakon-2025-384097",
+"path": "zakon/2025/384097",
+"kind": "zakon",
+"year": "2025",
+"number": "384097",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o vinu",
+"short": "Zakon o izmjenama i dopunama Zakona o vinu",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-08-13",
+"latest": "2025-08-13",
+"portal": "https://www.sluzbenilist.me/propisi/384097",
+"amended_by": [
+{
+"ref": "pis:386006",
+"title": "Zakon o izmjenama i dopunama Zakona o socijalnom stanovanju (Službeni list Crne Gore, broj 121/2025)",
+"url": "https://www.sluzbenilist.me/propisi/386006"
+},
+{
+"ref": "pis:391080",
+"title": "Odluka, U-I br. 12/21 (Službeni list Crne Gore, broj 30/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391080"
+},
+{
+"ref": "pis:397643",
+"title": "Zakon o izmjenama i dopunama Zakona o vodama (Službeni list Crne Gore, broj 128/2026)",
+"url": "https://www.sluzbenilist.me/propisi/397643"
+}
+]
 },
 {
 "slug": "odluka-2025-384099",
@@ -581607,6 +583243,23 @@
 "portal": "https://www.sluzbenilist.me/propisi/384122"
 },
 {
+"slug": "zakon-2025-384123",
+"path": "zakon/2025/384123",
+"kind": "zakon",
+"year": "2025",
+"number": "384123",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o stečaju i likvidaciji banaka*",
+"short": "Zakon o izmjenama i dopunama Zakona o stečaju i likvidaciji banaka*",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2025-08-13",
+"latest": "2025-08-13",
+"portal": "https://www.sluzbenilist.me/propisi/384123"
+},
+{
 "slug": "pravilnik-2025-384124",
 "path": "pravilnik/2025/384124",
 "kind": "pravilnik",
@@ -581648,6 +583301,30 @@
 ]
 },
 {
+"slug": "zakon-2025-384126",
+"path": "zakon/2025/384126",
+"kind": "zakon",
+"year": "2025",
+"number": "384126",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o posredovanju u prometu i zakupu nepokretnosti",
+"short": "Zakon o posredovanju u prometu i zakupu nepokretnosti",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-08-13",
+"latest": "2025-08-13",
+"portal": "https://www.sluzbenilist.me/propisi/384126",
+"amended_by": [
+{
+"ref": "pis:396676",
+"title": "Zakon o izmjenama i dopuni Zakona o posredovanju u prometu i zakupu nepokretnosti (Službeni list Crne Gore, broj 114/2026)",
+"url": "https://www.sluzbenilist.me/propisi/396676"
+}
+]
+},
+{
 "slug": "odluka-2025-384127",
 "path": "odluka/2025/384127",
 "kind": "odluka",
@@ -581672,6 +583349,45 @@
 ]
 },
 {
+"slug": "zakon-2025-384128",
+"path": "zakon/2025/384128",
+"kind": "zakon",
+"year": "2025",
+"number": "384128",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o prevozu opasnih materija",
+"short": "Zakon o izmjenama i dopunama Zakona o prevozu opasnih materija",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-08-13",
+"latest": "2025-08-13",
+"portal": "https://www.sluzbenilist.me/propisi/384128",
+"amended_by": [
+{
+"ref": "pis:386006",
+"title": "Zakon o izmjenama i dopunama Zakona o socijalnom stanovanju (Službeni list Crne Gore, broj 121/2025)",
+"url": "https://www.sluzbenilist.me/propisi/386006"
+},
+{
+"ref": "pis:391080",
+"title": "Odluka, U-I br. 12/21 (Službeni list Crne Gore, broj 30/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391080"
+},
+{
+"ref": "pis:396986",
+"title": "Zakon o eksplozivima za civilnu upotrebu* (Službeni list Crne Gore, broj 118/2026)",
+"url": "https://www.sluzbenilist.me/propisi/396986"
+},
+{
+"ref": "pis:397643",
+"title": "Zakon o izmjenama i dopunama Zakona o vodama (Službeni list Crne Gore, broj 128/2026)",
+"url": "https://www.sluzbenilist.me/propisi/397643"
+}
+]
+},
+{
 "slug": "odluka-2025-384129",
 "path": "odluka/2025/384129",
 "kind": "odluka",
@@ -581687,6 +583403,45 @@
 "from": "2025-08-06",
 "latest": "2025-08-06",
 "portal": "https://www.sluzbenilist.me/propisi/384129"
+},
+{
+"slug": "zakon-2025-384131",
+"path": "zakon/2025/384131",
+"kind": "zakon",
+"year": "2025",
+"number": "384131",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o zanatstvu",
+"short": "Zakon o izmjenama i dopunama Zakona o zanatstvu",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-08-13",
+"latest": "2025-08-13",
+"portal": "https://www.sluzbenilist.me/propisi/384131",
+"amended_by": [
+{
+"ref": "pis:386006",
+"title": "Zakon o izmjenama i dopunama Zakona o socijalnom stanovanju (Službeni list Crne Gore, broj 121/2025)",
+"url": "https://www.sluzbenilist.me/propisi/386006"
+},
+{
+"ref": "pis:391080",
+"title": "Odluka, U-I br. 12/21 (Službeni list Crne Gore, broj 30/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391080"
+},
+{
+"ref": "pis:395609",
+"title": "Zakon o izmjenama Zakona o obligacionim odnosima* (Službeni list Crne Gore, broj 94/2026)",
+"url": "https://www.sluzbenilist.me/propisi/395609"
+},
+{
+"ref": "pis:397643",
+"title": "Zakon o izmjenama i dopunama Zakona o vodama (Službeni list Crne Gore, broj 128/2026)",
+"url": "https://www.sluzbenilist.me/propisi/397643"
+}
+]
 },
 {
 "slug": "odluka-2025-384134",
@@ -581740,6 +583495,30 @@
 "portal": "https://www.sluzbenilist.me/propisi/384137"
 },
 {
+"slug": "zakon-2025-384140",
+"path": "zakon/2025/384140",
+"kind": "zakon",
+"year": "2025",
+"number": "384140",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o željeznici",
+"short": "Zakon o željeznici",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-08-13",
+"latest": "2025-08-13",
+"portal": "https://www.sluzbenilist.me/propisi/384140",
+"amended_by": [
+{
+"ref": "pis:391520",
+"title": "Zakon o dopuni Zakona o željeznici (Službeni list Crne Gore, broj 22/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391520"
+}
+]
+},
+{
 "slug": "odluka-2025-384141",
 "path": "odluka/2025/384141",
 "kind": "odluka",
@@ -581774,6 +583553,88 @@
 "portal": "https://www.sluzbenilist.me/propisi/384144"
 },
 {
+"slug": "zakon-2025-384208",
+"path": "zakon/2025/384208",
+"kind": "zakon",
+"year": "2025",
+"number": "384208",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o šumama",
+"short": "Zakon o izmjenama i dopunama Zakona o šumama",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-08-15",
+"latest": "2025-08-15",
+"portal": "https://www.sluzbenilist.me/propisi/384208",
+"amended_by": [
+{
+"ref": "pis:393670",
+"title": "Zakon o dopuni Zakona o šumama (Službeni list Crne Gore, broj 59/2026)",
+"url": "https://www.sluzbenilist.me/propisi/393670"
+}
+]
+},
+{
+"slug": "zakon-2025-384227",
+"path": "zakon/2025/384227",
+"kind": "zakon",
+"year": "2025",
+"number": "384227",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o maslinarstvu i maslinovom ulju",
+"short": "Zakon o izmjenama i dopunama Zakona o maslinarstvu i maslinovom ulju",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-08-15",
+"latest": "2025-08-15",
+"portal": "https://www.sluzbenilist.me/propisi/384227",
+"amended_by": [
+{
+"ref": "pis:386006",
+"title": "Zakon o izmjenama i dopunama Zakona o socijalnom stanovanju (Službeni list Crne Gore, broj 121/2025)",
+"url": "https://www.sluzbenilist.me/propisi/386006"
+},
+{
+"ref": "pis:391080",
+"title": "Odluka, U-I br. 12/21 (Službeni list Crne Gore, broj 30/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391080"
+},
+{
+"ref": "pis:397643",
+"title": "Zakon o izmjenama i dopunama Zakona o vodama (Službeni list Crne Gore, broj 128/2026)",
+"url": "https://www.sluzbenilist.me/propisi/397643"
+}
+]
+},
+{
+"slug": "zakon-2025-384231",
+"path": "zakon/2025/384231",
+"kind": "zakon",
+"year": "2025",
+"number": "384231",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o dopunama Zakona o Ustavnom sudu Crne Gore",
+"short": "Zakon o dopunama Zakona o Ustavnom sudu Crne Gore",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-08-15",
+"latest": "2025-08-15",
+"portal": "https://www.sluzbenilist.me/propisi/384231",
+"amended_by": [
+{
+"ref": "pis:391602",
+"title": "Zakon o dopunama Zakona o Ustavnom sudu Crne Gore (Službeni list Crne Gore, broj 31/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391602"
+}
+]
+},
+{
 "slug": "odluka-2025-384234",
 "path": "odluka/2025/384234",
 "kind": "odluka",
@@ -581789,6 +583650,35 @@
 "from": "2025-07-30",
 "latest": "2025-07-30",
 "portal": "https://www.sluzbenilist.me/propisi/384234"
+},
+{
+"slug": "zakon-2025-384248",
+"path": "zakon/2025/384248",
+"kind": "zakon",
+"year": "2025",
+"number": "384248",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjeni Zakona o finansiranju lokalne samouprave",
+"short": "Zakon o izmjeni Zakona o finansiranju lokalne samouprave",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-08-15",
+"latest": "2025-08-15",
+"portal": "https://www.sluzbenilist.me/propisi/384248",
+"amended_by": [
+{
+"ref": "pis:389088",
+"title": "Zakon o izmjenama i dopunama Zakona o finansiranju lokalne samouprave (Službeni list Crne Gore, broj 149/2025)",
+"url": "https://www.sluzbenilist.me/propisi/389088"
+},
+{
+"ref": "pis:397075",
+"title": "Zakon o izmjeni Zakona o finansiranju lokalne samouprave (Službeni list Crne Gore, broj 119/2026)",
+"url": "https://www.sluzbenilist.me/propisi/397075"
+}
+]
 },
 {
 "slug": "odluka-2025-384286",
@@ -582545,6 +584435,50 @@
 ]
 },
 {
+"slug": "zakon-2025-384502",
+"path": "zakon/2025/384502",
+"kind": "zakon",
+"year": "2025",
+"number": "384502",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o dopuni Zakona o zaštiti kulturnih dobara",
+"short": "Zakon o dopuni Zakona o zaštiti kulturnih dobara",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-08-15",
+"latest": "2025-08-15",
+"portal": "https://www.sluzbenilist.me/propisi/384502",
+"amended_by": [
+{
+"ref": "pis:386006",
+"title": "Zakon o izmjenama i dopunama Zakona o socijalnom stanovanju (Službeni list Crne Gore, broj 121/2025)",
+"url": "https://www.sluzbenilist.me/propisi/386006"
+},
+{
+"ref": "pis:391097",
+"title": "Odluka o određivanju lokacije za izgradnju lokalnog objekta od opšteg interesa: TS 10/0,4 kV 1x 400kVA ,,Bold\" sa uklapanjem u VN mrežu (Službeni list Crne Gore, broj 9/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391097"
+},
+{
+"ref": "pis:391080",
+"title": "Odluka, U-I br. 12/21 (Službeni list Crne Gore, broj 30/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391080"
+},
+{
+"ref": "pis:395609",
+"title": "Zakon o izmjenama Zakona o obligacionim odnosima* (Službeni list Crne Gore, broj 94/2026)",
+"url": "https://www.sluzbenilist.me/propisi/395609"
+},
+{
+"ref": "pis:397643",
+"title": "Zakon o izmjenama i dopunama Zakona o vodama (Službeni list Crne Gore, broj 128/2026)",
+"url": "https://www.sluzbenilist.me/propisi/397643"
+}
+]
+},
+{
 "slug": "odluka-2025-384504",
 "path": "odluka/2025/384504",
 "kind": "odluka",
@@ -582565,6 +584499,35 @@
 "ref": "pis:391033",
 "title": "Odluka o izmjenama Odluke o izvještajima koje Razvojna banka Crne Gore dostavlja Centralnoj banci Crne Gore (Službeni list Crne Gore, broj 28/2026)",
 "url": "https://www.sluzbenilist.me/propisi/391033"
+}
+]
+},
+{
+"slug": "zakon-2025-384508",
+"path": "zakon/2025/384508",
+"kind": "zakon",
+"year": "2025",
+"number": "384508",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o legalizaciji bespravnih objekata",
+"short": "Zakon o legalizaciji bespravnih objekata",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-08-14",
+"latest": "2025-08-14",
+"portal": "https://www.sluzbenilist.me/propisi/384508",
+"amended_by": [
+{
+"ref": "pis:390846",
+"title": "Zakon o izmjenama i dopunama Zakona o legalizaciji bespravnih objekata (Službeni list Crne Gore, broj 18/2026)",
+"url": "https://www.sluzbenilist.me/propisi/390846"
+},
+{
+"ref": "pis:396956",
+"title": "Zakon o izmjenama i dopuni Zakona o legalizaciji bespravnih objekata (Službeni list Crne Gore, broj 117/2026)",
+"url": "https://www.sluzbenilist.me/propisi/396956"
 }
 ]
 },
@@ -582654,6 +584617,35 @@
 "ref": "pis:384746",
 "title": "Ispravka Zakona o izmjenama i dopuni Zakona o lokalnoj samoupravi (Službeni list Crne Gore, broj 98/2025)",
 "url": "https://www.sluzbenilist.me/propisi/384746"
+}
+]
+},
+{
+"slug": "zakon-2025-384520",
+"path": "zakon/2025/384520",
+"kind": "zakon",
+"year": "2025",
+"number": "384520",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o registraciji privrednih i drugih subjekata",
+"short": "Zakon o registraciji privrednih i drugih subjekata",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-08-15",
+"latest": "2025-08-15",
+"portal": "https://www.sluzbenilist.me/propisi/384520",
+"amended_by": [
+{
+"ref": "pis:388235",
+"title": "Zakon o izmjenama i dopuni Zakona o registraciji privrednih i drugih subjekata* (Službeni list Crne Gore, broj 121/2025)",
+"url": "https://www.sluzbenilist.me/propisi/388235"
+},
+{
+"ref": "pis:392355",
+"title": "Zakon o izmjenama i dopunama Zakona o registraciji privrednih i drugih subjekata* (Službeni list Crne Gore, broj 44/2026)",
+"url": "https://www.sluzbenilist.me/propisi/392355"
 }
 ]
 },
@@ -586780,6 +588772,30 @@
 ]
 },
 {
+"slug": "zakon-2025-385612",
+"path": "zakon/2025/385612",
+"kind": "zakon",
+"year": "2025",
+"number": "385612",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o porezu na nepokretnosti",
+"short": "Zakon o izmjenama i dopunama Zakona o porezu na nepokretnosti",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-10-24",
+"latest": "2025-10-24",
+"portal": "https://www.sluzbenilist.me/propisi/385612",
+"amended_by": [
+{
+"ref": "pis:386429",
+"title": "Zakon o dopuni Zakona o porezu na nepokretnosti (Službeni list Crne Gore, broj 133/2025)",
+"url": "https://www.sluzbenilist.me/propisi/386429"
+}
+]
+},
+{
 "slug": "odluka-2025-385614",
 "path": "odluka/2025/385614",
 "kind": "odluka",
@@ -587260,6 +589276,30 @@
 "portal": "https://www.sluzbenilist.me/propisi/385751"
 },
 {
+"slug": "zakon-2025-385752",
+"path": "zakon/2025/385752",
+"kind": "zakon",
+"year": "2025",
+"number": "385752",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjeni i dopunama Zakona o povlastici na putovanje lica sa invaliditetom",
+"short": "Zakon o izmjeni i dopunama Zakona o povlastici na putovanje lica sa invaliditetom",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-10-30",
+"latest": "2025-10-30",
+"portal": "https://www.sluzbenilist.me/propisi/385752",
+"amended_by": [
+{
+"ref": "pis:395609",
+"title": "Zakon o izmjenama Zakona o obligacionim odnosima* (Službeni list Crne Gore, broj 94/2026)",
+"url": "https://www.sluzbenilist.me/propisi/395609"
+}
+]
+},
+{
 "slug": "odluka-2025-385753",
 "path": "odluka/2025/385753",
 "kind": "odluka",
@@ -587311,6 +589351,35 @@
 "portal": "https://www.sluzbenilist.me/propisi/385756"
 },
 {
+"slug": "zakon-2025-385757",
+"path": "zakon/2025/385757",
+"kind": "zakon",
+"year": "2025",
+"number": "385757",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o visokom obrazovanju",
+"short": "Zakon o visokom obrazovanju",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-10-23",
+"latest": "2025-10-23",
+"portal": "https://www.sluzbenilist.me/propisi/385757",
+"amended_by": [
+{
+"ref": "pis:393671",
+"title": "Zakon o izmjeni i dopuni Zakona o visokom obrazovanju (Službeni list Crne Gore, broj 59/2026)",
+"url": "https://www.sluzbenilist.me/propisi/393671"
+},
+{
+"ref": "pis:396678",
+"title": "Zakon o dopuni Zakona o visokom obrazovanju (Službeni list Crne Gore, broj 114/2026)",
+"url": "https://www.sluzbenilist.me/propisi/396678"
+}
+]
+},
+{
 "slug": "pravilnik-2025-385758",
 "path": "pravilnik/2025/385758",
 "kind": "pravilnik",
@@ -587343,6 +589412,30 @@
 "from": "2025-10-23",
 "latest": "2025-10-23",
 "portal": "https://www.sluzbenilist.me/propisi/385759"
+},
+{
+"slug": "zakon-2025-385760",
+"path": "zakon/2025/385760",
+"kind": "zakon",
+"year": "2025",
+"number": "385760",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o jedinstvenom vještačenju invaliditeta",
+"short": "Zakon o jedinstvenom vještačenju invaliditeta",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-10-30",
+"latest": "2025-10-30",
+"portal": "https://www.sluzbenilist.me/propisi/385760",
+"amended_by": [
+{
+"ref": "pis:395547",
+"title": "Zakon o izmjeni Zakona o jedinstvenom vještačenju invaliditeta (Službeni list Crne Gore, broj 92/2026)",
+"url": "https://www.sluzbenilist.me/propisi/395547"
+}
+]
 },
 {
 "slug": "odluka-2025-385761",
@@ -587394,6 +589487,60 @@
 "from": "2025-10-30",
 "latest": "2025-10-30",
 "portal": "https://www.sluzbenilist.me/propisi/385766"
+},
+{
+"slug": "zakon-2025-385767",
+"path": "zakon/2025/385767",
+"kind": "zakon",
+"year": "2025",
+"number": "385767",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o dopunama Zakona o socijalnoj i dječjoj zaštiti",
+"short": "Zakon o dopunama Zakona o socijalnoj i dječjoj zaštiti",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-10-30",
+"latest": "2025-10-30",
+"portal": "https://www.sluzbenilist.me/propisi/385767",
+"amended_by": [
+{
+"ref": "pis:386006",
+"title": "Zakon o izmjenama i dopunama Zakona o socijalnom stanovanju (Službeni list Crne Gore, broj 121/2025)",
+"url": "https://www.sluzbenilist.me/propisi/386006"
+},
+{
+"ref": "pis:389469",
+"title": "Zakon o dopunama Zakona o socijalnoj i dječjoj zaštiti (Službeni list Crne Gore, broj 160/2025)",
+"url": "https://www.sluzbenilist.me/propisi/389469"
+},
+{
+"ref": "pis:391080",
+"title": "Odluka, U-I br. 12/21 (Službeni list Crne Gore, broj 30/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391080"
+},
+{
+"ref": "pis:391472",
+"title": "Zakon o izmjenama i dopuni Zakona o socijalnoj i dječjoj zaštiti (Službeni list Crne Gore, broj 33/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391472"
+},
+{
+"ref": "pis:393315",
+"title": "Zakon o izmjenama i dopunama Zakona o socijalnoj i dječjoj zaštiti (Službeni list Crne Gore, broj 52/2026)",
+"url": "https://www.sluzbenilist.me/propisi/393315"
+},
+{
+"ref": "pis:396195",
+"title": "Zakon o izmjenama i dopunama Zakona o socijalnoj i dječjoj zaštiti (Službeni list Crne Gore, broj 104/2026)",
+"url": "https://www.sluzbenilist.me/propisi/396195"
+},
+{
+"ref": "pis:397643",
+"title": "Zakon o izmjenama i dopunama Zakona o vodama (Službeni list Crne Gore, broj 128/2026)",
+"url": "https://www.sluzbenilist.me/propisi/397643"
+}
+]
 },
 {
 "slug": "odluka-2025-385793",
@@ -588092,6 +590239,124 @@
 "portal": "https://www.sluzbenilist.me/propisi/385914"
 },
 {
+"slug": "zakon-2025-386006",
+"path": "zakon/2025/386006",
+"kind": "zakon",
+"year": "2025",
+"number": "386006",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o socijalnom stanovanju",
+"short": "Zakon o izmjenama i dopunama Zakona o socijalnom stanovanju",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-10-29",
+"latest": "2025-10-29",
+"portal": "https://www.sluzbenilist.me/propisi/386006",
+"amended_by": [
+{
+"ref": "pis:385767",
+"title": "Zakon o dopunama Zakona o socijalnoj i dječjoj zaštiti (Službeni list Crne Gore, broj 122/2025)",
+"url": "https://www.sluzbenilist.me/propisi/385767"
+},
+{
+"ref": "pis:389469",
+"title": "Zakon o dopunama Zakona o socijalnoj i dječjoj zaštiti (Službeni list Crne Gore, broj 160/2025)",
+"url": "https://www.sluzbenilist.me/propisi/389469"
+},
+{
+"ref": "pis:390422",
+"title": "Zakon o izmjenama i dopunama Zakona o socijalnom stanovanju* (Službeni list Crne Gore, broj 12/2026)",
+"url": "https://www.sluzbenilist.me/propisi/390422"
+},
+{
+"ref": "pis:390554",
+"title": "Zakon o izmjenama i dopunama Zakona o kreditnim institucijama* (Službeni list Crne Gore, broj 14/2026)",
+"url": "https://www.sluzbenilist.me/propisi/390554"
+},
+{
+"ref": "pis:391070",
+"title": "Odluka, U-I br. 15/21 (Službeni list Crne Gore, broj 30/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391070"
+},
+{
+"ref": "pis:391080",
+"title": "Odluka, U-I br. 12/21 (Službeni list Crne Gore, broj 30/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391080"
+},
+{
+"ref": "pis:391396",
+"title": "Zakon o dopuni Zakona o socijalnom stanovanju* (Službeni list Crne Gore, broj 33/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391396"
+},
+{
+"ref": "pis:391472",
+"title": "Zakon o izmjenama i dopuni Zakona o socijalnoj i dječjoj zaštiti (Službeni list Crne Gore, broj 33/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391472"
+},
+{
+"ref": "pis:391984",
+"title": "Zakon o izmjeni i dopuni Zakona o uzimanju i presađivanju ljudskih organa u svrhu liječenja* (Službeni list Crne Gore, broj 39/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391984"
+},
+{
+"ref": "pis:391997",
+"title": "Zakon o izmjenama i dopunama Zakona o tehničkim zahtjevima za proizvode i ocjenjivanju usaglašenosti (Službeni list Crne Gore, broj 39/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391997"
+},
+{
+"ref": "pis:393315",
+"title": "Zakon o izmjenama i dopunama Zakona o socijalnoj i dječjoj zaštiti (Službeni list Crne Gore, broj 52/2026)",
+"url": "https://www.sluzbenilist.me/propisi/393315"
+},
+{
+"ref": "pis:394526",
+"title": "Zakon o izmjenama i dopunama Zakona o građevinskim proizvodima (Službeni list Crne Gore, broj 73/2026)",
+"url": "https://www.sluzbenilist.me/propisi/394526"
+},
+{
+"ref": "pis:395609",
+"title": "Zakon o izmjenama Zakona o obligacionim odnosima* (Službeni list Crne Gore, broj 94/2026)",
+"url": "https://www.sluzbenilist.me/propisi/395609"
+},
+{
+"ref": "pis:397643",
+"title": "Zakon o izmjenama i dopunama Zakona o vodama (Službeni list Crne Gore, broj 128/2026)",
+"url": "https://www.sluzbenilist.me/propisi/397643"
+},
+{
+"ref": "pis:399149",
+"title": "Zakon o izmjenama i dopunama Zakona o kreditnim institucijama (Službeni list Crne Gore, broj 152/2026)",
+"url": "https://www.sluzbenilist.me/propisi/399149"
+}
+]
+},
+{
+"slug": "zakon-2025-386008",
+"path": "zakon/2025/386008",
+"kind": "zakon",
+"year": "2025",
+"number": "386008",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama Zakona o zdravstvenoj zaštiti*",
+"short": "Zakon o izmjenama Zakona o zdravstvenoj zaštiti*",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-10-29",
+"latest": "2025-10-29",
+"portal": "https://www.sluzbenilist.me/propisi/386008",
+"amended_by": [
+{
+"ref": "pis:391418",
+"title": "Zakon o izmjenama i dopunama Zakona o zdravstvenoj zaštiti* (Službeni list Crne Gore, broj 31/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391418"
+}
+]
+},
+{
 "slug": "odluka-2025-386011",
 "path": "odluka/2025/386011",
 "kind": "odluka",
@@ -588141,6 +590406,30 @@
 "from": "2025-11-08",
 "latest": "2025-11-08",
 "portal": "https://www.sluzbenilist.me/propisi/386031"
+},
+{
+"slug": "zakon-2025-386046",
+"path": "zakon/2025/386046",
+"kind": "zakon",
+"year": "2025",
+"number": "386046",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o privrednim društvima*",
+"short": "Zakon o izmjenama i dopunama Zakona o privrednim društvima*",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-10-29",
+"latest": "2025-10-29",
+"portal": "https://www.sluzbenilist.me/propisi/386046",
+"amended_by": [
+{
+"ref": "pis:392363",
+"title": "Zakon o izmjenama i dopunama Zakona o privrednim društvima* (Službeni list Crne Gore, broj 44/2026)",
+"url": "https://www.sluzbenilist.me/propisi/392363"
+}
+]
 },
 {
 "slug": "uredba-2025-386066",
@@ -589457,6 +591746,35 @@
 "from": "2025-11-25",
 "latest": "2025-11-25",
 "portal": "https://www.sluzbenilist.me/propisi/386427"
+},
+{
+"slug": "zakon-2025-386428",
+"path": "zakon/2025/386428",
+"kind": "zakon",
+"year": "2025",
+"number": "386428",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjeni Zakona o porezu na dohodak fizičkih lica",
+"short": "Zakon o izmjeni Zakona o porezu na dohodak fizičkih lica",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-11-19",
+"latest": "2025-11-19",
+"portal": "https://www.sluzbenilist.me/propisi/386428",
+"amended_by": [
+{
+"ref": "pis:389429",
+"title": "Zakon o izmjenama i dopunama Zakona o porezu na dohodak fizičkih lica (Službeni list Crne Gore, broj 160/2025)",
+"url": "https://www.sluzbenilist.me/propisi/389429"
+},
+{
+"ref": "pis:394390",
+"title": "Zakon o izmjenama Zakona o porezu na dohodak fizičkih lica (Službeni list Crne Gore, broj 70/2026)",
+"url": "https://www.sluzbenilist.me/propisi/394390"
+}
+]
 },
 {
 "slug": "zakon-2025-386429",
@@ -592206,6 +594524,35 @@
 "portal": "https://www.sluzbenilist.me/propisi/386792"
 },
 {
+"slug": "zakon-2025-386830",
+"path": "zakon/2025/386830",
+"kind": "zakon",
+"year": "2025",
+"number": "386830",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjeni Zakona o platnom prometu",
+"short": "Zakon o izmjeni Zakona o platnom prometu",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-12-09",
+"latest": "2025-12-09",
+"portal": "https://www.sluzbenilist.me/propisi/386830",
+"amended_by": [
+{
+"ref": "pis:395609",
+"title": "Zakon o izmjenama Zakona o obligacionim odnosima* (Službeni list Crne Gore, broj 94/2026)",
+"url": "https://www.sluzbenilist.me/propisi/395609"
+},
+{
+"ref": "pis:396033",
+"title": "Zakon o izmjenama i dopunama Zakona o platnom prometu (Službeni list Crne Gore, broj 103/2026)",
+"url": "https://www.sluzbenilist.me/propisi/396033"
+}
+]
+},
+{
 "slug": "naredba-2025-386831",
 "path": "naredba/2025/386831",
 "kind": "naredba",
@@ -592221,6 +594568,30 @@
 "from": "2025-12-01",
 "latest": "2025-12-01",
 "portal": "https://www.sluzbenilist.me/propisi/386831"
+},
+{
+"slug": "zakon-2025-386832",
+"path": "zakon/2025/386832",
+"kind": "zakon",
+"year": "2025",
+"number": "386832",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izvršenju kazni zatvora, novčane kazne i mjera bezbjednosti",
+"short": "Zakon o izvršenju kazni zatvora, novčane kazne i mjera bezbjednosti",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-12-09",
+"latest": "2025-12-09",
+"portal": "https://www.sluzbenilist.me/propisi/386832",
+"amended_by": [
+{
+"ref": "pis:398328",
+"title": "Zakon o dopuni Zakona o izvršenju kazni zatvora, novčane kazne i mjera bezbjednosti (Službeni list Crne Gore, broj 137/2026)",
+"url": "https://www.sluzbenilist.me/propisi/398328"
+}
+]
 },
 {
 "slug": "odluka-2025-386835",
@@ -592267,6 +594638,74 @@
 "url": "https://www.sluzbenilist.me/propisi/398126"
 }
 ]
+},
+{
+"slug": "zakon-2025-386837",
+"path": "zakon/2025/386837",
+"kind": "zakon",
+"year": "2025",
+"number": "386837",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o šemama kvaliteta poljoprivrednih i prehrambenih proizvoda",
+"short": "Zakon o izmjenama i dopunama Zakona o šemama kvaliteta poljoprivrednih i prehrambenih proizvoda",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-12-09",
+"latest": "2025-12-09",
+"portal": "https://www.sluzbenilist.me/propisi/386837",
+"amended_by": [
+{
+"ref": "pis:386006",
+"title": "Zakon o izmjenama i dopunama Zakona o socijalnom stanovanju (Službeni list Crne Gore, broj 121/2025)",
+"url": "https://www.sluzbenilist.me/propisi/386006"
+},
+{
+"ref": "pis:391080",
+"title": "Odluka, U-I br. 12/21 (Službeni list Crne Gore, broj 30/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391080"
+},
+{
+"ref": "pis:397643",
+"title": "Zakon o izmjenama i dopunama Zakona o vodama (Službeni list Crne Gore, broj 128/2026)",
+"url": "https://www.sluzbenilist.me/propisi/397643"
+}
+]
+},
+{
+"slug": "zakon-2025-386840",
+"path": "zakon/2025/386840",
+"kind": "zakon",
+"year": "2025",
+"number": "386840",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o izvršenju uslovne osude i kazne rada u javnom interesu",
+"short": "Zakon o izmjenama i dopunama Zakona o izvršenju uslovne osude i kazne rada u javnom interesu",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2025-12-09",
+"latest": "2025-12-09",
+"portal": "https://www.sluzbenilist.me/propisi/386840"
+},
+{
+"slug": "zakon-2025-386843",
+"path": "zakon/2025/386843",
+"kind": "zakon",
+"year": "2025",
+"number": "386843",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama Zakona o Razvojnoj banci",
+"short": "Zakon o izmjenama Zakona o Razvojnoj banci",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2025-12-09",
+"latest": "2025-12-09",
+"portal": "https://www.sluzbenilist.me/propisi/386843"
 },
 {
 "slug": "odluka-2025-386845",
@@ -592320,6 +594759,47 @@
 "portal": "https://www.sluzbenilist.me/propisi/386851"
 },
 {
+"slug": "zakon-2025-386869",
+"path": "zakon/2025/386869",
+"kind": "zakon",
+"year": "2025",
+"number": "386869",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o dopuni Zakona o tumačima",
+"short": "Zakon o dopuni Zakona o tumačima",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2025-12-11",
+"latest": "2025-12-11",
+"portal": "https://www.sluzbenilist.me/propisi/386869"
+},
+{
+"slug": "zakon-2025-386870",
+"path": "zakon/2025/386870",
+"kind": "zakon",
+"year": "2025",
+"number": "386870",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o dopuni Zakona o notarima",
+"short": "Zakon o dopuni Zakona o notarima",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-12-11",
+"latest": "2025-12-11",
+"portal": "https://www.sluzbenilist.me/propisi/386870",
+"amended_by": [
+{
+"ref": "pis:397077",
+"title": "Zakon o izmjenama i dopuni Zakona o notarima (Službeni list Crne Gore, broj 119/2026)",
+"url": "https://www.sluzbenilist.me/propisi/397077"
+}
+]
+},
+{
 "slug": "pravilnik-2025-386875",
 "path": "pravilnik/2025/386875",
 "kind": "pravilnik",
@@ -592349,6 +594829,23 @@
 ]
 },
 {
+"slug": "zakon-2025-386876",
+"path": "zakon/2025/386876",
+"kind": "zakon",
+"year": "2025",
+"number": "386876",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjeni Zakona o spoljnoj trgovini naoružanjem i vojnom opremom",
+"short": "Zakon o izmjeni Zakona o spoljnoj trgovini naoružanjem i vojnom opremom",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2025-12-11",
+"latest": "2025-12-11",
+"portal": "https://www.sluzbenilist.me/propisi/386876"
+},
+{
 "slug": "odluka-2025-386878",
 "path": "odluka/2025/386878",
 "kind": "odluka",
@@ -592364,6 +594861,30 @@
 "from": "2025-12-01",
 "latest": "2025-12-01",
 "portal": "https://www.sluzbenilist.me/propisi/386878"
+},
+{
+"slug": "zakon-2025-386883",
+"path": "zakon/2025/386883",
+"kind": "zakon",
+"year": "2025",
+"number": "386883",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o dopunama Zakona o ovjeri potpisa, rukopisa i prepisa",
+"short": "Zakon o dopunama Zakona o ovjeri potpisa, rukopisa i prepisa",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-12-11",
+"latest": "2025-12-11",
+"portal": "https://www.sluzbenilist.me/propisi/386883",
+"amended_by": [
+{
+"ref": "pis:392366",
+"title": "Zakon o izmjenama Zakona o ovjeri potpisa, rukopisa i prepisa (Službeni list Crne Gore, broj 44/2026)",
+"url": "https://www.sluzbenilist.me/propisi/392366"
+}
+]
 },
 {
 "slug": "rjesenje-2025-386884",
@@ -594509,6 +597030,30 @@
 "portal": "https://www.sluzbenilist.me/propisi/387385"
 },
 {
+"slug": "zakon-2025-387386",
+"path": "zakon/2025/387386",
+"kind": "zakon",
+"year": "2025",
+"number": "387386",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o finansiranju političkih subjekata i izbornih kampanja",
+"short": "Zakon o finansiranju političkih subjekata i izbornih kampanja",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-07-29",
+"latest": "2025-07-29",
+"portal": "https://www.sluzbenilist.me/propisi/387386",
+"amended_by": [
+{
+"ref": "pis:396681",
+"title": "Zakon o izmjenama i dopunama Zakona o finansiranju političkih subjekata i izbornih kampanja (Službeni list Crne Gore, broj 114/2026)",
+"url": "https://www.sluzbenilist.me/propisi/396681"
+}
+]
+},
+{
 "slug": "odluka-2025-387391",
 "path": "odluka/2025/387391",
 "kind": "odluka",
@@ -594752,6 +597297,30 @@
 "from": "2025-08-13",
 "latest": "2025-08-13",
 "portal": "https://www.sluzbenilist.me/propisi/387463"
+},
+{
+"slug": "zakon-2025-387464",
+"path": "zakon/2025/387464",
+"kind": "zakon",
+"year": "2025",
+"number": "387464",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Krivičnog zakonika Crne Gore*",
+"short": "Zakon o izmjenama i dopunama Krivičnog zakonika Crne Gore*",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-10-22",
+"latest": "2025-10-22",
+"portal": "https://www.sluzbenilist.me/propisi/387464",
+"amended_by": [
+{
+"ref": "pis:398332",
+"title": "Zakon o izmjenama i dopunama Krivičnog zakonika Crne Gore* (Službeni list Crne Gore, broj 137/2026)",
+"url": "https://www.sluzbenilist.me/propisi/398332"
+}
+]
 },
 {
 "slug": "odluka-2025-387465",
@@ -597899,6 +600468,30 @@
 "portal": "https://www.sluzbenilist.me/propisi/388108"
 },
 {
+"slug": "zakon-2025-388124",
+"path": "zakon/2025/388124",
+"kind": "zakon",
+"year": "2025",
+"number": "388124",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopuni Zakona o sprječavanju nelegalnog poslovanja",
+"short": "Zakon o izmjenama i dopuni Zakona o sprječavanju nelegalnog poslovanja",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-11-08",
+"latest": "2025-11-08",
+"portal": "https://www.sluzbenilist.me/propisi/388124",
+"amended_by": [
+{
+"ref": "pis:386006",
+"title": "Zakon o izmjenama i dopunama Zakona o socijalnom stanovanju (Službeni list Crne Gore, broj 121/2025)",
+"url": "https://www.sluzbenilist.me/propisi/386006"
+}
+]
+},
+{
 "slug": "odluka-2025-388133",
 "path": "odluka/2025/388133",
 "kind": "odluka",
@@ -598006,6 +600599,30 @@
 "from": "2025-07-31",
 "latest": "2025-07-31",
 "portal": "https://www.sluzbenilist.me/propisi/388143"
+},
+{
+"slug": "zakon-2025-388144",
+"path": "zakon/2025/388144",
+"kind": "zakon",
+"year": "2025",
+"number": "388144",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o izboru odbornika i poslanika",
+"short": "Zakon o izmjenama i dopunama Zakona o izboru odbornika i poslanika",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-07-29",
+"latest": "2025-07-29",
+"portal": "https://www.sluzbenilist.me/propisi/388144",
+"amended_by": [
+{
+"ref": "pis:396680",
+"title": "Zakon o izmjenama i dopunama Zakona o izboru odbornika i poslanika (Službeni list Crne Gore, broj 114/2026)",
+"url": "https://www.sluzbenilist.me/propisi/396680"
+}
+]
 },
 {
 "slug": "odluka-2025-388152",
@@ -598404,6 +601021,30 @@
 "from": "2025-10-07",
 "latest": "2025-10-07",
 "portal": "https://www.sluzbenilist.me/propisi/388220"
+},
+{
+"slug": "zakon-2025-388235",
+"path": "zakon/2025/388235",
+"kind": "zakon",
+"year": "2025",
+"number": "388235",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopuni Zakona o registraciji privrednih i drugih subjekata*",
+"short": "Zakon o izmjenama i dopuni Zakona o registraciji privrednih i drugih subjekata*",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-10-29",
+"latest": "2025-10-29",
+"portal": "https://www.sluzbenilist.me/propisi/388235",
+"amended_by": [
+{
+"ref": "pis:392355",
+"title": "Zakon o izmjenama i dopunama Zakona o registraciji privrednih i drugih subjekata* (Službeni list Crne Gore, broj 44/2026)",
+"url": "https://www.sluzbenilist.me/propisi/392355"
+}
+]
 },
 {
 "slug": "rjesenje-2025-388238",
@@ -599261,6 +601902,35 @@
 "from": "2025-10-29",
 "latest": "2025-10-29",
 "portal": "https://www.sluzbenilist.me/propisi/388376"
+},
+{
+"slug": "zakon-2025-388390",
+"path": "zakon/2025/388390",
+"kind": "zakon",
+"year": "2025",
+"number": "388390",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopuni Zakona o lokalnoj samoupravi",
+"short": "Zakon o izmjenama i dopuni Zakona o lokalnoj samoupravi",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-07-29",
+"latest": "2025-07-29",
+"portal": "https://www.sluzbenilist.me/propisi/388390",
+"amended_by": [
+{
+"ref": "pis:389657",
+"title": "2230. Ispravka, broj: 02-016/25-240/4 (Službeni list Crne Gore, broj 71/2025)",
+"url": "https://www.sluzbenilist.me/propisi/389657"
+},
+{
+"ref": "pis:398067",
+"title": "Zakon o lokalnoj samoupravi (Službeni list Crne Gore, broj 133/2026)",
+"url": "https://www.sluzbenilist.me/propisi/398067"
+}
+]
 },
 {
 "slug": "rjesenje-2025-388391",
@@ -601292,6 +603962,30 @@
 ]
 },
 {
+"slug": "zakon-2025-389045",
+"path": "zakon/2025/389045",
+"kind": "zakon",
+"year": "2025",
+"number": "389045",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o klimatskim promjenama",
+"short": "Zakon o klimatskim promjenama",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-12-25",
+"latest": "2025-12-25",
+"portal": "https://www.sluzbenilist.me/propisi/389045",
+"amended_by": [
+{
+"ref": "pis:394393",
+"title": "Zakon o izmjenama i dopunama Zakona o klimatskim promjenama (Službeni list Crne Gore, broj 70/2026)",
+"url": "https://www.sluzbenilist.me/propisi/394393"
+}
+]
+},
+{
 "slug": "rjesenje-2025-389051",
 "path": "rjesenje/2025/389051",
 "kind": "rjesenje",
@@ -601540,6 +604234,30 @@
 "from": "2025-12-17",
 "latest": "2025-12-17",
 "portal": "https://www.sluzbenilist.me/propisi/389086"
+},
+{
+"slug": "zakon-2025-389088",
+"path": "zakon/2025/389088",
+"kind": "zakon",
+"year": "2025",
+"number": "389088",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o finansiranju lokalne samouprave",
+"short": "Zakon o izmjenama i dopunama Zakona o finansiranju lokalne samouprave",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-12-25",
+"latest": "2025-12-25",
+"portal": "https://www.sluzbenilist.me/propisi/389088",
+"amended_by": [
+{
+"ref": "pis:397075",
+"title": "Zakon o izmjeni Zakona o finansiranju lokalne samouprave (Službeni list Crne Gore, broj 119/2026)",
+"url": "https://www.sluzbenilist.me/propisi/397075"
+}
+]
 },
 {
 "slug": "akt-2025-389092",
@@ -602777,6 +605495,35 @@
 "portal": "https://www.sluzbenilist.me/propisi/389427"
 },
 {
+"slug": "zakon-2025-389429",
+"path": "zakon/2025/389429",
+"kind": "zakon",
+"year": "2025",
+"number": "389429",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o porezu na dohodak fizičkih lica",
+"short": "Zakon o izmjenama i dopunama Zakona o porezu na dohodak fizičkih lica",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-12-30",
+"latest": "2025-12-30",
+"portal": "https://www.sluzbenilist.me/propisi/389429",
+"amended_by": [
+{
+"ref": "pis:394390",
+"title": "Zakon o izmjenama Zakona o porezu na dohodak fizičkih lica (Službeni list Crne Gore, broj 70/2026)",
+"url": "https://www.sluzbenilist.me/propisi/394390"
+},
+{
+"ref": "pis:395609",
+"title": "Zakon o izmjenama Zakona o obligacionim odnosima* (Službeni list Crne Gore, broj 94/2026)",
+"url": "https://www.sluzbenilist.me/propisi/395609"
+}
+]
+},
+{
 "slug": "odluka-2025-389431",
 "path": "odluka/2025/389431",
 "kind": "odluka",
@@ -602809,6 +605556,45 @@
 "from": "2025-12-27",
 "latest": "2025-12-27",
 "portal": "https://www.sluzbenilist.me/propisi/389432"
+},
+{
+"slug": "zakon-2025-389433",
+"path": "zakon/2025/389433",
+"kind": "zakon",
+"year": "2025",
+"number": "389433",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o državnom premjeru i katastru nepokretnosti",
+"short": "Zakon o izmjenama i dopunama Zakona o državnom premjeru i katastru nepokretnosti",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-12-31",
+"latest": "2025-12-31",
+"portal": "https://www.sluzbenilist.me/propisi/389433",
+"amended_by": [
+{
+"ref": "pis:386006",
+"title": "Zakon o izmjenama i dopunama Zakona o socijalnom stanovanju (Službeni list Crne Gore, broj 121/2025)",
+"url": "https://www.sluzbenilist.me/propisi/386006"
+},
+{
+"ref": "pis:391080",
+"title": "Odluka, U-I br. 12/21 (Službeni list Crne Gore, broj 30/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391080"
+},
+{
+"ref": "pis:395609",
+"title": "Zakon o izmjenama Zakona o obligacionim odnosima* (Službeni list Crne Gore, broj 94/2026)",
+"url": "https://www.sluzbenilist.me/propisi/395609"
+},
+{
+"ref": "pis:397643",
+"title": "Zakon o izmjenama i dopunama Zakona o vodama (Službeni list Crne Gore, broj 128/2026)",
+"url": "https://www.sluzbenilist.me/propisi/397643"
+}
+]
 },
 {
 "slug": "odluka-2025-389434",
@@ -602886,6 +605672,83 @@
 ]
 },
 {
+"slug": "zakon-2025-389443",
+"path": "zakon/2025/389443",
+"kind": "zakon",
+"year": "2025",
+"number": "389443",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o bezbjednosti i interoperabilnosti željeznice",
+"short": "Zakon o bezbjednosti i interoperabilnosti željeznice",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-01-07",
+"latest": "2026-01-07",
+"portal": "https://www.sluzbenilist.me/propisi/389443",
+"amended_by": [
+{
+"ref": "pis:392701",
+"title": "Zakon o izmjenama i dopunama Zakona o bezbjednosti i interoperabilnosti željeznice (Službeni list Crne Gore, broj 46/2026)",
+"url": "https://www.sluzbenilist.me/propisi/392701"
+},
+{
+"ref": "pis:395868",
+"title": "Zakon o izmjenama i dopuni Zakona o bezbjednosti i interoperabilnosti željeznice (Službeni list Crne Gore, broj 98/2026)",
+"url": "https://www.sluzbenilist.me/propisi/395868"
+}
+]
+},
+{
+"slug": "zakon-2025-389445",
+"path": "zakon/2025/389445",
+"kind": "zakon",
+"year": "2025",
+"number": "389445",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjeni Zakona o državnoj imovini",
+"short": "Zakon o izmjeni Zakona o državnoj imovini",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-01-07",
+"latest": "2026-01-07",
+"portal": "https://www.sluzbenilist.me/propisi/389445",
+"amended_by": [
+{
+"ref": "pis:395609",
+"title": "Zakon o izmjenama Zakona o obligacionim odnosima* (Službeni list Crne Gore, broj 94/2026)",
+"url": "https://www.sluzbenilist.me/propisi/395609"
+}
+]
+},
+{
+"slug": "zakon-2025-389447",
+"path": "zakon/2025/389447",
+"kind": "zakon",
+"year": "2025",
+"number": "389447",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o osiguranju",
+"short": "Zakon o izmjenama i dopunama Zakona o osiguranju",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-01-07",
+"latest": "2026-01-07",
+"portal": "https://www.sluzbenilist.me/propisi/389447",
+"amended_by": [
+{
+"ref": "pis:391422",
+"title": "Zakon o izmjenama i dopunama Zakona o osiguranju (Službeni list Crne Gore, broj 33/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391422"
+}
+]
+},
+{
 "slug": "uredba-2025-389450",
 "path": "uredba/2025/389450",
 "kind": "uredba",
@@ -602954,6 +605817,30 @@
 "portal": "https://www.sluzbenilist.me/propisi/389456"
 },
 {
+"slug": "zakon-2025-389458",
+"path": "zakon/2025/389458",
+"kind": "zakon",
+"year": "2025",
+"number": "389458",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o opštoj bezbjednosti proizvoda",
+"short": "Zakon o opštoj bezbjednosti proizvoda",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-06-30",
+"latest": "2026-06-30",
+"portal": "https://www.sluzbenilist.me/propisi/389458",
+"amended_by": [
+{
+"ref": "pis:392182",
+"title": "Zakon o izmjenama Zakona o opštoj bezbjednosti proizvoda (Službeni list Crne Gore, broj 40/2026)",
+"url": "https://www.sluzbenilist.me/propisi/392182"
+}
+]
+},
+{
 "slug": "odluka-2025-389459",
 "path": "odluka/2025/389459",
 "kind": "odluka",
@@ -602969,6 +605856,35 @@
 "from": "2025-12-31",
 "latest": "2025-12-31",
 "portal": "https://www.sluzbenilist.me/propisi/389459"
+},
+{
+"slug": "zakon-2025-389460",
+"path": "zakon/2025/389460",
+"kind": "zakon",
+"year": "2025",
+"number": "389460",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o poreskoj administraciji",
+"short": "Zakon o izmjenama i dopunama Zakona o poreskoj administraciji",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-12-30",
+"latest": "2025-12-30",
+"portal": "https://www.sluzbenilist.me/propisi/389460",
+"amended_by": [
+{
+"ref": "pis:394391",
+"title": "Zakon o izmjenama Zakona o poreskoj administraciji (Službeni list Crne Gore, broj 70/2026)",
+"url": "https://www.sluzbenilist.me/propisi/394391"
+},
+{
+"ref": "pis:396192",
+"title": "Zakon o izmjenama i dopunama Zakona o poreskoj administraciji (Službeni list Crne Gore, broj 104/2026)",
+"url": "https://www.sluzbenilist.me/propisi/396192"
+}
+]
 },
 {
 "slug": "odluka-2025-389463",
@@ -603027,6 +605943,74 @@
 "from": "2025-12-27",
 "latest": "2025-12-27",
 "portal": "https://www.sluzbenilist.me/propisi/389465"
+},
+{
+"slug": "zakon-2025-389469",
+"path": "zakon/2025/389469",
+"kind": "zakon",
+"year": "2025",
+"number": "389469",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o dopunama Zakona o socijalnoj i dječjoj zaštiti",
+"short": "Zakon o dopunama Zakona o socijalnoj i dječjoj zaštiti",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-12-30",
+"latest": "2025-12-30",
+"portal": "https://www.sluzbenilist.me/propisi/389469",
+"amended_by": [
+{
+"ref": "pis:386006",
+"title": "Zakon o izmjenama i dopunama Zakona o socijalnom stanovanju (Službeni list Crne Gore, broj 121/2025)",
+"url": "https://www.sluzbenilist.me/propisi/386006"
+},
+{
+"ref": "pis:385767",
+"title": "Zakon o dopunama Zakona o socijalnoj i dječjoj zaštiti (Službeni list Crne Gore, broj 122/2025)",
+"url": "https://www.sluzbenilist.me/propisi/385767"
+},
+{
+"ref": "pis:391472",
+"title": "Zakon o izmjenama i dopuni Zakona o socijalnoj i dječjoj zaštiti (Službeni list Crne Gore, broj 33/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391472"
+},
+{
+"ref": "pis:393315",
+"title": "Zakon o izmjenama i dopunama Zakona o socijalnoj i dječjoj zaštiti (Službeni list Crne Gore, broj 52/2026)",
+"url": "https://www.sluzbenilist.me/propisi/393315"
+},
+{
+"ref": "pis:396195",
+"title": "Zakon o izmjenama i dopunama Zakona o socijalnoj i dječjoj zaštiti (Službeni list Crne Gore, broj 104/2026)",
+"url": "https://www.sluzbenilist.me/propisi/396195"
+}
+]
+},
+{
+"slug": "zakon-2025-389470",
+"path": "zakon/2025/389470",
+"kind": "zakon",
+"year": "2025",
+"number": "389470",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopuni Zakona o doprinosima za obavezno socijalno osiguranje",
+"short": "Zakon o izmjenama i dopuni Zakona o doprinosima za obavezno socijalno osiguranje",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-12-30",
+"latest": "2025-12-30",
+"portal": "https://www.sluzbenilist.me/propisi/389470",
+"amended_by": [
+{
+"ref": "pis:395609",
+"title": "Zakon o izmjenama Zakona o obligacionim odnosima* (Službeni list Crne Gore, broj 94/2026)",
+"url": "https://www.sluzbenilist.me/propisi/395609"
+}
+]
 },
 {
 "slug": "pravilnik-2025-389472",
@@ -603121,6 +606105,30 @@
 ]
 },
 {
+"slug": "zakon-2025-389476",
+"path": "zakon/2025/389476",
+"kind": "zakon",
+"year": "2025",
+"number": "389476",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o dopunama Zakona o ograničavanju upotrebe duvanskih proizvoda",
+"short": "Zakon o dopunama Zakona o ograničavanju upotrebe duvanskih proizvoda",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-01-07",
+"latest": "2026-01-07",
+"portal": "https://www.sluzbenilist.me/propisi/389476",
+"amended_by": [
+{
+"ref": "pis:386006",
+"title": "Zakon o izmjenama i dopunama Zakona o socijalnom stanovanju (Službeni list Crne Gore, broj 121/2025)",
+"url": "https://www.sluzbenilist.me/propisi/386006"
+}
+]
+},
+{
 "slug": "zakon-2025-389477",
 "path": "zakon/2025/389477",
 "kind": "zakon",
@@ -603153,6 +606161,35 @@
 "from": "2025-12-27",
 "latest": "2025-12-27",
 "portal": "https://www.sluzbenilist.me/propisi/389478"
+},
+{
+"slug": "zakon-2025-389479",
+"path": "zakon/2025/389479",
+"kind": "zakon",
+"year": "2025",
+"number": "389479",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o izgradnji objekata",
+"short": "Zakon o izmjenama i dopunama Zakona o izgradnji objekata",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-12-30",
+"latest": "2025-12-30",
+"portal": "https://www.sluzbenilist.me/propisi/389479",
+"amended_by": [
+{
+"ref": "pis:392569",
+"title": "Odluka o pristupanju izradi izmjena i dopuna Programa privremenih objekata na teritoriji Opštine Kolašin (Službeni list Crne Gore, broj 13/2026)",
+"url": "https://www.sluzbenilist.me/propisi/392569"
+},
+{
+"ref": "pis:396673",
+"title": "Zakon o izmjenama i dopunama Zakona o izgradnji objekata (Službeni list Crne Gore, broj 114/2026)",
+"url": "https://www.sluzbenilist.me/propisi/396673"
+}
+]
 },
 {
 "slug": "zakon-2025-389480",
@@ -603468,6 +606505,79 @@
 "portal": "https://www.sluzbenilist.me/propisi/389509"
 },
 {
+"slug": "zakon-2025-389510",
+"path": "zakon/2025/389510",
+"kind": "zakon",
+"year": "2025",
+"number": "389510",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o dopunama Zakona o radu",
+"short": "Zakon o dopunama Zakona o radu",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-12-31",
+"latest": "2025-12-31",
+"portal": "https://www.sluzbenilist.me/propisi/389510",
+"amended_by": [
+{
+"ref": "pis:386006",
+"title": "Zakon o izmjenama i dopunama Zakona o socijalnom stanovanju (Službeni list Crne Gore, broj 121/2025)",
+"url": "https://www.sluzbenilist.me/propisi/386006"
+},
+{
+"ref": "pis:391080",
+"title": "Odluka, U-I br. 12/21 (Službeni list Crne Gore, broj 30/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391080"
+},
+{
+"ref": "pis:391082",
+"title": "Odluka, U-I br. 9/21 (Službeni list Crne Gore, broj 30/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391082"
+},
+{
+"ref": "pis:393230",
+"title": "Zakon o izmjenama i dopunama Zakona o radu* (Službeni list Crne Gore, broj 51/2026)",
+"url": "https://www.sluzbenilist.me/propisi/393230"
+},
+{
+"ref": "pis:396031",
+"title": "Zakon o izmjenama i dopunama Zakona o radu* (Službeni list Crne Gore, broj 103/2026)",
+"url": "https://www.sluzbenilist.me/propisi/396031"
+}
+]
+},
+{
+"slug": "zakon-2025-389512",
+"path": "zakon/2025/389512",
+"kind": "zakon",
+"year": "2025",
+"number": "389512",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjeni i dopunama Zakona o efikasnom korišćenju energije",
+"short": "Zakon o izmjeni i dopunama Zakona o efikasnom korišćenju energije",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-01-01",
+"latest": "2026-01-01",
+"portal": "https://www.sluzbenilist.me/propisi/389512",
+"amended_by": [
+{
+"ref": "pis:386006",
+"title": "Zakon o izmjenama i dopunama Zakona o socijalnom stanovanju (Službeni list Crne Gore, broj 121/2025)",
+"url": "https://www.sluzbenilist.me/propisi/386006"
+},
+{
+"ref": "pis:391080",
+"title": "Odluka, U-I br. 12/21 (Službeni list Crne Gore, broj 30/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391080"
+}
+]
+},
+{
 "slug": "odluka-2025-389514",
 "path": "odluka/2025/389514",
 "kind": "odluka",
@@ -603551,6 +606661,35 @@
 "from": "2026-01-07",
 "latest": "2026-01-07",
 "portal": "https://www.sluzbenilist.me/propisi/389520"
+},
+{
+"slug": "zakon-2025-389521",
+"path": "zakon/2025/389521",
+"kind": "zakon",
+"year": "2025",
+"number": "389521",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o uzimanju i presađivanju ljudskih tkiva i ćelija u svrhu liječenja*",
+"short": "Zakon o izmjenama i dopunama Zakona o uzimanju i presađivanju ljudskih tkiva i ćelija u svrhu liječenja*",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-01-01",
+"latest": "2026-01-01",
+"portal": "https://www.sluzbenilist.me/propisi/389521",
+"amended_by": [
+{
+"ref": "pis:386006",
+"title": "Zakon o izmjenama i dopunama Zakona o socijalnom stanovanju (Službeni list Crne Gore, broj 121/2025)",
+"url": "https://www.sluzbenilist.me/propisi/386006"
+},
+{
+"ref": "pis:391080",
+"title": "Odluka, U-I br. 12/21 (Službeni list Crne Gore, broj 30/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391080"
+}
+]
 },
 {
 "slug": "rjesenje-2025-389524",
@@ -606326,6 +609465,59 @@
 "portal": "https://www.sluzbenilist.me/propisi/389701"
 },
 {
+"slug": "zakon-2026-389702",
+"path": "zakon/2026/389702",
+"kind": "zakon",
+"year": "2026",
+"number": "389702",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o saradnji Crne Gore sa dijasporom - iseljenicima",
+"short": "Zakon o saradnji Crne Gore sa dijasporom - iseljenicima",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-01-17",
+"latest": "2026-01-17",
+"portal": "https://www.sluzbenilist.me/propisi/389702",
+"amended_by": [
+{
+"ref": "pis:397078",
+"title": "Zakon o izmjeni i dopunama Zakona o saradnji Crne Gore sa dijasporom - iseljenicima (Službeni list Crne Gore, broj 119/2026)",
+"url": "https://www.sluzbenilist.me/propisi/397078"
+}
+]
+},
+{
+"slug": "zakon-2026-389704",
+"path": "zakon/2026/389704",
+"kind": "zakon",
+"year": "2026",
+"number": "389704",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o zaštiti jednakosti i zabrani diskriminacije*",
+"short": "Zakon o zaštiti jednakosti i zabrani diskriminacije*",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-01-17",
+"latest": "2026-01-17",
+"portal": "https://www.sluzbenilist.me/propisi/389704",
+"amended_by": [
+{
+"ref": "pis:396032",
+"title": "Zakon o izmjeni i dopunama Zakona o zaštiti jednakosti i zabrani diskriminacije* (Službeni list Crne Gore, broj 103/2026)",
+"url": "https://www.sluzbenilist.me/propisi/396032"
+},
+{
+"ref": "pis:397973",
+"title": "Zakon o izmjeni Zakona o zaštiti jednakosti i zabrani diskriminacije* (Službeni list Crne Gore, broj 132/2026)",
+"url": "https://www.sluzbenilist.me/propisi/397973"
+}
+]
+},
+{
 "slug": "pravilnik-2026-389709",
 "path": "pravilnik/2026/389709",
 "kind": "pravilnik",
@@ -606450,6 +609642,23 @@
 "from": "2026-01-09",
 "latest": "2026-01-09",
 "portal": "https://www.sluzbenilist.me/propisi/389726"
+},
+{
+"slug": "zakon-2026-389790",
+"path": "zakon/2026/389790",
+"kind": "zakon",
+"year": "2026",
+"number": "389790",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjeni Zakona o stručnom obrazovanju*",
+"short": "Zakon o izmjeni Zakona o stručnom obrazovanju*",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2026-01-17",
+"latest": "2026-01-17",
+"portal": "https://www.sluzbenilist.me/propisi/389790"
 },
 {
 "slug": "odluka-2026-389818",
@@ -607902,6 +611111,47 @@
 "portal": "https://www.sluzbenilist.me/propisi/390415"
 },
 {
+"slug": "zakon-2026-390416",
+"path": "zakon/2026/390416",
+"kind": "zakon",
+"year": "2026",
+"number": "390416",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o ugovornim odnosima u željezničkom saobraćaju",
+"short": "Zakon o ugovornim odnosima u željezničkom saobraćaju",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-02-14",
+"latest": "2026-02-14",
+"portal": "https://www.sluzbenilist.me/propisi/390416",
+"amended_by": [
+{
+"ref": "pis:393069",
+"title": "Zakon o izmjenama Zakona o ugovornim odnosima u željezničkom saobraćaju (Službeni list Crne Gore, broj 50/2026)",
+"url": "https://www.sluzbenilist.me/propisi/393069"
+}
+]
+},
+{
+"slug": "zakon-2026-390419",
+"path": "zakon/2026/390419",
+"kind": "zakon",
+"year": "2026",
+"number": "390419",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama Opšteg zakona o obrazovanju i vaspitanju",
+"short": "Zakon o izmjenama Opšteg zakona o obrazovanju i vaspitanju",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2026-02-14",
+"latest": "2026-02-14",
+"portal": "https://www.sluzbenilist.me/propisi/390419"
+},
+{
 "slug": "naredba-2026-390420",
 "path": "naredba/2026/390420",
 "kind": "naredba",
@@ -607919,6 +611169,64 @@
 "portal": "https://www.sluzbenilist.me/propisi/390420"
 },
 {
+"slug": "zakon-2026-390421",
+"path": "zakon/2026/390421",
+"kind": "zakon",
+"year": "2026",
+"number": "390421",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o uzimanju i presađivanju ljudskih organa u svrhu liječenja*",
+"short": "Zakon o izmjenama i dopunama Zakona o uzimanju i presađivanju ljudskih organa u svrhu liječenja*",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-02-07",
+"latest": "2026-02-07",
+"portal": "https://www.sluzbenilist.me/propisi/390421",
+"amended_by": [
+{
+"ref": "pis:386006",
+"title": "Zakon o izmjenama i dopunama Zakona o socijalnom stanovanju (Službeni list Crne Gore, broj 121/2025)",
+"url": "https://www.sluzbenilist.me/propisi/386006"
+},
+{
+"ref": "pis:391984",
+"title": "Zakon o izmjeni i dopuni Zakona o uzimanju i presađivanju ljudskih organa u svrhu liječenja* (Službeni list Crne Gore, broj 39/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391984"
+}
+]
+},
+{
+"slug": "zakon-2026-390422",
+"path": "zakon/2026/390422",
+"kind": "zakon",
+"year": "2026",
+"number": "390422",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o socijalnom stanovanju*",
+"short": "Zakon o izmjenama i dopunama Zakona o socijalnom stanovanju*",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-02-14",
+"latest": "2026-02-14",
+"portal": "https://www.sluzbenilist.me/propisi/390422",
+"amended_by": [
+{
+"ref": "pis:386006",
+"title": "Zakon o izmjenama i dopunama Zakona o socijalnom stanovanju (Službeni list Crne Gore, broj 121/2025)",
+"url": "https://www.sluzbenilist.me/propisi/386006"
+},
+{
+"ref": "pis:391396",
+"title": "Zakon o dopuni Zakona o socijalnom stanovanju* (Službeni list Crne Gore, broj 33/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391396"
+}
+]
+},
+{
 "slug": "odluka-2026-390423",
 "path": "odluka/2026/390423",
 "kind": "odluka",
@@ -607934,6 +611242,35 @@
 "from": "2026-02-07",
 "latest": "2026-02-07",
 "portal": "https://www.sluzbenilist.me/propisi/390423"
+},
+{
+"slug": "zakon-2026-390424",
+"path": "zakon/2026/390424",
+"kind": "zakon",
+"year": "2026",
+"number": "390424",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o dopunama Zakona o parničnom postupku*",
+"short": "Zakon o dopunama Zakona o parničnom postupku*",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-02-14",
+"latest": "2026-02-14",
+"portal": "https://www.sluzbenilist.me/propisi/390424",
+"amended_by": [
+{
+"ref": "pis:391205",
+"title": "Zakon o izmjenama i dopunama Zakona o arbitraži (Službeni list Crne Gore, broj 33/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391205"
+},
+{
+"ref": "pis:395874",
+"title": "Zakon o izmjenama i dopunama Zakona o parničnom postupku* (Službeni list Crne Gore, broj 98/2026)",
+"url": "https://www.sluzbenilist.me/propisi/395874"
+}
+]
 },
 {
 "slug": "odluka-2026-390425",
@@ -608169,6 +611506,30 @@
 "portal": "https://www.sluzbenilist.me/propisi/390547"
 },
 {
+"slug": "zakon-2026-390548",
+"path": "zakon/2026/390548",
+"kind": "zakon",
+"year": "2026",
+"number": "390548",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjeni i dopuni Zakona o finansijskim konglomeratima*",
+"short": "Zakon o izmjeni i dopuni Zakona o finansijskim konglomeratima*",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-02-18",
+"latest": "2026-02-18",
+"portal": "https://www.sluzbenilist.me/propisi/390548",
+"amended_by": [
+{
+"ref": "pis:399150",
+"title": "Zakon o izmjenama i dopuni Zakona o finansijskim konglomeratima (Službeni list Crne Gore, broj 152/2026)",
+"url": "https://www.sluzbenilist.me/propisi/399150"
+}
+]
+},
+{
 "slug": "zakon-2026-390549",
 "path": "zakon/2026/390549",
 "kind": "zakon",
@@ -608184,6 +611545,102 @@
 "from": "2026-02-18",
 "latest": "2026-02-18",
 "portal": "https://www.sluzbenilist.me/propisi/390549"
+},
+{
+"slug": "zakon-2026-390550",
+"path": "zakon/2026/390550",
+"kind": "zakon",
+"year": "2026",
+"number": "390550",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o sanaciji kreditnih institucija*",
+"short": "Zakon o izmjenama i dopunama Zakona o sanaciji kreditnih institucija*",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-02-18",
+"latest": "2026-02-18",
+"portal": "https://www.sluzbenilist.me/propisi/390550",
+"amended_by": [
+{
+"ref": "pis:391045",
+"title": "Odluka, U-I br. 14/21 (Službeni list Crne Gore, broj 30/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391045"
+}
+]
+},
+{
+"slug": "zakon-2026-390551",
+"path": "zakon/2026/390551",
+"kind": "zakon",
+"year": "2026",
+"number": "390551",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o otvorenim investicionim fondovima sa javnom ponudom",
+"short": "Zakon o izmjenama i dopunama Zakona o otvorenim investicionim fondovima sa javnom ponudom",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-02-18",
+"latest": "2026-02-18",
+"portal": "https://www.sluzbenilist.me/propisi/390551",
+"amended_by": [
+{
+"ref": "pis:398993",
+"title": "Zakon o izmjenama i dopunama Zakona o otvorenim investicionim fondovima sa javnom ponudom (Službeni list Crne Gore, broj 150/2026)",
+"url": "https://www.sluzbenilist.me/propisi/398993"
+}
+]
+},
+{
+"slug": "zakon-2026-390556",
+"path": "zakon/2026/390556",
+"kind": "zakon",
+"year": "2026",
+"number": "390556",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o dopuni Zakona o penzijskom i invalidskom osiguranju",
+"short": "Zakon o dopuni Zakona o penzijskom i invalidskom osiguranju",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-02-18",
+"latest": "2026-02-18",
+"portal": "https://www.sluzbenilist.me/propisi/390556",
+"amended_by": [
+{
+"ref": "pis:385755",
+"title": "Zakon o dopunama Zakona o penzijskom i invalidskom osiguranju (Službeni list Crne Gore, broj 122/2025)",
+"url": "https://www.sluzbenilist.me/propisi/385755"
+}
+]
+},
+{
+"slug": "zakon-2026-390558",
+"path": "zakon/2026/390558",
+"kind": "zakon",
+"year": "2026",
+"number": "390558",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o ljekovima*",
+"short": "Zakon o ljekovima*",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-02-18",
+"latest": "2026-02-18",
+"portal": "https://www.sluzbenilist.me/propisi/390558",
+"amended_by": [
+{
+"ref": "pis:395608",
+"title": "Zakon o izmjenama i dopunama Zakona o ljekovima* (Službeni list Crne Gore, broj 94/2026)",
+"url": "https://www.sluzbenilist.me/propisi/395608"
+}
+]
 },
 {
 "slug": "odluka-2026-390566",
@@ -608654,6 +612111,45 @@
 "portal": "https://www.sluzbenilist.me/propisi/390733"
 },
 {
+"slug": "zakon-2026-390826",
+"path": "zakon/2026/390826",
+"kind": "zakon",
+"year": "2026",
+"number": "390826",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopuni Zakona o unutrašnjoj trgovini",
+"short": "Zakon o izmjenama i dopuni Zakona o unutrašnjoj trgovini",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-02-19",
+"latest": "2026-02-19",
+"portal": "https://www.sluzbenilist.me/propisi/390826",
+"amended_by": [
+{
+"ref": "pis:386006",
+"title": "Zakon o izmjenama i dopunama Zakona o socijalnom stanovanju (Službeni list Crne Gore, broj 121/2025)",
+"url": "https://www.sluzbenilist.me/propisi/386006"
+},
+{
+"ref": "pis:391080",
+"title": "Odluka, U-I br. 12/21 (Službeni list Crne Gore, broj 30/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391080"
+},
+{
+"ref": "pis:395609",
+"title": "Zakon o izmjenama Zakona o obligacionim odnosima* (Službeni list Crne Gore, broj 94/2026)",
+"url": "https://www.sluzbenilist.me/propisi/395609"
+},
+{
+"ref": "pis:397643",
+"title": "Zakon o izmjenama i dopunama Zakona o vodama (Službeni list Crne Gore, broj 128/2026)",
+"url": "https://www.sluzbenilist.me/propisi/397643"
+}
+]
+},
+{
 "slug": "uredba-2026-390827",
 "path": "uredba/2026/390827",
 "kind": "uredba",
@@ -608686,6 +612182,30 @@
 "from": "2026-02-19",
 "latest": "2026-02-19",
 "portal": "https://www.sluzbenilist.me/propisi/390828"
+},
+{
+"slug": "zakon-2026-390846",
+"path": "zakon/2026/390846",
+"kind": "zakon",
+"year": "2026",
+"number": "390846",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o legalizaciji bespravnih objekata",
+"short": "Zakon o izmjenama i dopunama Zakona o legalizaciji bespravnih objekata",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-02-13",
+"latest": "2026-02-13",
+"portal": "https://www.sluzbenilist.me/propisi/390846",
+"amended_by": [
+{
+"ref": "pis:396956",
+"title": "Zakon o izmjenama i dopuni Zakona o legalizaciji bespravnih objekata (Službeni list Crne Gore, broj 117/2026)",
+"url": "https://www.sluzbenilist.me/propisi/396956"
+}
+]
 },
 {
 "slug": "pravilnik-2026-390868",
@@ -610050,6 +613570,30 @@
 "portal": "https://www.sluzbenilist.me/propisi/391163"
 },
 {
+"slug": "zakon-2026-391195",
+"path": "zakon/2026/391195",
+"kind": "zakon",
+"year": "2026",
+"number": "391195",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o zapaljivim tečnostima i gasovima",
+"short": "Zakon o izmjenama i dopunama Zakona o zapaljivim tečnostima i gasovima",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-03-18",
+"latest": "2026-03-18",
+"portal": "https://www.sluzbenilist.me/propisi/391195",
+"amended_by": [
+{
+"ref": "pis:395609",
+"title": "Zakon o izmjenama Zakona o obligacionim odnosima* (Službeni list Crne Gore, broj 94/2026)",
+"url": "https://www.sluzbenilist.me/propisi/395609"
+}
+]
+},
+{
 "slug": "ugovor-2026-391204",
 "path": "ugovor/2026/391204",
 "kind": "ugovor",
@@ -610067,6 +613611,64 @@
 "portal": "https://www.sluzbenilist.me/propisi/391204"
 },
 {
+"slug": "zakon-2026-391205",
+"path": "zakon/2026/391205",
+"kind": "zakon",
+"year": "2026",
+"number": "391205",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o arbitraži",
+"short": "Zakon o izmjenama i dopunama Zakona o arbitraži",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2026-03-18",
+"latest": "2026-03-18",
+"portal": "https://www.sluzbenilist.me/propisi/391205"
+},
+{
+"slug": "zakon-2026-391227",
+"path": "zakon/2026/391227",
+"kind": "zakon",
+"year": "2026",
+"number": "391227",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o uređenju tržišta poljoprivrednih proizvoda*",
+"short": "Zakon o izmjenama i dopunama Zakona o uređenju tržišta poljoprivrednih proizvoda*",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-03-18",
+"latest": "2026-03-18",
+"portal": "https://www.sluzbenilist.me/propisi/391227",
+"amended_by": [
+{
+"ref": "pis:395609",
+"title": "Zakon o izmjenama Zakona o obligacionim odnosima* (Službeni list Crne Gore, broj 94/2026)",
+"url": "https://www.sluzbenilist.me/propisi/395609"
+}
+]
+},
+{
+"slug": "zakon-2026-391228",
+"path": "zakon/2026/391228",
+"kind": "zakon",
+"year": "2026",
+"number": "391228",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o zaštiti prirodnog i kulturno-istorijskog područja Kotora",
+"short": "Zakon o izmjenama i dopunama Zakona o zaštiti prirodnog i kulturno-istorijskog područja Kotora",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2026-03-18",
+"latest": "2026-03-18",
+"portal": "https://www.sluzbenilist.me/propisi/391228"
+},
+{
 "slug": "zakon-2026-391229",
 "path": "zakon/2026/391229",
 "kind": "zakon",
@@ -610082,6 +613684,23 @@
 "from": "2026-03-18",
 "latest": "2026-03-18",
 "portal": "https://www.sluzbenilist.me/propisi/391229"
+},
+{
+"slug": "zakon-2026-391230",
+"path": "zakon/2026/391230",
+"kind": "zakon",
+"year": "2026",
+"number": "391230",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama Zakona o ostvarivanju prava na finansijsku podršku licima koja su bila zaposlena u privrednim društvima u sektoru drvoprerađivačke i šumarske industrije",
+"short": "Zakon o izmjenama Zakona o ostvarivanju prava na finansijsku podršku licima koja su bila zaposlena u privrednim društvima u sektoru drvoprerađivačke i šumarske industrije",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2026-03-18",
+"latest": "2026-03-18",
+"portal": "https://www.sluzbenilist.me/propisi/391230"
 },
 {
 "slug": "uredba-2026-391274",
@@ -610215,6 +613834,30 @@
 "portal": "https://www.sluzbenilist.me/propisi/391290"
 },
 {
+"slug": "zakon-2026-391291",
+"path": "zakon/2026/391291",
+"kind": "zakon",
+"year": "2026",
+"number": "391291",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o prekršajima",
+"short": "Zakon o izmjenama i dopunama Zakona o prekršajima",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-03-14",
+"latest": "2026-03-14",
+"portal": "https://www.sluzbenilist.me/propisi/391291",
+"amended_by": [
+{
+"ref": "pis:398331",
+"title": "Zakon o dopunama Zakona o prekršajima* (Službeni list Crne Gore, broj 137/2026)",
+"url": "https://www.sluzbenilist.me/propisi/398331"
+}
+]
+},
+{
 "slug": "pravilnik-2026-391300",
 "path": "pravilnik/2026/391300",
 "kind": "pravilnik",
@@ -610249,6 +613892,30 @@
 "portal": "https://www.sluzbenilist.me/propisi/391304"
 },
 {
+"slug": "zakon-2026-391305",
+"path": "zakon/2026/391305",
+"kind": "zakon",
+"year": "2026",
+"number": "391305",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjeni i dopuni Zakona o državnim službenicima i namještenicima*",
+"short": "Zakon o izmjeni i dopuni Zakona o državnim službenicima i namještenicima*",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-03-18",
+"latest": "2026-03-18",
+"portal": "https://www.sluzbenilist.me/propisi/391305",
+"amended_by": [
+{
+"ref": "pis:398330",
+"title": "Zakon o izmjeni i dopunama Zakona o državnim službenicima i namještenicima (Službeni list Crne Gore, broj 137/2026)",
+"url": "https://www.sluzbenilist.me/propisi/398330"
+}
+]
+},
+{
 "slug": "odluka-2026-391306",
 "path": "odluka/2026/391306",
 "kind": "odluka",
@@ -610281,6 +613948,30 @@
 "from": "2026-03-13",
 "latest": "2026-03-13",
 "portal": "https://www.sluzbenilist.me/propisi/391310"
+},
+{
+"slug": "zakon-2026-391320",
+"path": "zakon/2026/391320",
+"kind": "zakon",
+"year": "2026",
+"number": "391320",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o nadzoru i kontroli proizvodnje i prometa određenih supstanci koje se mogu upotrijebiti u proizvodnji opojnih droga i psihotropnih supstanci*",
+"short": "Zakon o nadzoru i kontroli proizvodnje i prometa određenih supstanci koje se mogu upotrijebiti u proizvodnji opojnih droga i psihotropnih supstanci*",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-01-17",
+"latest": "2026-01-17",
+"portal": "https://www.sluzbenilist.me/propisi/391320",
+"amended_by": [
+{
+"ref": "pis:397085",
+"title": "Zakon o izmjenama i dopunama Zakona o nadzoru i kontroli proizvodnje i prometa određenih supstanci koje se mogu upotrijebiti u proizvodnji opojnih droga i psihotropnih supstanci* (Službeni list Crne Gore, broj 119/2026)",
+"url": "https://www.sluzbenilist.me/propisi/397085"
+}
+]
 },
 {
 "slug": "odluka-2026-391322",
@@ -610746,6 +614437,40 @@
 "portal": "https://www.sluzbenilist.me/propisi/391394"
 },
 {
+"slug": "zakon-2026-391396",
+"path": "zakon/2026/391396",
+"kind": "zakon",
+"year": "2026",
+"number": "391396",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o dopuni Zakona o socijalnom stanovanju*",
+"short": "Zakon o dopuni Zakona o socijalnom stanovanju*",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-03-18",
+"latest": "2026-03-18",
+"portal": "https://www.sluzbenilist.me/propisi/391396",
+"amended_by": [
+{
+"ref": "pis:386006",
+"title": "Zakon o izmjenama i dopunama Zakona o socijalnom stanovanju (Službeni list Crne Gore, broj 121/2025)",
+"url": "https://www.sluzbenilist.me/propisi/386006"
+},
+{
+"ref": "pis:391080",
+"title": "Odluka, U-I br. 12/21 (Službeni list Crne Gore, broj 30/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391080"
+},
+{
+"ref": "pis:397643",
+"title": "Zakon o izmjenama i dopunama Zakona o vodama (Službeni list Crne Gore, broj 128/2026)",
+"url": "https://www.sluzbenilist.me/propisi/397643"
+}
+]
+},
+{
 "slug": "odluka-2026-391398",
 "path": "odluka/2026/391398",
 "kind": "odluka",
@@ -610897,6 +614622,23 @@
 "from": "2026-01-16",
 "latest": "2026-01-16",
 "portal": "https://www.sluzbenilist.me/propisi/391417"
+},
+{
+"slug": "zakon-2026-391418",
+"path": "zakon/2026/391418",
+"kind": "zakon",
+"year": "2026",
+"number": "391418",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o zdravstvenoj zaštiti*",
+"short": "Zakon o izmjenama i dopunama Zakona o zdravstvenoj zaštiti*",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2026-03-14",
+"latest": "2026-03-14",
+"portal": "https://www.sluzbenilist.me/propisi/391418"
 },
 {
 "slug": "akt-2026-391419",
@@ -611294,6 +615036,60 @@
 ]
 },
 {
+"slug": "zakon-2026-391472",
+"path": "zakon/2026/391472",
+"kind": "zakon",
+"year": "2026",
+"number": "391472",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopuni Zakona o socijalnoj i dječjoj zaštiti",
+"short": "Zakon o izmjenama i dopuni Zakona o socijalnoj i dječjoj zaštiti",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-03-18",
+"latest": "2026-03-18",
+"portal": "https://www.sluzbenilist.me/propisi/391472",
+"amended_by": [
+{
+"ref": "pis:386006",
+"title": "Zakon o izmjenama i dopunama Zakona o socijalnom stanovanju (Službeni list Crne Gore, broj 121/2025)",
+"url": "https://www.sluzbenilist.me/propisi/386006"
+},
+{
+"ref": "pis:385767",
+"title": "Zakon o dopunama Zakona o socijalnoj i dječjoj zaštiti (Službeni list Crne Gore, broj 122/2025)",
+"url": "https://www.sluzbenilist.me/propisi/385767"
+},
+{
+"ref": "pis:389469",
+"title": "Zakon o dopunama Zakona o socijalnoj i dječjoj zaštiti (Službeni list Crne Gore, broj 160/2025)",
+"url": "https://www.sluzbenilist.me/propisi/389469"
+},
+{
+"ref": "pis:391080",
+"title": "Odluka, U-I br. 12/21 (Službeni list Crne Gore, broj 30/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391080"
+},
+{
+"ref": "pis:393315",
+"title": "Zakon o izmjenama i dopunama Zakona o socijalnoj i dječjoj zaštiti (Službeni list Crne Gore, broj 52/2026)",
+"url": "https://www.sluzbenilist.me/propisi/393315"
+},
+{
+"ref": "pis:396195",
+"title": "Zakon o izmjenama i dopunama Zakona o socijalnoj i dječjoj zaštiti (Službeni list Crne Gore, broj 104/2026)",
+"url": "https://www.sluzbenilist.me/propisi/396195"
+},
+{
+"ref": "pis:397643",
+"title": "Zakon o izmjenama i dopunama Zakona o vodama (Službeni list Crne Gore, broj 128/2026)",
+"url": "https://www.sluzbenilist.me/propisi/397643"
+}
+]
+},
+{
 "slug": "odluka-2026-391474",
 "path": "odluka/2026/391474",
 "kind": "odluka",
@@ -611563,6 +615359,23 @@
 "portal": "https://www.sluzbenilist.me/propisi/391519"
 },
 {
+"slug": "zakon-2026-391520",
+"path": "zakon/2026/391520",
+"kind": "zakon",
+"year": "2026",
+"number": "391520",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o dopuni Zakona o željeznici",
+"short": "Zakon o dopuni Zakona o željeznici",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2026-02-20",
+"latest": "2026-02-20",
+"portal": "https://www.sluzbenilist.me/propisi/391520"
+},
+{
 "slug": "odluka-2026-391522",
 "path": "odluka/2026/391522",
 "kind": "odluka",
@@ -611641,6 +615454,35 @@
 "ref": "pis:391393",
 "title": "Odluka o izmjenama i dopunama Odluke o bližem načinu utvrđivanja minimalnog zahtjeva za regulatornim kapitalom i kvalifikovanim obavezama kreditnih institucija i načinu izvještavanja (Službeni list Crne Gore, broj 34/2026)",
 "url": "https://www.sluzbenilist.me/propisi/391393"
+}
+]
+},
+{
+"slug": "zakon-2026-391538",
+"path": "zakon/2026/391538",
+"kind": "zakon",
+"year": "2026",
+"number": "391538",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjeni Zakona o strancima*",
+"short": "Zakon o izmjeni Zakona o strancima*",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-03-18",
+"latest": "2026-03-18",
+"portal": "https://www.sluzbenilist.me/propisi/391538",
+"amended_by": [
+{
+"ref": "pis:389913",
+"title": "Zakon o izmjenama i dopunama Zakona o strancima* (Službeni list Crne Gore, broj 3/2026)",
+"url": "https://www.sluzbenilist.me/propisi/389913"
+},
+{
+"ref": "pis:399225",
+"title": "Zakon o izmjenama i dopunama Zakona o strancima (Službeni list Crne Gore, broj 154/2026)",
+"url": "https://www.sluzbenilist.me/propisi/399225"
 }
 ]
 },
@@ -611728,6 +615570,69 @@
 "from": "2026-01-24",
 "latest": "2026-01-24",
 "portal": "https://www.sluzbenilist.me/propisi/391553"
+},
+{
+"slug": "zakon-2026-391555",
+"path": "zakon/2026/391555",
+"kind": "zakon",
+"year": "2026",
+"number": "391555",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o državnim službenicima i namještenicima*",
+"short": "Zakon o izmjenama i dopunama Zakona o državnim službenicima i namještenicima*",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-01-17",
+"latest": "2026-01-17",
+"portal": "https://www.sluzbenilist.me/propisi/391555",
+"amended_by": [
+{
+"ref": "pis:391305",
+"title": "Zakon o izmjeni i dopuni Zakona o državnim službenicima i namještenicima* (Službeni list Crne Gore, broj 33/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391305"
+},
+{
+"ref": "pis:398330",
+"title": "Zakon o izmjeni i dopunama Zakona o državnim službenicima i namještenicima (Službeni list Crne Gore, broj 137/2026)",
+"url": "https://www.sluzbenilist.me/propisi/398330"
+}
+]
+},
+{
+"slug": "zakon-2026-391556",
+"path": "zakon/2026/391556",
+"kind": "zakon",
+"year": "2026",
+"number": "391556",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o poštanskim uslugama",
+"short": "Zakon o izmjenama i dopunama Zakona o poštanskim uslugama",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-03-14",
+"latest": "2026-03-14",
+"portal": "https://www.sluzbenilist.me/propisi/391556",
+"amended_by": [
+{
+"ref": "pis:386006",
+"title": "Zakon o izmjenama i dopunama Zakona o socijalnom stanovanju (Službeni list Crne Gore, broj 121/2025)",
+"url": "https://www.sluzbenilist.me/propisi/386006"
+},
+{
+"ref": "pis:391080",
+"title": "Odluka, U-I br. 12/21 (Službeni list Crne Gore, broj 30/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391080"
+},
+{
+"ref": "pis:397643",
+"title": "Zakon o izmjenama i dopunama Zakona o vodama (Službeni list Crne Gore, broj 128/2026)",
+"url": "https://www.sluzbenilist.me/propisi/397643"
+}
+]
 },
 {
 "slug": "odluka-2026-391558",
@@ -611985,6 +615890,30 @@
 "portal": "https://www.sluzbenilist.me/propisi/391599"
 },
 {
+"slug": "zakon-2026-391602",
+"path": "zakon/2026/391602",
+"kind": "zakon",
+"year": "2026",
+"number": "391602",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o dopunama Zakona o Ustavnom sudu Crne Gore",
+"short": "Zakon o dopunama Zakona o Ustavnom sudu Crne Gore",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-03-06",
+"latest": "2026-03-06",
+"portal": "https://www.sluzbenilist.me/propisi/391602",
+"amended_by": [
+{
+"ref": "pis:394466",
+"title": "Zakon o izmjenama i dopuni Zakona o Ustavnom sudu Crne Gore (Službeni list Crne Gore, broj 71/2026)",
+"url": "https://www.sluzbenilist.me/propisi/394466"
+}
+]
+},
+{
 "slug": "rjesenje-2026-391606",
 "path": "rjesenje/2026/391606",
 "kind": "rjesenje",
@@ -612017,6 +615946,30 @@
 "from": "2026-02-24",
 "latest": "2026-02-24",
 "portal": "https://www.sluzbenilist.me/propisi/391609"
+},
+{
+"slug": "zakon-2026-391611",
+"path": "zakon/2026/391611",
+"kind": "zakon",
+"year": "2026",
+"number": "391611",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjeni Zakona o porezu na promet nepokretnosti",
+"short": "Zakon o izmjeni Zakona o porezu na promet nepokretnosti",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-03-17",
+"latest": "2026-03-17",
+"portal": "https://www.sluzbenilist.me/propisi/391611",
+"amended_by": [
+{
+"ref": "pis:397969",
+"title": "Zakon o izmjenama Zakona o porezu na promet nepokretnosti (Službeni list Crne Gore, broj 132/2026)",
+"url": "https://www.sluzbenilist.me/propisi/397969"
+}
+]
 },
 {
 "slug": "odluka-2026-391616",
@@ -612637,6 +616590,81 @@
 ]
 },
 {
+"slug": "zakon-2026-391982",
+"path": "zakon/2026/391982",
+"kind": "zakon",
+"year": "2026",
+"number": "391982",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o standardizaciji",
+"short": "Zakon o izmjenama i dopunama Zakona o standardizaciji",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-03-28",
+"latest": "2026-03-28",
+"portal": "https://www.sluzbenilist.me/propisi/391982",
+"amended_by": [
+{
+"ref": "pis:394396",
+"title": "Zakon o izmjeni Zakona o standardizaciji (Službeni list Crne Gore, broj 70/2026)",
+"url": "https://www.sluzbenilist.me/propisi/394396"
+}
+]
+},
+{
+"slug": "zakon-2026-391984",
+"path": "zakon/2026/391984",
+"kind": "zakon",
+"year": "2026",
+"number": "391984",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjeni i dopuni Zakona o uzimanju i presađivanju ljudskih organa u svrhu liječenja*",
+"short": "Zakon o izmjeni i dopuni Zakona o uzimanju i presađivanju ljudskih organa u svrhu liječenja*",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-03-21",
+"latest": "2026-03-21",
+"portal": "https://www.sluzbenilist.me/propisi/391984",
+"amended_by": [
+{
+"ref": "pis:386006",
+"title": "Zakon o izmjenama i dopunama Zakona o socijalnom stanovanju (Službeni list Crne Gore, broj 121/2025)",
+"url": "https://www.sluzbenilist.me/propisi/386006"
+},
+{
+"ref": "pis:391080",
+"title": "Odluka, U-I br. 12/21 (Službeni list Crne Gore, broj 30/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391080"
+},
+{
+"ref": "pis:397643",
+"title": "Zakon o izmjenama i dopunama Zakona o vodama (Službeni list Crne Gore, broj 128/2026)",
+"url": "https://www.sluzbenilist.me/propisi/397643"
+}
+]
+},
+{
+"slug": "zakon-2026-391986",
+"path": "zakon/2026/391986",
+"kind": "zakon",
+"year": "2026",
+"number": "391986",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o putevima",
+"short": "Zakon o izmjenama i dopunama Zakona o putevima",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2026-03-28",
+"latest": "2026-03-28",
+"portal": "https://www.sluzbenilist.me/propisi/391986"
+},
+{
 "slug": "odluka-2026-391988",
 "path": "odluka/2026/391988",
 "kind": "odluka",
@@ -612693,6 +616721,45 @@
 "from": "2026-03-28",
 "latest": "2026-03-28",
 "portal": "https://www.sluzbenilist.me/propisi/391995"
+},
+{
+"slug": "zakon-2026-391997",
+"path": "zakon/2026/391997",
+"kind": "zakon",
+"year": "2026",
+"number": "391997",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o tehničkim zahtjevima za proizvode i ocjenjivanju usaglašenosti",
+"short": "Zakon o izmjenama i dopunama Zakona o tehničkim zahtjevima za proizvode i ocjenjivanju usaglašenosti",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-03-28",
+"latest": "2026-03-28",
+"portal": "https://www.sluzbenilist.me/propisi/391997",
+"amended_by": [
+{
+"ref": "pis:386006",
+"title": "Zakon o izmjenama i dopunama Zakona o socijalnom stanovanju (Službeni list Crne Gore, broj 121/2025)",
+"url": "https://www.sluzbenilist.me/propisi/386006"
+},
+{
+"ref": "pis:391080",
+"title": "Odluka, U-I br. 12/21 (Službeni list Crne Gore, broj 30/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391080"
+},
+{
+"ref": "pis:397643",
+"title": "Zakon o izmjenama i dopunama Zakona o vodama (Službeni list Crne Gore, broj 128/2026)",
+"url": "https://www.sluzbenilist.me/propisi/397643"
+},
+{
+"ref": "pis:398327",
+"title": "Zakon o izmjenama i dopunama Zakona o tehničkim zahtjevima za proizvode i ocjenjivanju usaglašenosti (Službeni list Crne Gore, broj 137/2026)",
+"url": "https://www.sluzbenilist.me/propisi/398327"
+}
+]
 },
 {
 "slug": "pravilnik-2026-391998",
@@ -612894,6 +616961,35 @@
 "from": "2026-03-31",
 "latest": "2026-03-31",
 "portal": "https://www.sluzbenilist.me/propisi/392217"
+},
+{
+"slug": "zakon-2026-392221",
+"path": "zakon/2026/392221",
+"kind": "zakon",
+"year": "2026",
+"number": "392221",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o Agenciji za nacionalnu bezbjednost",
+"short": "Zakon o Agenciji za nacionalnu bezbjednost",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-03-31",
+"latest": "2026-03-31",
+"portal": "https://www.sluzbenilist.me/propisi/392221",
+"amended_by": [
+{
+"ref": "pis:394398",
+"title": "Ispravka Zakona o Agenciji za nacionalnu bezbjednost (Službeni list Crne Gore, broj 70/2026)",
+"url": "https://www.sluzbenilist.me/propisi/394398"
+},
+{
+"ref": "pis:396968",
+"title": "Zakon o izmjenama i dopuni Zakona o Agenciji za nacionalnu bezbjednost (Službeni list Crne Gore, broj 117/2026)",
+"url": "https://www.sluzbenilist.me/propisi/396968"
+}
+]
 },
 {
 "slug": "pravilnik-2026-392253",
@@ -613116,6 +617212,23 @@
 "portal": "https://www.sluzbenilist.me/propisi/392354"
 },
 {
+"slug": "zakon-2026-392355",
+"path": "zakon/2026/392355",
+"kind": "zakon",
+"year": "2026",
+"number": "392355",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o registraciji privrednih i drugih subjekata*",
+"short": "Zakon o izmjenama i dopunama Zakona o registraciji privrednih i drugih subjekata*",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2026-03-27",
+"latest": "2026-03-27",
+"portal": "https://www.sluzbenilist.me/propisi/392355"
+},
+{
 "slug": "pravilnik-2026-392356",
 "path": "pravilnik/2026/392356",
 "kind": "pravilnik",
@@ -613254,6 +617367,23 @@
 "portal": "https://www.sluzbenilist.me/propisi/392362"
 },
 {
+"slug": "zakon-2026-392363",
+"path": "zakon/2026/392363",
+"kind": "zakon",
+"year": "2026",
+"number": "392363",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o privrednim društvima*",
+"short": "Zakon o izmjenama i dopunama Zakona o privrednim društvima*",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2026-03-27",
+"latest": "2026-03-27",
+"portal": "https://www.sluzbenilist.me/propisi/392363"
+},
+{
 "slug": "odluka-2026-392365",
 "path": "odluka/2026/392365",
 "kind": "odluka",
@@ -613269,6 +617399,23 @@
 "from": "2026-04-04",
 "latest": "2026-04-04",
 "portal": "https://www.sluzbenilist.me/propisi/392365"
+},
+{
+"slug": "zakon-2026-392366",
+"path": "zakon/2026/392366",
+"kind": "zakon",
+"year": "2026",
+"number": "392366",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama Zakona o ovjeri potpisa, rukopisa i prepisa",
+"short": "Zakon o izmjenama Zakona o ovjeri potpisa, rukopisa i prepisa",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2026-03-27",
+"latest": "2026-03-27",
+"portal": "https://www.sluzbenilist.me/propisi/392366"
 },
 {
 "slug": "odluka-2026-392367",
@@ -614613,6 +618760,30 @@
 "from": "2026-04-09",
 "latest": "2026-04-09",
 "portal": "https://www.sluzbenilist.me/propisi/392645"
+},
+{
+"slug": "zakon-2026-392701",
+"path": "zakon/2026/392701",
+"kind": "zakon",
+"year": "2026",
+"number": "392701",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o bezbjednosti i interoperabilnosti željeznice",
+"short": "Zakon o izmjenama i dopunama Zakona o bezbjednosti i interoperabilnosti željeznice",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-04-10",
+"latest": "2026-04-10",
+"portal": "https://www.sluzbenilist.me/propisi/392701",
+"amended_by": [
+{
+"ref": "pis:395868",
+"title": "Zakon o izmjenama i dopuni Zakona o bezbjednosti i interoperabilnosti željeznice (Službeni list Crne Gore, broj 98/2026)",
+"url": "https://www.sluzbenilist.me/propisi/395868"
+}
+]
 },
 {
 "slug": "uputstvo-2026-392705",
@@ -616687,6 +620858,23 @@
 "portal": "https://www.sluzbenilist.me/propisi/393186"
 },
 {
+"slug": "zakon-2026-393207",
+"path": "zakon/2026/393207",
+"kind": "zakon",
+"year": "2026",
+"number": "393207",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o akreditaciji",
+"short": "Zakon o izmjenama i dopunama Zakona o akreditaciji",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2026-04-23",
+"latest": "2026-04-23",
+"portal": "https://www.sluzbenilist.me/propisi/393207"
+},
+{
 "slug": "odluka-2026-393210",
 "path": "odluka/2026/393210",
 "kind": "odluka",
@@ -616930,6 +621118,23 @@
 "url": "https://www.sluzbenilist.me/propisi/396490"
 }
 ]
+},
+{
+"slug": "zakon-2026-393232",
+"path": "zakon/2026/393232",
+"kind": "zakon",
+"year": "2026",
+"number": "393232",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o dopunama Zakona o Socijalnom savjetu*",
+"short": "Zakon o dopunama Zakona o Socijalnom savjetu*",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2026-04-23",
+"latest": "2026-04-23",
+"portal": "https://www.sluzbenilist.me/propisi/393232"
 },
 {
 "slug": "odluka-2026-393238",
@@ -617532,6 +621737,23 @@
 "from": "2026-04-28",
 "latest": "2026-04-28",
 "portal": "https://www.sluzbenilist.me/propisi/393287"
+},
+{
+"slug": "zakon-2026-393312",
+"path": "zakon/2026/393312",
+"kind": "zakon",
+"year": "2026",
+"number": "393312",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o prevozu u drumskom saobraćaju",
+"short": "Zakon o izmjenama i dopunama Zakona o prevozu u drumskom saobraćaju",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2026-04-25",
+"latest": "2026-04-25",
+"portal": "https://www.sluzbenilist.me/propisi/393312"
 },
 {
 "slug": "odluka-2026-393314",
@@ -618330,6 +622552,30 @@
 "portal": "https://www.sluzbenilist.me/propisi/393428"
 },
 {
+"slug": "zakon-2026-393431",
+"path": "zakon/2026/393431",
+"kind": "zakon",
+"year": "2026",
+"number": "393431",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o uslovima rada na ribarskom brodu",
+"short": "Zakon o uslovima rada na ribarskom brodu",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-04-23",
+"latest": "2026-04-23",
+"portal": "https://www.sluzbenilist.me/propisi/393431",
+"amended_by": [
+{
+"ref": "pis:395875",
+"title": "Zakon o izmjenama i dopunama Zakona o uslovima rada na ribarskom brodu (Službeni list Crne Gore, broj 98/2026)",
+"url": "https://www.sluzbenilist.me/propisi/395875"
+}
+]
+},
+{
 "slug": "pravilnik-2026-393434",
 "path": "pravilnik/2026/393434",
 "kind": "pravilnik",
@@ -618396,6 +622642,30 @@
 "from": "2026-04-25",
 "latest": "2026-04-25",
 "portal": "https://www.sluzbenilist.me/propisi/393439"
+},
+{
+"slug": "zakon-2026-393440",
+"path": "zakon/2026/393440",
+"kind": "zakon",
+"year": "2026",
+"number": "393440",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o zaštiti i zdravlju na radu*",
+"short": "Zakon o zaštiti i zdravlju na radu*",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-04-23",
+"latest": "2026-04-23",
+"portal": "https://www.sluzbenilist.me/propisi/393440",
+"amended_by": [
+{
+"ref": "pis:396030",
+"title": "Zakon o izmjeni i dopunama Zakona o zaštiti i zdravlju na radu* (Službeni list Crne Gore, broj 103/2026)",
+"url": "https://www.sluzbenilist.me/propisi/396030"
+}
+]
 },
 {
 "slug": "pravilnik-2026-393487",
@@ -618607,6 +622877,30 @@
 "from": "2026-05-05",
 "latest": "2026-05-05",
 "portal": "https://www.sluzbenilist.me/propisi/393670"
+},
+{
+"slug": "zakon-2026-393671",
+"path": "zakon/2026/393671",
+"kind": "zakon",
+"year": "2026",
+"number": "393671",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjeni i dopuni Zakona o visokom obrazovanju",
+"short": "Zakon o izmjeni i dopuni Zakona o visokom obrazovanju",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-05-12",
+"latest": "2026-05-12",
+"portal": "https://www.sluzbenilist.me/propisi/393671",
+"amended_by": [
+{
+"ref": "pis:396678",
+"title": "Zakon o dopuni Zakona o visokom obrazovanju (Službeni list Crne Gore, broj 114/2026)",
+"url": "https://www.sluzbenilist.me/propisi/396678"
+}
+]
 },
 {
 "slug": "pravilnik-2026-393673",
@@ -620701,6 +624995,78 @@
 "portal": "https://www.sluzbenilist.me/propisi/394388"
 },
 {
+"slug": "zakon-2026-394389",
+"path": "zakon/2026/394389",
+"kind": "zakon",
+"year": "2026",
+"number": "394389",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjeni Zakona o zaštiti depozita",
+"short": "Zakon o izmjeni Zakona o zaštiti depozita",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-05-28",
+"latest": "2026-05-28",
+"portal": "https://www.sluzbenilist.me/propisi/394389",
+"amended_by": [
+{
+"ref": "pis:373173",
+"title": "Zakon o izmjenama i dopunama Zakona kojima su propisane odredbe o inspekcijskom nadzoru (Službeni list Crne Gore, broj 84/2024)",
+"url": "https://www.sluzbenilist.me/propisi/373173"
+}
+]
+},
+{
+"slug": "zakon-2026-394390",
+"path": "zakon/2026/394390",
+"kind": "zakon",
+"year": "2026",
+"number": "394390",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama Zakona o porezu na dohodak fizičkih lica",
+"short": "Zakon o izmjenama Zakona o porezu na dohodak fizičkih lica",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-05-21",
+"latest": "2026-05-21",
+"portal": "https://www.sluzbenilist.me/propisi/394390",
+"amended_by": [
+{
+"ref": "pis:395609",
+"title": "Zakon o izmjenama Zakona o obligacionim odnosima* (Službeni list Crne Gore, broj 94/2026)",
+"url": "https://www.sluzbenilist.me/propisi/395609"
+}
+]
+},
+{
+"slug": "zakon-2026-394391",
+"path": "zakon/2026/394391",
+"kind": "zakon",
+"year": "2026",
+"number": "394391",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama Zakona o poreskoj administraciji",
+"short": "Zakon o izmjenama Zakona o poreskoj administraciji",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-05-21",
+"latest": "2026-05-21",
+"portal": "https://www.sluzbenilist.me/propisi/394391",
+"amended_by": [
+{
+"ref": "pis:396192",
+"title": "Zakon o izmjenama i dopunama Zakona o poreskoj administraciji (Službeni list Crne Gore, broj 104/2026)",
+"url": "https://www.sluzbenilist.me/propisi/396192"
+}
+]
+},
+{
 "slug": "zakon-2026-394392",
 "path": "zakon/2026/394392",
 "kind": "zakon",
@@ -621347,6 +625713,35 @@
 "ref": "pis:399815",
 "title": "Pravila o izmjenama i dopunama Pravila o bližem sadržaju, rokovima i načinu sačinjavanja i dostavljanja izvještaja investicionih društava i njihovih filijala (Službeni list Crne Gore, broj 163/2026)",
 "url": "https://www.sluzbenilist.me/propisi/399815"
+}
+]
+},
+{
+"slug": "zakon-2026-394526",
+"path": "zakon/2026/394526",
+"kind": "zakon",
+"year": "2026",
+"number": "394526",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o građevinskim proizvodima",
+"short": "Zakon o izmjenama i dopunama Zakona o građevinskim proizvodima",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-06-06",
+"latest": "2026-06-06",
+"portal": "https://www.sluzbenilist.me/propisi/394526",
+"amended_by": [
+{
+"ref": "pis:391080",
+"title": "Odluka, U-I br. 12/21 (Službeni list Crne Gore, broj 30/2026)",
+"url": "https://www.sluzbenilist.me/propisi/391080"
+},
+{
+"ref": "pis:397643",
+"title": "Zakon o izmjenama i dopunama Zakona o vodama (Službeni list Crne Gore, broj 128/2026)",
+"url": "https://www.sluzbenilist.me/propisi/397643"
 }
 ]
 },
@@ -624123,6 +628518,54 @@
 "from": "2026-06-20",
 "latest": "2026-06-20",
 "portal": "https://www.sluzbenilist.me/propisi/394909"
+},
+{
+"slug": "zakon-2026-394968",
+"path": "zakon/2026/394968",
+"kind": "zakon",
+"year": "2026",
+"number": "394968",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopuni Zakona o regionalnom vodosnabdijevanju Crnogorskog primorja",
+"short": "Zakon o izmjenama i dopuni Zakona o regionalnom vodosnabdijevanju Crnogorskog primorja",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-06-23",
+"latest": "2026-06-23",
+"portal": "https://www.sluzbenilist.me/propisi/394968",
+"amended_by": [
+{
+"ref": "pis:397643",
+"title": "Zakon o izmjenama i dopunama Zakona o vodama (Službeni list Crne Gore, broj 128/2026)",
+"url": "https://www.sluzbenilist.me/propisi/397643"
+}
+]
+},
+{
+"slug": "zakon-2026-394969",
+"path": "zakon/2026/394969",
+"kind": "zakon",
+"year": "2026",
+"number": "394969",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o poljoprivredi i ruralnom razvoju*",
+"short": "Zakon o izmjenama i dopunama Zakona o poljoprivredi i ruralnom razvoju*",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-06-23",
+"latest": "2026-06-23",
+"portal": "https://www.sluzbenilist.me/propisi/394969",
+"amended_by": [
+{
+"ref": "pis:395609",
+"title": "Zakon o izmjenama Zakona o obligacionim odnosima* (Službeni list Crne Gore, broj 94/2026)",
+"url": "https://www.sluzbenilist.me/propisi/395609"
+}
+]
 },
 {
 "slug": "zakon-2026-394970",
@@ -627336,6 +631779,23 @@
 "portal": "https://www.sluzbenilist.me/propisi/395544"
 },
 {
+"slug": "zakon-2026-395547",
+"path": "zakon/2026/395547",
+"kind": "zakon",
+"year": "2026",
+"number": "395547",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjeni Zakona o jedinstvenom vještačenju invaliditeta",
+"short": "Zakon o izmjeni Zakona o jedinstvenom vještačenju invaliditeta",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2026-06-30",
+"latest": "2026-06-30",
+"portal": "https://www.sluzbenilist.me/propisi/395547"
+},
+{
 "slug": "odluka-2026-395548",
 "path": "odluka/2026/395548",
 "kind": "odluka",
@@ -627780,6 +632240,35 @@
 "from": "2026-07-10",
 "latest": "2026-07-10",
 "portal": "https://www.sluzbenilist.me/propisi/395608"
+},
+{
+"slug": "zakon-2026-395609",
+"path": "zakon/2026/395609",
+"kind": "zakon",
+"year": "2026",
+"number": "395609",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama Zakona o obligacionim odnosima*",
+"short": "Zakon o izmjenama Zakona o obligacionim odnosima*",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-07-10",
+"latest": "2026-07-10",
+"portal": "https://www.sluzbenilist.me/propisi/395609",
+"amended_by": [
+{
+"ref": "pis:396966",
+"title": "Zakon o izmjenama i dopuni Zakona o obligacionim odnosima* (Službeni list Crne Gore, broj 117/2026)",
+"url": "https://www.sluzbenilist.me/propisi/396966"
+},
+{
+"ref": "pis:397643",
+"title": "Zakon o izmjenama i dopunama Zakona o vodama (Službeni list Crne Gore, broj 128/2026)",
+"url": "https://www.sluzbenilist.me/propisi/397643"
+}
+]
 },
 {
 "slug": "zakon-2026-395610",
@@ -629459,6 +633948,30 @@
 ]
 },
 {
+"slug": "zakon-2026-395867",
+"path": "zakon/2026/395867",
+"kind": "zakon",
+"year": "2026",
+"number": "395867",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopuni Zakona o sprečavanju korupcije",
+"short": "Zakon o izmjenama i dopuni Zakona o sprečavanju korupcije",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-07-10",
+"latest": "2026-07-10",
+"portal": "https://www.sluzbenilist.me/propisi/395867",
+"amended_by": [
+{
+"ref": "pis:396955",
+"title": "Zakon o izmjenama i dopunama Zakona o sprečavanju korupcije (Službeni list Crne Gore, broj 117/2026)",
+"url": "https://www.sluzbenilist.me/propisi/396955"
+}
+]
+},
+{
 "slug": "zakon-2026-395868",
 "path": "zakon/2026/395868",
 "kind": "zakon",
@@ -629474,6 +633987,23 @@
 "from": "2026-07-09",
 "latest": "2026-07-09",
 "portal": "https://www.sluzbenilist.me/propisi/395868"
+},
+{
+"slug": "zakon-2026-395869",
+"path": "zakon/2026/395869",
+"kind": "zakon",
+"year": "2026",
+"number": "395869",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama Zakona o akcizama",
+"short": "Zakon o izmjenama Zakona o akcizama",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2026-07-09",
+"latest": "2026-07-09",
+"portal": "https://www.sluzbenilist.me/propisi/395869"
 },
 {
 "slug": "zakon-2026-395871",
@@ -629510,6 +634040,47 @@
 "portal": "https://www.sluzbenilist.me/propisi/395872"
 },
 {
+"slug": "zakon-2026-395873",
+"path": "zakon/2026/395873",
+"kind": "zakon",
+"year": "2026",
+"number": "395873",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjeni i dopunama Zakona o obaveznom zdravstvenom osiguranju",
+"short": "Zakon o izmjeni i dopunama Zakona o obaveznom zdravstvenom osiguranju",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-07-17",
+"latest": "2026-07-17",
+"portal": "https://www.sluzbenilist.me/propisi/395873",
+"amended_by": [
+{
+"ref": "pis:396682",
+"title": "Zakon o dopunama Zakona o obaveznom zdravstvenom osiguranju (Službeni list Crne Gore, broj 114/2026)",
+"url": "https://www.sluzbenilist.me/propisi/396682"
+}
+]
+},
+{
+"slug": "zakon-2026-395874",
+"path": "zakon/2026/395874",
+"kind": "zakon",
+"year": "2026",
+"number": "395874",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o parničnom postupku*",
+"short": "Zakon o izmjenama i dopunama Zakona o parničnom postupku*",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2026-07-17",
+"latest": "2026-07-17",
+"portal": "https://www.sluzbenilist.me/propisi/395874"
+},
+{
 "slug": "zakon-2026-395875",
 "path": "zakon/2026/395875",
 "kind": "zakon",
@@ -629525,6 +634096,35 @@
 "from": "2026-07-17",
 "latest": "2026-07-17",
 "portal": "https://www.sluzbenilist.me/propisi/395875"
+},
+{
+"slug": "zakon-2026-395876",
+"path": "zakon/2026/395876",
+"kind": "zakon",
+"year": "2026",
+"number": "395876",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o javnim nabavkama",
+"short": "Zakon o izmjenama i dopunama Zakona o javnim nabavkama",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-07-17",
+"latest": "2026-07-17",
+"portal": "https://www.sluzbenilist.me/propisi/395876",
+"amended_by": [
+{
+"ref": "pis:397643",
+"title": "Zakon o izmjenama i dopunama Zakona o vodama (Službeni list Crne Gore, broj 128/2026)",
+"url": "https://www.sluzbenilist.me/propisi/397643"
+},
+{
+"ref": "pis:397970",
+"title": "Zakon o izmjeni i dopuni Zakona o javnim nabavkama (Službeni list Crne Gore, broj 132/2026)",
+"url": "https://www.sluzbenilist.me/propisi/397970"
+}
+]
 },
 {
 "slug": "uredba-2026-395877",
@@ -630204,6 +634804,54 @@
 "portal": "https://www.sluzbenilist.me/propisi/396030"
 },
 {
+"slug": "zakon-2026-396031",
+"path": "zakon/2026/396031",
+"kind": "zakon",
+"year": "2026",
+"number": "396031",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o radu*",
+"short": "Zakon o izmjenama i dopunama Zakona o radu*",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-07-16",
+"latest": "2026-07-16",
+"portal": "https://www.sluzbenilist.me/propisi/396031",
+"amended_by": [
+{
+"ref": "pis:397643",
+"title": "Zakon o izmjenama i dopunama Zakona o vodama (Službeni list Crne Gore, broj 128/2026)",
+"url": "https://www.sluzbenilist.me/propisi/397643"
+}
+]
+},
+{
+"slug": "zakon-2026-396032",
+"path": "zakon/2026/396032",
+"kind": "zakon",
+"year": "2026",
+"number": "396032",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjeni i dopunama Zakona o zaštiti jednakosti i zabrani diskriminacije*",
+"short": "Zakon o izmjeni i dopunama Zakona o zaštiti jednakosti i zabrani diskriminacije*",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-07-16",
+"latest": "2026-07-16",
+"portal": "https://www.sluzbenilist.me/propisi/396032",
+"amended_by": [
+{
+"ref": "pis:397973",
+"title": "Zakon o izmjeni Zakona o zaštiti jednakosti i zabrani diskriminacije* (Službeni list Crne Gore, broj 132/2026)",
+"url": "https://www.sluzbenilist.me/propisi/397973"
+}
+]
+},
+{
 "slug": "zakon-2026-396033",
 "path": "zakon/2026/396033",
 "kind": "zakon",
@@ -630695,6 +635343,30 @@
 "from": "2026-07-17",
 "latest": "2026-07-17",
 "portal": "https://www.sluzbenilist.me/propisi/396194"
+},
+{
+"slug": "zakon-2026-396195",
+"path": "zakon/2026/396195",
+"kind": "zakon",
+"year": "2026",
+"number": "396195",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o socijalnoj i dječjoj zaštiti",
+"short": "Zakon o izmjenama i dopunama Zakona o socijalnoj i dječjoj zaštiti",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-07-17",
+"latest": "2026-07-17",
+"portal": "https://www.sluzbenilist.me/propisi/396195",
+"amended_by": [
+{
+"ref": "pis:397643",
+"title": "Zakon o izmjenama i dopunama Zakona o vodama (Službeni list Crne Gore, broj 128/2026)",
+"url": "https://www.sluzbenilist.me/propisi/397643"
+}
+]
 },
 {
 "slug": "pravilnik-2026-396200",
@@ -633069,6 +637741,30 @@
 "portal": "https://www.sluzbenilist.me/propisi/396626"
 },
 {
+"slug": "zakon-2026-396629",
+"path": "zakon/2026/396629",
+"kind": "zakon",
+"year": "2026",
+"number": "396629",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o rodnoj ravnopravnosti*",
+"short": "Zakon o rodnoj ravnopravnosti*",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-08-07",
+"latest": "2026-08-07",
+"portal": "https://www.sluzbenilist.me/propisi/396629",
+"amended_by": [
+{
+"ref": "pis:397971",
+"title": "Zakon o izmjenama i dopuni Zakona o rodnoj ravnopravnosti* (Službeni list Crne Gore, broj 132/2026)",
+"url": "https://www.sluzbenilist.me/propisi/397971"
+}
+]
+},
+{
 "slug": "zakon-2026-396630",
 "path": "zakon/2026/396630",
 "kind": "zakon",
@@ -633450,6 +638146,23 @@
 "portal": "https://www.sluzbenilist.me/propisi/396674"
 },
 {
+"slug": "zakon-2026-396675",
+"path": "zakon/2026/396675",
+"kind": "zakon",
+"year": "2026",
+"number": "396675",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o obaveznom osiguranju u saobraćaju",
+"short": "Zakon o izmjenama i dopunama Zakona o obaveznom osiguranju u saobraćaju",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2026-08-03",
+"latest": "2026-08-03",
+"portal": "https://www.sluzbenilist.me/propisi/396675"
+},
+{
 "slug": "zakon-2026-396676",
 "path": "zakon/2026/396676",
 "kind": "zakon",
@@ -633484,6 +638197,40 @@
 "portal": "https://www.sluzbenilist.me/propisi/396678"
 },
 {
+"slug": "zakon-2026-396679",
+"path": "zakon/2026/396679",
+"kind": "zakon",
+"year": "2026",
+"number": "396679",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjeni i dopuni Zakona o izboru Predsjednika Crne Gore",
+"short": "Zakon o izmjeni i dopuni Zakona o izboru Predsjednika Crne Gore",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2026-08-11",
+"latest": "2026-08-11",
+"portal": "https://www.sluzbenilist.me/propisi/396679"
+},
+{
+"slug": "zakon-2026-396680",
+"path": "zakon/2026/396680",
+"kind": "zakon",
+"year": "2026",
+"number": "396680",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o izboru odbornika i poslanika",
+"short": "Zakon o izmjenama i dopunama Zakona o izboru odbornika i poslanika",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2026-08-03",
+"latest": "2026-08-03",
+"portal": "https://www.sluzbenilist.me/propisi/396680"
+},
+{
 "slug": "zakon-2026-396681",
 "path": "zakon/2026/396681",
 "kind": "zakon",
@@ -633499,6 +638246,23 @@
 "from": "2026-08-11",
 "latest": "2026-08-11",
 "portal": "https://www.sluzbenilist.me/propisi/396681"
+},
+{
+"slug": "zakon-2026-396682",
+"path": "zakon/2026/396682",
+"kind": "zakon",
+"year": "2026",
+"number": "396682",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o dopunama Zakona o obaveznom zdravstvenom osiguranju",
+"short": "Zakon o dopunama Zakona o obaveznom zdravstvenom osiguranju",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2026-08-11",
+"latest": "2026-08-11",
+"portal": "https://www.sluzbenilist.me/propisi/396682"
 },
 {
 "slug": "odluka-2026-396683",
@@ -634334,6 +639098,30 @@
 "portal": "https://www.sluzbenilist.me/propisi/396856"
 },
 {
+"slug": "zakon-2026-396946",
+"path": "zakon/2026/396946",
+"kind": "zakon",
+"year": "2026",
+"number": "396946",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o zaštiti vazduha*",
+"short": "Zakon o zaštiti vazduha*",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-08-15",
+"latest": "2026-08-15",
+"portal": "https://www.sluzbenilist.me/propisi/396946",
+"amended_by": [
+{
+"ref": "pis:397092",
+"title": "Ispravka Zakona o zaštiti vazduha (Službeni list Crne Gore, broj 120/2026)",
+"url": "https://www.sluzbenilist.me/propisi/397092"
+}
+]
+},
+{
 "slug": "zakon-2026-396949",
 "path": "zakon/2026/396949",
 "kind": "zakon",
@@ -634368,6 +639156,30 @@
 "portal": "https://www.sluzbenilist.me/propisi/396950"
 },
 {
+"slug": "zakon-2026-396951",
+"path": "zakon/2026/396951",
+"kind": "zakon",
+"year": "2026",
+"number": "396951",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjeni i dopuni Zakona o unutrašnjim poslovima",
+"short": "Zakon o izmjeni i dopuni Zakona o unutrašnjim poslovima",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-08-07",
+"latest": "2026-08-07",
+"portal": "https://www.sluzbenilist.me/propisi/396951",
+"amended_by": [
+{
+"ref": "pis:398329",
+"title": "Zakon o izmjenama i dopunama Zakona o unutrašnjim poslovima (Službeni list Crne Gore, broj 137/2026)",
+"url": "https://www.sluzbenilist.me/propisi/398329"
+}
+]
+},
+{
 "slug": "zakon-2026-396952",
 "path": "zakon/2026/396952",
 "kind": "zakon",
@@ -634383,6 +639195,30 @@
 "from": "2026-08-15",
 "latest": "2026-08-15",
 "portal": "https://www.sluzbenilist.me/propisi/396952"
+},
+{
+"slug": "zakon-2026-396953",
+"path": "zakon/2026/396953",
+"kind": "zakon",
+"year": "2026",
+"number": "396953",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Krivičnog zakonika Crne Gore*",
+"short": "Zakon o izmjenama i dopunama Krivičnog zakonika Crne Gore*",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-08-08",
+"latest": "2026-08-08",
+"portal": "https://www.sluzbenilist.me/propisi/396953",
+"amended_by": [
+{
+"ref": "pis:398332",
+"title": "Zakon o izmjenama i dopunama Krivičnog zakonika Crne Gore* (Službeni list Crne Gore, broj 137/2026)",
+"url": "https://www.sluzbenilist.me/propisi/398332"
+}
+]
 },
 {
 "slug": "zakon-2026-396956",
@@ -636422,6 +641258,23 @@
 "portal": "https://www.sluzbenilist.me/propisi/397640"
 },
 {
+"slug": "zakon-2026-397643",
+"path": "zakon/2026/397643",
+"kind": "zakon",
+"year": "2026",
+"number": "397643",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o vodama",
+"short": "Zakon o izmjenama i dopunama Zakona o vodama",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2026-09-08",
+"latest": "2026-09-08",
+"portal": "https://www.sluzbenilist.me/propisi/397643"
+},
+{
 "slug": "uredba-2026-397644",
 "path": "uredba/2026/397644",
 "kind": "uredba",
@@ -637391,6 +642244,23 @@
 "portal": "https://www.sluzbenilist.me/propisi/397971"
 },
 {
+"slug": "zakon-2026-397972",
+"path": "zakon/2026/397972",
+"kind": "zakon",
+"year": "2026",
+"number": "397972",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopuni Zakona o odgovornosti pravnih lica za krivična djela*",
+"short": "Zakon o izmjenama i dopuni Zakona o odgovornosti pravnih lica za krivična djela*",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2026-09-10",
+"latest": "2026-09-10",
+"portal": "https://www.sluzbenilist.me/propisi/397972"
+},
+{
 "slug": "zakon-2026-397973",
 "path": "zakon/2026/397973",
 "kind": "zakon",
@@ -637474,6 +642344,30 @@
 "from": "2026-09-17",
 "latest": "2026-09-17",
 "portal": "https://www.sluzbenilist.me/propisi/397978"
+},
+{
+"slug": "zakon-2026-398067",
+"path": "zakon/2026/398067",
+"kind": "zakon",
+"year": "2026",
+"number": "398067",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o lokalnoj samoupravi",
+"short": "Zakon o lokalnoj samoupravi",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-09-19",
+"latest": "2026-09-19",
+"portal": "https://www.sluzbenilist.me/propisi/398067",
+"amended_by": [
+{
+"ref": "pis:398238",
+"title": "Ispravka Zakona o lokalnoj samoupravi (Službeni list Crne Gore, broj 135/2026)",
+"url": "https://www.sluzbenilist.me/propisi/398238"
+}
+]
 },
 {
 "slug": "pravilnik-2026-398068",
@@ -638120,6 +643014,23 @@
 "from": "2026-09-29",
 "latest": "2026-09-29",
 "portal": "https://www.sluzbenilist.me/propisi/398328"
+},
+{
+"slug": "zakon-2026-398329",
+"path": "zakon/2026/398329",
+"kind": "zakon",
+"year": "2026",
+"number": "398329",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o unutrašnjim poslovima",
+"short": "Zakon o izmjenama i dopunama Zakona o unutrašnjim poslovima",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2026-09-21",
+"latest": "2026-09-21",
+"portal": "https://www.sluzbenilist.me/propisi/398329"
 },
 {
 "slug": "zakon-2026-398330",
@@ -641765,6 +646676,23 @@
 "from": "2026-10-21",
 "latest": "2026-10-21",
 "portal": "https://www.sluzbenilist.me/propisi/399117"
+},
+{
+"slug": "zakon-2026-399149",
+"path": "zakon/2026/399149",
+"kind": "zakon",
+"year": "2026",
+"number": "399149",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o kreditnim institucijama",
+"short": "Zakon o izmjenama i dopunama Zakona o kreditnim institucijama",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2026-10-23",
+"latest": "2026-10-23",
+"portal": "https://www.sluzbenilist.me/propisi/399149"
 },
 {
 "slug": "zakon-2026-399150",

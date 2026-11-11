@@ -353627,6 +353627,21 @@
    ]
   },
   {
+   "slug": "zakon-2024-373337",
+   "path": "zakon/2024/373337",
+   "short": "Zakon o izmjeni i dopuni Zakona o stručnom osposobljavanju lica sa stečenim visokim obrazovanjem",
+   "title": "Zakon o izmjeni i dopuni Zakona o stručnom osposobljavanju lica sa stečenim visokim obrazovanjem",
+   "url": "https://www.sluzbenilist.me/propisi/373337",
+   "versions": [
+    {
+     "from": "2024-09-21",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/373337/download",
+     "sha256": "fecb8042959f8b66513cbe59d2974600e825fb2e4fbdf959e7bdceb12efdcb87"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2024-375969",
    "path": "zakon/2024/375969",
    "short": "Zakon o izmjenama i dopunama Zakona o besplatnoj pravnoj pomoći",
@@ -353672,6 +353687,21 @@
    ]
   },
   {
+   "slug": "zakon-2025-379959",
+   "path": "zakon/2025/379959",
+   "short": "Zakon o izmjeni Zakona o ličnoj karti",
+   "title": "Zakon o izmjeni Zakona o ličnoj karti",
+   "url": "https://www.sluzbenilist.me/propisi/379959",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/379959/download",
+     "sha256": "a4de73ce9c13f1020b14769c8ac30327913224ea4515349e82b95eb281a80339"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2025-380211",
    "path": "zakon/2025/380211",
    "short": "Zakon o izmjeni i dopunama Zakona o svojinsko-pravnim odnosima",
@@ -353698,6 +353728,81 @@
      "units": 61,
      "source_url": "https://www.sluzbenilist.me/propisi/382227/download",
      "sha256": "3dacd8f0ae0ae548f87546f227a81e22829434f125b05c420c3e9960548767d5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-382247",
+   "path": "zakon/2025/382247",
+   "short": "Zakon o izmjenama i dopunama Zakona o upravnom sporu",
+   "title": "Zakon o izmjenama i dopunama Zakona o upravnom sporu",
+   "url": "https://www.sluzbenilist.me/propisi/382247",
+   "versions": [
+    {
+     "from": "2025-06-06",
+     "units": 10,
+     "source_url": "https://www.sluzbenilist.me/propisi/382247/download",
+     "sha256": "10e851303a1c5f8b65d7382c17598afb3942ec7ba008fb4fed4b9706abe4b52b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-382287",
+   "path": "zakon/2025/382287",
+   "short": "Zakon o izmjenama i dopunama Zakona o nacionalnom okviru kvalifikacija",
+   "title": "Zakon o izmjenama i dopunama Zakona o nacionalnom okviru kvalifikacija",
+   "url": "https://www.sluzbenilist.me/propisi/382287",
+   "versions": [
+    {
+     "from": "2025-06-06",
+     "units": 15,
+     "source_url": "https://www.sluzbenilist.me/propisi/382287/download",
+     "sha256": "51051c16966d3140b42873ed1bafa4dd79ae281604e262c03d23776653702baa"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-382323",
+   "path": "zakon/2025/382323",
+   "short": "Zakon o dopuni Zakona o eksproprijaciji",
+   "title": "Zakon o dopuni Zakona o eksproprijaciji",
+   "url": "https://www.sluzbenilist.me/propisi/382323",
+   "versions": [
+    {
+     "from": "2025-06-06",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/382323/download",
+     "sha256": "40d84d4574261c2ebbe2668a8d5d32831bc5155c78a0336fbdd676b7c35f692f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-382344",
+   "path": "zakon/2025/382344",
+   "short": "Zakon o izmjenama i dopunama Zakona o inovacionoj djelatnosti",
+   "title": "Zakon o izmjenama i dopunama Zakona o inovacionoj djelatnosti",
+   "url": "https://www.sluzbenilist.me/propisi/382344",
+   "versions": [
+    {
+     "from": "2025-06-06",
+     "units": 16,
+     "source_url": "https://www.sluzbenilist.me/propisi/382344/download",
+     "sha256": "4eee932356f91d90294eec2808ffb8d53b7900a6a3fa0e80398a43c5139b61ea"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-382374",
+   "path": "zakon/2025/382374",
+   "short": "Zakon o izmjenama i dopunama Zakona o alternativnom rješavanju sporova",
+   "title": "Zakon o izmjenama i dopunama Zakona o alternativnom rješavanju sporova",
+   "url": "https://www.sluzbenilist.me/propisi/382374",
+   "versions": [
+    {
+     "from": "2025-06-06",
+     "units": 13,
+     "source_url": "https://www.sluzbenilist.me/propisi/382374/download",
+     "sha256": "9022dbd8156af0a4cfa75807dea53bb7ae85597a2f720a9c522db743e65c04ef"
     }
    ]
   },
@@ -353747,6 +353852,36 @@
    ]
   },
   {
+   "slug": "zakon-2025-383353",
+   "path": "zakon/2025/383353",
+   "short": "Zakon o izmjenama i dopunama Zakona o tržištu kapitala",
+   "title": "Zakon o izmjenama i dopunama Zakona o tržištu kapitala",
+   "url": "https://www.sluzbenilist.me/propisi/383353",
+   "versions": [
+    {
+     "from": "2025-07-11",
+     "units": 34,
+     "source_url": "https://www.sluzbenilist.me/propisi/383353/download",
+     "sha256": "021f7dbc070ac551d941db8f1f8ce59d393db58465c0a98527df14104f746395"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-383876",
+   "path": "zakon/2025/383876",
+   "short": "Zakon o izmjeni Zakona o zaštiti i spašavanju",
+   "title": "Zakon o izmjeni Zakona o zaštiti i spašavanju",
+   "url": "https://www.sluzbenilist.me/propisi/383876",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/383876/download",
+     "sha256": "480c20f55e5e33901970c1741726c019649fa1181a3a6ed5351b271656e994ea"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2025-383879",
    "path": "zakon/2025/383879",
    "short": "Zakon o izmjeni Zakona o ličnoj karti",
@@ -353758,6 +353893,51 @@
      "units": 3,
      "source_url": "https://www.sluzbenilist.me/propisi/383879/download",
      "sha256": "702053a1845299face70433f3288fd2d06504ff9703a31945a39162299c7d41a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-384088",
+   "path": "zakon/2025/384088",
+   "short": "Zakon o izmjenama i dopuni Zakona o obligacionim odnosima i osnovama svojinsko - pravnih odnosa u vazdušnom saobraćaju",
+   "title": "Zakon o izmjenama i dopuni Zakona o obligacionim odnosima i osnovama svojinsko - pravnih odnosa u vazdušnom saobraćaju",
+   "url": "https://www.sluzbenilist.me/propisi/384088",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.me/propisi/384088/download",
+     "sha256": "b999d53cf3b34b055bae3d8d16152b8552552af3caf15589dec27f925ae0251b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-384095",
+   "path": "zakon/2025/384095",
+   "short": "Zakon o izmjenama i dopunama Zakona o zaštiti lica i imovine",
+   "title": "Zakon o izmjenama i dopunama Zakona o zaštiti lica i imovine",
+   "url": "https://www.sluzbenilist.me/propisi/384095",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.me/propisi/384095/download",
+     "sha256": "68d59eb1cb6b57e51d1f1c4a99757137ba59d8fd54ca0d75ea52de21d7c267b4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-384123",
+   "path": "zakon/2025/384123",
+   "short": "Zakon o izmjenama i dopunama Zakona o stečaju i likvidaciji banaka*",
+   "title": "Zakon o izmjenama i dopunama Zakona o stečaju i likvidaciji banaka*",
+   "url": "https://www.sluzbenilist.me/propisi/384123",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 19,
+     "source_url": "https://www.sluzbenilist.me/propisi/384123/download",
+     "sha256": "68755969b18827686eb579030c2800f5481cd3b7b612ea81cd54ee3ea21fba56"
     }
    ]
   },
@@ -353833,6 +354013,66 @@
      "units": 3,
      "source_url": "https://www.sluzbenilist.me/propisi/386429/download",
      "sha256": "9c0ab2967c63ce90821716daba8efdf7a9972974623070f1da2c826fff982cc6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-386840",
+   "path": "zakon/2025/386840",
+   "short": "Zakon o izmjenama i dopunama Zakona o izvršenju uslovne osude i kazne rada u javnom interesu",
+   "title": "Zakon o izmjenama i dopunama Zakona o izvršenju uslovne osude i kazne rada u javnom interesu",
+   "url": "https://www.sluzbenilist.me/propisi/386840",
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "units": 23,
+     "source_url": "https://www.sluzbenilist.me/propisi/386840/download",
+     "sha256": "1861b1b6b2e422180fad35e5c1b181f3073fadcdacf082e846cb4ede62f7fe05"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-386843",
+   "path": "zakon/2025/386843",
+   "short": "Zakon o izmjenama Zakona o Razvojnoj banci",
+   "title": "Zakon o izmjenama Zakona o Razvojnoj banci",
+   "url": "https://www.sluzbenilist.me/propisi/386843",
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/386843/download",
+     "sha256": "8107a69c662a34c591a9a6f4d4d33f02f7ae9765010ec21d916b3b8b84d580c1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-386869",
+   "path": "zakon/2025/386869",
+   "short": "Zakon o dopuni Zakona o tumačima",
+   "title": "Zakon o dopuni Zakona o tumačima",
+   "url": "https://www.sluzbenilist.me/propisi/386869",
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/386869/download",
+     "sha256": "06643d360b55297628dfe920d19ef4bcd4e3a4dd6824093a8f03f965e7f6ae91"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-386876",
+   "path": "zakon/2025/386876",
+   "short": "Zakon o izmjeni Zakona o spoljnoj trgovini naoružanjem i vojnom opremom",
+   "title": "Zakon o izmjeni Zakona o spoljnoj trgovini naoružanjem i vojnom opremom",
+   "url": "https://www.sluzbenilist.me/propisi/386876",
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/386876/download",
+     "sha256": "1ee9b1d80849c9234d457b1a6ef85e658a221b8c0a3b9ffdbef4acd96aa8141a"
     }
    ]
   },
@@ -353972,6 +354212,21 @@
    ]
   },
   {
+   "slug": "zakon-2026-389790",
+   "path": "zakon/2026/389790",
+   "short": "Zakon o izmjeni Zakona o stručnom obrazovanju*",
+   "title": "Zakon o izmjeni Zakona o stručnom obrazovanju*",
+   "url": "https://www.sluzbenilist.me/propisi/389790",
+   "versions": [
+    {
+     "from": "2026-01-17",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/389790/download",
+     "sha256": "d97ac2956328930774744bff9400671cb587cf8d7d59688325e6a6616b11db92"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2026-389916",
    "path": "zakon/2026/389916",
    "short": "Zakon o izmjeni Zakona o detektivskoj djelatnosti*",
@@ -353998,6 +354253,21 @@
      "units": 8,
      "source_url": "https://www.sluzbenilist.me/propisi/389919/download",
      "sha256": "5c55b66550604f6898079dba3af989558f86cfaaf24cdd813fd47038074488d7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-390419",
+   "path": "zakon/2026/390419",
+   "short": "Zakon o izmjenama Opšteg zakona o obrazovanju i vaspitanju",
+   "title": "Zakon o izmjenama Opšteg zakona o obrazovanju i vaspitanju",
+   "url": "https://www.sluzbenilist.me/propisi/390419",
+   "versions": [
+    {
+     "from": "2026-02-14",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/390419/download",
+     "sha256": "73029527467d5986ca5b03a13d19c56a52757ee8b87b8e48f4568f46ebece09f"
     }
    ]
   },
@@ -354062,6 +354332,36 @@
    ]
   },
   {
+   "slug": "zakon-2026-391205",
+   "path": "zakon/2026/391205",
+   "short": "Zakon o izmjenama i dopunama Zakona o arbitraži",
+   "title": "Zakon o izmjenama i dopunama Zakona o arbitraži",
+   "url": "https://www.sluzbenilist.me/propisi/391205",
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "units": 21,
+     "source_url": "https://www.sluzbenilist.me/propisi/391205/download",
+     "sha256": "60aa5f9a526b323f49b6178387645b1166746f80781394fc9861016c5d69aea8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-391228",
+   "path": "zakon/2026/391228",
+   "short": "Zakon o izmjenama i dopunama Zakona o zaštiti prirodnog i kulturno-istorijskog područja Kotora",
+   "title": "Zakon o izmjenama i dopunama Zakona o zaštiti prirodnog i kulturno-istorijskog područja Kotora",
+   "url": "https://www.sluzbenilist.me/propisi/391228",
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/391228/download",
+     "sha256": "28621ad5f22458433253699d7a10dfd18406a5d5e37d0869efc955df4b4fef1c"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2026-391229",
    "path": "zakon/2026/391229",
    "short": "Zakon o izmjeni Zakona o Prijestonici",
@@ -354073,6 +354373,36 @@
      "units": 3,
      "source_url": "https://www.sluzbenilist.me/propisi/391229/download",
      "sha256": "a68bad139852326b036d946c6c890cd4bb4b2a2c55ec0a183a32006d5408c073"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-391230",
+   "path": "zakon/2026/391230",
+   "short": "Zakon o izmjenama Zakona o ostvarivanju prava na finansijsku podršku licima koja su bila zaposlena u privrednim društvima u sektoru drvoprerađivačke i šumarske industrije",
+   "title": "Zakon o izmjenama Zakona o ostvarivanju prava na finansijsku podršku licima koja su bila zaposlena u privrednim društvima u sektoru drvoprerađivačke i šumarske industrije",
+   "url": "https://www.sluzbenilist.me/propisi/391230",
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/391230/download",
+     "sha256": "dc7e442d80d28941ab89f0402b3053767b6243ed7ff349694ca2e71075748a56"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-391418",
+   "path": "zakon/2026/391418",
+   "short": "Zakon o izmjenama i dopunama Zakona o zdravstvenoj zaštiti*",
+   "title": "Zakon o izmjenama i dopunama Zakona o zdravstvenoj zaštiti*",
+   "url": "https://www.sluzbenilist.me/propisi/391418",
+   "versions": [
+    {
+     "from": "2026-03-14",
+     "units": 37,
+     "source_url": "https://www.sluzbenilist.me/propisi/391418/download",
+     "sha256": "fb5298c3a29a166148970e020e0815dde6fe23416f85aacf8e563d979257a21d"
     }
    ]
   },
@@ -354103,6 +354433,81 @@
      "units": 5,
      "source_url": "https://www.sluzbenilist.me/propisi/391459/download",
      "sha256": "94fd1679aef214b15b66c71aef97b681bb7c3cdf4e5f7499a21580f8ca0523d6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-391520",
+   "path": "zakon/2026/391520",
+   "short": "Zakon o dopuni Zakona o željeznici",
+   "title": "Zakon o dopuni Zakona o željeznici",
+   "url": "https://www.sluzbenilist.me/propisi/391520",
+   "versions": [
+    {
+     "from": "2026-02-20",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/391520/download",
+     "sha256": "0e13ec1e4caa0b479eb85824c3744a795f338e1ca447c9d4dd8b8ef5f3272168"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-391986",
+   "path": "zakon/2026/391986",
+   "short": "Zakon o izmjenama i dopunama Zakona o putevima",
+   "title": "Zakon o izmjenama i dopunama Zakona o putevima",
+   "url": "https://www.sluzbenilist.me/propisi/391986",
+   "versions": [
+    {
+     "from": "2026-03-28",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/391986/download",
+     "sha256": "11a7f16c764f8c6dcbcfc42bdc304903cb5293e22ce413865828cc3c7cafa06c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-392355",
+   "path": "zakon/2026/392355",
+   "short": "Zakon o izmjenama i dopunama Zakona o registraciji privrednih i drugih subjekata*",
+   "title": "Zakon o izmjenama i dopunama Zakona o registraciji privrednih i drugih subjekata*",
+   "url": "https://www.sluzbenilist.me/propisi/392355",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.me/propisi/392355/download",
+     "sha256": "13557fb588ee6e7fbc6507b5d6e4f333f1d13f851ff9aaf214522671f6b30d4a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-392363",
+   "path": "zakon/2026/392363",
+   "short": "Zakon o izmjenama i dopunama Zakona o privrednim društvima*",
+   "title": "Zakon o izmjenama i dopunama Zakona o privrednim društvima*",
+   "url": "https://www.sluzbenilist.me/propisi/392363",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 10,
+     "source_url": "https://www.sluzbenilist.me/propisi/392363/download",
+     "sha256": "1110da571ad3ef235c2c08b27a923698ed50e360c6bf6739a0db597669cdd216"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-392366",
+   "path": "zakon/2026/392366",
+   "short": "Zakon o izmjenama Zakona o ovjeri potpisa, rukopisa i prepisa",
+   "title": "Zakon o izmjenama Zakona o ovjeri potpisa, rukopisa i prepisa",
+   "url": "https://www.sluzbenilist.me/propisi/392366",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/392366/download",
+     "sha256": "f994a54bdb83242e8487ee43ee4fc5ec8d1bd3fecae291f06f766b46a03dbcf8"
     }
    ]
   },
@@ -354163,6 +354568,51 @@
      "units": 283,
      "source_url": "https://www.sluzbenilist.me/propisi/393186/download",
      "sha256": "a330ba23ad2fd125da596fee653bd89168cbafc3e8b60955cefa6cace6ec4038"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-393207",
+   "path": "zakon/2026/393207",
+   "short": "Zakon o izmjenama i dopunama Zakona o akreditaciji",
+   "title": "Zakon o izmjenama i dopunama Zakona o akreditaciji",
+   "url": "https://www.sluzbenilist.me/propisi/393207",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 12,
+     "source_url": "https://www.sluzbenilist.me/propisi/393207/download",
+     "sha256": "9b93165cf9dd66f441085da56022754e60f340158d76f582169da2fdc0831b9f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-393232",
+   "path": "zakon/2026/393232",
+   "short": "Zakon o dopunama Zakona o Socijalnom savjetu*",
+   "title": "Zakon o dopunama Zakona o Socijalnom savjetu*",
+   "url": "https://www.sluzbenilist.me/propisi/393232",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/393232/download",
+     "sha256": "b949dbe8f4ab2f6c7c817318ceb8ba5ba03176b1934e4269b3dbf1bf5bdbb192"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-393312",
+   "path": "zakon/2026/393312",
+   "short": "Zakon o izmjenama i dopunama Zakona o prevozu u drumskom saobraćaju",
+   "title": "Zakon o izmjenama i dopunama Zakona o prevozu u drumskom saobraćaju",
+   "url": "https://www.sluzbenilist.me/propisi/393312",
+   "versions": [
+    {
+     "from": "2026-04-25",
+     "units": 34,
+     "source_url": "https://www.sluzbenilist.me/propisi/393312/download",
+     "sha256": "9e8e3900683108f53ee88c0626b40ed88f210ead837727d56d3260c2a0cab16a"
     }
    ]
   },
@@ -354392,6 +354842,21 @@
    ]
   },
   {
+   "slug": "zakon-2026-395547",
+   "path": "zakon/2026/395547",
+   "short": "Zakon o izmjeni Zakona o jedinstvenom vještačenju invaliditeta",
+   "title": "Zakon o izmjeni Zakona o jedinstvenom vještačenju invaliditeta",
+   "url": "https://www.sluzbenilist.me/propisi/395547",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/395547/download",
+     "sha256": "d40b9a256a759510c5d2904c1693e4892d2e32eb002711638d05ca4f6b051011"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2026-395608",
    "path": "zakon/2026/395608",
    "short": "Zakon o izmjenama i dopunama Zakona o ljekovima*",
@@ -354437,6 +354902,21 @@
    ]
   },
   {
+   "slug": "zakon-2026-395869",
+   "path": "zakon/2026/395869",
+   "short": "Zakon o izmjenama Zakona o akcizama",
+   "title": "Zakon o izmjenama Zakona o akcizama",
+   "url": "https://www.sluzbenilist.me/propisi/395869",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/395869/download",
+     "sha256": "1070391943e65bc38fe5605247bf5d83b218ab5c40b1f5e3724fa5a1456aed82"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2026-395871",
    "path": "zakon/2026/395871",
    "short": "Zakon o izmjenama i dopunama Zakona o kinematografiji",
@@ -354463,6 +354943,21 @@
      "units": 15,
      "source_url": "https://www.sluzbenilist.me/propisi/395872/download",
      "sha256": "15b57473074533443700bd1b93fe75a25b011eef7782611a2b19abc227dcc20e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-395874",
+   "path": "zakon/2026/395874",
+   "short": "Zakon o izmjenama i dopunama Zakona o parničnom postupku*",
+   "title": "Zakon o izmjenama i dopunama Zakona o parničnom postupku*",
+   "url": "https://www.sluzbenilist.me/propisi/395874",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/395874/download",
+     "sha256": "4b950e500cd1dc83e3a1e09ab5a3e469878305f611b5469f372fe3b1eaf3f5ae"
     }
    ]
   },
@@ -354587,6 +355082,21 @@
    ]
   },
   {
+   "slug": "zakon-2026-396675",
+   "path": "zakon/2026/396675",
+   "short": "Zakon o izmjenama i dopunama Zakona o obaveznom osiguranju u saobraćaju",
+   "title": "Zakon o izmjenama i dopunama Zakona o obaveznom osiguranju u saobraćaju",
+   "url": "https://www.sluzbenilist.me/propisi/396675",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.me/propisi/396675/download",
+     "sha256": "81090b062db44e51c5cec39993e330e24a71cb580836daabed93a01b894054cd"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2026-396676",
    "path": "zakon/2026/396676",
    "short": "Zakon o izmjenama i dopuni Zakona o posredovanju u prometu i zakupu nepokretnosti",
@@ -354617,6 +355127,36 @@
    ]
   },
   {
+   "slug": "zakon-2026-396679",
+   "path": "zakon/2026/396679",
+   "short": "Zakon o izmjeni i dopuni Zakona o izboru Predsjednika Crne Gore",
+   "title": "Zakon o izmjeni i dopuni Zakona o izboru Predsjednika Crne Gore",
+   "url": "https://www.sluzbenilist.me/propisi/396679",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/396679/download",
+     "sha256": "8cfc867e42e868979ede370572df1fa72f075bf0efd8e4e4d529595e60ec3c1e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-396680",
+   "path": "zakon/2026/396680",
+   "short": "Zakon o izmjenama i dopunama Zakona o izboru odbornika i poslanika",
+   "title": "Zakon o izmjenama i dopunama Zakona o izboru odbornika i poslanika",
+   "url": "https://www.sluzbenilist.me/propisi/396680",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 20,
+     "source_url": "https://www.sluzbenilist.me/propisi/396680/download",
+     "sha256": "84ad432bd9d9623848366792634e2a6a2775e14c10ed1ac195ccc424a9d58828"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2026-396681",
    "path": "zakon/2026/396681",
    "short": "Zakon o izmjenama i dopunama Zakona o finansiranju političkih subjekata i izbornih kampanja",
@@ -354628,6 +355168,21 @@
      "units": 16,
      "source_url": "https://www.sluzbenilist.me/propisi/396681/download",
      "sha256": "7e39ff0884216b1def7c592430f87e24f02178cdd5672ef4e92d3a4656e88994"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-396682",
+   "path": "zakon/2026/396682",
+   "short": "Zakon o dopunama Zakona o obaveznom zdravstvenom osiguranju",
+   "title": "Zakon o dopunama Zakona o obaveznom zdravstvenom osiguranju",
+   "url": "https://www.sluzbenilist.me/propisi/396682",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/396682/download",
+     "sha256": "268f893c031bca9c6185e4d87c8c9159d87dffe564462f69ec01ffbe4647311a"
     }
    ]
   },
@@ -354962,6 +355517,21 @@
    ]
   },
   {
+   "slug": "zakon-2026-397643",
+   "path": "zakon/2026/397643",
+   "short": "Zakon o izmjenama i dopunama Zakona o vodama",
+   "title": "Zakon o izmjenama i dopunama Zakona o vodama",
+   "url": "https://www.sluzbenilist.me/propisi/397643",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 10,
+     "source_url": "https://www.sluzbenilist.me/propisi/397643/download",
+     "sha256": "6cf9a704fe8e1531d755c0926250cc895e91389e801e7e4a4e35ea06746c7fbb"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2026-397969",
    "path": "zakon/2026/397969",
    "short": "Zakon o izmjenama Zakona o porezu na promet nepokretnosti",
@@ -355003,6 +355573,21 @@
      "units": 6,
      "source_url": "https://www.sluzbenilist.me/propisi/397971/download",
      "sha256": "b25c32edf9ed60eadfdb36c2bb98236b99d426dfb2d951cff22159fbc8234e62"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-397972",
+   "path": "zakon/2026/397972",
+   "short": "Zakon o izmjenama i dopuni Zakona o odgovornosti pravnih lica za krivična djela*",
+   "title": "Zakon o izmjenama i dopuni Zakona o odgovornosti pravnih lica za krivična djela*",
+   "url": "https://www.sluzbenilist.me/propisi/397972",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 17,
+     "source_url": "https://www.sluzbenilist.me/propisi/397972/download",
+     "sha256": "a1df5f3c76fc7d4637115a8c91bbf48c232917cabed43e46765698da9105048a"
     }
    ]
   },
@@ -355063,6 +355648,21 @@
      "units": 3,
      "source_url": "https://www.sluzbenilist.me/propisi/398328/download",
      "sha256": "5e5e505bdd6fc8f069352a06db0c7bf16b2d15acce8ad7a61ed75398dcae7c2b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-398329",
+   "path": "zakon/2026/398329",
+   "short": "Zakon o izmjenama i dopunama Zakona o unutrašnjim poslovima",
+   "title": "Zakon o izmjenama i dopunama Zakona o unutrašnjim poslovima",
+   "url": "https://www.sluzbenilist.me/propisi/398329",
+   "versions": [
+    {
+     "from": "2026-09-21",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/398329/download",
+     "sha256": "e96dda941c75abcdeec2a3e5e053afdb9b9648fef9f9d077bc5169290c9eb33e"
     }
    ]
   },
@@ -355138,6 +355738,21 @@
      "units": 12,
      "source_url": "https://www.sluzbenilist.me/propisi/398995/download",
      "sha256": "7054e45b3d5de57329a68a708a6029519faaeafcd2f2132c37b6217d5b0a73b6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-399149",
+   "path": "zakon/2026/399149",
+   "short": "Zakon o izmjenama i dopunama Zakona o kreditnim institucijama",
+   "title": "Zakon o izmjenama i dopunama Zakona o kreditnim institucijama",
+   "url": "https://www.sluzbenilist.me/propisi/399149",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 34,
+     "source_url": "https://www.sluzbenilist.me/propisi/399149/download",
+     "sha256": "0b40b4fc613bf5f18983c7ad53e80eea0290d23f04a2002e0fead372fcf1db44"
     }
    ]
   },
@@ -529682,6 +530297,2136 @@
    ]
   },
   {
+   "slug": "zakon-2024-371314",
+   "path": "zakon/2024/371314",
+   "short": "Zakon o izmjenama i dopunama Zakona o sprečavanju pranja novca i finansiranja terorizma",
+   "title": "Zakon o izmjenama i dopunama Zakona o sprečavanju pranja novca i finansiranja terorizma",
+   "url": "https://www.sluzbenilist.me/propisi/371314",
+   "versions": [
+    {
+     "from": "2024-07-06",
+     "units": 43,
+     "source_url": "https://www.sluzbenilist.me/propisi/371314/download",
+     "sha256": "7a23ca1b5d555ab158f91966b01097d5f6cbc4db0d7ade553bb002bbb2136d6f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-373162",
+   "path": "zakon/2024/373162",
+   "short": "Zakon o dopuni Zakona o koncesijama",
+   "title": "Zakon o dopuni Zakona o koncesijama",
+   "url": "https://www.sluzbenilist.me/propisi/373162",
+   "versions": [
+    {
+     "from": "2024-08-31",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/373162/download",
+     "sha256": "ff55418147ad941c50dd12534697754b287bd33234894ae279fdf2c9f76e7837"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-373167",
+   "path": "zakon/2024/373167",
+   "short": "Zakon o izmjenama i dopunama Zakona o inspekcijskom nadzoru",
+   "title": "Zakon o izmjenama i dopunama Zakona o inspekcijskom nadzoru",
+   "url": "https://www.sluzbenilist.me/propisi/373167",
+   "versions": [
+    {
+     "from": "2024-09-14",
+     "units": 38,
+     "source_url": "https://www.sluzbenilist.me/propisi/373167/download",
+     "sha256": "50ac54e012afee9ae13f605d147872a84b19b8fe47555b2d81c787f3aa40c26b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-373181",
+   "path": "zakon/2024/373181",
+   "short": "Zakon o izmjenama i dopunama Zakona o unutrašnjim poslovima",
+   "title": "Zakon o izmjenama i dopunama Zakona o unutrašnjim poslovima",
+   "url": "https://www.sluzbenilist.me/propisi/373181",
+   "versions": [
+    {
+     "from": "2024-09-06",
+     "units": 18,
+     "source_url": "https://www.sluzbenilist.me/propisi/373181/download",
+     "sha256": "110fe1eae0414bdf29333c694d4b83c11d268819cea5b9cba5ee8c8220492d6e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-373190",
+   "path": "zakon/2024/373190",
+   "short": "Zakon o korišćenju energije iz obnovljivih izvora*",
+   "title": "Zakon o korišćenju energije iz obnovljivih izvora*",
+   "url": "https://www.sluzbenilist.me/propisi/373190",
+   "versions": [
+    {
+     "from": "2024-08-31",
+     "units": 143,
+     "source_url": "https://www.sluzbenilist.me/propisi/373190/download",
+     "sha256": "ee6117f5e0de513ae57d6585205c70a80bf15ee894cc31d46492a074a51ef520"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-373347",
+   "path": "zakon/2024/373347",
+   "short": "Zakon o izmjenama i dopunama Zakona o porezu na dobit pravnih lica",
+   "title": "Zakon o izmjenama i dopunama Zakona o porezu na dobit pravnih lica",
+   "url": "https://www.sluzbenilist.me/propisi/373347",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.me/propisi/373347/download",
+     "sha256": "c80bb779ed5fb69fc2d4f93166686b2b6aed7826ca6e30be40afcf059bc2a77b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-373700",
+   "path": "zakon/2024/373700",
+   "short": "Zakon o izmjenama Zakona o doprinosima za obavezno socijalno osiguranje",
+   "title": "Zakon o izmjenama Zakona o doprinosima za obavezno socijalno osiguranje",
+   "url": "https://www.sluzbenilist.me/propisi/373700",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/373700/download",
+     "sha256": "dab7987ab70add0a23b69c6ede011c9dbc07ff7627a24ab783b534efe640421e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-374037",
+   "path": "zakon/2024/374037",
+   "short": "Zakon o Razvojnoj banci Crne Gore",
+   "title": "Zakon o Razvojnoj banci Crne Gore",
+   "url": "https://www.sluzbenilist.me/propisi/374037",
+   "versions": [
+    {
+     "from": "2024-10-23",
+     "units": 97,
+     "source_url": "https://www.sluzbenilist.me/propisi/374037/download",
+     "sha256": "3a52510fcfb45c5f45bd0c6ba3929544f880e15aa21fa249aab84a50a2c80e42"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-374133",
+   "path": "zakon/2024/374133",
+   "short": "Zakon o elektronskim komunikacijama",
+   "title": "Zakon o elektronskim komunikacijama",
+   "url": "https://www.sluzbenilist.me/propisi/374133",
+   "versions": [
+    {
+     "from": "2024-10-24",
+     "units": 248,
+     "source_url": "https://www.sluzbenilist.me/propisi/374133/download",
+     "sha256": "ab47c3a61aad26e728e97f5f55a586c0b762bd92571c55362888bdd0e79a5660"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-374136",
+   "path": "zakon/2024/374136",
+   "short": "Zakon o izmjenama i dopunama Zakona o autorskom i srodnim pravima",
+   "title": "Zakon o izmjenama i dopunama Zakona o autorskom i srodnim pravima",
+   "url": "https://www.sluzbenilist.me/propisi/374136",
+   "versions": [
+    {
+     "from": "2024-10-24",
+     "units": 52,
+     "source_url": "https://www.sluzbenilist.me/propisi/374136/download",
+     "sha256": "a16829037375dcdb2506e90fa4961e3414926359adfe060297d58a7bdbfac4d4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-374968",
+   "path": "zakon/2024/374968",
+   "short": "Zakon o izmjeni i dopuni Zakona o stečaju i likvidaciji banaka",
+   "title": "Zakon o izmjeni i dopuni Zakona o stečaju i likvidaciji banaka",
+   "url": "https://www.sluzbenilist.me/propisi/374968",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 2,
+     "source_url": "https://www.sluzbenilist.me/propisi/374968/download",
+     "sha256": "02ab6bd7579b9f53a9b868aa0e16360959a2765ec92eb2c902b00f122a2e6c65"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-375705",
+   "path": "zakon/2024/375705",
+   "short": "Zakon o sigurnosti snabdijevanja naftnim derivatima",
+   "title": "Zakon o sigurnosti snabdijevanja naftnim derivatima",
+   "url": "https://www.sluzbenilist.me/propisi/375705",
+   "versions": [
+    {
+     "from": "2024-12-21",
+     "units": 64,
+     "source_url": "https://www.sluzbenilist.me/propisi/375705/download",
+     "sha256": "49c90b0d3fb6faa82c8095007231fc3ae270efc5ef65fcf54a0a96689119d9f6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-375970",
+   "path": "zakon/2024/375970",
+   "short": "Zakon o budžetskoj inspekciji",
+   "title": "Zakon o budžetskoj inspekciji",
+   "url": "https://www.sluzbenilist.me/propisi/375970",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 26,
+     "source_url": "https://www.sluzbenilist.me/propisi/375970/download",
+     "sha256": "1206d57465887b82fceb8145e28ef78be6a0581a748389aedc159c1b98ef39ba"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-375972",
+   "path": "zakon/2024/375972",
+   "short": "Zakon o izmjenama i dopunama Krivičnog zakonika Crne Gore",
+   "title": "Zakon o izmjenama i dopunama Krivičnog zakonika Crne Gore",
+   "url": "https://www.sluzbenilist.me/propisi/375972",
+   "versions": [
+    {
+     "from": "2024-12-24",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.me/propisi/375972/download",
+     "sha256": "d49c1f69dd46fad7375f235ee1dc06ce61547ab8bb5fc2412137777d05ce088d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-375974",
+   "path": "zakon/2024/375974",
+   "short": "Zakon o izmjenama i dopuni Zakona o obligacionim odnosima",
+   "title": "Zakon o izmjenama i dopuni Zakona o obligacionim odnosima",
+   "url": "https://www.sluzbenilist.me/propisi/375974",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.me/propisi/375974/download",
+     "sha256": "ad3cea4e5a87b7a0a96ea23708a60463e47980145e8edf434da4a41a78b7b38b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-387096",
+   "path": "zakon/2024/387096",
+   "short": "Zakon o izmjenama i dopuni Zakona o radu",
+   "title": "Zakon o izmjenama i dopuni Zakona o radu",
+   "url": "https://www.sluzbenilist.me/propisi/387096",
+   "versions": [
+    {
+     "from": "2024-09-11",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/387096/download",
+     "sha256": "546a2a17f36e76e9edb35ddaa30aad2c47263314164320620b5856a6009d54e1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-378374",
+   "path": "zakon/2025/378374",
+   "short": "Zakon o Budžetu Crne Gore za 2025. godinu",
+   "title": "Zakon o Budžetu Crne Gore za 2025. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/378374",
+   "versions": [
+    {
+     "from": "2025-02-10",
+     "units": 21,
+     "source_url": "https://www.sluzbenilist.me/propisi/378374/download",
+     "sha256": "0ea8a549d7b26b44c9c01b6266cb578acbff49339f666079cc3e1e6615dd7f01"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-378767",
+   "path": "zakon/2025/378767",
+   "short": "Zakon o izmjenama i dopunama Zakona o poreskoj administraciji",
+   "title": "Zakon o izmjenama i dopunama Zakona o poreskoj administraciji",
+   "url": "https://www.sluzbenilist.me/propisi/378767",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 10,
+     "source_url": "https://www.sluzbenilist.me/propisi/378767/download",
+     "sha256": "b9084c484f6c0f5febb066f02a040cd477b85a5c190e8b0501642b757dce92c9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-378771",
+   "path": "zakon/2025/378771",
+   "short": "Zakon o dobrovoljnim penzionim fondovima*",
+   "title": "Zakon o dobrovoljnim penzionim fondovima*",
+   "url": "https://www.sluzbenilist.me/propisi/378771",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 168,
+     "source_url": "https://www.sluzbenilist.me/propisi/378771/download",
+     "sha256": "d13ac31b23aa65bd716261e110518aad18b6b120c99b422ddf59fe054d5b9078"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-378784",
+   "path": "zakon/2025/378784",
+   "short": "Zakon o izmjenama i dopunama Zakona o građevinskim proizvodima",
+   "title": "Zakon o izmjenama i dopunama Zakona o građevinskim proizvodima",
+   "url": "https://www.sluzbenilist.me/propisi/378784",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 31,
+     "source_url": "https://www.sluzbenilist.me/propisi/378784/download",
+     "sha256": "02e9cac0befc229978bad2ebd2b7bf5a798487832e7737613afbc5ed35ef6986"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-378789",
+   "path": "zakon/2025/378789",
+   "short": "Zakon o potrošačkim kreditima",
+   "title": "Zakon o potrošačkim kreditima",
+   "url": "https://www.sluzbenilist.me/propisi/378789",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 104,
+     "source_url": "https://www.sluzbenilist.me/propisi/378789/download",
+     "sha256": "b8b959e03b473c6fd392532f56ae21645e0d0f459e44c6b6abc2e0c4d6efdd58"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-378794",
+   "path": "zakon/2025/378794",
+   "short": "Zakon o izmjenama i dopunama Zakona o platnom prometu",
+   "title": "Zakon o izmjenama i dopunama Zakona o platnom prometu",
+   "url": "https://www.sluzbenilist.me/propisi/378794",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 51,
+     "source_url": "https://www.sluzbenilist.me/propisi/378794/download",
+     "sha256": "b7dd35f8d792deb226a60aff0c60a9656c9753324dd600b5cd2e00152b4170d2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-379409",
+   "path": "zakon/2025/379409",
+   "short": "Zakon o izgradnji objekata",
+   "title": "Zakon o izgradnji objekata",
+   "url": "https://www.sluzbenilist.me/propisi/379409",
+   "versions": [
+    {
+     "from": "2025-03-05",
+     "units": 188,
+     "source_url": "https://www.sluzbenilist.me/propisi/379409/download",
+     "sha256": "ccffa61ba0585b9531f0db641da08e6bb103b0edbd900cf6e4bb04cc757de211"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-379416",
+   "path": "zakon/2025/379416",
+   "short": "Zakon o uređenju prostora",
+   "title": "Zakon o uređenju prostora",
+   "url": "https://www.sluzbenilist.me/propisi/379416",
+   "versions": [
+    {
+     "from": "2025-03-05",
+     "units": 176,
+     "source_url": "https://www.sluzbenilist.me/propisi/379416/download",
+     "sha256": "b568ebae284117d9b9102c7312dbf01b3a5fdd904e70af6b0979a4df2f937e5b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-379736",
+   "path": "zakon/2025/379736",
+   "short": "Zakon o izmjenama i dopunama Zakona o državnoj imovini",
+   "title": "Zakon o izmjenama i dopunama Zakona o državnoj imovini",
+   "url": "https://www.sluzbenilist.me/propisi/379736",
+   "versions": [
+    {
+     "from": "2025-03-19",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.me/propisi/379736/download",
+     "sha256": "759dcbae4b5378bb1a46c300df7a61d05a8667bc72c3916d3f12e575afff527b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-379749",
+   "path": "zakon/2025/379749",
+   "short": "Zakon o alternativnim investicionim fondovima",
+   "title": "Zakon o alternativnim investicionim fondovima",
+   "url": "https://www.sluzbenilist.me/propisi/379749",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 199,
+     "source_url": "https://www.sluzbenilist.me/propisi/379749/download",
+     "sha256": "749744ec5db1d471134687bfbb17a06c6be329478154d76196770f842597d9b8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-379750",
+   "path": "zakon/2025/379750",
+   "short": "Zakon o izmjenama i dopunama Zakona o boračkoj i invalidskoj zaštiti",
+   "title": "Zakon o izmjenama i dopunama Zakona o boračkoj i invalidskoj zaštiti",
+   "url": "https://www.sluzbenilist.me/propisi/379750",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 26,
+     "source_url": "https://www.sluzbenilist.me/propisi/379750/download",
+     "sha256": "ec3f370fac5db6f0bc421a6239afd9f5deeccc6b21e351fbe4414fd1dada4b17"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-379755",
+   "path": "zakon/2025/379755",
+   "short": "Zakon o finansijskim konglomeratima*",
+   "title": "Zakon o finansijskim konglomeratima*",
+   "url": "https://www.sluzbenilist.me/propisi/379755",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 52,
+     "source_url": "https://www.sluzbenilist.me/propisi/379755/download",
+     "sha256": "30251aa8192d6d504c575143985973ebb22ec2cde6db3a2c4a502eeeef49d476"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-380083",
+   "path": "zakon/2025/380083",
+   "short": "Zakon o izmjenama i dopunama Zakona o patentima",
+   "title": "Zakon o izmjenama i dopunama Zakona o patentima",
+   "url": "https://www.sluzbenilist.me/propisi/380083",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.me/propisi/380083/download",
+     "sha256": "875dd3d486397d332ecbebfa860e7db91603eb28354802f5fe10ac1f1d2a8d4c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-380090",
+   "path": "zakon/2025/380090",
+   "short": "Zakon o energetici",
+   "title": "Zakon o energetici",
+   "url": "https://www.sluzbenilist.me/propisi/380090",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 305,
+     "source_url": "https://www.sluzbenilist.me/propisi/380090/download",
+     "sha256": "820fdca4fcd051c1878df20c6321f7c45042110a848a097954f70c9d533c1720"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-380219",
+   "path": "zakon/2025/380219",
+   "short": "Zakon o izmjenama i dopunama Zakona o posredovanju pri zapošljavanju i pravima za vrijeme nezaposlenosti",
+   "title": "Zakon o izmjenama i dopunama Zakona o posredovanju pri zapošljavanju i pravima za vrijeme nezaposlenosti",
+   "url": "https://www.sluzbenilist.me/propisi/380219",
+   "versions": [
+    {
+     "from": "2025-03-29",
+     "units": 33,
+     "source_url": "https://www.sluzbenilist.me/propisi/380219/download",
+     "sha256": "69e32835c4a18818f605339f32e49e9801c5bd0636219a0c2c5fa7ffdb287b06"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-380601",
+   "path": "zakon/2025/380601",
+   "short": "Zakon o izmjenama Zakona o socijalnoj i dječijoj zaštiti",
+   "title": "Zakon o izmjenama Zakona o socijalnoj i dječijoj zaštiti",
+   "url": "https://www.sluzbenilist.me/propisi/380601",
+   "versions": [
+    {
+     "from": "2025-04-05",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/380601/download",
+     "sha256": "fd894f3824fa85cace7455c08cb3f040a1795310d259329f80468967fbcc3c9a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-380602",
+   "path": "zakon/2025/380602",
+   "short": "Zakon o osiguranju",
+   "title": "Zakon o osiguranju",
+   "url": "https://www.sluzbenilist.me/propisi/380602",
+   "versions": [
+    {
+     "from": "2025-04-05",
+     "units": 648,
+     "source_url": "https://www.sluzbenilist.me/propisi/380602/download",
+     "sha256": "896fac7926dfd772cb82bc8cceca3b10565bb24ff6009e2584c116ee8c7fc759"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-382226",
+   "path": "zakon/2025/382226",
+   "short": "Zakon o izmjenama i dopunama Zakona o divljači i lovstvu",
+   "title": "Zakon o izmjenama i dopunama Zakona o divljači i lovstvu",
+   "url": "https://www.sluzbenilist.me/propisi/382226",
+   "versions": [
+    {
+     "from": "2025-06-04",
+     "units": 24,
+     "source_url": "https://www.sluzbenilist.me/propisi/382226/download",
+     "sha256": "951659fe9d57d3b2a5702b575b7d8336e1d03bdd0195239d8ffd4b9359c7942a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-382228",
+   "path": "zakon/2025/382228",
+   "short": "Zakon o izmjenama Zakona o osnovnom obrazovanju i vaspitanju",
+   "title": "Zakon o izmjenama Zakona o osnovnom obrazovanju i vaspitanju",
+   "url": "https://www.sluzbenilist.me/propisi/382228",
+   "versions": [
+    {
+     "from": "2025-06-04",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/382228/download",
+     "sha256": "f317ca3bbe58b38f8dc91376ba7050f0179f4339aa629473cb5adfc397137288"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-382947",
+   "path": "zakon/2025/382947",
+   "short": "Zakon o ostvarivanju prava na finansijsku podršku licima koja su bila zaposlena u privrednim društvima u sektoru drvoprerađivačke šumarske industrije",
+   "title": "Zakon o ostvarivanju prava na finansijsku podršku licima koja su bila zaposlena u privrednim društvima u sektoru drvoprerađivačke šumarske industrije",
+   "url": "https://www.sluzbenilist.me/propisi/382947",
+   "versions": [
+    {
+     "from": "2025-06-25",
+     "units": 13,
+     "source_url": "https://www.sluzbenilist.me/propisi/382947/download",
+     "sha256": "eae4088218b36951ec7a7355d78d59288f202859694285539fefc993b62c1736"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-383347",
+   "path": "zakon/2025/383347",
+   "short": "Zakon o izmjenama i dopunama Zakona o obaveznom osiguranju u saobraćaju",
+   "title": "Zakon o izmjenama i dopunama Zakona o obaveznom osiguranju u saobraćaju",
+   "url": "https://www.sluzbenilist.me/propisi/383347",
+   "versions": [
+    {
+     "from": "2025-07-11",
+     "units": 18,
+     "source_url": "https://www.sluzbenilist.me/propisi/383347/download",
+     "sha256": "b175ca1d61aa7c10b362a32f1efa816b5a4dfe3d85e17d13f38fcfbbf9be6e8c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-383356",
+   "path": "zakon/2025/383356",
+   "short": "Zakon o izmjenama i dopunama Zakona o uzimanju i presađivanju ljudskih organa u svrhu liječenja",
+   "title": "Zakon o izmjenama i dopunama Zakona o uzimanju i presađivanju ljudskih organa u svrhu liječenja",
+   "url": "https://www.sluzbenilist.me/propisi/383356",
+   "versions": [
+    {
+     "from": "2025-07-11",
+     "units": 22,
+     "source_url": "https://www.sluzbenilist.me/propisi/383356/download",
+     "sha256": "6918232ab18826d56165287b5c0a169e536a14ffcac806f8fb6057e188a08000"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-383357",
+   "path": "zakon/2025/383357",
+   "short": "Zakon o izmjenama i dopunama Zakona o stručnom obrazovanju",
+   "title": "Zakon o izmjenama i dopunama Zakona o stručnom obrazovanju",
+   "url": "https://www.sluzbenilist.me/propisi/383357",
+   "versions": [
+    {
+     "from": "2025-07-11",
+     "units": 30,
+     "source_url": "https://www.sluzbenilist.me/propisi/383357/download",
+     "sha256": "27ef91050d7b0eb25d10e6191b0b796ec9e7501b895a6875cd43186cb95983ad"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-383872",
+   "path": "zakon/2025/383872",
+   "short": "Zakon o izmjenama i dopunama Zakona o državnim službenicima i namještenicima",
+   "title": "Zakon o izmjenama i dopunama Zakona o državnim službenicima i namještenicima",
+   "url": "https://www.sluzbenilist.me/propisi/383872",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 64,
+     "source_url": "https://www.sluzbenilist.me/propisi/383872/download",
+     "sha256": "72d22a0e7c011f8cfd7a0403a0305073028a3948691b3868ada42abde9b7d31f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-383877",
+   "path": "zakon/2025/383877",
+   "short": "Zakon o izmjeni Zakona o koncesijama",
+   "title": "Zakon o izmjeni Zakona o koncesijama",
+   "url": "https://www.sluzbenilist.me/propisi/383877",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/383877/download",
+     "sha256": "5e80560d8cce7c1839c64917fd2cb7719d25e9cc6444feb256ab957bf0efc6fe"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-383881",
+   "path": "zakon/2025/383881",
+   "short": "Zakon o izdavanju pokrivenih obveznica i nadzoru pokrivenih obveznica*",
+   "title": "Zakon o izdavanju pokrivenih obveznica i nadzoru pokrivenih obveznica*",
+   "url": "https://www.sluzbenilist.me/propisi/383881",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 69,
+     "source_url": "https://www.sluzbenilist.me/propisi/383881/download",
+     "sha256": "12fe16b127e8cc440e90d6c0f4eda9669186197d198f9b8cff86e4c5494255f3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-383993",
+   "path": "zakon/2025/383993",
+   "short": "Zakon o sanaciji investicionih društava*",
+   "title": "Zakon o sanaciji investicionih društava*",
+   "url": "https://www.sluzbenilist.me/propisi/383993",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 174,
+     "source_url": "https://www.sluzbenilist.me/propisi/383993/download",
+     "sha256": "a1949aaa04da3475e4a8f5b296f2baabba33e88df60d388dcf6a9266c30572e6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-384090",
+   "path": "zakon/2025/384090",
+   "short": "Zakon o izmjeni i dopunama Zakona o poreskim savjetnicima",
+   "title": "Zakon o izmjeni i dopunama Zakona o poreskim savjetnicima",
+   "url": "https://www.sluzbenilist.me/propisi/384090",
+   "versions": [
+    {
+     "from": "2025-08-06",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/384090/download",
+     "sha256": "dea3a38b934dc7b068107f3e83f0a2fdb2d5239c406c085781964ccfc345e738"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-384093",
+   "path": "zakon/2025/384093",
+   "short": "Zakon o izmjenama i dopunama Opšteg zakona o obrazovanju i vaspitanju",
+   "title": "Zakon o izmjenama i dopunama Opšteg zakona o obrazovanju i vaspitanju",
+   "url": "https://www.sluzbenilist.me/propisi/384093",
+   "versions": [
+    {
+     "from": "2025-08-06",
+     "units": 42,
+     "source_url": "https://www.sluzbenilist.me/propisi/384093/download",
+     "sha256": "fbb50137d7a8c0b8cac861e92e46c6d1927b3977fc6eb0e615f9536387fc21e4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-384097",
+   "path": "zakon/2025/384097",
+   "short": "Zakon o izmjenama i dopunama Zakona o vinu",
+   "title": "Zakon o izmjenama i dopunama Zakona o vinu",
+   "url": "https://www.sluzbenilist.me/propisi/384097",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 16,
+     "source_url": "https://www.sluzbenilist.me/propisi/384097/download",
+     "sha256": "411f85be3ef20b0050212b5d95f8ccb5f6e69b187719b771a06141f26e9153f3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-384126",
+   "path": "zakon/2025/384126",
+   "short": "Zakon o posredovanju u prometu i zakupu nepokretnosti",
+   "title": "Zakon o posredovanju u prometu i zakupu nepokretnosti",
+   "url": "https://www.sluzbenilist.me/propisi/384126",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 50,
+     "source_url": "https://www.sluzbenilist.me/propisi/384126/download",
+     "sha256": "999e231300d87493874f73d92b75a8cbb301910dacb24b16ec585699625e5433"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-384128",
+   "path": "zakon/2025/384128",
+   "short": "Zakon o izmjenama i dopunama Zakona o prevozu opasnih materija",
+   "title": "Zakon o izmjenama i dopunama Zakona o prevozu opasnih materija",
+   "url": "https://www.sluzbenilist.me/propisi/384128",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 18,
+     "source_url": "https://www.sluzbenilist.me/propisi/384128/download",
+     "sha256": "7fa81365b82e004a0caccade15259d75f5abe15372ef2a1a0881339d689ec532"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-384131",
+   "path": "zakon/2025/384131",
+   "short": "Zakon o izmjenama i dopunama Zakona o zanatstvu",
+   "title": "Zakon o izmjenama i dopunama Zakona o zanatstvu",
+   "url": "https://www.sluzbenilist.me/propisi/384131",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 13,
+     "source_url": "https://www.sluzbenilist.me/propisi/384131/download",
+     "sha256": "1cb433337f3c29255e29b7e40fede4b6fa21c38c9ab54ce696e42428a37491fb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-384140",
+   "path": "zakon/2025/384140",
+   "short": "Zakon o željeznici",
+   "title": "Zakon o željeznici",
+   "url": "https://www.sluzbenilist.me/propisi/384140",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 137,
+     "source_url": "https://www.sluzbenilist.me/propisi/384140/download",
+     "sha256": "f91a133ffbf02a8046d21df52f67889810724b38d0fabfe3afed8648044a236a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-384208",
+   "path": "zakon/2025/384208",
+   "short": "Zakon o izmjenama i dopunama Zakona o šumama",
+   "title": "Zakon o izmjenama i dopunama Zakona o šumama",
+   "url": "https://www.sluzbenilist.me/propisi/384208",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "units": 39,
+     "source_url": "https://www.sluzbenilist.me/propisi/384208/download",
+     "sha256": "e79731ba011e109008ce4200afd13d6eca2dcee19724ed527a0a39469e297779"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-384227",
+   "path": "zakon/2025/384227",
+   "short": "Zakon o izmjenama i dopunama Zakona o maslinarstvu i maslinovom ulju",
+   "title": "Zakon o izmjenama i dopunama Zakona o maslinarstvu i maslinovom ulju",
+   "url": "https://www.sluzbenilist.me/propisi/384227",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "units": 17,
+     "source_url": "https://www.sluzbenilist.me/propisi/384227/download",
+     "sha256": "8f1dff1d56950bda8592fd315540420207db497f614e9b60800317c2bffc7a24"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-384231",
+   "path": "zakon/2025/384231",
+   "short": "Zakon o dopunama Zakona o Ustavnom sudu Crne Gore",
+   "title": "Zakon o dopunama Zakona o Ustavnom sudu Crne Gore",
+   "url": "https://www.sluzbenilist.me/propisi/384231",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/384231/download",
+     "sha256": "bc7cd6958a6040980b648c6fd5cd9903bdf41fa79201572848f9d664e89c0995"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-384248",
+   "path": "zakon/2025/384248",
+   "short": "Zakon o izmjeni Zakona o finansiranju lokalne samouprave",
+   "title": "Zakon o izmjeni Zakona o finansiranju lokalne samouprave",
+   "url": "https://www.sluzbenilist.me/propisi/384248",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/384248/download",
+     "sha256": "e44f14d8e33965f7b25716d483290114d78b31c5fadfbc82dd26bf8a2840e856"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-384502",
+   "path": "zakon/2025/384502",
+   "short": "Zakon o dopuni Zakona o zaštiti kulturnih dobara",
+   "title": "Zakon o dopuni Zakona o zaštiti kulturnih dobara",
+   "url": "https://www.sluzbenilist.me/propisi/384502",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/384502/download",
+     "sha256": "667b8d8757a9befe847b9e2d42c082b51a1ed1a022f0c0226b9af820c2b2d5bd"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-384508",
+   "path": "zakon/2025/384508",
+   "short": "Zakon o legalizaciji bespravnih objekata",
+   "title": "Zakon o legalizaciji bespravnih objekata",
+   "url": "https://www.sluzbenilist.me/propisi/384508",
+   "versions": [
+    {
+     "from": "2025-08-14",
+     "units": 63,
+     "source_url": "https://www.sluzbenilist.me/propisi/384508/download",
+     "sha256": "fd74876fb00ce4f0a55095941976e6014d7ff35d7c92a39c574abf4b54ed90c1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-384520",
+   "path": "zakon/2025/384520",
+   "short": "Zakon o registraciji privrednih i drugih subjekata",
+   "title": "Zakon o registraciji privrednih i drugih subjekata",
+   "url": "https://www.sluzbenilist.me/propisi/384520",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "units": 58,
+     "source_url": "https://www.sluzbenilist.me/propisi/384520/download",
+     "sha256": "20c95190f6df3dae74fa8a4ed69ad420fa59e6d642740270dcf38716986b57c1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-385612",
+   "path": "zakon/2025/385612",
+   "short": "Zakon o izmjenama i dopunama Zakona o porezu na nepokretnosti",
+   "title": "Zakon o izmjenama i dopunama Zakona o porezu na nepokretnosti",
+   "url": "https://www.sluzbenilist.me/propisi/385612",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.me/propisi/385612/download",
+     "sha256": "46d6e015ac1d533ac70a8ccbf5c91d33eafc812f689e050d73b6c1c2881fc57f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-385752",
+   "path": "zakon/2025/385752",
+   "short": "Zakon o izmjeni i dopunama Zakona o povlastici na putovanje lica sa invaliditetom",
+   "title": "Zakon o izmjeni i dopunama Zakona o povlastici na putovanje lica sa invaliditetom",
+   "url": "https://www.sluzbenilist.me/propisi/385752",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/385752/download",
+     "sha256": "63069453f2600e072ef73d96d44a96604321773d5e2e3d305abe3553651e5524"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-385757",
+   "path": "zakon/2025/385757",
+   "short": "Zakon o visokom obrazovanju",
+   "title": "Zakon o visokom obrazovanju",
+   "url": "https://www.sluzbenilist.me/propisi/385757",
+   "versions": [
+    {
+     "from": "2025-10-23",
+     "units": 197,
+     "source_url": "https://www.sluzbenilist.me/propisi/385757/download",
+     "sha256": "12ab3ba7f3fd7f7262e4b2545c96f0a21f092dfe7b2aa73b57a879aa477025fe"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-385760",
+   "path": "zakon/2025/385760",
+   "short": "Zakon o jedinstvenom vještačenju invaliditeta",
+   "title": "Zakon o jedinstvenom vještačenju invaliditeta",
+   "url": "https://www.sluzbenilist.me/propisi/385760",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 71,
+     "source_url": "https://www.sluzbenilist.me/propisi/385760/download",
+     "sha256": "0f88ebff37961c7095600d57afe2d034d33a096d24a30b71a79d39ffbb9cc5d4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-385767",
+   "path": "zakon/2025/385767",
+   "short": "Zakon o dopunama Zakona o socijalnoj i dječjoj zaštiti",
+   "title": "Zakon o dopunama Zakona o socijalnoj i dječjoj zaštiti",
+   "url": "https://www.sluzbenilist.me/propisi/385767",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/385767/download",
+     "sha256": "0eec4c4bd75bf95fc04292f5aa3e73a394f52416e9d09774cff9802ab39c356b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-386006",
+   "path": "zakon/2025/386006",
+   "short": "Zakon o izmjenama i dopunama Zakona o socijalnom stanovanju",
+   "title": "Zakon o izmjenama i dopunama Zakona o socijalnom stanovanju",
+   "url": "https://www.sluzbenilist.me/propisi/386006",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 16,
+     "source_url": "https://www.sluzbenilist.me/propisi/386006/download",
+     "sha256": "6720beaa670df64c6c11b28e1b9ca35e864a474cc5081f501c42dabefd91c810"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-386008",
+   "path": "zakon/2025/386008",
+   "short": "Zakon o izmjenama Zakona o zdravstvenoj zaštiti*",
+   "title": "Zakon o izmjenama Zakona o zdravstvenoj zaštiti*",
+   "url": "https://www.sluzbenilist.me/propisi/386008",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 23,
+     "source_url": "https://www.sluzbenilist.me/propisi/386008/download",
+     "sha256": "0aca6b327c34275a892849e5a307bbf2c461682f8704d87fb25d4d094b69a244"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-386046",
+   "path": "zakon/2025/386046",
+   "short": "Zakon o izmjenama i dopunama Zakona o privrednim društvima*",
+   "title": "Zakon o izmjenama i dopunama Zakona o privrednim društvima*",
+   "url": "https://www.sluzbenilist.me/propisi/386046",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 11,
+     "source_url": "https://www.sluzbenilist.me/propisi/386046/download",
+     "sha256": "303680b5833e081d4e6677ced496772343b04425620f772024ebdb4e6cc5cb36"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-386428",
+   "path": "zakon/2025/386428",
+   "short": "Zakon o izmjeni Zakona o porezu na dohodak fizičkih lica",
+   "title": "Zakon o izmjeni Zakona o porezu na dohodak fizičkih lica",
+   "url": "https://www.sluzbenilist.me/propisi/386428",
+   "versions": [
+    {
+     "from": "2025-11-19",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/386428/download",
+     "sha256": "82a43290dd3a72fab9683891734bd555975083d7ce9c2889bd08083cfefff67a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-386830",
+   "path": "zakon/2025/386830",
+   "short": "Zakon o izmjeni Zakona o platnom prometu",
+   "title": "Zakon o izmjeni Zakona o platnom prometu",
+   "url": "https://www.sluzbenilist.me/propisi/386830",
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/386830/download",
+     "sha256": "ba268c59ef8fe51a7d5d3fe1adbdb6c3198271c07ca492fbf9ad91db5ec81be9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-386832",
+   "path": "zakon/2025/386832",
+   "short": "Zakon o izvršenju kazni zatvora, novčane kazne i mjera bezbjednosti",
+   "title": "Zakon o izvršenju kazni zatvora, novčane kazne i mjera bezbjednosti",
+   "url": "https://www.sluzbenilist.me/propisi/386832",
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "units": 258,
+     "source_url": "https://www.sluzbenilist.me/propisi/386832/download",
+     "sha256": "8b97128bf59197ed7431d8589791bae3a6f188a086e45a1a665b0bbb35ad1d25"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-386837",
+   "path": "zakon/2025/386837",
+   "short": "Zakon o izmjenama i dopunama Zakona o šemama kvaliteta poljoprivrednih i prehrambenih proizvoda",
+   "title": "Zakon o izmjenama i dopunama Zakona o šemama kvaliteta poljoprivrednih i prehrambenih proizvoda",
+   "url": "https://www.sluzbenilist.me/propisi/386837",
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "units": 15,
+     "source_url": "https://www.sluzbenilist.me/propisi/386837/download",
+     "sha256": "2d567c5f8060f16dbd87497b76b40191231d17e7909e4b099343a24b23af805e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-386870",
+   "path": "zakon/2025/386870",
+   "short": "Zakon o dopuni Zakona o notarima",
+   "title": "Zakon o dopuni Zakona o notarima",
+   "url": "https://www.sluzbenilist.me/propisi/386870",
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/386870/download",
+     "sha256": "ef54ef6d25a93c4e3bf084ad03c270073fc06c9cf956e83a9329708fa0fafbe8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-386883",
+   "path": "zakon/2025/386883",
+   "short": "Zakon o dopunama Zakona o ovjeri potpisa, rukopisa i prepisa",
+   "title": "Zakon o dopunama Zakona o ovjeri potpisa, rukopisa i prepisa",
+   "url": "https://www.sluzbenilist.me/propisi/386883",
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/386883/download",
+     "sha256": "24ad79c7549af2b689dfcc4a7f43dc18d7d49e37a67548f181e32615ca8c4faf"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-387386",
+   "path": "zakon/2025/387386",
+   "short": "Zakon o finansiranju političkih subjekata i izbornih kampanja",
+   "title": "Zakon o finansiranju političkih subjekata i izbornih kampanja",
+   "url": "https://www.sluzbenilist.me/propisi/387386",
+   "versions": [
+    {
+     "from": "2025-07-29",
+     "units": 92,
+     "source_url": "https://www.sluzbenilist.me/propisi/387386/download",
+     "sha256": "e086cefac48aac72ca930fabc0d8fe081143d921ca92ef637521c963f000281f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-387464",
+   "path": "zakon/2025/387464",
+   "short": "Zakon o izmjenama i dopunama Krivičnog zakonika Crne Gore*",
+   "title": "Zakon o izmjenama i dopunama Krivičnog zakonika Crne Gore*",
+   "url": "https://www.sluzbenilist.me/propisi/387464",
+   "versions": [
+    {
+     "from": "2025-10-22",
+     "units": 13,
+     "source_url": "https://www.sluzbenilist.me/propisi/387464/download",
+     "sha256": "301b822a6afa99856d940065942e701236d9b96702047db25b5d5099db0bae0e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-388124",
+   "path": "zakon/2025/388124",
+   "short": "Zakon o izmjenama i dopuni Zakona o sprječavanju nelegalnog poslovanja",
+   "title": "Zakon o izmjenama i dopuni Zakona o sprječavanju nelegalnog poslovanja",
+   "url": "https://www.sluzbenilist.me/propisi/388124",
+   "versions": [
+    {
+     "from": "2025-11-08",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.me/propisi/388124/download",
+     "sha256": "56885b6b10c0b2f0453011a1c013d1b8b56a7aed6fa83d935bc057335a9e98d4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-388144",
+   "path": "zakon/2025/388144",
+   "short": "Zakon o izmjenama i dopunama Zakona o izboru odbornika i poslanika",
+   "title": "Zakon o izmjenama i dopunama Zakona o izboru odbornika i poslanika",
+   "url": "https://www.sluzbenilist.me/propisi/388144",
+   "versions": [
+    {
+     "from": "2025-07-29",
+     "units": 49,
+     "source_url": "https://www.sluzbenilist.me/propisi/388144/download",
+     "sha256": "6d7d94260744e24fa897eaff693bb3abcdb351b6425ea4ab9fbdc37990531001"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-388235",
+   "path": "zakon/2025/388235",
+   "short": "Zakon o izmjenama i dopuni Zakona o registraciji privrednih i drugih subjekata*",
+   "title": "Zakon o izmjenama i dopuni Zakona o registraciji privrednih i drugih subjekata*",
+   "url": "https://www.sluzbenilist.me/propisi/388235",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.me/propisi/388235/download",
+     "sha256": "cff51d70a435711feac8bc70acee7280d4838077fe8e79fd25d8b7b77e0baaba"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-388390",
+   "path": "zakon/2025/388390",
+   "short": "Zakon o izmjenama i dopuni Zakona o lokalnoj samoupravi",
+   "title": "Zakon o izmjenama i dopuni Zakona o lokalnoj samoupravi",
+   "url": "https://www.sluzbenilist.me/propisi/388390",
+   "versions": [
+    {
+     "from": "2025-07-29",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.me/propisi/388390/download",
+     "sha256": "878cfcf74f1493953b9769a6d4026785fe66835209e915e1503b011257ea9526"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-389088",
+   "path": "zakon/2025/389088",
+   "short": "Zakon o izmjenama i dopunama Zakona o finansiranju lokalne samouprave",
+   "title": "Zakon o izmjenama i dopunama Zakona o finansiranju lokalne samouprave",
+   "url": "https://www.sluzbenilist.me/propisi/389088",
+   "versions": [
+    {
+     "from": "2025-12-25",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.me/propisi/389088/download",
+     "sha256": "8d118c7468c0db8f8de7843d079f1f98d137afd383e91bb113d9dbebb13a6380"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-389429",
+   "path": "zakon/2025/389429",
+   "short": "Zakon o izmjenama i dopunama Zakona o porezu na dohodak fizičkih lica",
+   "title": "Zakon o izmjenama i dopunama Zakona o porezu na dohodak fizičkih lica",
+   "url": "https://www.sluzbenilist.me/propisi/389429",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/389429/download",
+     "sha256": "45195ef24f304fb096a5e68d05f2a993c0a8930435c162d16cc358b47e048db0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-389433",
+   "path": "zakon/2025/389433",
+   "short": "Zakon o izmjenama i dopunama Zakona o državnom premjeru i katastru nepokretnosti",
+   "title": "Zakon o izmjenama i dopunama Zakona o državnom premjeru i katastru nepokretnosti",
+   "url": "https://www.sluzbenilist.me/propisi/389433",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.me/propisi/389433/download",
+     "sha256": "3cdd004ab642db6f03ddf76427553b546a1b61b4e9bbfc469e7d63ce21c3e378"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-389445",
+   "path": "zakon/2025/389445",
+   "short": "Zakon o izmjeni Zakona o državnoj imovini",
+   "title": "Zakon o izmjeni Zakona o državnoj imovini",
+   "url": "https://www.sluzbenilist.me/propisi/389445",
+   "versions": [
+    {
+     "from": "2026-01-07",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/389445/download",
+     "sha256": "3278cfb6fa5aa8a7eead2a7c1beb3c07e4260d7b3dc4802914ab2ef4d85624bb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-389447",
+   "path": "zakon/2025/389447",
+   "short": "Zakon o izmjenama i dopunama Zakona o osiguranju",
+   "title": "Zakon o izmjenama i dopunama Zakona o osiguranju",
+   "url": "https://www.sluzbenilist.me/propisi/389447",
+   "versions": [
+    {
+     "from": "2026-01-07",
+     "units": 40,
+     "source_url": "https://www.sluzbenilist.me/propisi/389447/download",
+     "sha256": "493b014ac4b3b68d4f4537a89c2b4301399b29da0619e00d5b87609b9e6a29f3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-389458",
+   "path": "zakon/2025/389458",
+   "short": "Zakon o opštoj bezbjednosti proizvoda",
+   "title": "Zakon o opštoj bezbjednosti proizvoda",
+   "url": "https://www.sluzbenilist.me/propisi/389458",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 62,
+     "source_url": "https://www.sluzbenilist.me/propisi/389458/download",
+     "sha256": "fa320825c77f2d1ae04a4c57a1db8a8ed0d122d3ecc33340eb61646df7386567"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-389460",
+   "path": "zakon/2025/389460",
+   "short": "Zakon o izmjenama i dopunama Zakona o poreskoj administraciji",
+   "title": "Zakon o izmjenama i dopunama Zakona o poreskoj administraciji",
+   "url": "https://www.sluzbenilist.me/propisi/389460",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.me/propisi/389460/download",
+     "sha256": "ce2df065c9a858a576ec59afa0f1b347415ed90f2e36b82003683f51a537b176"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-389469",
+   "path": "zakon/2025/389469",
+   "short": "Zakon o dopunama Zakona o socijalnoj i dječjoj zaštiti",
+   "title": "Zakon o dopunama Zakona o socijalnoj i dječjoj zaštiti",
+   "url": "https://www.sluzbenilist.me/propisi/389469",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.me/propisi/389469/download",
+     "sha256": "53944a8650f59612cdf87c70a98a344fb4fd33bc457e32787e7753b0752b7937"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-389470",
+   "path": "zakon/2025/389470",
+   "short": "Zakon o izmjenama i dopuni Zakona o doprinosima za obavezno socijalno osiguranje",
+   "title": "Zakon o izmjenama i dopuni Zakona o doprinosima za obavezno socijalno osiguranje",
+   "url": "https://www.sluzbenilist.me/propisi/389470",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.me/propisi/389470/download",
+     "sha256": "607b147d5bd669574e42379bb633950fc673302415f37f9a125720970ba0e38f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-389476",
+   "path": "zakon/2025/389476",
+   "short": "Zakon o dopunama Zakona o ograničavanju upotrebe duvanskih proizvoda",
+   "title": "Zakon o dopunama Zakona o ograničavanju upotrebe duvanskih proizvoda",
+   "url": "https://www.sluzbenilist.me/propisi/389476",
+   "versions": [
+    {
+     "from": "2026-01-07",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/389476/download",
+     "sha256": "a9fdf708f489b7498709d0716ca5d4d4b83d132284947edd96f9595392f15127"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-389479",
+   "path": "zakon/2025/389479",
+   "short": "Zakon o izmjenama i dopunama Zakona o izgradnji objekata",
+   "title": "Zakon o izmjenama i dopunama Zakona o izgradnji objekata",
+   "url": "https://www.sluzbenilist.me/propisi/389479",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 18,
+     "source_url": "https://www.sluzbenilist.me/propisi/389479/download",
+     "sha256": "4048eff4555188efd39616beeb7cc7f46f19fcd850e9fcfb10e55f9c1f3809ab"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-389510",
+   "path": "zakon/2025/389510",
+   "short": "Zakon o dopunama Zakona o radu",
+   "title": "Zakon o dopunama Zakona o radu",
+   "url": "https://www.sluzbenilist.me/propisi/389510",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.me/propisi/389510/download",
+     "sha256": "229ba15408df33d9c211f23179f57180731a5f104eedceebd85b9357fb6c21a8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-389512",
+   "path": "zakon/2025/389512",
+   "short": "Zakon o izmjeni i dopunama Zakona o efikasnom korišćenju energije",
+   "title": "Zakon o izmjeni i dopunama Zakona o efikasnom korišćenju energije",
+   "url": "https://www.sluzbenilist.me/propisi/389512",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.me/propisi/389512/download",
+     "sha256": "1811bb0ef410ae7fac3b8e8dd2de6f6403fcf16ab53a8bfd9e795f2ae4f3a823"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-389521",
+   "path": "zakon/2025/389521",
+   "short": "Zakon o izmjenama i dopunama Zakona o uzimanju i presađivanju ljudskih tkiva i ćelija u svrhu liječenja*",
+   "title": "Zakon o izmjenama i dopunama Zakona o uzimanju i presađivanju ljudskih tkiva i ćelija u svrhu liječenja*",
+   "url": "https://www.sluzbenilist.me/propisi/389521",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 16,
+     "source_url": "https://www.sluzbenilist.me/propisi/389521/download",
+     "sha256": "ca4bacdee91a95387af057b5b58a458cbd413dd75e8f5850cdbb2c0aca5eb216"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-389702",
+   "path": "zakon/2026/389702",
+   "short": "Zakon o saradnji Crne Gore sa dijasporom - iseljenicima",
+   "title": "Zakon o saradnji Crne Gore sa dijasporom - iseljenicima",
+   "url": "https://www.sluzbenilist.me/propisi/389702",
+   "versions": [
+    {
+     "from": "2026-01-17",
+     "units": 79,
+     "source_url": "https://www.sluzbenilist.me/propisi/389702/download",
+     "sha256": "50e78122420ff949507521757bdd8f5f7572d00bec636a2eff64782c60fce371"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-389704",
+   "path": "zakon/2026/389704",
+   "short": "Zakon o zaštiti jednakosti i zabrani diskriminacije*",
+   "title": "Zakon o zaštiti jednakosti i zabrani diskriminacije*",
+   "url": "https://www.sluzbenilist.me/propisi/389704",
+   "versions": [
+    {
+     "from": "2026-01-17",
+     "units": 54,
+     "source_url": "https://www.sluzbenilist.me/propisi/389704/download",
+     "sha256": "dc23131cdeeea6a61c6a4f195befe0c946f87f7c8b945fe04a4af5ec81bd43d1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-390416",
+   "path": "zakon/2026/390416",
+   "short": "Zakon o ugovornim odnosima u željezničkom saobraćaju",
+   "title": "Zakon o ugovornim odnosima u željezničkom saobraćaju",
+   "url": "https://www.sluzbenilist.me/propisi/390416",
+   "versions": [
+    {
+     "from": "2026-02-14",
+     "units": 177,
+     "source_url": "https://www.sluzbenilist.me/propisi/390416/download",
+     "sha256": "0ebf81dc28b8c2ebb81d456528b97610efc6fbc3aded7ec48f52bc315e57465e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-390421",
+   "path": "zakon/2026/390421",
+   "short": "Zakon o izmjenama i dopunama Zakona o uzimanju i presađivanju ljudskih organa u svrhu liječenja*",
+   "title": "Zakon o izmjenama i dopunama Zakona o uzimanju i presađivanju ljudskih organa u svrhu liječenja*",
+   "url": "https://www.sluzbenilist.me/propisi/390421",
+   "versions": [
+    {
+     "from": "2026-02-07",
+     "units": 15,
+     "source_url": "https://www.sluzbenilist.me/propisi/390421/download",
+     "sha256": "8d460eed30743ef5a770b6b082bdff460d99db322e5910285b69ba83569e129e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-390422",
+   "path": "zakon/2026/390422",
+   "short": "Zakon o izmjenama i dopunama Zakona o socijalnom stanovanju*",
+   "title": "Zakon o izmjenama i dopunama Zakona o socijalnom stanovanju*",
+   "url": "https://www.sluzbenilist.me/propisi/390422",
+   "versions": [
+    {
+     "from": "2026-02-14",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/390422/download",
+     "sha256": "d118b5ec9e96f5a469d10f30da79decdb0675b904de9a3340ba43a64ae838661"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-390424",
+   "path": "zakon/2026/390424",
+   "short": "Zakon o dopunama Zakona o parničnom postupku*",
+   "title": "Zakon o dopunama Zakona o parničnom postupku*",
+   "url": "https://www.sluzbenilist.me/propisi/390424",
+   "versions": [
+    {
+     "from": "2026-02-14",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/390424/download",
+     "sha256": "42e2c11d58c786d2279d134ef5f42dd2254ad0541ecbe03a7f97fe720b91214a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-390548",
+   "path": "zakon/2026/390548",
+   "short": "Zakon o izmjeni i dopuni Zakona o finansijskim konglomeratima*",
+   "title": "Zakon o izmjeni i dopuni Zakona o finansijskim konglomeratima*",
+   "url": "https://www.sluzbenilist.me/propisi/390548",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/390548/download",
+     "sha256": "4e2f4aee42b65f8020faefa2891b05760c9b696d792ec023073ff10ab7e12982"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-390550",
+   "path": "zakon/2026/390550",
+   "short": "Zakon o izmjenama i dopunama Zakona o sanaciji kreditnih institucija*",
+   "title": "Zakon o izmjenama i dopunama Zakona o sanaciji kreditnih institucija*",
+   "url": "https://www.sluzbenilist.me/propisi/390550",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 10,
+     "source_url": "https://www.sluzbenilist.me/propisi/390550/download",
+     "sha256": "2b0046a5de317f52c0a3a34f267ea127409ed10e80dc03ae21a903086a913a8d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-390551",
+   "path": "zakon/2026/390551",
+   "short": "Zakon o izmjenama i dopunama Zakona o otvorenim investicionim fondovima sa javnom ponudom",
+   "title": "Zakon o izmjenama i dopunama Zakona o otvorenim investicionim fondovima sa javnom ponudom",
+   "url": "https://www.sluzbenilist.me/propisi/390551",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 52,
+     "source_url": "https://www.sluzbenilist.me/propisi/390551/download",
+     "sha256": "caa66c7567347e378f1991a40bd0f6f392a477796e9b008ef1533896b2f349f0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-390556",
+   "path": "zakon/2026/390556",
+   "short": "Zakon o dopuni Zakona o penzijskom i invalidskom osiguranju",
+   "title": "Zakon o dopuni Zakona o penzijskom i invalidskom osiguranju",
+   "url": "https://www.sluzbenilist.me/propisi/390556",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/390556/download",
+     "sha256": "6632b6c5aa7d72965ec14d701bf1979508c3b937400cfcadcc0c37281ce47afb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-390558",
+   "path": "zakon/2026/390558",
+   "short": "Zakon o ljekovima*",
+   "title": "Zakon o ljekovima*",
+   "url": "https://www.sluzbenilist.me/propisi/390558",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 384,
+     "source_url": "https://www.sluzbenilist.me/propisi/390558/download",
+     "sha256": "6f9e3716fc4a60705d5a7041a40126a2cbb821717fe2e929b66aab14a63de5e2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-390826",
+   "path": "zakon/2026/390826",
+   "short": "Zakon o izmjenama i dopuni Zakona o unutrašnjoj trgovini",
+   "title": "Zakon o izmjenama i dopuni Zakona o unutrašnjoj trgovini",
+   "url": "https://www.sluzbenilist.me/propisi/390826",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/390826/download",
+     "sha256": "8665665c20288f41e50f86069002e639f23dd8d298b740ed3d0cf334819d1a00"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-390846",
+   "path": "zakon/2026/390846",
+   "short": "Zakon o izmjenama i dopunama Zakona o legalizaciji bespravnih objekata",
+   "title": "Zakon o izmjenama i dopunama Zakona o legalizaciji bespravnih objekata",
+   "url": "https://www.sluzbenilist.me/propisi/390846",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 10,
+     "source_url": "https://www.sluzbenilist.me/propisi/390846/download",
+     "sha256": "b3c7528318f7ee4e6f571e31078f14d294e7a0ee35dc054fc274940ecc6ef5f9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-391195",
+   "path": "zakon/2026/391195",
+   "short": "Zakon o izmjenama i dopunama Zakona o zapaljivim tečnostima i gasovima",
+   "title": "Zakon o izmjenama i dopunama Zakona o zapaljivim tečnostima i gasovima",
+   "url": "https://www.sluzbenilist.me/propisi/391195",
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.me/propisi/391195/download",
+     "sha256": "c7700ca00e8bac4bac471bbfc13e0c7386161338e8952b5b634951cc08d676a0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-391227",
+   "path": "zakon/2026/391227",
+   "short": "Zakon o izmjenama i dopunama Zakona o uređenju tržišta poljoprivrednih proizvoda*",
+   "title": "Zakon o izmjenama i dopunama Zakona o uređenju tržišta poljoprivrednih proizvoda*",
+   "url": "https://www.sluzbenilist.me/propisi/391227",
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "units": 22,
+     "source_url": "https://www.sluzbenilist.me/propisi/391227/download",
+     "sha256": "c99db90e4041c4cf4b0f947a9874000e23f8361c7283be52f8a6ffb11cbedb98"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-391291",
+   "path": "zakon/2026/391291",
+   "short": "Zakon o izmjenama i dopunama Zakona o prekršajima",
+   "title": "Zakon o izmjenama i dopunama Zakona o prekršajima",
+   "url": "https://www.sluzbenilist.me/propisi/391291",
+   "versions": [
+    {
+     "from": "2026-03-14",
+     "units": 11,
+     "source_url": "https://www.sluzbenilist.me/propisi/391291/download",
+     "sha256": "b6db34913c3ef4ce8e328dbe3a044e84b105d0f653556919f86dd35477029444"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-391305",
+   "path": "zakon/2026/391305",
+   "short": "Zakon o izmjeni i dopuni Zakona o državnim službenicima i namještenicima*",
+   "title": "Zakon o izmjeni i dopuni Zakona o državnim službenicima i namještenicima*",
+   "url": "https://www.sluzbenilist.me/propisi/391305",
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/391305/download",
+     "sha256": "8fabca29f57b3544545f17b8412526cbf26b5bd456f2c71586b83b66c495072a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-391320",
+   "path": "zakon/2026/391320",
+   "short": "Zakon o nadzoru i kontroli proizvodnje i prometa određenih supstanci koje se mogu upotrijebiti u proizvodnji opojnih droga i psihotropnih supstanci*",
+   "title": "Zakon o nadzoru i kontroli proizvodnje i prometa određenih supstanci koje se mogu upotrijebiti u proizvodnji opojnih droga i psihotropnih supstanci*",
+   "url": "https://www.sluzbenilist.me/propisi/391320",
+   "versions": [
+    {
+     "from": "2026-01-17",
+     "units": 63,
+     "source_url": "https://www.sluzbenilist.me/propisi/391320/download",
+     "sha256": "73fcfc56f0a2307ae628b73429e04c78b437fa740e41611b6ec48788e7761658"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-391396",
+   "path": "zakon/2026/391396",
+   "short": "Zakon o dopuni Zakona o socijalnom stanovanju*",
+   "title": "Zakon o dopuni Zakona o socijalnom stanovanju*",
+   "url": "https://www.sluzbenilist.me/propisi/391396",
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/391396/download",
+     "sha256": "d120b2140e67287ba8518a016a278ff815913c30dd8e8111655e51e436a21028"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-391472",
+   "path": "zakon/2026/391472",
+   "short": "Zakon o izmjenama i dopuni Zakona o socijalnoj i dječjoj zaštiti",
+   "title": "Zakon o izmjenama i dopuni Zakona o socijalnoj i dječjoj zaštiti",
+   "url": "https://www.sluzbenilist.me/propisi/391472",
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/391472/download",
+     "sha256": "167d25d6758b321f84f188c768937a6d6a466ee2ef20386b63ef14015c28ed48"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-391538",
+   "path": "zakon/2026/391538",
+   "short": "Zakon o izmjeni Zakona o strancima*",
+   "title": "Zakon o izmjeni Zakona o strancima*",
+   "url": "https://www.sluzbenilist.me/propisi/391538",
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/391538/download",
+     "sha256": "8e5b8eefbe090d5c002556406611a91fabe3e9b83feb8a1d11e36d7c719819ea"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-391555",
+   "path": "zakon/2026/391555",
+   "short": "Zakon o izmjenama i dopunama Zakona o državnim službenicima i namještenicima*",
+   "title": "Zakon o izmjenama i dopunama Zakona o državnim službenicima i namještenicima*",
+   "url": "https://www.sluzbenilist.me/propisi/391555",
+   "versions": [
+    {
+     "from": "2026-01-17",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/391555/download",
+     "sha256": "1666948d2a65951b63f6a7b90ac4a47e208c8215252506050bfaa5a320e8ee1c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-391556",
+   "path": "zakon/2026/391556",
+   "short": "Zakon o izmjenama i dopunama Zakona o poštanskim uslugama",
+   "title": "Zakon o izmjenama i dopunama Zakona o poštanskim uslugama",
+   "url": "https://www.sluzbenilist.me/propisi/391556",
+   "versions": [
+    {
+     "from": "2026-03-14",
+     "units": 26,
+     "source_url": "https://www.sluzbenilist.me/propisi/391556/download",
+     "sha256": "e41a6598fb933b060cad19d49520a6f519e44768e54516c6bda3b0c4217732f4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-391602",
+   "path": "zakon/2026/391602",
+   "short": "Zakon o dopunama Zakona o Ustavnom sudu Crne Gore",
+   "title": "Zakon o dopunama Zakona o Ustavnom sudu Crne Gore",
+   "url": "https://www.sluzbenilist.me/propisi/391602",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/391602/download",
+     "sha256": "814910e518cb481f0fcbe4b2aec4dafaf6c1934c7c6371f015d783583c322633"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-391611",
+   "path": "zakon/2026/391611",
+   "short": "Zakon o izmjeni Zakona o porezu na promet nepokretnosti",
+   "title": "Zakon o izmjeni Zakona o porezu na promet nepokretnosti",
+   "url": "https://www.sluzbenilist.me/propisi/391611",
+   "versions": [
+    {
+     "from": "2026-03-17",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/391611/download",
+     "sha256": "9811bbe7ffca7953bc583e1d55c4fd7560cb48197b0e0f65f1524863161c0b85"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-391982",
+   "path": "zakon/2026/391982",
+   "short": "Zakon o izmjenama i dopunama Zakona o standardizaciji",
+   "title": "Zakon o izmjenama i dopunama Zakona o standardizaciji",
+   "url": "https://www.sluzbenilist.me/propisi/391982",
+   "versions": [
+    {
+     "from": "2026-03-28",
+     "units": 12,
+     "source_url": "https://www.sluzbenilist.me/propisi/391982/download",
+     "sha256": "57cc4a3a8e12915f7ffc5a9e2f5ebf80d9c19a37579a743237a4d9b7bb4bc181"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-391984",
+   "path": "zakon/2026/391984",
+   "short": "Zakon o izmjeni i dopuni Zakona o uzimanju i presađivanju ljudskih organa u svrhu liječenja*",
+   "title": "Zakon o izmjeni i dopuni Zakona o uzimanju i presađivanju ljudskih organa u svrhu liječenja*",
+   "url": "https://www.sluzbenilist.me/propisi/391984",
+   "versions": [
+    {
+     "from": "2026-03-21",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/391984/download",
+     "sha256": "ebdaf8228d3fa88f19669f71af6fa4b905e7dddb951b2c91fdd4e19f1d19effc"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-391997",
+   "path": "zakon/2026/391997",
+   "short": "Zakon o izmjenama i dopunama Zakona o tehničkim zahtjevima za proizvode i ocjenjivanju usaglašenosti",
+   "title": "Zakon o izmjenama i dopunama Zakona o tehničkim zahtjevima za proizvode i ocjenjivanju usaglašenosti",
+   "url": "https://www.sluzbenilist.me/propisi/391997",
+   "versions": [
+    {
+     "from": "2026-03-28",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/391997/download",
+     "sha256": "e9dba40fb907f5100fec808a2886e29ffacc335a9f6620b92156753d88be57fb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-392221",
+   "path": "zakon/2026/392221",
+   "short": "Zakon o Agenciji za nacionalnu bezbjednost",
+   "title": "Zakon o Agenciji za nacionalnu bezbjednost",
+   "url": "https://www.sluzbenilist.me/propisi/392221",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 98,
+     "source_url": "https://www.sluzbenilist.me/propisi/392221/download",
+     "sha256": "b3099e88bd7e037671d45f493584c8da7f5602013f28b59b60f471d569e04a73"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-392701",
+   "path": "zakon/2026/392701",
+   "short": "Zakon o izmjenama i dopunama Zakona o bezbjednosti i interoperabilnosti željeznice",
+   "title": "Zakon o izmjenama i dopunama Zakona o bezbjednosti i interoperabilnosti željeznice",
+   "url": "https://www.sluzbenilist.me/propisi/392701",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "units": 15,
+     "source_url": "https://www.sluzbenilist.me/propisi/392701/download",
+     "sha256": "6251c4c8bfc7943b81e3e467c1942185662d26316be2ffa3283e80c5b856cdc0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-393431",
+   "path": "zakon/2026/393431",
+   "short": "Zakon o uslovima rada na ribarskom brodu",
+   "title": "Zakon o uslovima rada na ribarskom brodu",
+   "url": "https://www.sluzbenilist.me/propisi/393431",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 45,
+     "source_url": "https://www.sluzbenilist.me/propisi/393431/download",
+     "sha256": "961b08034b3094cbdd76717a50dc7d18c4f9ab71a115c64eeed6b29325ee3b43"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-393440",
+   "path": "zakon/2026/393440",
+   "short": "Zakon o zaštiti i zdravlju na radu*",
+   "title": "Zakon o zaštiti i zdravlju na radu*",
+   "url": "https://www.sluzbenilist.me/propisi/393440",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 98,
+     "source_url": "https://www.sluzbenilist.me/propisi/393440/download",
+     "sha256": "74965bf71a3c23c02c6d963b9f1d22d702985a2ded5fc587387f4d5434883c7a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-393671",
+   "path": "zakon/2026/393671",
+   "short": "Zakon o izmjeni i dopuni Zakona o visokom obrazovanju",
+   "title": "Zakon o izmjeni i dopuni Zakona o visokom obrazovanju",
+   "url": "https://www.sluzbenilist.me/propisi/393671",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/393671/download",
+     "sha256": "18b8acc91c4efa00d9a747cf2024a59d31b37512b1399ebeeaa44db25043d4bd"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-394389",
+   "path": "zakon/2026/394389",
+   "short": "Zakon o izmjeni Zakona o zaštiti depozita",
+   "title": "Zakon o izmjeni Zakona o zaštiti depozita",
+   "url": "https://www.sluzbenilist.me/propisi/394389",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/394389/download",
+     "sha256": "b68b6e782def046d49252287b38ccd59c16b8e29f7e080a124a3ee695da3fc5c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-394390",
+   "path": "zakon/2026/394390",
+   "short": "Zakon o izmjenama Zakona o porezu na dohodak fizičkih lica",
+   "title": "Zakon o izmjenama Zakona o porezu na dohodak fizičkih lica",
+   "url": "https://www.sluzbenilist.me/propisi/394390",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/394390/download",
+     "sha256": "29d66a55c3de2dc38bb65e653d594938613d06a616d5249f25ce2fddcbf5ea6a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-394391",
+   "path": "zakon/2026/394391",
+   "short": "Zakon o izmjenama Zakona o poreskoj administraciji",
+   "title": "Zakon o izmjenama Zakona o poreskoj administraciji",
+   "url": "https://www.sluzbenilist.me/propisi/394391",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/394391/download",
+     "sha256": "f46adc1cf5a3df29608bbb499aad2b3365c62a3517ae8bd944182ab5fe6d20e3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-394526",
+   "path": "zakon/2026/394526",
+   "short": "Zakon o izmjenama i dopunama Zakona o građevinskim proizvodima",
+   "title": "Zakon o izmjenama i dopunama Zakona o građevinskim proizvodima",
+   "url": "https://www.sluzbenilist.me/propisi/394526",
+   "versions": [
+    {
+     "from": "2026-06-06",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.me/propisi/394526/download",
+     "sha256": "bce5742b4dbe4e5ef13eb481ea998e5092109487cbf3594e14843c579320cebf"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-394968",
+   "path": "zakon/2026/394968",
+   "short": "Zakon o izmjenama i dopuni Zakona o regionalnom vodosnabdijevanju Crnogorskog primorja",
+   "title": "Zakon o izmjenama i dopuni Zakona o regionalnom vodosnabdijevanju Crnogorskog primorja",
+   "url": "https://www.sluzbenilist.me/propisi/394968",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/394968/download",
+     "sha256": "2dc2132fdcba2ccc939b222b9613756507188cb00dac7271b5d7695974571e46"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-394969",
+   "path": "zakon/2026/394969",
+   "short": "Zakon o izmjenama i dopunama Zakona o poljoprivredi i ruralnom razvoju*",
+   "title": "Zakon o izmjenama i dopunama Zakona o poljoprivredi i ruralnom razvoju*",
+   "url": "https://www.sluzbenilist.me/propisi/394969",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 37,
+     "source_url": "https://www.sluzbenilist.me/propisi/394969/download",
+     "sha256": "2f8a157c0aa099b9ddf8f01227602f011a61d2f1c04001166d2f1abf56764a9b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-395609",
+   "path": "zakon/2026/395609",
+   "short": "Zakon o izmjenama Zakona o obligacionim odnosima*",
+   "title": "Zakon o izmjenama Zakona o obligacionim odnosima*",
+   "url": "https://www.sluzbenilist.me/propisi/395609",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 12,
+     "source_url": "https://www.sluzbenilist.me/propisi/395609/download",
+     "sha256": "67c807f5ca8dece1580028f27504401983ebd2ce640f256266e92ebd189b3f1e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-395867",
+   "path": "zakon/2026/395867",
+   "short": "Zakon o izmjenama i dopuni Zakona o sprečavanju korupcije",
+   "title": "Zakon o izmjenama i dopuni Zakona o sprečavanju korupcije",
+   "url": "https://www.sluzbenilist.me/propisi/395867",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/395867/download",
+     "sha256": "c2a07852fc72a8742cdfb725dde3f30a7471bcc3fe5ecfec88dc0e52017f7d8b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-395873",
+   "path": "zakon/2026/395873",
+   "short": "Zakon o izmjeni i dopunama Zakona o obaveznom zdravstvenom osiguranju",
+   "title": "Zakon o izmjeni i dopunama Zakona o obaveznom zdravstvenom osiguranju",
+   "url": "https://www.sluzbenilist.me/propisi/395873",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/395873/download",
+     "sha256": "06cf4afa86b6d368a27c9e64b6216dfe75ac89287d1ccd9c67e09bb9d627d4f5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-395876",
+   "path": "zakon/2026/395876",
+   "short": "Zakon o izmjenama i dopunama Zakona o javnim nabavkama",
+   "title": "Zakon o izmjenama i dopunama Zakona o javnim nabavkama",
+   "url": "https://www.sluzbenilist.me/propisi/395876",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 41,
+     "source_url": "https://www.sluzbenilist.me/propisi/395876/download",
+     "sha256": "f86c69fb26f7cde305ca7ebb5f7b479889f483d281e7f48140e7288ef1674791"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-396031",
+   "path": "zakon/2026/396031",
+   "short": "Zakon o izmjenama i dopunama Zakona o radu*",
+   "title": "Zakon o izmjenama i dopunama Zakona o radu*",
+   "url": "https://www.sluzbenilist.me/propisi/396031",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.me/propisi/396031/download",
+     "sha256": "fc20afd72f5bba201b271571844180bdfa13b0d590e7546ebd255b6e02eee17d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-396032",
+   "path": "zakon/2026/396032",
+   "short": "Zakon o izmjeni i dopunama Zakona o zaštiti jednakosti i zabrani diskriminacije*",
+   "title": "Zakon o izmjeni i dopunama Zakona o zaštiti jednakosti i zabrani diskriminacije*",
+   "url": "https://www.sluzbenilist.me/propisi/396032",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.me/propisi/396032/download",
+     "sha256": "beac39e59e20cb4fce926eb2efb9f7686a5b854eceea89c642fd7b6e3379fc72"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-396195",
+   "path": "zakon/2026/396195",
+   "short": "Zakon o izmjenama i dopunama Zakona o socijalnoj i dječjoj zaštiti",
+   "title": "Zakon o izmjenama i dopunama Zakona o socijalnoj i dječjoj zaštiti",
+   "url": "https://www.sluzbenilist.me/propisi/396195",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/396195/download",
+     "sha256": "ad4846fc10f37b530c2fb7bb915a3a1f037b56f8c1e057784d5d9ebf28a560a4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-396629",
+   "path": "zakon/2026/396629",
+   "short": "Zakon o rodnoj ravnopravnosti*",
+   "title": "Zakon o rodnoj ravnopravnosti*",
+   "url": "https://www.sluzbenilist.me/propisi/396629",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 65,
+     "source_url": "https://www.sluzbenilist.me/propisi/396629/download",
+     "sha256": "b885c7d6f051854d15ab4bec055239d1af16b1bcf5a103e4d602f02c7911c161"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-396946",
+   "path": "zakon/2026/396946",
+   "short": "Zakon o zaštiti vazduha*",
+   "title": "Zakon o zaštiti vazduha*",
+   "url": "https://www.sluzbenilist.me/propisi/396946",
+   "versions": [
+    {
+     "from": "2026-08-15",
+     "units": 83,
+     "source_url": "https://www.sluzbenilist.me/propisi/396946/download",
+     "sha256": "93b7227b49d214b871e942a30685eba4d78b6075def21d81764a26b682a84eaf"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-396951",
+   "path": "zakon/2026/396951",
+   "short": "Zakon o izmjeni i dopuni Zakona o unutrašnjim poslovima",
+   "title": "Zakon o izmjeni i dopuni Zakona o unutrašnjim poslovima",
+   "url": "https://www.sluzbenilist.me/propisi/396951",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/396951/download",
+     "sha256": "1a0276c125f60280f7e697f93a5b2a36dc40194525bcfdc1dc0deafa9a4665a3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-396953",
+   "path": "zakon/2026/396953",
+   "short": "Zakon o izmjenama i dopunama Krivičnog zakonika Crne Gore*",
+   "title": "Zakon o izmjenama i dopunama Krivičnog zakonika Crne Gore*",
+   "url": "https://www.sluzbenilist.me/propisi/396953",
+   "versions": [
+    {
+     "from": "2026-08-08",
+     "units": 11,
+     "source_url": "https://www.sluzbenilist.me/propisi/396953/download",
+     "sha256": "0be0a9a0117b2c9d705cdaaf98d5520440864e479cb37f0d939e695b29a9b860"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-398067",
+   "path": "zakon/2026/398067",
+   "short": "Zakon o lokalnoj samoupravi",
+   "title": "Zakon o lokalnoj samoupravi",
+   "url": "https://www.sluzbenilist.me/propisi/398067",
+   "versions": [
+    {
+     "from": "2026-09-19",
+     "units": 227,
+     "source_url": "https://www.sluzbenilist.me/propisi/398067/download",
+     "sha256": "a49c911ad36afc49f0c613866ff5679e7b9389b48582b607bcba2f4302635226"
+    }
+   ]
+  },
+  {
    "slug": "akt-2012-319876",
    "path": "akt/2012/319876",
    "short": "Metodologija za utvrđivanje regulatornog prihoda i cijena za korišćenje prenosnog sistema električne energije",
@@ -532318,6 +535063,36 @@
      "units": 6,
      "source_url": "https://www.sluzbenilist.me/propisi/327832/download",
      "sha256": "3b46f12d83906aed6f687bf61df0dae871d2290eab1a14706a9d8c3f2c49a6cc"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-389045",
+   "path": "zakon/2025/389045",
+   "short": "Zakon o klimatskim promjenama",
+   "title": "Zakon o klimatskim promjenama",
+   "url": "https://www.sluzbenilist.me/propisi/389045",
+   "versions": [
+    {
+     "from": "2025-12-25",
+     "units": 117,
+     "source_url": "https://www.sluzbenilist.me/propisi/389045/download",
+     "sha256": "03033d82f8abfc48a04a16e70b66fa311596d98b17b79fdbbfca4b1c0a9834dd"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-389443",
+   "path": "zakon/2025/389443",
+   "short": "Zakon o bezbjednosti i interoperabilnosti željeznice",
+   "title": "Zakon o bezbjednosti i interoperabilnosti željeznice",
+   "url": "https://www.sluzbenilist.me/propisi/389443",
+   "versions": [
+    {
+     "from": "2026-01-07",
+     "units": 209,
+     "source_url": "https://www.sluzbenilist.me/propisi/389443/download",
+     "sha256": "6a92bf95efb9c86d8a28c459053a6d0719bbafb8bbb9c69af952f0257ad6ef07"
     }
    ]
   },
