@@ -37,7 +37,10 @@ adoption day from its own signature and preamble). Acts released so go to corpus
 first reading publishes are untouched by it. An act with no PIS in-force day whose own in-force sentence is read only
 by the further rules of read_clause_mended (misprints mended word by word, a few more equivalent wordings) or by the
 looser look of own_in_force_close (quotation marks paired along a line; "Odluka stupa na snagu" in its last article)
-goes to corpus.d/52-<kind>-<year>, its version note quoting the sentence and saying how it was read. An act whose PIS
+goes to corpus.d/52-<kind>-<year>, its version note quoting the sentence and saying how it was read. An individual or
+programme act (Rješenje, Odluka, Druga akta, Program, Plan) with no PIS in-force day and no in-force wording at all in its
+text (NO_CLAUSE_WORDS) is dated by its publication day, labelled so on its version: corpus.d/54-<kind>-<year>
+(2026-11-11). An act whose PIS
 in-force day comes before its publication day is published only where its own in-force sentence, so read, gives that
 same day (mostly "danom donošenja" with the adoption day from its signature and preamble): corpus.d/53-<kind>-<year>.
 """
@@ -476,6 +479,11 @@ def own_in_force(units: dict, published: str) -> str | None:
 
 RETRY = ("article_out_of_sequence", "last_article_not_in_force_clause", "in_force_unknown", "articles_not_split",
          "in_force_before_publication")
+# The third reading (2026-11-11, part 54): kinds dated by their publication day when their text has no in-force wording
+# at all (none of NO_CLAUSE_WORDS, folded, Cyrillic read as Latin). Normative kinds and treaties stay held instead.
+NO_CLAUSE_KINDS = ("rjesenje", "odluka", "akt", "program", "plan")
+NO_CLAUSE_WORDS = re.compile(r"stup\w*\s+na\s+snag|primjenj\w*\s+(?:se\s+)?od|primenj\w*\s+(?:se\s+)?od|\bvazi\s+od|"
+                             r"pravn\w+\s+dejstv|proizvod\w*\s+dejstv")
 # Article headings as some PDFs print them: Cyrillic letters inside the Latin word ("Člаn 5"), the Č lost ("lan 5"),
 # no space ("Član17"), "Члана 18", a letter for a digit ("Član l", "Član 1o"); or run into the article's first
 # sentence ("Član 4 Razlika između ..."). They are read so only where the number is the one expected next.
@@ -1040,15 +1048,24 @@ def main():
                 part_no = 53 if str(h).startswith("in_force_before_publication") else (
                     52 if close_how and "+" in close_how else 51)
             except Hold as h2:
-                holds.append({"id": i, "title": title[:160], "reason": str(h), "second_reading": str(h2)})
-                continue
+                # 2026-11-11 (deep, Montenegro): the third reading (part 54). An individual or programme act (Rješenje,
+                # Odluka, Druga akta, Program, Plan) that the second reading reads cleanly but whose text has no
+                # in-force wording at all, and no PIS in-force day: dated by its publication day, labelled so.
+                if not (str(h2) == "in_force_unknown" and not m["in_force"] and kind in NO_CLAUSE_KINDS
+                        and not NO_CLAUSE_WORDS.search(fold(cyr2lat(" ".join(u["text"] for u in units.values()))))):
+                    holds.append({"id": i, "title": title[:160], "reason": str(h), "second_reading": str(h2)})
+                    continue
+                day, close_how, part_no = m["published"], "publication-no-clause", 54
+                close_note = (f"Its text states no in-force day (no 'stupa na snagu' sentence) and the PIS gives "
+                              f"none: dated by its publication in the Službeni list ({day}), not by a day the act "
+                              f"states.")
         year = int(m["published"][:4])
         slug = f"{kind}-{year}-{i}"
         label = f"{title} (Službeni list Crne Gore, broj {iss.group(1)}/{iss.group(2)})"
         note = None
         if m["applies"] and m["applies"] != day:
             note = f"Applies from {m['applies']} (PIS: Datum početka primjene); in force from {day}."
-            if part_no in (52, 53) and close_note:   # the reading's basis is always noted on these
+            if part_no in (52, 53, 54) and close_note:   # the reading's basis is always noted on these
                 note += " " + re.sub(rf"^Applies from {m['applies']} \(its own final provision\); in force from \S+ ",
                                      "", close_note)
         elif close_note:
@@ -1161,6 +1178,15 @@ def main():
                 "version."]
             p["decisions"][-1] = ("The enacted date given is the publication day (the PIS gives no adoption day), "
                                   "except for an act in force on its adoption day, where it is that day as read above.")
+        if name.startswith("54-"):
+            p["decisions"][1:2] = [
+                "These are individual and programme acts (Rješenje, Odluka, Zaključak and other acts, Program, Plan) "
+                "whose text has no in-force wording at all ('stupa na snagu', 'primjenjuje se od', 'važi od', "
+                "'proizvodi pravno dejstvo', in Latin or Cyrillic) and for which the PIS gives no in-force day "
+                "('Datum stupanja na snagu'), read as the acts of the 51- parts are (articles numbered in sequence). "
+                "Their one version is dated by their publication day in the Službeni list, and each version's note "
+                "says so: it is the day the official record shows the act, not a day the act states. Laws, decrees, "
+                "rulebooks, statutes and treaties without such a day stay held back."]
         if name.startswith("52-"):
             p["decisions"][-1] = ("The enacted date given is the publication day (the PIS gives no adoption day), "
                                   "except for an act whose in-force day is read from its adoption day, where it is "
@@ -1201,6 +1227,10 @@ def main():
             line = (f"{len(p['acts'])} acts checked against the PIS record and the PDF text layer: status Važeći, no "
                     f"amending act, articles numbered in sequence, a PIS in-force day before publication that the "
                     f"act's own in-force sentence gives too.\n")
+        elif name.startswith("54-"):
+            line = (f"{len(p['acts'])} acts checked against the PIS record and the PDF text layer by the second "
+                    f"reading: status Važeći, no amending act, articles numbered in sequence, no in-force wording in "
+                    f"the text and no PIS in-force day: dated by the publication day, labelled on each version.\n")
         elif name.startswith(("51-", "52-")):
             line = (f"{len(p['acts'])} acts checked against the PIS record and the PDF text layer by the second "
                     f"reading: status Važeći, no amending act, articles numbered in sequence, in-force day from the "
