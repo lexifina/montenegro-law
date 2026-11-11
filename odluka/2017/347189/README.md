@@ -1,0 +1,28 @@
+# Odluka o izmjeni i dopuni Odluke o osnivanju JU "Dnevni centar za djecu i omladinu sa smetnjama i teškoćama u razvoju"
+
+Odluka o izmjeni i dopuni Odluke o osnivanju JU "Dnevni centar za djecu i omladinu sa smetnjama i teškoćama u razvoju" · 1 versions, from 2018-01-04 (latest in force: 2018-01-04) · <https://www.sluzbenilist.me/propisi/347189>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Uvod | [0-uvod.md](0-uvod.md) | 0 |  |
+| Član 1 | [clan-001.md](clan-001.md) | 0 |  |
+| Član 2 | [clan-002.md](clan-002.md) | 0 |  |
+| Prilog | [prilog.md](prilog.md) | 0 |  |
+
+Act id: `odluka-2017-347189` (tags `odluka-2017-347189/<day>`; `python tools/on.py <day> odluka-2017-347189`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Odluka o izmjeni i dopuni Odluke o osnivanju JU "Dnevni centar za djecu i omladinu sa smetnjama i teškoćama u razvoju" Budva ("Službeni list CG- Opštinski propisi", br. 05/14 i 54/17) (Službeni list Crne Gore, broj 50/2019)](https://www.sluzbenilist.me/propisi/387032)
+- [Odluka o izmjenama i dopunama Odluke o osnivanju Javne ustanove "Dnevni centar za djecu i omladinu sa smetnjama i teškoćama u razvoju - Biseri" Budva ("Službeni list Crne Gore - Opštinski propisi", br. 05/14, 54/17 i 50/19) (Službeni list Crne Gore, broj 5/2020)](https://www.sluzbenilist.me/propisi/368968)
+
+## Decisions made by hand
+
+- Acts the PIS marks in force (Važeći) whose page lists amending acts ('Izmjene i/ili dopune'). The PIS publishes no consolidated texts, so each is published as enacted, as printed in the Službeni list Crne Gore, with the status 'amended, not consolidated' and the acts its page lists as amended_by (their official links); later titles naming an act of the same title do not hold it back. Every other check on its text and in-force day is the one its reading below applies.
+- Each act's one version takes effect on the PIS 'Datum stupanja na snagu'; where the act's own final article counts its day from publication or names a date, the two must agree or the act is held back. A different application day (PIS 'Datum početka primjene') is noted on the version.
+- The President's promulgation decree printed above a law and the signatures are left out. Article captions are the second line of the article file ('## ...'); chapter and section headings are units of their own; an annex printed after the signature is one unit, its tables run on as lines.
+- The enacted date given is the publication day (the PIS gives no adoption day).
