@@ -1,0 +1,3 @@
+# Član 27
+## Dostupnost i čuvanje dokumenata
+Vlasnik industrijskog kolosjeka, vlasnik, odnosno operater industrijske ili lučke željeznice, dužan je da obezbijedi da se jedan primjerak Akta o industrijskom kolosjeku, indiustrijskoj odnosno lučkoj željeznici, zajedno sa svim ovjerenim prilozima, šemama i situacionim planovima, stalno nalazi u službenim mjestima i mjestima primopredaje kola sa javnom željezničkom infrastrukturom (stanicama, primopredajnim stanicama, i sl.) u kojima se upravlja saobraćajem i vrši manevarski rad i mora se staviti na uvid na zahtjev željezničkog inspektora, upravljača javne infrastrukture ili ovlašćenog osoblja javnog prevoznika.

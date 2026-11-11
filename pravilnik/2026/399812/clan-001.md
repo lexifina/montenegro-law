@@ -1,0 +1,3 @@
+# Član 1
+## Predmet pravilnika
+Ovim pravilnikom propisuje se sadržina akta kojim se utvrđuje način za organizovanje i regulisanje manevarskog rada, održavanje i zaštitu industrijskog kolosjeka, lice odgovorno za sprovođenje akta, održavanje željezničkih voznih sredstava i drugih sredstava koja se koriste na industrijskom kolosjeku (u daljem tekstu: Akt o industrijskom kolosjeku), sadržina akta o uslovima i načinu obavljanja prevoza na industrijskoj željeznici kojim se određuje lice odgovorno za sprovođenje akta (u daljem tekstu: Akt o industrijskoj željeznici) kao i sadržina akta o uslovima i načinu obavljanja prevoza na lučkoj željeznici kojim se određuje lice odgovorno za sprovođenje akta (u daljem tekstu: Akt o lučkoj željeznici).
