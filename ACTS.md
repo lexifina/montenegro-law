@@ -1,6 +1,6 @@
 # Every act in this repository
 
-35216 acts, 35,218 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+35516 acts, 35,518 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## akt (929, of which 89 amending acts)
 
@@ -33852,7 +33852,7 @@
 | Uputstvo o bližem načinu izvještavanja o podacima koje član međunarodne grupe povezanih pravnih lica u vezi poslovanja dostavlja organu uprave nadležnom za poslove poreza | [`uputstvo/2026/396663/`](uputstvo/2026/396663/) | in force | 1 | 2026-08-09 | 2026-08-09 |
 | Uputstvo o načinu unosa, ažuriranja, provjera i pristupa podacima iz Registra politički eksponiranih lica | [`uputstvo/2026/397090/`](uputstvo/2026/397090/) | in force | 1 | 2026-08-20 | 2026-08-20 |
 
-## uredba (987, of which 144 amending acts)
+## uredba (1094, of which 155 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -34691,72 +34691,156 @@
 | Uredba o bližim kriterijumima i metodologiji za određivanje tržišne vrijednosti nepokretnost | [`uredba/2021/337513/`](uredba/2021/337513/) | in force | 1 | 2021-06-19 | 2021-06-19 |
 | Uredba o izmjenama Uredbe o realizaciji i postupku korišćenja sredstava iz instrumenta pretpristupne pomoći Evropske unije (IPARD II program) | [`uredba/2021/337791/`](uredba/2021/337791/) | in force | 1 | 2021-06-08 | 2021-06-08 |
 | Uredba o načinu korišćenja, održavanja i upravljanja nepokretnostima za potrebe diplomatsko-konzularnih predstavništava | [`uredba/2021/337949/`](uredba/2021/337949/) | in force | 1 | 2021-07-03 | 2021-07-03 |
+| Uredba o izmjenama Uredbe o povjeravanju dijela poslova Ministarstva održivog razvoja i turizma jedinicama lokalne samouprave | [`uredba/2021/338256/`](uredba/2021/338256/) | amended, not consolidated | 1 | 2021-07-09 | 2021-07-09 |
 | Uredba o prestanku važenja Uredbe o načinu ostvarivanja i visini podsticajnih cijena za električnu energiju proizvedenu iz obnovljivih izvora i visokoefikasne kogeneracije | [`uredba/2021/338446/`](uredba/2021/338446/) | in force | 1 | 2021-07-29 | 2021-07-29 |
 | Uredba o supstancama koje oštećuju ozonski omotač i alternativnim supstancama | [`uredba/2021/338672/`](uredba/2021/338672/) | in force | 1 | 2021-07-30 | 2021-07-30 |
 | Uredba o utvrđivanju isplate obeštećenja bivšim vlasnicima oduzetih imovinskih prava u novčanim sredstvima za 2021. godinu | [`uredba/2021/338737/`](uredba/2021/338737/) | in force | 1 | 2021-07-23 | 2021-07-23 |
 | Uredba o izmjenama Uredbe o zaradama i drugim novčanim primanjima pripadnika Vojske Crne Gore, civilne zaštite, policije i zaposlenih u organima državne uprave za vrijeme učešća u međunarodnim snagama, mirovnim misijama i drugim aktivnostima u inostranstvu | [`uredba/2021/338757/`](uredba/2021/338757/) | in force | 1 | 2021-08-06 | 2021-08-06 |
+| Uredba o izmjenama Uredbe o uslovima i načinu korišćenja objekata za reprezentativne potrebe u svojini Crne Gore | [`uredba/2021/338758/`](uredba/2021/338758/) | amended, not consolidated | 1 | 2021-08-06 | 2021-08-06 |
 | Uredba o izmjeni uredbe o utvrđivanju radnih mjesta, odnosno poslova u organima državne uprave na kojima se staž osiguranja računa sa uvećanim trajanjem | [`uredba/2022/292281/`](uredba/2022/292281/) | in force | 1 | 2022-05-07 | 2022-05-07 |
+| Uredba o izmjeni Uredbe o Metodologiji izračunavanja stepena konkurentnosti jedinice lokalne samouprave | [`uredba/2022/292369/`](uredba/2022/292369/) | amended, not consolidated | 1 | 2022-11-26 | 2022-11-26 |
 | Uredba o izmjenama Uredbe o uslovima, načinu i dinamici sprovođenja mjera agrarne politike za 2022. godinu - Agrobudžet | [`uredba/2022/293577/`](uredba/2022/293577/) | in force | 1 | 2022-11-04 | 2022-11-04 |
+| Uredba o izmjenama Uredbe o kriterijumima za utvrđivanje visine doživotne mjesečne naknade, stipendije, premije, sportske invalidnine, nagrade za sportistu godine i zaslužnog sportskog radnika | [`uredba/2022/294220/`](uredba/2022/294220/) | amended, not consolidated | 1 | 2022-02-11 | 2022-02-11 |
 | Uredba o prestanku važenja Uredbe o načinu vođenja evidencije o državnoj pomoći | [`uredba/2022/314664/`](uredba/2022/314664/) | in force | 1 | 2022-08-07 | 2022-08-07 |
 | Uredba o izmjenama i dopuni Uredbe o realizaciji i postupku korišćenja sredstava iz instrumenta pretpristupne pomoći Evropske unije (IPARD II program) | [`uredba/2022/319661/`](uredba/2022/319661/) | amending act | 1 | 2022-11-09 | 2022-11-09 |
+| Uredba o načinu utvrđivanja koncesione naknade za privredno društvo ili pravno lice koje koristi vodnu akumulaciju i/ili vodotok za proizvodnju električne energije u hidroelektranama | [`uredba/2022/320521/`](uredba/2022/320521/) | amended, not consolidated | 1 | 2022-03-02 | 2022-03-02 |
 | Uredba o utvrđivanju isplate obeštećenja bivšim vlasnicima oduzetih imovinskih prava u novčanim sredstvima za 2022. godinu | [`uredba/2022/322400/`](uredba/2022/322400/) | in force | 1 | 2022-07-15 | 2022-07-15 |
+| Uredba o izmjenama Uredbe o zabranjenim odnosno dozvoljenim načinima upotrebe, proizvodnje i stavljanja na tržište hemikalija koje predstavljaju neprihvatljiv rizik po zdravlje ljudi i životnu sredinu | [`uredba/2022/322875/`](uredba/2022/322875/) | amended, not consolidated | 1 | 2022-12-15 | 2022-12-15 |
 | Uredba o dopuni Uredbe o prestanku primjene pojedinih podzakonskih akata | [`uredba/2022/327949/`](uredba/2022/327949/) | amending act | 1 | 2022-02-24 | 2022-02-24 |
+| Uredba o povjeravanju dijela poslova iz nadležnosti Ministarstva kapitalnih investicija Javnoj ustanovi Zavod za geološka istraživanja | [`uredba/2022/332359/`](uredba/2022/332359/) | amended, not consolidated | 1 | 2022-02-16 | 2022-02-16 |
+| Uredba o izmjeni Uredbe o grupama poslova i koeficijentima za zarade policijskih službenika | [`uredba/2022/333496/`](uredba/2022/333496/) | amended, not consolidated | 1 | 2023-01-01 | 2023-01-01 |
 | Uredba o izmjeni Uredbe o uslovima i načinu korišćenja prevoznih sredstava u svojini Crne Gore | [`uredba/2022/333522/`](uredba/2022/333522/) | in force | 1 | 2022-02-04 | 2022-02-04 |
+| Uredba o dopuni Uredbe o prestanku važenja pojedinih podzakonskih akata | [`uredba/2022/333858/`](uredba/2022/333858/) | amended, not consolidated | 1 | 2022-10-15 | 2022-10-15 |
+| Uredba o izmjeni Uredbe o povjeravanju dijela poslova iz nadležnosti Ministarstva kapitalnih investicija Javnoj ustanovi Zavod za geološka istraživanja | [`uredba/2022/333939/`](uredba/2022/333939/) | amended, not consolidated | 1 | 2022-12-28 | 2022-12-28 |
+| Uredba o izmjenama i dopuni Uredbe o uspostavljanju unutrašnje revizije u javnom sektoru | [`uredba/2022/333964/`](uredba/2022/333964/) | amended, not consolidated | 1 | 2022-12-15 | 2022-12-15 |
 | Uredba o izmjenama i dopunama Uredbe o načinu planiranja i sprovođenja centralizovanih javnih nabavki | [`uredba/2022/334128/`](uredba/2022/334128/) | amending act | 1 | 2022-12-24 | 2022-12-24 |
+| Uredba o izmjeni i dopuni Uredbe o posebnom dodatku na osnovnu zaradu, posebnim naknadama troškova i drugim primanjima za vrijeme rada u diplomatsko-konzularnom predstavništvu | [`uredba/2022/334136/`](uredba/2022/334136/) | amended, not consolidated | 1 | 2022-12-16 | 2022-12-16 |
 | Uredba o izmjeni i dopuni Uredbe o bližim kriterijumima i metodologiji za određivanje tržišne vrijednosti nepokretnosti | [`uredba/2022/334237/`](uredba/2022/334237/) | amending act | 1 | 2022-02-14 | 2022-02-14 |
 | Uredba o izmjeni Uredbe o povjeravanju dijela poslova Ministarstva ekologije, prostornog planiranja i urbanizma javnom preduzeću za upravLjanje morskim dobrom Crne Gore i javnom preduzeću za Nacionalne parkove Crne Gore | [`uredba/2022/334329/`](uredba/2022/334329/) | in force | 1 | 2022-12-30 | 2022-12-30 |
+| Uredba o izmjeni Uredbe o povjeravanju dijela poslova Ministarstva ekologije, prostornog planiranja i urbanizma jedinicama lokalne samouprave | [`uredba/2022/334330/`](uredba/2022/334330/) | amended, not consolidated | 1 | 2022-12-30 | 2022-12-30 |
 | Uredba o izmjeni i dopuni Uredbe o programu i načinu polaganja stručnog ispita za rad u državnim organima | [`uredba/2022/334886/`](uredba/2022/334886/) | amending act | 1 | 2022-02-16 | 2022-02-16 |
 | Uredba o izmjenama Uredbe o realizaciji i postupku korišćenja sredstava iz instrumenta pretpristupne pomoći Evropske unije (IPARD II program) | [`uredba/2022/334888/`](uredba/2022/334888/) | in force | 1 | 2022-03-04 | 2022-03-04 |
 | Uredba o prestanku važenja Uredbe o odloženom plaćanju poreza na dobit pravnih lica | [`uredba/2022/335379/`](uredba/2022/335379/) | in force | 1 | 2022-03-18 | 2022-03-18 |
+| Uredba o izmjeni Uredbe o Vladi Crne Gore | [`uredba/2022/337822/`](uredba/2022/337822/) | amended, not consolidated | 1 | 2022-06-15 | 2022-06-15 |
 | Uredba o kriterijumima za raspoređivanje radnih mjesta policijskih službenika i zvanjima u kojima se mogu vršiti poslovi tih radnih mjesta | [`uredba/2022/338087/`](uredba/2022/338087/) | in force | 1 | 2022-06-24 | 2022-06-24 |
 | Uredba o izmjenama Uredbe o programu i načinu polaganja stručnog ispita za rad u državnim organima | [`uredba/2022/348124/`](uredba/2022/348124/) | in force | 1 | 2022-07-12 | 2022-07-12 |
 | Uredba o izmjenama Uredbe o uslovima, načinu i dinamici sprovođenja mjera agrarne politike za 2022. godinu - Agrobudžet | [`uredba/2022/348274/`](uredba/2022/348274/) | in force | 1 | 2022-04-13 | 2022-04-13 |
+| Uredba o izmjenama Uredbe o načinu rada sistema brze razmjene informacija o proizvodima koji predstavljaju rizik | [`uredba/2023/291342/`](uredba/2023/291342/) | in force | 1 | 2023-04-08 | 2023-04-08 |
 | Uredba o izmjeni Uredbe o vrstama vitamina i minerala koji se mogu koristiti u proizvodnji suplemenata* | [`uredba/2023/313632/`](uredba/2023/313632/) | in force | 1 | 2023-01-31 | 2023-01-31 |
+| Uredbu o izmjeni i dopuni Uredbe o posebnim zahtjevima higijene za proizvode životinjskog porijekla* | [`uredba/2023/332179/`](uredba/2023/332179/) | amended, not consolidated | 1 | 2023-02-11 | 2023-02-11 |
 | Uredba o dopunama Uredbe o procjeni vrijednosti i utvrđivanju naknade za oduzetu imovinu | [`uredba/2023/333007/`](uredba/2023/333007/) | amending act | 1 | 2023-04-04 | 2023-04-04 |
+| Uredbu o dopuni Uredbe o načinu izračunavanja indeksa razvijenosti jedinice lokalne samouprave | [`uredba/2023/334676/`](uredba/2023/334676/) | amended, not consolidated | 1 | 2023-01-12 | 2023-01-12 |
 | Uredba o izmjenama i dopuni Uredbe o načinu planiranja i sprovođenja centralizovanih javnih nabavki | [`uredba/2023/335284/`](uredba/2023/335284/) | amending act | 1 | 2023-03-24 | 2023-03-24 |
+| Uredba o utvrđivanju perioda sprovođenja popisa stanovništva, domaćinstava i stanova i referentnog momenta popisa | [`uredba/2023/335287/`](uredba/2023/335287/) | amended, not consolidated | 1 | 2023-03-14 | 2023-03-14 |
 | Uredba o uslovima, načinu i dinamici sprovođenja mjera agrarne politike za 2023. godinu - Agrobudžet | [`uredba/2023/335288/`](uredba/2023/335288/) | in force | 1 | 2023-03-06 | 2023-03-06 |
+| Uredba o kriterijumima za stavljanje, odnosno skidanje lijeka sa osnovne i doplatne Liste ljekova | [`uredba/2023/335851/`](uredba/2023/335851/) | amended, not consolidated | 1 | 2023-01-13 | 2023-01-13 |
 | Uredba o maksimalno dozvoljenim količinama kokcidiostatika i histomonostatika u hrani* | [`uredba/2023/338981/`](uredba/2023/338981/) | in force | 1 | 2023-01-31 | 2023-01-31 |
 | UREDBA O DOPUNAMA UREDBE O OBILjEŽAVANjU DUVANSKIH PROIZVODA I ALKOHOLNIH PIĆA AKCIZNIM MARKICAMA | [`uredba/2023/360643/`](uredba/2023/360643/) | amending act | 1 | 2023-06-26 | 2023-06-26 |
+| Uredba o izmjenama i dopuni Uredbe o zaradama lica u službi u Vojsci Crne Gore | [`uredba/2023/360707/`](uredba/2023/360707/) | amended, not consolidated | 1 | 2023-06-30 | 2023-06-30 |
 | Uredba o prestanku važenja Uredbe o uslovima, postupku i kriterijumima za grupno izuzeće od zabrane sporazuma u sektoru osiguranja | [`uredba/2023/360718/`](uredba/2023/360718/) | in force | 1 | 2023-07-06 | 2023-07-06 |
 | Uredba o kriterijumima za utvrđivanje granica sidrišta luke i načinu označavanja tih granica | [`uredba/2023/360839/`](uredba/2023/360839/) | in force | 1 | 2023-08-01 | 2023-08-01 |
+| Uredba o zvanjima i zaradi vojno-diplomatskih predstavnika, lica upućenih na rad u međunarodnim organizacijama i administrativno-tehničkog osoblja | [`uredba/2023/360859/`](uredba/2023/360859/) | amended, not consolidated | 1 | 2023-08-30 | 2023-08-30 |
 | Uredba o broju miritelja i arbitara i visini nagrade za rad i naknade troškova u postupku mirnog rješavanja radnih sporova | [`uredba/2023/361864/`](uredba/2023/361864/) | in force | 1 | 2023-07-26 | 2023-07-26 |
 | Uredba o bližem načinu sprovođenja finansijske podrške Evropske unije kroz instrument pretpristupne podrške | [`uredba/2023/361889/`](uredba/2023/361889/) | in force | 1 | 2023-08-05 | 2023-08-05 |
 | Uredba o izmjeni Uredbe o realizaciji i postupku korišćenja sredstava iz instrumenta pretpristupne pomoći Evropske unije (IPARD II program) | [`uredba/2023/361908/`](uredba/2023/361908/) | in force | 1 | 2023-08-04 | 2023-08-04 |
 | Uredba o utvrđivanju isplate obeštećenja bivšim vlasnicima oduzetih imovinskih prava u novčanim sredstvima za 2023. godinu | [`uredba/2023/361918/`](uredba/2023/361918/) | in force | 1 | 2023-07-13 | 2023-07-13 |
+| Uredba o izmjenama i dopunama Uredbe o organizaciji i načinu rada državne uprave | [`uredba/2023/362288/`](uredba/2023/362288/) | amended, not consolidated | 1 | 2023-12-23 | 2023-12-23 |
+| Uredba o organizaciji i načinu rada državne uprave | [`uredba/2023/362289/`](uredba/2023/362289/) | amended, not consolidated | 1 | 2023-10-31 | 2023-10-31 |
+| Uredba o dopuni Uredbe o organizaciji i načinu rada državne uprave | [`uredba/2023/362290/`](uredba/2023/362290/) | amended, not consolidated | 1 | 2023-11-17 | 2023-11-17 |
+| Uredba o izmjeni Uredbe o utvrđivanju perioda sprovođenja popisa stanovništva, domaćinstava i stanova i referentnog momenta popisa | [`uredba/2023/362426/`](uredba/2023/362426/) | amended, not consolidated | 1 | 2023-10-31 | 2023-10-31 |
+| Uredba o izmjeni Uredbe o utvrđivanju perioda sprovođenja popisa stanovništva, domaćinstava i stanova i referentnog momenta popisa | [`uredba/2023/362536/`](uredba/2023/362536/) | amended, not consolidated | 1 | 2023-11-29 | 2023-11-29 |
+| Uredba o kabinetu predsjednika Vlade Crne Gore | [`uredba/2023/362578/`](uredba/2023/362578/) | amended, not consolidated | 1 | 2023-10-31 | 2023-10-31 |
+| Uredba o izmjeni Uredbe o utvrđivanju perioda sprovođenja popisa stanovništva, domaćinstava i stanova i referentnog momenta popisa | [`uredba/2023/362906/`](uredba/2023/362906/) | amended, not consolidated | 1 | 2023-12-15 | 2023-12-15 |
+| Uredba o izmjeni Uredbe o kriterijumima za stavljanje, odnosno skidanje lijeka sa osnovne i doplatne Liste ljekova 1944. Odluka o Savjetu za prava djeteta | [`uredba/2023/363084/`](uredba/2023/363084/) | amended, not consolidated | 1 | 2024-01-07 | 2024-01-07 |
+| Uredba o izmjeni Uredbe o kriterijumima za utvrđivanje visine doživotne mjesečne naknade, stipendije, premije, sportske invalidnine, nagrade za sportistu godine i zaslužnog sportskog radnika | [`uredba/2023/363093/`](uredba/2023/363093/) | amended, not consolidated | 1 | 2024-01-07 | 2024-01-07 |
 | Uredba o dopuni Uredbe o Vladi Crne Gore | [`uredba/2023/363189/`](uredba/2023/363189/) | amending act | 1 | 2024-01-06 | 2024-01-06 |
+| Uredba o izmjeni Uredbe o grupama poslova i koeficijentima za zarade policijskih službenika | [`uredba/2023/363191/`](uredba/2023/363191/) | amended, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
+| Uredba o izmjenama Uredbe o povjeravanju dijela poslova iz nadležnosti Ministarstva kapitalnih investicija Javnoj ustanovi Zavod za geološka istraživanja | [`uredba/2023/363194/`](uredba/2023/363194/) | amended, not consolidated | 1 | 2023-12-29 | 2023-12-29 |
 | Uredba o izmjenama Uredbe o realizaciji i postupku korišćenja sredstava iz instrumenta pretpristupne pomoći evropske unije (IPARD II program) | [`uredba/2023/363195/`](uredba/2023/363195/) | in force | 1 | 2023-12-29 | 2023-12-29 |
+| Uredba o dopuni Uredbe o povjeravanju dijela poslova Ministarstva ekologije, prostornog planiranja i urbanizma jedinicama lokalne samouprave | [`uredba/2023/363252/`](uredba/2023/363252/) | amended, not consolidated | 1 | 2023-10-30 | 2023-10-30 |
+| Uredba o izmjenama i dopunama Uredbe o bližem načinu sprovođenja carinskih postupaka i carinskih formalnosti | [`uredba/2023/363317/`](uredba/2023/363317/) | amended, not consolidated | 1 | 2023-11-07 | 2023-11-07 |
+| Uredba o dopuni Uredbe o utvrđivanju perioda sprovođenja popisa stanovništva, domaćinstava i stanova i referentnog momenta popisa | [`uredba/2023/364545/`](uredba/2023/364545/) | amended, not consolidated | 1 | 2023-12-28 | 2023-12-28 |
+| Uredba o izmjenama i dopunama Uredbe o zvanjima i zaradi vojno-diplomatskih predstavnika, lica upućenih na rad u međunarodnim organizacijama i administrativno-tehničkog osoblja | [`uredba/2023/364554/`](uredba/2023/364554/) | amended, not consolidated | 1 | 2023-12-27 | 2023-12-27 |
+| Uredba o dopuni Uredbe o kriterijumima za unutrašnju organizaciju i sistematizaciju poslova u organima državne uprave | [`uredba/2023/364981/`](uredba/2023/364981/) | amended, not consolidated | 1 | 2023-12-08 | 2023-12-08 |
+| Uredba o izmjenama i dopuni Uredbe o Kabinetu predsjednika Vlade Crne Gore | [`uredba/2023/365036/`](uredba/2023/365036/) | amended, not consolidated | 1 | 2023-12-16 | 2023-12-16 |
+| Uredba o izmjenama Uredbe o uslovima i načinu korišćenja objekata za reprezentativne potrebe u svojini Crne Gore | [`uredba/2024/364739/`](uredba/2024/364739/) | in force | 1 | 2024-01-26 | 2024-01-26 |
+| Uredba o povjeravanju dijela poslova Ministarstva prostornog planiranja, urbanizma i državne imovine jedinicama lokalne samouprave | [`uredba/2024/365842/`](uredba/2024/365842/) | amended, not consolidated | 1 | 2024-02-15 | 2024-02-15 |
+| Uredba o realizaciji i postupku korišćenja sredstava iz instrumenta pretpristupne pomoći Evropske unije (IPARD III program) | [`uredba/2024/366629/`](uredba/2024/366629/) | amended, not consolidated | 1 | 2024-03-08 | 2024-03-08 |
+| Uredbu o izmjenama i dopunama Uredbe o kriterijumima za formiranje maksimalnih cijena ljekova* | [`uredba/2024/366648/`](uredba/2024/366648/) | amended, not consolidated | 1 | 2024-03-15 | 2024-03-15 |
 | Uredba o programu i načinu polaganja stručnog ispita za rad u državnim organima | [`uredba/2024/367261/`](uredba/2024/367261/) | in force | 1 | 2024-03-21 | 2024-03-21 |
 | Uredba o uslovima, načinu i dinamici sprovođenja mjera agrarne politike za 2024. godinu - Agrobudžet | [`uredba/2024/367306/`](uredba/2024/367306/) | in force | 1 | 2024-03-21 | 2024-03-21 |
 | Uredba o uslovima koje moraju da ispunjavaju luke razvrstane prema vrsti pomorskog saobraćaja i namjeni | [`uredba/2024/369340/`](uredba/2024/369340/) | in force | 1 | 2024-05-16 | 2024-05-16 |
+| Uredba o Generalnom sekretarijatu Vlade Crne Gore | [`uredba/2024/371036/`](uredba/2024/371036/) | amended, not consolidated | 1 | 2024-07-10 | 2024-07-10 |
+| Uredba o dopuni Uredbe o Listi vojne opreme i proizvoda, postupku i načinu sprovođenja javnih nabavki u oblasti odbrane i bezbjednosti | [`uredba/2024/371628/`](uredba/2024/371628/) | amended, not consolidated | 1 | 2024-07-13 | 2024-07-13 |
+| Uredba o izmjenama i dopunama Uredbe o organizaciji i načinu rada državne uprave | [`uredba/2024/371984/`](uredba/2024/371984/) | amended, not consolidated | 1 | 2024-07-23 | 2024-07-23 |
+| Uredba o izmjenama Uredbe o organizaciji i načinu rada državne uprave | [`uredba/2024/372141/`](uredba/2024/372141/) | amended, not consolidated | 1 | 2024-07-26 | 2024-07-26 |
 | Uredba o utvrđivanju isplate obeštećenja bivšim vlasnicima oduzetih imovinskih prava u novčanim sredstvima za 2024. godinu | [`uredba/2024/372161/`](uredba/2024/372161/) | in force | 1 | 2024-07-27 | 2024-07-27 |
 | Uredba o izmjenama Uredbe o rekonstrukciji službenih zgrada | [`uredba/2024/372992/`](uredba/2024/372992/) | in force | 1 | 2024-09-06 | 2024-09-06 |
+| Uredba o izmjenama i dopunama Uredbe o organizaciji i načinu rada državne uprave | [`uredba/2024/373473/`](uredba/2024/373473/) | amended, not consolidated | 1 | 2024-10-01 | 2024-10-01 |
+| Uredba o dopuni Uredbe o organizaciji i načinu rada državne uprave | [`uredba/2024/373611/`](uredba/2024/373611/) | amended, not consolidated | 1 | 2024-10-01 | 2024-10-01 |
 | Uredba o dopuni Uredbe o načinu utvrđivanja koncesione naknade za privredno društvo ili pravno lice koje koristi vodnu akumulaciju i/ili vodotok za proizvodnju električne energije u hidroelektranama | [`uredba/2024/373630/`](uredba/2024/373630/) | amending act | 1 | 2024-10-05 | 2024-10-05 |
+| Uredba o dopuni Uredbe o organizaciji i načinu rada državne uprave | [`uredba/2024/374454/`](uredba/2024/374454/) | amended, not consolidated | 1 | 2024-10-30 | 2024-10-30 |
+| Uredba o izmjeni i dopunama Uredbe o organizaciji i načinu rada državne uprave | [`uredba/2024/375388/`](uredba/2024/375388/) | amended, not consolidated | 1 | 2024-12-06 | 2024-12-06 |
+| Uredba o izmjeni Uredbe o načinu povraćaja blokova i pristupu trećih lica upstream postrojenjima | [`uredba/2024/375933/`](uredba/2024/375933/) | in force | 1 | 2024-12-28 | 2024-12-28 |
+| Uredba o izmjeni Uredbe o načinu obračuna i plaćanja naknade za proizvodnju nafte i gasa | [`uredba/2024/375934/`](uredba/2024/375934/) | in force | 1 | 2024-12-28 | 2024-12-28 |
+| Uredba o izmjenama Uredbe o povjeravanju dijela poslova iz nadležnosti Ministarstva energetike i rudarstva Javnoj ustanovi Zavod za geološka istraživanja | [`uredba/2024/376113/`](uredba/2024/376113/) | amended, not consolidated | 1 | 2024-12-28 | 2024-12-28 |
+| Uredba o izmjenama i dopunama Uredbe o posebnom dodatku na osnovnu zaradu, posebnim naknadama troškova i drugim primanjima za vrijeme rada u diplomatsko-konzularnom predstavništvu | [`uredba/2024/376121/`](uredba/2024/376121/) | amended, not consolidated | 1 | 2025-01-01 | 2025-01-01 |
+| Uredba o izmjeni Uredbe o naknadi troškova zaposlenih u javnom sektoru | [`uredba/2024/376257/`](uredba/2024/376257/) | amended, not consolidated | 1 | 2025-01-08 | 2025-01-08 |
 | Uredba o izmjeni Uredbe o povjeravanju dijela poslova Ministarstva prostornog planiranja, urbanizma i državne imovine jedinicama lokalne samouprave | [`uredba/2024/376272/`](uredba/2024/376272/) | in force | 1 | 2025-01-01 | 2025-01-01 |
+| Uredba o izmjeni Uredbe o povjeravanju dijela poslova Ministarstva prostornog planiranja, urbanizma i državne imovine Javnom preduzeću za upravljanje morskim dobrom Crne Gore i Javnom preduzeću za Nacionalne parkove Crne Gore | [`uredba/2024/376297/`](uredba/2024/376297/) | amended, not consolidated | 1 | 2025-01-01 | 2025-01-01 |
 | Uredba o izmjenama Uredbe o organizaciji indirektnog upravljanja sprovođenja finansijske pomoći u okviru Instrumenta pretpristupne podrške Evropske unije (IPA II) | [`uredba/2024/376299/`](uredba/2024/376299/) | in force | 1 | 2025-01-08 | 2025-01-08 |
 | Uredba o dopunama Uredbe o uniformi, oznakama zvanja, naoružanju, vozilima i posebnoj opremi službenika obezbjeđenja u Upravi za izvršenje krivičnih sankcija | [`uredba/2025/378045/`](uredba/2025/378045/) | amending act | 1 | 2025-02-13 | 2025-02-13 |
 | Uredba o maksimalno dozvoljenim količinama kontaminenata u hrani* | [`uredba/2025/378746/`](uredba/2025/378746/) | in force | 1 | 2025-02-25 | 2025-02-25 |
+| Uredba o izmjeni Uredbe o supstancama koje se mogu dodavati hrani za posebne prehrambene potrebe* | [`uredba/2025/378769/`](uredba/2025/378769/) | amended, not consolidated | 1 | 2025-02-25 | 2025-02-25 |
+| Odluka o obrazovanju Komisije za analizu i praćenje ugovora o djelu i ugovora o obavljanju privremenih i povremenih poslova u potrošačkim jedinicama koje se finansiraju iz budžeta države | [`uredba/2025/378780/`](uredba/2025/378780/) | amended, not consolidated | 1 | 2025-02-25 | 2025-02-25 |
+| Uredba o izmjeni i dopuni Uredbe o posebnim zahtjevima higijene za proizvode životinjskog porijekla* | [`uredba/2025/378781/`](uredba/2025/378781/) | amending act | 1 | 2025-02-25 | 2025-02-25 |
+| Uredba o izmjeni Uredbe o vitaminima, mineralima i drugim supstancama koje se mogu dodavati hrani* | [`uredba/2025/378783/`](uredba/2025/378783/) | amended, not consolidated | 1 | 2025-02-25 | 2025-02-25 |
 | Uredba o visini troškova u postupku izdavanja dozvole za stavljanje biocidnih proizvoda u promet i upotrebu | [`uredba/2025/379601/`](uredba/2025/379601/) | in force | 1 | 2025-03-14 | 2025-03-14 |
+| Uredba o dopunama Uredbe o Kabinetu predsjednika Vlade Crne Gore | [`uredba/2025/379603/`](uredba/2025/379603/) | amending act | 1 | 2025-03-07 | 2025-03-07 |
+| Uredba o izmjenama Uredbe o uspostavljanju unutrašnje revizije u javnom sektoru | [`uredba/2025/379752/`](uredba/2025/379752/) | amended, not consolidated | 1 | 2025-03-20 | 2025-03-20 |
+| Uredba o izmjenama i dopuni Uredbe o listi vojne opreme i proizvoda, postupku i načinu sprovođenja javnih nabavki u oblasti odbrane i bezbjednosti | [`uredba/2025/379961/`](uredba/2025/379961/) | amending act | 1 | 2025-03-25 | 2025-03-25 |
 | Uredba o uslovima i postupku za ostvarivanje prava na oslobođenje od plaćanja uvoznih dažbina | [`uredba/2025/380471/`](uredba/2025/380471/) | in force | 1 | 2025-04-03 | 2025-04-03 |
+| Uredba o izmjenama i dopunama Uredbe o kriterijumima i načinu dodjeljivanja statusa istaknuti kulturni stvaralac | [`uredba/2025/380827/`](uredba/2025/380827/) | amending act | 1 | 2025-04-15 | 2025-04-15 |
+| Uredba o izmjenama i dopunama Uredbe o organizaciji i načinu rada državne uprave | [`uredba/2025/381141/`](uredba/2025/381141/) | amended, not consolidated | 1 | 2025-04-16 | 2025-04-16 |
 | Uredba o izmjeni Uredbe o uslovima, načinu i dinamici sprovođenja mjera agrarne politike za 2025. godinu - Agrobudžet | [`uredba/2025/382089/`](uredba/2025/382089/) | in force | 1 | 2025-05-21 | 2025-05-21 |
+| Uredba o uslovima, načinu i dinamici sprovođenja mjera agrarne politike za 2025. godinu - Agrobudžet | [`uredba/2025/382161/`](uredba/2025/382161/) | amended, not consolidated | 1 | 2025-03-29 | 2025-03-29 |
 | Uredba o izmjeni Uredbe o uslovima i kriterijumima objavljivanja liste poreskih dužnika | [`uredba/2025/382317/`](uredba/2025/382317/) | in force | 1 | 2025-05-27 | 2025-05-27 |
 | Uredba o prestanku važenja Uredbe o bližim uslovima i načinu izdavanja, prenošenja, iskorišćenja i povlačenja garancije porijekla električne energije proizvedene iz obnovljivih izvora energije i visokoefikasne kogeneracije | [`uredba/2025/383150/`](uredba/2025/383150/) | in force | 1 | 2025-07-04 | 2025-07-04 |
 | Uredba o utvrđivanju isplate obeštećenja bivšim vlasnicima oduzetih imovinskih prava u novčanim sredstvima za 2025. godinu | [`uredba/2025/383358/`](uredba/2025/383358/) | in force | 1 | 2025-07-05 | 2025-07-05 |
 | Uredba o prestanku važenja Uredbe o načinu sticanja statusa i ostvarivanja prava povlašćenog proizvođača električne energije | [`uredba/2025/383383/`](uredba/2025/383383/) | in force | 1 | 2025-07-12 | 2025-07-12 |
 | Uredba o bližim kriterijumima za utvrđivanje energetski siromašnog domaćinstva | [`uredba/2025/383488/`](uredba/2025/383488/) | in force | 1 | 2025-07-08 | 2025-07-08 |
+| Uredba o snabdijevanju ranjivih kupaca električne energije | [`uredba/2025/383504/`](uredba/2025/383504/) | amended, not consolidated | 1 | 2025-07-08 | 2025-07-08 |
 | Uredba o minimalnoj sumi osiguranja od profesionalne odgovornosti za štetu koja može da nastane obavljanjem djelatnosti izrade planskih dokumenata | [`uredba/2025/383515/`](uredba/2025/383515/) | in force | 1 | 2025-06-28 | 2025-06-28 |
 | Uredba o bližim kriterijumima i načinu utvrđivanja maksimalne cijene koju ponuđač može da ponudi u postupku aukcije za tržišne premije | [`uredba/2025/383553/`](uredba/2025/383553/) | in force | 1 | 2025-07-10 | 2025-07-10 |
+| Uredba o postupku popunjavanja, proširenja kvote na aukcijama za dodjelu prava na tržišnu premiju za neodređene lokacije i rangiranju ponuda na aukcijama za neodređene lokacije | [`uredba/2025/383557/`](uredba/2025/383557/) | amended, not consolidated | 1 | 2025-07-10 | 2025-07-10 |
+| Uredba o izmjeni i dopunama Uredbe o posebnom dodatku na osnovnu zaradu, posebnim naknadama troškova i drugim primanjima za vrijeme rada u diplomatsko-konzularnom predstavništvu | [`uredba/2025/383748/`](uredba/2025/383748/) | amended, not consolidated | 1 | 2025-07-31 | 2025-07-31 |
 | Uredba o kontroli elektronskim nadzorom sprovođenja mjera nadzora | [`uredba/2025/384092/`](uredba/2025/384092/) | in force | 1 | 2025-08-13 | 2025-08-13 |
 | Uredba o izmjeni i dopuni Uredbe o povjeravanju dijela poslova Uprave policije Prijestonici Cetinje i opštinama Bar, Budva, Bijelo Polje, Tivat, Kotor, Nikšić, Ulcinj i Herceg Novi | [`uredba/2025/384119/`](uredba/2025/384119/) | amending act | 1 | 2025-08-06 | 2025-08-06 |
 | Uredba o kriterijumima i bližem načinu sprovođenja provjere znanja, sposobnosti, kompetencija i vještina za rad u državnim organima | [`uredba/2025/384122/`](uredba/2025/384122/) | in force | 1 | 2025-08-05 | 2025-08-05 |
 | Uredba o izmjeni Uredbe o uslovima za ustupanje i obavljanje poslova utvrđenih Nacionalnim programom zaštite potrošača i bližim kriterijumima, načinu i postupku finansiranja organizacija potrošača | [`uredba/2025/384328/`](uredba/2025/384328/) | in force | 1 | 2025-07-30 | 2025-07-30 |
 | Uredba o izmjenama uredbe o kriterijumima za unutrašnju organizaciju i sistematizaciju poslova u organima državne uprave | [`uredba/2025/384629/`](uredba/2025/384629/) | in force | 1 | 2025-08-30 | 2025-08-30 |
+| Uredba o izmjenama i dopuni Uredbe o graničnim vrijednostima emisija zagađujućih materija u vazduh iz stacionarnih izvora | [`uredba/2025/384786/`](uredba/2025/384786/) | amending act | 1 | 2025-09-17 | 2025-09-17 |
 | Uredba o visini naknade za reviziju lokalnih planskih dokumenata | [`uredba/2025/384909/`](uredba/2025/384909/) | in force | 1 | 2025-09-04 | 2025-09-04 |
+| Uredba o dopunama Uredbe o bližim elementima i metodologiji za određivanje cijena komunalnih usluga | [`uredba/2025/385069/`](uredba/2025/385069/) | amending act | 1 | 2025-09-30 | 2025-09-30 |
+| Uredba o dopuni Uredbe o prestanku važenja pojedinih podzakonskih akata | [`uredba/2025/385074/`](uredba/2025/385074/) | amended, not consolidated | 1 | 2025-09-27 | 2025-09-27 |
+| Uredba o izmjenama i dopunama Uredbe o bližem načinu sprovođenja carinskih postupaka i carinskih formalnosti | [`uredba/2025/385095/`](uredba/2025/385095/) | amending act | 1 | 2025-09-27 | 2025-09-27 |
 | Uredba o tarifi javnih izvršitelja | [`uredba/2025/385251/`](uredba/2025/385251/) | in force | 1 | 2025-10-09 | 2025-10-09 |
 | Uredba o uslovima i načinu emitovanja i prodaje državnih dužničkih hartija od vrijednosti | [`uredba/2025/385355/`](uredba/2025/385355/) | in force | 1 | 2025-10-02 | 2025-10-02 |
+| Uredba o dopunama Uredbe o kriterijumima za formiranje maksimalnih cijena ljekova* | [`uredba/2025/385414/`](uredba/2025/385414/) | amending act | 1 | 2025-10-15 | 2025-10-15 |
 | Uredba o izmjeni Uredbe o kriterijumima za utvrđivanje visine doživotne mjesečne naknade, stipendije, premije, sportske invalidnine, nagrade za sportistu godine i zaslužnog sportskog radnika | [`uredba/2025/385426/`](uredba/2025/385426/) | in force | 1 | 2025-10-14 | 2025-10-14 |
 | Uredba o izmjenama Uredbe o načinu izračunavanja indeksa razvijenosti jedinice lokalne samouprave | [`uredba/2025/385428/`](uredba/2025/385428/) | in force | 1 | 2025-10-14 | 2025-10-14 |
+| Uredba o izmjeni Uredbe o metodologiji izračunavanja stepena konkurentnosti jedinice lokalne samouprave | [`uredba/2025/385539/`](uredba/2025/385539/) | in force | 1 | 2025-10-23 | 2025-10-23 |
+| Uredba o bližim uslovima za proglašenje linije u javnom interesu i načinu obavljanja prevoza na liniji od javnog interesa | [`uredba/2025/385625/`](uredba/2025/385625/) | amended, not consolidated | 1 | 2025-10-25 | 2025-10-25 |
+| Uredba o izmjeni Uredbe o zvanjima i zaradi vojno-diplomatskih predstavnika, lica upućenih na rad u međunarodnim organizacijama i administrativno-tehničkog osoblja | [`uredba/2025/386066/`](uredba/2025/386066/) | in force | 1 | 2025-10-29 | 2025-10-29 |
 | Uredba o postupku javnog nadmetanja za izbor snabdjevača posljednjeg izbora za snabdijevanje električnom energijom | [`uredba/2025/386649/`](uredba/2025/386649/) | in force | 1 | 2025-12-04 | 2025-12-04 |
+| Uredba o izmjenama i dopunama Uredbe o zaradama lica u službi u Vojsci Crne Gore | [`uredba/2025/386836/`](uredba/2025/386836/) | amended, not consolidated | 1 | 2025-12-06 | 2025-12-06 |
+| Uredba o izmjenama i dopuni Uredbe o kriterijumima za stavljanje, odnosno skidanje lijeka sa osnovne i doplatne liste ljekova | [`uredba/2025/386850/`](uredba/2025/386850/) | amending act | 1 | 2025-12-06 | 2025-12-06 |
+| Uredba o izmjeni Uredbe o zabranjenim odnosno dozvoljenim načinima upotrebe, proizvodnje i stavljanja na tržište hemikalija koje predstavljaju neprihvatljiv rizik po zdravlje ljudi i životnu sredinu | [`uredba/2025/387479/`](uredba/2025/387479/) | amended, not consolidated | 1 | 2025-10-14 | 2025-10-14 |
+| Uredba o izmjeni Uredbe o viznom režimu | [`uredba/2025/387500/`](uredba/2025/387500/) | amended, not consolidated | 1 | 2025-10-30 | 2025-10-30 |
+| Uredba o izmjeni i dopuni Uredbe o naknadi troškova zaposlenih u javnom sektoru | [`uredba/2025/388011/`](uredba/2025/388011/) | amended, not consolidated | 1 | 2025-07-26 | 2025-07-26 |
 | Uredba o bližim uslovima sprovođenja programa proširene odgovornosti proizvođača proizvoda koji nakon upotrebe postaju otpad | [`uredba/2025/388176/`](uredba/2025/388176/) | in force | 1 | 2025-09-12 | 2025-09-12 |
+| Uredba o dopunama Uredbe o zaradama lica u službi u Vojsci Crne Gore | [`uredba/2025/388829/`](uredba/2025/388829/) | amended, not consolidated | 1 | 2025-12-13 | 2025-12-13 |
+| Uredba o izmjenama i dopunama Uredbe o organizaciji i načinu rada državne uprave | [`uredba/2025/388976/`](uredba/2025/388976/) | amended, not consolidated | 1 | 2025-12-16 | 2025-12-16 |
 | Uredba o izmjeni Uredbe o supstancama koje se mogu dodavati hrani za posebne prehrambene potrebe* | [`uredba/2025/388995/`](uredba/2025/388995/) | in force | 1 | 2025-12-27 | 2025-12-27 |
 | Uredba o bližim kriterijumima za utvrđivanje visine godišnje naknade za prekoračenje roka završetka građenja objekata | [`uredba/2025/389035/`](uredba/2025/389035/) | in force | 1 | 2025-12-23 | 2025-12-23 |
 | Uredba o bližim kategorijama podataka o elektronskim komunikacijama koji se zadržavaju | [`uredba/2025/389324/`](uredba/2025/389324/) | in force | 1 | 2026-01-03 | 2026-01-03 |
@@ -34764,26 +34848,41 @@
 | Uredba o bližim uslovima za dodjelu državne pomoći | [`uredba/2025/389370/`](uredba/2025/389370/) | in force | 1 | 2026-01-06 | 2026-01-06 |
 | Uredba o izmjeni Uredbe o snabdijevanju ranjivih kupaca električne energije | [`uredba/2025/389371/`](uredba/2025/389371/) | in force | 1 | 2026-01-01 | 2026-01-01 |
 | Uredba o izmjeni Uredbe o povjeravanju dijela poslova Ministarstva prostornog planiranja, urbanizma i državne imovine Javnom preduzeću za upravljanje morskim dobrom Crne Gore i Javnom preduzeću za nacionalne parkove Crne Gore | [`uredba/2025/389450/`](uredba/2025/389450/) | in force | 1 | 2025-12-30 | 2025-12-30 |
+| Uredba o izmjenama Uredbe o povjeravanju dijela poslova iz nadležnosti Ministarstva rudarstva, nafte i gasa Javnoj ustanovi Zavod za geološka istraživanja | [`uredba/2025/389464/`](uredba/2025/389464/) | amended, not consolidated | 1 | 2026-01-01 | 2026-01-01 |
+| Uredba o izmjenama i dopunama Uredbe o organizaciji i načinu rada državne uprave | [`uredba/2025/389473/`](uredba/2025/389473/) | amended, not consolidated | 1 | 2025-12-31 | 2025-12-31 |
 | Uredba o bližem načinu uništenja robe, prodaje robe i ustupanja robe državi | [`uredba/2025/389574/`](uredba/2025/389574/) | in force | 1 | 2026-01-08 | 2026-01-08 |
 | Uredba o klasifikaciji djelatnosti - KD 2025* | [`uredba/2026/389885/`](uredba/2026/389885/) | in force | 1 | 2026-01-17 | 2026-01-17 |
 | Uredba o naknadi koju plaća prodavač lagane plastične kese za nošenje, debljine zida više od 50 mikrona | [`uredba/2026/389888/`](uredba/2026/389888/) | in force | 1 | 2026-01-13 | 2026-01-13 |
+| Uredba o izmjenama i dopuni Uredbe o posebnom dodatku na osnovnu zaradu, posebnim naknadama troškova i drugim primanjima za vrijeme rada u diplomatsko-konzularnom predstavništvu | [`uredba/2026/390231/`](uredba/2026/390231/) | amended, not consolidated | 1 | 2026-01-31 | 2026-01-31 |
+| Uredba o izmjeni Uredbe o postupku popunjavanja, proširenja kvote na aukcijama za dodjelu prava na tržišnu premiju za neodređene lokacije i rangiranju ponuda na aukcijama za neodređene lokacije | [`uredba/2026/390297/`](uredba/2026/390297/) | in force | 1 | 2026-01-31 | 2026-01-31 |
+| Uredba o izmjeni i dopuni Uredbe o kriterijumima za određivanje manifestacija i festivala od posebnog značaja za kulturu Crne Gore | [`uredba/2026/390352/`](uredba/2026/390352/) | amending act | 1 | 2026-02-12 | 2026-02-12 |
 | Uredba o izmjenama Uredbe o finansiranju projekata i programa nevladinih organizacija u oblastima od javnog interesa | [`uredba/2026/390407/`](uredba/2026/390407/) | in force | 1 | 2026-02-11 | 2026-02-11 |
+| Uredba o dopunama Uredbe o Generalnom sekretarijatu Vlade Crne Gore | [`uredba/2026/390632/`](uredba/2026/390632/) | amended, not consolidated | 1 | 2026-02-21 | 2026-02-21 |
 | Uredba o diplomi "Luča" | [`uredba/2026/390827/`](uredba/2026/390827/) | in force | 1 | 2026-02-27 | 2026-02-27 |
+| Uredba o saradnji između nacionalnih organa odgovornih za izvršavanje propisa o zaštiti potrošača | [`uredba/2026/391029/`](uredba/2026/391029/) | amended, not consolidated | 1 | 2026-03-14 | 2026-03-14 |
 | Uredba o uslovima i kriterijumima grupnog izuzeća od zabrane sporazuma o istraživanju i razvoju | [`uredba/2026/391048/`](uredba/2026/391048/) | in force | 1 | 2026-03-14 | 2026-03-14 |
 | Uredba o uslovima i kriterijumima za grupno izuzeće od zabrane sporazuma u drumskom, željezničkom i saobraćaju u unutrašnjim vodama | [`uredba/2026/391050/`](uredba/2026/391050/) | in force | 1 | 2026-03-14 | 2026-03-14 |
 | Uredba o uslovima i kriterijumima izuzeća po vrstama vertikalnih sporazuma od zabrane | [`uredba/2026/391081/`](uredba/2026/391081/) | in force | 1 | 2026-03-14 | 2026-03-14 |
+| Uredba o izmjenama i dopunama Uredbe o organizaciji i načinu rada državne uprave | [`uredba/2026/391274/`](uredba/2026/391274/) | amended, not consolidated | 1 | 2026-03-02 | 2026-03-02 |
 | Uredba o uspostavljanju smjernica za rad elektroprenosnog sistema | [`uredba/2026/391343/`](uredba/2026/391343/) | in force | 1 | 2026-03-10 | 2026-03-10 |
 | Uredba o uspostavljanju smjernica za rad sistema u havarijskom i stanju oporavka sistema | [`uredba/2026/391525/`](uredba/2026/391525/) | in force | 1 | 2026-03-10 | 2026-03-10 |
 | Uredba o izmjeni Uredbe o naknadi troškova zaposlenih u javnom sektoru | [`uredba/2026/391617/`](uredba/2026/391617/) | in force | 1 | 2026-01-29 | 2026-01-29 |
 | Uredba o obaveznom udjelu energije iz obnovljivih izvora u sektoru saobraćaja* | [`uredba/2026/391934/`](uredba/2026/391934/) | in force | 1 | 2026-03-25 | 2026-03-25 |
 | Uredba o načinu obračuna maksimalne maloprodajne cijene određenih vrsta naftnih derivata | [`uredba/2026/392183/`](uredba/2026/392183/) | in force | 1 | 2026-03-24 | 2026-03-24 |
+| Uredba o bližim kriterijumima održivosti i ušteda emisija gasova sa efektom staklene bašte za biogoriva, biotečnosti i goriva iz biomase* | [`uredba/2026/392196/`](uredba/2026/392196/) | amended, not consolidated | 1 | 2026-03-31 | 2026-03-31 |
+| Uredba o dopuni Uredbe o prestanku važenja pojedinih podzakonskih akata | [`uredba/2026/392326/`](uredba/2026/392326/) | amended, not consolidated | 1 | 2026-04-02 | 2026-04-02 |
+| Uredba o izmjenama Uredbe o saradnji između nacionalnih organa odgovornih za izvršavanje propisa o zaštiti potrošača | [`uredba/2026/392357/`](uredba/2026/392357/) | in force | 1 | 2026-03-28 | 2026-03-28 |
 | Uredba o dopuni Uredbe o kancelarijskom poslovanju organa državne uprave | [`uredba/2026/392369/`](uredba/2026/392369/) | amending act | 1 | 2026-03-26 | 2026-03-26 |
 | Uredba o mjerama koje sadrži plan mjera kojim se obezbjeđuje bezbjednost javne elektronske komunikacione mreže i korišćenje elektronskih komunikacionih usluga u vanrednim situacijama | [`uredba/2026/392423/`](uredba/2026/392423/) | in force | 1 | 2026-04-02 | 2026-04-02 |
 | Uredba o uslovima i kriterijumima za grupno izuzeće od zabrane sporazuma o prenosu tehnologije | [`uredba/2026/392559/`](uredba/2026/392559/) | in force | 1 | 2026-04-09 | 2026-04-09 |
 | Uredba o minimalnoj sumi osiguranja i načinu utvrđivanja osigurane sume od profesionalne odgovornosti u oblasti izgradnje objekata | [`uredba/2026/392624/`](uredba/2026/392624/) | in force | 1 | 2026-04-09 | 2026-04-09 |
 | Uredba o uslovima i kriterijumima grupnog izuzeća horizontalnih sporazuma o specijalizaciji od zabrane | [`uredba/2026/392625/`](uredba/2026/392625/) | in force | 1 | 2026-04-09 | 2026-04-09 |
+| Uredba o izmjeni Uredbe o vitaminima, mineralima i drugim supstancama koje se mogu dodavati hrani* | [`uredba/2026/392707/`](uredba/2026/392707/) | in force | 1 | 2026-04-11 | 2026-04-11 |
+| Uredba o uslovima, načinu i dinamici sprovođenja mjera agrarne politike za 2026. godinu - Agrobudžet | [`uredba/2026/392920/`](uredba/2026/392920/) | amended, not consolidated | 1 | 2026-04-08 | 2026-04-08 |
+| Uredba o dopuni Uredbe o prestanku važenja pojedinih podzakonskih akata | [`uredba/2026/393169/`](uredba/2026/393169/) | amended, not consolidated | 1 | 2026-04-25 | 2026-04-25 |
 | Uredba o boji i oznakama vozila, plovila, vazduhoplova, naoružanju, posebnoj opremi i sredstvima koja se upotrebljavaju za vršenje policijskih poslova | [`uredba/2026/393787/`](uredba/2026/393787/) | in force | 1 | 2026-05-14 | 2026-05-14 |
 | Uredba o Listi pravila konkurencije | [`uredba/2026/393907/`](uredba/2026/393907/) | in force | 1 | 2026-05-16 | 2026-05-16 |
+| Uredba o izmjeni i dopuni Uredbe o organizaciji i načinu rada državne uprave | [`uredba/2026/393908/`](uredba/2026/393908/) | amended, not consolidated | 1 | 2026-05-08 | 2026-05-08 |
 | Uredba o visini plaćanja naknade za utvrđivanja ispunjenosti uslova | [`uredba/2026/394467/`](uredba/2026/394467/) | in force | 1 | 2026-06-03 | 2026-06-03 |
 | Uredba o izmjenama i dopunama Uredbe o posebnom dodatku na osnovnu zaradu, posebnim naknadama troškova i drugim primanjima za vrijeme rada u diplomatsko-konzularnom predstavništvu | [`uredba/2026/394527/`](uredba/2026/394527/) | amending act | 1 | 2026-05-30 | 2026-05-30 |
 | Uredba o dopuni Uredbe o bližim kriterijumima održivosti i ušteda emisija gasova sa efektom staklene bašte za biogoriva, biotečnosti i goriva iz biomase* | [`uredba/2026/394592/`](uredba/2026/394592/) | amending act | 1 | 2026-06-11 | 2026-06-11 |
@@ -34792,6 +34891,7 @@
 | Uredba o zakonskim mjernim jedinicama* | [`uredba/2026/394886/`](uredba/2026/394886/) | in force | 1 | 2026-06-20 | 2026-06-20 |
 | Uredba o izmjenama i dopunama Uredbe o notifikaciji tehničkih propisa, standarda, propisa o uslugama informatičkog društva i postupaka ocjene usaglašenosti* | [`uredba/2026/394887/`](uredba/2026/394887/) | amending act | 1 | 2026-06-20 | 2026-06-20 |
 | Uredba o naknadi troškova u postupku za pristup informacijama | [`uredba/2026/395033/`](uredba/2026/395033/) | in force | 1 | 2026-07-07 | 2026-07-07 |
+| Uredba о mikrobiološkim kriterijumima za hranu* | [`uredba/2026/395034/`](uredba/2026/395034/) | amended, not consolidated | 1 | 2026-06-24 | 2026-06-24 |
 | Uredba o slobodnim carinskim prodavnicama | [`uredba/2026/395046/`](uredba/2026/395046/) | in force | 1 | 2026-06-25 | 2026-06-25 |
 | Uredba o dopuni Uredbe o projektima za koje se vrši procjena uticaja na životnu sredinu | [`uredba/2026/395047/`](uredba/2026/395047/) | amending act | 1 | 2026-06-25 | 2026-06-25 |
 | Uredba o uslovima za sticanje zvanja i nivoima zvanja zaposlenih u Upravi za izvršenje krivičnih sankcija | [`uredba/2026/395245/`](uredba/2026/395245/) | in force | 1 | 2026-06-27 | 2026-06-27 |
@@ -34799,6 +34899,8 @@
 | Uredba o dopuni Uredbe o grupama poslova i koeficijentima za zarade policijskih službenika | [`uredba/2026/395381/`](uredba/2026/395381/) | amending act | 1 | 2026-07-02 | 2026-07-02 |
 | Uredba o bližim zahtjevima za higijenu hrane za životinje* | [`uredba/2026/395416/`](uredba/2026/395416/) | in force | 1 | 2026-07-03 | 2026-07-03 |
 | Uredba o sektorskim kriterijumima za određivanje kritične infrastrukture | [`uredba/2026/395506/`](uredba/2026/395506/) | in force | 1 | 2026-07-07 | 2026-07-07 |
+| Uredba o higijeni hrane* | [`uredba/2026/395508/`](uredba/2026/395508/) | amended, not consolidated | 1 | 2026-07-07 | 2026-07-07 |
+| Uredba o materijalima i predmetima koji dolaze u kontakt sa hranom* | [`uredba/2026/395509/`](uredba/2026/395509/) | amended, not consolidated | 1 | 2026-07-07 | 2026-07-07 |
 | Uredba o zahtjevima za proizvodnju, stavljanje u promet i upotrebu medicinirane hrane za životinje* | [`uredba/2026/395686/`](uredba/2026/395686/) | in force | 1 | 2026-07-14 | 2026-07-14 |
 | Uredba o brzo zamrznutoj hrani namijenjenoj za ishranu ljudi* | [`uredba/2026/395877/`](uredba/2026/395877/) | in force | 1 | 2026-07-17 | 2026-07-17 |
 | Uredba o maksimalno dozvoljenim količinama kontaminenata u hrani* | [`uredba/2026/395878/`](uredba/2026/395878/) | in force | 1 | 2026-07-17 | 2026-07-17 |
@@ -34813,6 +34915,7 @@
 | Uredba o zahtjevima za stavljanje na tržište hrane za životinje za posebne nutritivne namjene* | [`uredba/2026/396650/`](uredba/2026/396650/) | in force | 1 | 2026-08-08 | 2026-08-08 |
 | Uredba o prehrambenim aromama i određenim prehrambenim sastojcima hrane sa osobinama aroma za upotrebu u i na hrani * | [`uredba/2026/396651/`](uredba/2026/396651/) | in force | 1 | 2026-08-08 | 2026-08-08 |
 | Uredba o prehrambenim aditivima* | [`uredba/2026/396652/`](uredba/2026/396652/) | in force | 1 | 2026-08-08 | 2026-08-08 |
+| Uredba o izmjeni Uredbe o povjeravanju dijela poslova iz nadležnosti Ministarstva energetike i rudarstva Javnoj ustanovi Zavod za geološka istraživanja | [`uredba/2026/396655/`](uredba/2026/396655/) | in force | 1 | 2026-08-08 | 2026-08-08 |
 | Uredba o bližim kriterijumima, načinu i postupku ostvarivanja prava na povraćaj dijela sredstava utrošenih za proizvodnju kinematografskog djela | [`uredba/2026/396751/`](uredba/2026/396751/) | in force | 1 | 2026-08-12 | 2026-08-12 |
 | Uredba o sistemu inventara gasova sa efektom staklene bašte | [`uredba/2026/396752/`](uredba/2026/396752/) | in force | 1 | 2026-08-12 | 2026-08-12 |
 | Uredba o uspostavljanju, održavanju i kontinuiranom unapređenju sistema politika, mjera i projekcija emisija gasova sa efektom staklene bašte | [`uredba/2026/396753/`](uredba/2026/396753/) | in force | 1 | 2026-08-12 | 2026-08-12 |
@@ -34822,10 +34925,12 @@
 | Uredba o hrani i sastojcima hrane tretirane jonizujućim zračenjem* | [`uredba/2026/396826/`](uredba/2026/396826/) | in force | 1 | 2026-08-13 | 2026-08-13 |
 | Uredba o aktivnostima, odnosno djelatnostima koje emituju gasove sa efektom staklene bašte za koje se izdaje dozvola za emisiju gasova sa efektom staklene bašte i dodjeli emisionih kredita | [`uredba/2026/396827/`](uredba/2026/396827/) | in force | 1 | 2026-08-13 | 2026-08-13 |
 | Uredba o stavljanju na tržište malih količina proizvoda životinjskog porijekla namijenjenih ishrani ljudi* | [`uredba/2026/396828/`](uredba/2026/396828/) | in force | 1 | 2026-08-13 | 2026-08-13 |
+| Uredba o izmjenama Uredbe o uslovima, načinu i dinamici sprovođenja mjera agrarne politike za 2026. godinu - Agrobudžet | [`uredba/2026/397216/`](uredba/2026/397216/) | in force | 1 | 2026-08-15 | 2026-08-15 |
 | Uredba o novoj hrani* | [`uredba/2026/397529/`](uredba/2026/397529/) | in force | 1 | 2026-08-26 | 2026-08-26 |
 | Uredba o izmjeni Uredbe o mikrobiološkim kriterijumima za hranu* | [`uredba/2026/397530/`](uredba/2026/397530/) | in force | 1 | 2026-08-27 | 2026-08-27 |
 | Uredba o izmjeni Uredbe o zabranjenim odnosno dozvoljenim načinima upotrebe, proizvodnje i stavljanja na tržište hemikalija koje predstavljaju neprihvatljiv rizik po zdravlje ljudi i životnu sredinu | [`uredba/2026/397644/`](uredba/2026/397644/) | in force | 1 | 2026-09-08 | 2026-09-08 |
 | Uredba o bližem načinu formiranja, sastavu, postupku izbora članova, mandatu i zadacima državne komisije za reviziju, stručni nadzor i tehnički pregled za projekte autoputeva, brzih saobraćajnica, magistralnih i regionalnih puteva | [`uredba/2026/397925/`](uredba/2026/397925/) | in force | 1 | 2026-09-07 | 2026-09-07 |
+| Uredba o izmjenama i dopunama Uredbe o zaradama lica u službi u Vojsci Crne Gore | [`uredba/2026/398126/`](uredba/2026/398126/) | amending act | 1 | 2026-09-22 | 2026-09-22 |
 | Uredba o bližim uslovima i načinu izdavanja odobrenja i licence za obavljanje poslova zastupanja pred carinskim organom | [`uredba/2026/398333/`](uredba/2026/398333/) | in force | 1 | 2026-09-29 | 2026-09-29 |
 | Uredba o povjeravanju dijela poslova Ministarstva prostornog planiranja, urbanizma i državne imovine Inženjerskoj komori Crne Gore | [`uredba/2026/398626/`](uredba/2026/398626/) | in force | 1 | 2026-10-08 | 2026-10-08 |
 | Uredba o grupama proizvoda nad kojima se vrši nadzor na tržištu | [`uredba/2026/398627/`](uredba/2026/398627/) | in force | 1 | 2026-10-08 | 2026-10-08 |
@@ -34842,7 +34947,9 @@
 | Uredba o bližem načinu rada Centralnog informacionog sistema za zaštitu potrošača | [`uredba/2026/399236/`](uredba/2026/399236/) | in force | 1 | 2026-10-27 | 2026-10-27 |
 | Uredba o izmjeni Uredbe o higijeni hrane* | [`uredba/2026/399368/`](uredba/2026/399368/) | in force | 1 | 2026-10-23 | 2026-10-23 |
 | Uredba o izmjeni Uredbe o materijalima i predmetima koji dolaze u kontakt sa hranom* | [`uredba/2026/399369/`](uredba/2026/399369/) | in force | 1 | 2026-10-23 | 2026-10-23 |
+| Uredba o kriterijumima i načinu dodjeljivanja zvanja doajen i prvak i sastavu komisije za dodjelu tih zvanja | [`uredba/2026/399807/`](uredba/2026/399807/) | in force | 1 | 2026-11-11 | 2026-11-11 |
 | Uredba o dopunama Uredbe o organizaciji i načinu rada državne uprave | [`uredba/2026/399808/`](uredba/2026/399808/) | amending act | 1 | 2026-11-03 | 2026-11-03 |
+| Uredba o prestanku važenja Uredbe o vrstama unutrašnjih organizacionih jedinica i zvanjima službenika Agencije za nacionalnu bezbjednost | [`uredba/2026/399887/`](uredba/2026/399887/) | in force | 1 | 2026-11-05 | 2026-11-05 |
 
 ## ustav (1)
 
@@ -34850,7 +34957,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Ustav Crne Gore | [`ustav/`](ustav/) | in force | 3 | 2007-10-22 | 2026-08-24 |
 
-## zakon (318, of which 174 amending acts)
+## zakon (511, of which 174 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -34858,14 +34965,17 @@
 | Zakon o izmjeni Zakona o obnovi i revitalizaciji starih gradova postradalih u katastrofalnom zemljotresu od 15.aprila 1979.godine. | [`zakon/1992/294716/`](zakon/1992/294716/) | in force | 1 | 1992-01-28 | 1992-01-28 |
 | Zakon o načinu i uslovimaq vraćanja imovine stečene radom i poslovanjem zemljoradničkih zadruga i zadrugara polije 1.jula 1953.godine. | [`zakon/1992/294847/`](zakon/1992/294847/) | in force | 1 | 1992-04-11 | 1992-04-11 |
 | Zakon o zaštiti bilja od bolesti i štetočina. | [`zakon/1992/295074/`](zakon/1992/295074/) | in force | 1 | 1992-02-09 | 1992-02-09 |
+| Zakon o poljoprvrednom zemljištu. | [`zakon/1992/295116/`](zakon/1992/295116/) | amended, not consolidated | 1 | 1992-04-18 | 1992-04-18 |
 | Zakon o dopuni Zakona o obezbjeđenju i usmjeravanju sredstava za podsticanje razvoja poljoprivrede. | [`zakon/1992/295117/`](zakon/1992/295117/) | amending act | 1 | 1992-06-09 | 1992-06-09 |
 | Zakon o izmjenama i dopunama Zakona o prometu nepokretnosti. | [`zakon/1992/295263/`](zakon/1992/295263/) | amending act | 1 | 1992-01-28 | 1992-01-28 |
 | Zakon osistemu javnih prihoda. | [`zakon/1992/295323/`](zakon/1992/295323/) | in force | 1 | 1992-02-01 | 1992-02-01 |
 | Zakon o izmjenama i dopunama Zakona o prekršajima . | [`zakon/1992/295811/`](zakon/1992/295811/) | amending act | 1 | 1992-05-01 | 1992-05-01 |
+| Zakon o morskom dobru. | [`zakon/1992/295917/`](zakon/1992/295917/) | amended, not consolidated | 1 | 1992-04-11 | 1992-04-11 |
 | Zakon o prestanku važenja zakona o Geodetskom zavodu. | [`zakon/1992/296126/`](zakon/1992/296126/) | in force | 1 | 1992-04-11 | 1992-04-11 |
 | Zakon o vraćanju ranijim vlasnicima poljoprivrednog zemljišta iz društvene svojine. | [`zakon/1992/296166/`](zakon/1992/296166/) | in force | 1 | 1992-04-11 | 1992-04-11 |
 | Zakon o izmjenama i dopunama Zakona o sudskim taksama . | [`zakon/1992/296265/`](zakon/1992/296265/) | amending act | 1 | 1992-04-04 | 1992-04-04 |
 | Zakon o dopunama Zakona o Narodnoj banci Crne Gore. | [`zakon/1992/296296/`](zakon/1992/296296/) | amending act | 1 | 1992-04-30 | 1992-04-30 |
+| Zakon o svojinskoj i upravljačkoj transformaciji. | [`zakon/1992/296300/`](zakon/1992/296300/) | amended, not consolidated | 1 | 1992-01-28 | 1992-01-28 |
 | Zakon o izmjenama Zakona o redovnim sudovima . | [`zakon/1992/333058/`](zakon/1992/333058/) | in force | 1 | 1992-04-30 | 1992-04-30 |
 | Zakon o izmjenama i dopunama Zakona o izboru saveznih poslanika u Vijeću republika Savezne skupštine. | [`zakon/1992/333473/`](zakon/1992/333473/) | amending act | 1 | 1992-06-02 | 1992-06-02 |
 | Zakon o prestanku važenja Zakona o šprmjeni imena grada Podgorice u Titograd. | [`zakon/1992/344912/`](zakon/1992/344912/) | in force | 1 | 1992-04-02 | 1992-04-02 |
@@ -34885,6 +34995,7 @@
 | Zakon o prestanku važenja Zakona o Vladi Republike Crne Gore | [`zakon/1994/345340/`](zakon/1994/345340/) | in force | 1 | 1994-04-13 | 1994-04-13 |
 | Zakon o izmjenama i dopunama Zakona o porezima na imovinu | [`zakon/1994/349100/`](zakon/1994/349100/) | amending act | 1 | 1994-01-28 | 1994-01-28 |
 | Zakon o izmjenama i dopunama Zakona o zdravstvenoj zaštiti i zdravstvenom osiguranju | [`zakon/1994/349314/`](zakon/1994/349314/) | amending act | 1 | 1994-08-06 | 1994-08-06 |
+| Zakon o izmjenama i dopunama Zakona o svojinskoj i upravljačkoj transformaciji | [`zakon/1994/349552/`](zakon/1994/349552/) | amended, not consolidated | 1 | 1994-08-06 | 1994-08-06 |
 | Zakon o prestanku važenja Zakona o Republičkom fondu za obnovu i izgradnju područja postradalog od katastrofalnog zemljotresa | [`zakon/1994/349581/`](zakon/1994/349581/) | in force | 1 | 1994-02-11 | 1994-02-11 |
 | Zakon o izmjeni Zakona o porezu na promet finansijskih transakcija | [`zakon/1994/349652/`](zakon/1994/349652/) | in force | 1 | 1994-02-03 | 1994-02-03 |
 | Zakon o izmjenama Zakona o zdravstvenoj zaštiti i zdravstvenom osiguranju | [`zakon/1994/349653/`](zakon/1994/349653/) | in force | 1 | 1994-02-03 | 1994-02-03 |
@@ -34914,93 +35025,282 @@
 | Zakon o gradjevinskom zemljistu | [`zakon/2000/292009/`](zakon/2000/292009/) | in force | 1 | 2000-12-09 | 2000-12-09 |
 | Zakon o privremenoj zabrani raspolaganja bivšom društvenom imovinom koja je kao društvena postala oduzimanjem zakonom, drugim propisima i protivpravnim radnjama | [`zakon/2000/325788/`](zakon/2000/325788/) | in force | 1 | 2000-12-09 | 2000-12-09 |
 | Zakon o drzavnom premjeru, katastru i upisima prava na nepokretnostima | [`zakon/2000/348178/`](zakon/2000/348178/) | in force | 1 | 2000-12-09 | 2000-12-09 |
+| Zakon o eksproprijaciji | [`zakon/2000/348535/`](zakon/2000/348535/) | amended, not consolidated | 1 | 2000-12-09 | 2000-12-09 |
+| Zakon o imovini bivsih drustveno-politickih organizacija | [`zakon/2000/349064/`](zakon/2000/349064/) | amended, not consolidated | 1 | 2000-12-20 | 2000-12-20 |
 | Zakon o prestanku vazenja Zakona o Republickom savjetu za razvoj | [`zakon/2000/349453/`](zakon/2000/349453/) | in force | 1 | 2000-12-09 | 2000-12-09 |
 | Zakon o izmjenama i dopunama Zakona o porezu na promet | [`zakon/2000/350062/`](zakon/2000/350062/) | amending act | 1 | 2000-12-09 | 2000-12-09 |
 | Zakon o prestanku vazenja zakona o republickom fondu za podsticanje brzeg razvoja manje razvijenih opstina | [`zakon/2001/300186/`](zakon/2001/300186/) | in force | 1 | 2001-12-26 | 2001-12-26 |
 | Zakon o prestanku vazenja Zakona o finansiranju Omladinskog Savjeta Crne Gore | [`zakon/2001/300651/`](zakon/2001/300651/) | in force | 1 | 2001-12-26 | 2001-12-26 |
 | Zakon o izmjeni i dopuni Zakona o popisu stanovnistva, domacinstava i stanova u 2oo1.godini | [`zakon/2001/300856/`](zakon/2001/300856/) | amending act | 1 | 2001-03-28 | 2001-03-28 |
 | Zakon o referendumu | [`zakon/2001/348209/`](zakon/2001/348209/) | in force | 1 | 2001-03-02 | 2001-03-02 |
+| Zakon o dopunama Zakona o izboru odbornika i poslanika | [`zakon/2001/348229/`](zakon/2001/348229/) | amended, not consolidated | 1 | 2001-03-02 | 2001-03-02 |
+| Zakon o porezu na dohodak fizickih lica | [`zakon/2001/348771/`](zakon/2001/348771/) | amended, not consolidated | 1 | 2002-01-08 | 2002-01-08 |
+| Zakon o porezu na dodatnu vrijednost | [`zakon/2001/349493/`](zakon/2001/349493/) | amended, not consolidated | 1 | 2002-01-01 | 2002-01-01 |
+| Zakon o poreskoj administraciji | [`zakon/2001/349494/`](zakon/2001/349494/) | amended, not consolidated | 1 | 2002-01-08 | 2002-01-08 |
 | Zakon o izmjenama i dopunama Zakona o javnom informisanju | [`zakon/2002/299156/`](zakon/2002/299156/) | amending act | 1 | 2002-08-10 | 2002-08-10 |
+| Zakon o strucnom obrazovanju | [`zakon/2002/299421/`](zakon/2002/299421/) | amended, not consolidated | 1 | 2002-12-06 | 2002-12-06 |
 | Zakon o izmjenama Zakona o Budzetu Republike Crne Gore za 2002. godinu | [`zakon/2002/307176/`](zakon/2002/307176/) | in force | 1 | 2002-12-04 | 2002-12-04 |
+| Opsti zakon o obrazovanju i vaspitanju | [`zakon/2002/324944/`](zakon/2002/324944/) | amended, not consolidated | 1 | 2002-12-06 | 2002-12-06 |
 | Zakon o izmjenama i dopunama Zakona o komapnijama koje se osnivaju i posluju pod posebnim uslovima | [`zakon/2002/347998/`](zakon/2002/347998/) | amending act | 1 | 2002-11-23 | 2002-11-23 |
 | Zakon o davanju kontragarancije Saveznoj Republici Jugoslaviji za uredno vracanje zajma za Projekat obnove zeljeznice u Republici Crnoj Gori | [`zakon/2002/348770/`](zakon/2002/348770/) | in force | 1 | 2002-11-29 | 2002-11-29 |
 | Zakon o izmjeni i dopuni Zakona o popisu stanovnistva, domacinstava i stanova u 2001. godini | [`zakon/2002/348840/`](zakon/2002/348840/) | amending act | 1 | 2002-08-03 | 2002-08-03 |
+| Zakon o izmjenama i dopunama Zakona o izboru odbornika i poslanika | [`zakon/2002/349443/`](zakon/2002/349443/) | amended, not consolidated | 1 | 2002-08-10 | 2002-08-10 |
 | Zakon o zalozi kao sredstvu obezbjedjenja potrazivanja | [`zakon/2002/349481/`](zakon/2002/349481/) | in force | 1 | 2002-08-03 | 2002-08-03 |
+| Zakon o osnovnom obrazovanju i vaspitanju | [`zakon/2002/349572/`](zakon/2002/349572/) | amended, not consolidated | 1 | 2002-12-06 | 2002-12-06 |
+| Zakon o gimnaziji | [`zakon/2002/349603/`](zakon/2002/349603/) | amended, not consolidated | 1 | 2002-12-06 | 2002-12-06 |
 | Zakon o davanju kontragarancije Saveznoj Republici Jugoslaviji za uredno vracanje zajma za rekonstrukciju energetskog sistema u Republici Crnoj Gori | [`zakon/2002/349604/`](zakon/2002/349604/) | in force | 1 | 2002-11-29 | 2002-11-29 |
 | Zakon o poreskoj amnestiji | [`zakon/2002/349994/`](zakon/2002/349994/) | in force | 1 | 2002-07-04 | 2002-07-04 |
+| Zakon o inspekcijskom nadzoru | [`zakon/2003/302174/`](zakon/2003/302174/) | amended, not consolidated | 1 | 2003-07-08 | 2003-07-08 |
 | Zakon o izmjenama Zakona o popisu stanovnistva, domacinstava i stanova u 2001. godini | [`zakon/2003/303420/`](zakon/2003/303420/) | in force | 1 | 2003-03-31 | 2003-03-31 |
+| Zakon o borackoj i invalidskoj zastiti | [`zakon/2003/304171/`](zakon/2003/304171/) | amended, not consolidated | 1 | 2004-01-02 | 2004-01-02 |
 | Zakon o posrednom izboru poslanika u Skupstinu Srbije i Crne Gore | [`zakon/2003/304763/`](zakon/2003/304763/) | in force | 1 | 2003-02-14 | 2003-02-14 |
 | Zakon o interventnim nabavkama | [`zakon/2003/305034/`](zakon/2003/305034/) | in force | 1 | 2004-01-02 | 2004-01-02 |
+| Zakon o evidencijama u oblasti rada i zaposljavanja | [`zakon/2003/305475/`](zakon/2003/305475/) | amended, not consolidated | 1 | 2004-01-02 | 2004-01-02 |
 | Zakon o izboru predsjednika opstine | [`zakon/2003/307015/`](zakon/2003/307015/) | in force | 1 | 2003-07-24 | 2003-07-24 |
 | Zakon o izmjenama i dopunama Zakona o Budzetu Republike Crne Gore za 2003. godinu | [`zakon/2003/326320/`](zakon/2003/326320/) | amending act | 1 | 2003-07-31 | 2003-07-31 |
 | Zakon o izmjeni Zakona o davanju kontragarancije Saveznoj Republici Jugoslaviji za uredno vracanje zajma za strukturno prilagodjavanje Republike Crne Gore | [`zakon/2003/345134/`](zakon/2003/345134/) | in force | 1 | 2003-02-27 | 2003-02-27 |
 | Zakon o Akcionom planu harmonizacije ekonomskih sistema drzava clanica drzavne zajednice Srbija i Crna Gora radi sprjecavanja i uklanjanja prepreka slobodnom protoku ljudi, robe, usluga i kapitala | [`zakon/2003/349104/`](zakon/2003/349104/) | in force | 1 | 2003-07-16 | 2003-07-16 |
+| Zakon o Drzavnoj revizorskoj instituciji | [`zakon/2004/298163/`](zakon/2004/298163/) | amended, not consolidated | 1 | 2004-05-07 | 2004-05-07 |
+| Zakon o izmjeni Zakona o porezu na premije osiguranja | [`zakon/2004/298431/`](zakon/2004/298431/) | amended, not consolidated | 1 | 2004-06-05 | 2004-06-05 |
+| Zakon o povracaju oduzetih imovinskih prava i obestecenju | [`zakon/2004/299025/`](zakon/2004/299025/) | amended, not consolidated | 1 | 2004-04-08 | 2004-04-08 |
+| Zakon o politickim partijama | [`zakon/2004/299521/`](zakon/2004/299521/) | amended, not consolidated | 1 | 2004-04-08 | 2004-04-08 |
+| Zakon o porezu na premije osiguranja | [`zakon/2004/299707/`](zakon/2004/299707/) | amended, not consolidated | 1 | 2004-05-06 | 2004-05-06 |
 | Zakon o izmjeni Zakona o privatizaciji privrede | [`zakon/2004/300017/`](zakon/2004/300017/) | in force | 1 | 2004-06-30 | 2004-06-30 |
+| Zakon o elektronskoj trgovini | [`zakon/2004/301040/`](zakon/2004/301040/) | amended, not consolidated | 1 | 2005-01-06 | 2005-01-06 |
 | Zakon o izmjenama i dopunama Zakona o Akcionom planu harmonizacije ekonomskih sistema drzava clanica drzavne zajednice Srbija i Crna Gora radi sprijecavanja i uklanjanja prepreka slobodnom protoku ljudi, robe, usluga i kapitala | [`zakon/2004/325268/`](zakon/2004/325268/) | amending act | 1 | 2005-01-07 | 2005-01-07 |
 | Zakon o preuzimanju nadleznosti vojnih sudova i vojnih tuzilaca | [`zakon/2004/327299/`](zakon/2004/327299/) | in force | 1 | 2004-08-10 | 2004-08-10 |
+| Zakon o boravisnoj taksi | [`zakon/2004/345135/`](zakon/2004/345135/) | amended, not consolidated | 1 | 2004-02-28 | 2004-02-28 |
 | Zakon o dopuni Zakona o regulisanju obaveza i potrazivanja po osnovu ino duga i devizne stednje gradjana | [`zakon/2004/345136/`](zakon/2004/345136/) | amending act | 1 | 2004-02-28 | 2004-02-28 |
 | Zakon o davanju kontragarancije Srbiji i Crnoj Gori za uredno vracanje kredita, za projekat modernizacije aerodroma Crne Gore | [`zakon/2004/345185/`](zakon/2004/345185/) | in force | 1 | 2004-02-21 | 2004-02-21 |
+| Zakon o turistickim organizacijama | [`zakon/2004/345186/`](zakon/2004/345186/) | amended, not consolidated | 1 | 2004-02-28 | 2004-02-28 |
+| Zakon o zaduzivanju i upravljanju dugom javnog sektora | [`zakon/2004/345188/`](zakon/2004/345188/) | amended, not consolidated | 1 | 2004-02-28 | 2004-02-28 |
 | Zakon o prosvjetnoj inspekciji | [`zakon/2004/348092/`](zakon/2004/348092/) | in force | 1 | 2005-01-06 | 2005-01-06 |
 | Zakon o amnestiji lica osudjenih za krivicna djela propisana zakonima Republike Crne Gore | [`zakon/2004/348351/`](zakon/2004/348351/) | in force | 1 | 2004-12-30 | 2004-12-30 |
+| Zakon o porezu na upotrebu putnickih motornih vozila, plovnih objekata, vazduhoplova i letilica | [`zakon/2004/348552/`](zakon/2004/348552/) | amended, not consolidated | 1 | 2004-05-07 | 2004-05-07 |
+| Zakon o Drzavnim simbolima i danu Drzavnosti Crne Gore | [`zakon/2004/348639/`](zakon/2004/348639/) | amended, not consolidated | 1 | 2004-07-13 | 2004-07-13 |
+| Zakon o izmjeni Zakona o porezu na upotrebu putnickih motornih vozila, plovnih objekata, vazduhoplova i letilica | [`zakon/2004/348673/`](zakon/2004/348673/) | amended, not consolidated | 1 | 2004-06-05 | 2004-06-05 |
+| Zakon o strateskoj procjeni uticaja na zivotnu sredinu | [`zakon/2005/297067/`](zakon/2005/297067/) | amended, not consolidated | 1 | 2006-01-05 | 2006-01-05 |
 | Zakon o amnestiji | [`zakon/2005/307181/`](zakon/2005/307181/) | in force | 1 | 2005-12-13 | 2005-12-13 |
+| Zakon o Glavnom gradu | [`zakon/2005/333136/`](zakon/2005/333136/) | amended, not consolidated | 1 | 2005-11-11 | 2005-11-11 |
 | Zakon o planiranju i uredjenju prostora | [`zakon/2005/348628/`](zakon/2005/348628/) | in force | 1 | 2005-05-13 | 2005-05-13 |
+| Zakon o racunovodstvu i reviziji | [`zakon/2005/348695/`](zakon/2005/348695/) | amended, not consolidated | 1 | 2005-11-26 | 2005-11-26 |
+| Zakon o zastiti i ostvarivanju prava mentalno oboljelih lica | [`zakon/2005/348793/`](zakon/2005/348793/) | amended, not consolidated | 1 | 2005-06-04 | 2005-06-04 |
+| Zakon o objedinjenoj registraciji i sistemu izvjestavanja o obracunu i naplati poreza i doprinosa | [`zakon/2005/349135/`](zakon/2005/349135/) | amended, not consolidated | 1 | 2005-05-17 | 2005-05-17 |
 | Zakon o zaradama i drugim primanjima poslanika i funkcionera | [`zakon/2005/349204/`](zakon/2005/349204/) | in force | 1 | 2006-01-06 | 2006-01-06 |
 | Zakon o dopuni Zakona o konfliktu interesa | [`zakon/2005/349260/`](zakon/2005/349260/) | amending act | 1 | 2005-03-26 | 2005-03-26 |
+| Zakon o izmjenama i dopunama Zakona o Budzetu Crne Gore | [`zakon/2005/349662/`](zakon/2005/349662/) | amended, not consolidated | 1 | 2005-12-06 | 2005-12-06 |
 | Zakon o Ustavotvornoj skupstini Republike Crne Gore | [`zakon/2006/298558/`](zakon/2006/298558/) | in force | 1 | 2006-07-19 | 2006-07-19 |
 | Zakon o postupku za donosenje i proglasenje novog ustava Crne Gore | [`zakon/2006/299065/`](zakon/2006/299065/) | in force | 1 | 2006-11-04 | 2006-11-04 |
 | Zakon o porezu na igre na srecu i zabavne igre | [`zakon/2006/299432/`](zakon/2006/299432/) | in force | 1 | 2006-05-05 | 2006-05-05 |
 | Zakon o amnestiji lica osudjenih za krivicna djela propisana zakonima Republike Crne Gore | [`zakon/2006/300502/`](zakon/2006/300502/) | in force | 1 | 2006-08-05 | 2006-08-05 |
+| Zakon o izmjeni i dopuni Zakona o Drzavnoj revizorskoj instituciji | [`zakon/2006/300866/`](zakon/2006/300866/) | amended, not consolidated | 1 | 2006-12-22 | 2006-12-22 |
 | Zakon o prestanku vazenja Zakona o drustvenoj kontroli cijena | [`zakon/2006/304781/`](zakon/2006/304781/) | in force | 1 | 2006-05-05 | 2006-05-05 |
+| Zakon o Crvenom krstu Crne Gore | [`zakon/2006/324116/`](zakon/2006/324116/) | amended, not consolidated | 1 | 2006-05-11 | 2006-05-11 |
 | Zakon o referendumu o drzavno - pravnom statusu Republike Crne Gore | [`zakon/2006/345286/`](zakon/2006/345286/) | in force | 1 | 2006-03-02 | 2006-03-02 |
 | Zakon o izmjenama i dopunama Zakona o kinematografiji | [`zakon/2006/348301/`](zakon/2006/348301/) | amending act | 1 | 2006-12-07 | 2006-12-07 |
+| Zakon o sadnom materijalu | [`zakon/2006/348670/`](zakon/2006/348670/) | amended, not consolidated | 1 | 2006-05-11 | 2006-05-11 |
+| Zakon o sjemenskom materijalu poljoprivrednog bilja | [`zakon/2006/348709/`](zakon/2006/348709/) | amended, not consolidated | 1 | 2006-05-11 | 2006-05-11 |
+| Zakon o izmjenama i dopunama Zakona o eksproprijaciji | [`zakon/2006/348710/`](zakon/2006/348710/) | amended, not consolidated | 1 | 2006-05-11 | 2006-05-11 |
 | Zakon o clanstvu Republike Crne Gore u medjunarodnom monetarnom fondu i drugim medjunarodnim finansijskim institucijama | [`zakon/2006/348956/`](zakon/2006/348956/) | in force | 1 | 2006-11-11 | 2006-11-11 |
+| Zakon o izmjeni Zakona o drzavnoj revizorskoj instituciji | [`zakon/2006/349761/`](zakon/2006/349761/) | amended, not consolidated | 1 | 2006-05-05 | 2006-05-05 |
+| Zakon o izmjenama i dopunama Zakona o izboru odbornika i poslanika | [`zakon/2006/349858/`](zakon/2006/349858/) | amended, not consolidated | 1 | 2006-07-29 | 2006-07-29 |
 | Zakon o Završnom računu Budžeta Republike Crne Gore za 2006. godinu | [`zakon/2007/304982/`](zakon/2007/304982/) | in force | 1 | 2007-12-22 | 2007-12-22 |
+| Zakon o drzavnim i drugim praznicima | [`zakon/2007/305468/`](zakon/2007/305468/) | amended, not consolidated | 1 | 2007-05-17 | 2007-05-17 |
 | Zakon o potvrđivanju Dodatnog protokola uz Krivičnopravnu konvenciju o korupciji | [`zakon/2007/306538/`](zakon/2007/306538/) | in force | 1 | 2007-12-21 | 2007-12-21 |
+| Zakon o izmjenama i dopunama Zakona o osnovnom obrazovanju i vaspitanju | [`zakon/2007/325265/`](zakon/2007/325265/) | amended, not consolidated | 1 | 2007-08-18 | 2007-08-18 |
 | Zakon o zaštiti prava na suđenje u razumnom roku | [`zakon/2007/333790/`](zakon/2007/333790/) | in force | 1 | 2007-12-21 | 2007-12-21 |
+| Zakon o ličnoj karti | [`zakon/2007/333885/`](zakon/2007/333885/) | amended, not consolidated | 1 | 2007-12-22 | 2007-12-22 |
+| Zakon o skijalistima | [`zakon/2007/334165/`](zakon/2007/334165/) | amended, not consolidated | 1 | 2007-12-26 | 2007-12-26 |
+| Zakon o zastiti i spasavanju | [`zakon/2007/334166/`](zakon/2007/334166/) | amended, not consolidated | 1 | 2007-12-26 | 2007-12-26 |
+| Zakon o doprinosima za obavezno socijalno osiguranje | [`zakon/2007/334167/`](zakon/2007/334167/) | amended, not consolidated | 1 | 2007-12-26 | 2007-12-26 |
+| Zakon o izboru Predsjednika Crne Gore | [`zakon/2007/334286/`](zakon/2007/334286/) | amended, not consolidated | 1 | 2008-01-07 | 2008-01-07 |
+| Zakon o odbrani | [`zakon/2007/348089/`](zakon/2007/348089/) | amended, not consolidated | 1 | 2007-08-15 | 2007-08-15 |
+| Zakon o vodama | [`zakon/2007/348435/`](zakon/2007/348435/) | amended, not consolidated | 1 | 2007-05-25 | 2007-05-25 |
+| Zakon o izmjenama i dopunama Zakona o turistickim organizacijama | [`zakon/2007/348527/`](zakon/2007/348527/) | amended, not consolidated | 1 | 2007-08-08 | 2007-08-08 |
+| Zakon o izmjenama i dopunama Opsteg zakona o obrazovanju i vaspitanju | [`zakon/2007/348761/`](zakon/2007/348761/) | amended, not consolidated | 1 | 2007-08-18 | 2007-08-18 |
+| Zakon o izmjenama i dopunama Zakona o gimnaziji | [`zakon/2007/348762/`](zakon/2007/348762/) | amended, not consolidated | 1 | 2007-08-18 | 2007-08-18 |
+| Zakon o izmjenama i dopunama Zakona o strucnom obrazovanju | [`zakon/2007/348802/`](zakon/2007/348802/) | amended, not consolidated | 1 | 2007-08-18 | 2007-08-18 |
+| Zakon o centralnom registru stanovnistva | [`zakon/2007/348804/`](zakon/2007/348804/) | amended, not consolidated | 1 | 2007-08-18 | 2007-08-18 |
+| Zakon o jahtama | [`zakon/2007/349059/`](zakon/2007/349059/) | amended, not consolidated | 1 | 2007-08-08 | 2007-08-08 |
+| Zakon o izmjenama i dopunama Zakona o stranim ulaganjima | [`zakon/2007/349141/`](zakon/2007/349141/) | amended, not consolidated | 1 | 2007-06-23 | 2007-06-23 |
 | Zakon o izmjenama i dopunama Zakona o insolventnosti privrednih drustava | [`zakon/2007/349355/`](zakon/2007/349355/) | amending act | 1 | 2007-01-19 | 2007-01-19 |
+| Zakon o reproduktivnom materijalu sumskog drveca | [`zakon/2007/349688/`](zakon/2007/349688/) | amended, not consolidated | 1 | 2007-06-27 | 2007-06-27 |
+| Zakon o zastiti biljnih sorti | [`zakon/2007/349897/`](zakon/2007/349897/) | amended, not consolidated | 1 | 2007-08-17 | 2007-08-17 |
+| Zakon o drzavnom premjeru i katastaru nepokretnosti | [`zakon/2007/350077/`](zakon/2007/350077/) | amended, not consolidated | 1 | 2007-06-02 | 2007-06-02 |
+| Zakon o poreskim savjetnicima | [`zakon/2007/350109/`](zakon/2007/350109/) | amended, not consolidated | 1 | 2007-05-24 | 2007-05-24 |
+| Zakon o licnom imenu | [`zakon/2008/297764/`](zakon/2008/297764/) | amended, not consolidated | 1 | 2008-08-15 | 2008-08-15 |
 | Zakon o zakljucivanju i izvrsavanju medjunarodnih ugovora | [`zakon/2008/298728/`](zakon/2008/298728/) | in force | 1 | 2008-12-24 | 2008-12-24 |
+| Zakon o duvanu | [`zakon/2008/300596/`](zakon/2008/300596/) | amended, not consolidated | 1 | 2008-08-19 | 2008-08-19 |
+| Zakon o staranju o privremeno i trajno oduzetoj imovini | [`zakon/2008/307660/`](zakon/2008/307660/) | amended, not consolidated | 1 | 2008-08-23 | 2008-08-23 |
+| Zakon o kulturi | [`zakon/2008/309687/`](zakon/2008/309687/) | amended, not consolidated | 1 | 2008-08-23 | 2008-08-23 |
+| Zakon o mjerama za zastitu bankarskog sistema | [`zakon/2008/324260/`](zakon/2008/324260/) | amended, not consolidated | 1 | 2008-10-27 | 2008-10-27 |
+| Zakon o divljaci i lovstvu | [`zakon/2008/325094/`](zakon/2008/325094/) | amended, not consolidated | 1 | 2008-09-04 | 2008-09-04 |
 | Zakon o amnestiji lica osudjenih za krivicna djela propisana zakonima Crne Gore i lica osudjenih stranom krivicnom presudom koja se izvrsava u Crnoj Gori | [`zakon/2008/333059/`](zakon/2008/333059/) | in force | 1 | 2008-08-12 | 2008-08-12 |
+| Zakon o izmjenama i dopunama Zakona o doprinosima za obavezno socijalno osiguranje | [`zakon/2008/333372/`](zakon/2008/333372/) | amended, not consolidated | 1 | 2008-12-31 | 2008-12-31 |
 | Zakon o izmjeni Zakona o zastiti neobjavljenih podataka | [`zakon/2008/333463/`](zakon/2008/333463/) | in force | 1 | 2008-12-10 | 2008-12-10 |
+| Zakon o crnogorskom drzavljanstvu | [`zakon/2008/334199/`](zakon/2008/334199/) | amended, not consolidated | 1 | 2008-03-05 | 2008-03-05 |
+| Zakon o tajnosti podataka | [`zakon/2008/334412/`](zakon/2008/334412/) | amended, not consolidated | 1 | 2008-03-08 | 2008-03-08 |
+| Zakon o zastiti dobrobiti zivotinja | [`zakon/2008/334413/`](zakon/2008/334413/) | amended, not consolidated | 1 | 2008-03-08 | 2008-03-08 |
+| Zakon o putnim ispravama | [`zakon/2008/334627/`](zakon/2008/334627/) | amended, not consolidated | 1 | 2008-04-04 | 2008-04-04 |
 | Zakon o Matici crnogorskoj | [`zakon/2008/334628/`](zakon/2008/334628/) | in force | 1 | 2008-04-04 | 2008-04-04 |
+| Zakon o isplati deviznih sredstava gradjana polozenih kod Dafiment Banke ad Beograd i banke privatne privrede DD Podgorica polozenih preko preduzeca Jugoskandik DD Beograd | [`zakon/2008/334661/`](zakon/2008/334661/) | amended, not consolidated | 1 | 2008-04-04 | 2008-04-04 |
+| Zakon o izmjenama i dopunama Zakona o eksproprijaciji | [`zakon/2008/334663/`](zakon/2008/334663/) | amended, not consolidated | 1 | 2008-04-04 | 2008-04-04 |
+| Zakon o izmjenama i dopunama Zakona o borackoj i invalidskoj zastiti | [`zakon/2008/334693/`](zakon/2008/334693/) | amended, not consolidated | 1 | 2008-04-04 | 2008-04-04 |
 | Zakon o kretanju slijepog lica uz pomoc psa vodica | [`zakon/2008/334732/`](zakon/2008/334732/) | in force | 1 | 2008-03-26 | 2008-03-26 |
 | Zakon o geneticki modifikovanim organizmima | [`zakon/2008/334932/`](zakon/2008/334932/) | in force | 1 | 2008-04-10 | 2008-04-10 |
+| Zakon o izmjenama i dopunama Zakona o administrativnim taksama | [`zakon/2008/334941/`](zakon/2008/334941/) | amended, not consolidated | 1 | 2008-04-10 | 2008-04-10 |
+| Zakon izmjenama i dopunama krivicnog zakonika | [`zakon/2008/336485/`](zakon/2008/336485/) | amended, not consolidated | 1 | 2008-07-05 | 2008-07-05 |
+| Zakon o spomen - obiljezjima | [`zakon/2008/336498/`](zakon/2008/336498/) | amended, not consolidated | 1 | 2008-07-05 | 2008-07-05 |
+| Zakon o maticnim registrima | [`zakon/2008/336534/`](zakon/2008/336534/) | amended, not consolidated | 1 | 2008-08-15 | 2008-08-15 |
+| Zakon o oznakama geografskog porijekla | [`zakon/2008/336858/`](zakon/2008/336858/) | amended, not consolidated | 1 | 2008-08-19 | 2008-08-19 |
+| Zakon o unutrasnjoj trgovini | [`zakon/2008/337040/`](zakon/2008/337040/) | amended, not consolidated | 1 | 2008-08-23 | 2008-08-23 |
 | Zakon o objavljivanju propisa i drugih akata | [`zakon/2008/337708/`](zakon/2008/337708/) | in force | 1 | 2008-01-31 | 2008-01-31 |
+| Zakon o upotrebi jedinica Vojske Crne Gore u medjunarodnim snagama i ucescu pripadnika civilne zastite, policije i zaposlenih u organima drzavne uprave u mirovnim misijama i drugim aktivnostima u inostranstvu | [`zakon/2008/337792/`](zakon/2008/337792/) | amended, not consolidated | 1 | 2008-10-21 | 2008-10-21 |
+| Zakon o finansiranju upravljanja vodama | [`zakon/2008/338026/`](zakon/2008/338026/) | amended, not consolidated | 1 | 2008-11-06 | 2008-11-06 |
+| Zakon o izmjenama i dopunama Zakona o administrativnim taksama | [`zakon/2008/338200/`](zakon/2008/338200/) | amended, not consolidated | 1 | 2008-12-17 | 2008-12-17 |
 | Zakon o prestanku vazenja Zakona o stranim kompanijama koje se osnivaju i posluju u Crnoj Gori | [`zakon/2008/338242/`](zakon/2008/338242/) | in force | 1 | 2008-12-20 | 2008-12-20 |
+| Zakon o metrologiji | [`zakon/2008/338487/`](zakon/2008/338487/) | amended, not consolidated | 1 | 2008-12-31 | 2008-12-31 |
+| Zakon o inspekciji rada | [`zakon/2008/338488/`](zakon/2008/338488/) | amended, not consolidated | 1 | 2008-12-31 | 2008-12-31 |
+| Zakon o javnim radio-difuznim servisima Crne Gore | [`zakon/2008/338722/`](zakon/2008/338722/) | amended, not consolidated | 1 | 2008-12-31 | 2008-12-31 |
+| Zakon o izmjenama Zakona porezu na upotrebu putnickih motornih vozila,plovnih objekata,vazduhoplova i letilica | [`zakon/2009/291579/`](zakon/2009/291579/) | amended, not consolidated | 1 | 2010-01-02 | 2010-01-02 |
+| Zakon o dopunama Zakona o strancima | [`zakon/2009/297495/`](zakon/2009/297495/) | amended, not consolidated | 1 | 2009-11-07 | 2009-11-07 |
+| Zakon o uslovima i postupku za prekid trudnoce | [`zakon/2009/297718/`](zakon/2009/297718/) | amended, not consolidated | 1 | 2009-08-15 | 2009-08-15 |
+| Zakon o dopunama Zakona o tajnosti podataka | [`zakon/2009/299828/`](zakon/2009/299828/) | amended, not consolidated | 1 | 2009-11-26 | 2009-11-26 |
+| Zakon o akreditaciji | [`zakon/2009/304867/`](zakon/2009/304867/) | amended, not consolidated | 1 | 2009-08-18 | 2009-08-18 |
 | Zakon o kretanju lica sa invaliditetom uz pomocpsa pomagaca | [`zakon/2009/307792/`](zakon/2009/307792/) | in force | 1 | 2009-11-26 | 2009-11-26 |
+| Zakon o koncesijama | [`zakon/2009/333069/`](zakon/2009/333069/) | amended, not consolidated | 1 | 2009-02-12 | 2009-02-12 |
 | Zakon o izmjenama i dopunama Zakona o isplati devizne stednje gradjana polozene kod ovlascenih banaka sa sjedistem van Republike Crne Gore | [`zakon/2009/334686/`](zakon/2009/334686/) | amending act | 1 | 2009-03-17 | 2009-03-17 |
+| Zakon o izmjenama i dopunama Zakona o budzetu | [`zakon/2009/337345/`](zakon/2009/337345/) | amended, not consolidated | 1 | 2009-08-15 | 2009-08-15 |
+| Zakon o ugovorima o prevozu u drumskom saobracaju | [`zakon/2009/337352/`](zakon/2009/337352/) | amended, not consolidated | 1 | 2009-08-15 | 2009-08-15 |
+| Zakon o poljoprivredi i ruralnom razvoju | [`zakon/2009/337406/`](zakon/2009/337406/) | amended, not consolidated | 1 | 2009-08-22 | 2009-08-22 |
+| Zakon o zanatstvu | [`zakon/2009/337432/`](zakon/2009/337432/) | amended, not consolidated | 1 | 2009-08-18 | 2009-08-18 |
+| Zakon o izmjenama i dopunama Zakona o inspekcijskom nadzoru | [`zakon/2009/338253/`](zakon/2009/338253/) | amended, not consolidated | 1 | 2009-11-26 | 2009-11-26 |
 | Zakon o dopunama Zakona o zaradama i drugim primanjima dryavnih i javnih funkcionera | [`zakon/2009/338254/`](zakon/2009/338254/) | amending act | 1 | 2009-11-26 | 2009-11-26 |
+| Zakon o izmjenama Zakona o doprinosima za obavezno socijalno osiguranje | [`zakon/2009/338485/`](zakon/2009/338485/) | amended, not consolidated | 1 | 2010-01-02 | 2010-01-02 |
 | Zakon o prestanku vazenja Zakona o agenciji Crne Gore za prestrukturiranje privrede i strana ulaganja | [`zakon/2009/338710/`](zakon/2009/338710/) | in force | 1 | 2009-12-26 | 2009-12-26 |
 | Zakon o upotrebi i zastiti znaka i naziva Crvenog krsta | [`zakon/2010/301895/`](zakon/2010/301895/) | in force | 1 | 2010-12-29 | 2010-12-29 |
+| Zakon o istrazivanju i proizvodnji ugljovodonika | [`zakon/2010/305349/`](zakon/2010/305349/) | amended, not consolidated | 1 | 2010-07-31 | 2010-07-31 |
+| Zakon o izmjenama i dopuni Zakona o licnoj karti | [`zakon/2010/319678/`](zakon/2010/319678/) | amended, not consolidated | 1 | 2010-12-18 | 2010-12-18 |
 | Zakon o Zavrsnom racunu Budzeta Crne Gore za 2009. godinu | [`zakon/2010/322665/`](zakon/2010/322665/) | in force | 1 | 2010-12-25 | 2010-12-25 |
 | Zakon o izmjenama i dopunama Zakona o objedinjenoj registraciji i sistemu izvjestavanja o obracunu i naplati poreza i doprinosa | [`zakon/2010/325501/`](zakon/2010/325501/) | amending act | 1 | 2010-12-22 | 2010-12-22 |
+| Zakon o informacionoj bezbjednosti | [`zakon/2010/325763/`](zakon/2010/325763/) | amended, not consolidated | 1 | 2010-03-25 | 2010-03-25 |
+| Zakon o zastiti topografija poluprovodnika | [`zakon/2010/330895/`](zakon/2010/330895/) | amended, not consolidated | 1 | 2010-12-29 | 2010-12-29 |
 | Zakon o sanitarnoj inspekciji | [`zakon/2010/334228/`](zakon/2010/334228/) | in force | 1 | 2010-03-25 | 2010-03-25 |
+| Zakon o izmjenama i dopunama zakona o zastiti stanovnistva od zaraznih bolesti | [`zakon/2010/334230/`](zakon/2010/334230/) | amended, not consolidated | 1 | 2010-03-25 | 2010-03-25 |
 | Zakon o izmjeni i dopuni zakona o sprovodjenju popisa poljoprivrede 2009. godine | [`zakon/2010/334231/`](zakon/2010/334231/) | amending act | 1 | 2010-03-25 | 2010-03-25 |
+| Zakon o uzimanju i koriscenju bioloskih uzoraka | [`zakon/2010/334445/`](zakon/2010/334445/) | amended, not consolidated | 1 | 2010-03-25 | 2010-03-25 |
 | Zakon o izmjenama i dopunama Zakona o popisu stanovnistva, domacinstava i stanova u 2011. godini | [`zakon/2010/338240/`](zakon/2010/338240/) | amending act | 1 | 2010-12-29 | 2010-12-29 |
+| Zakon o stocarstvu | [`zakon/2010/338248/`](zakon/2010/338248/) | amended, not consolidated | 1 | 2010-12-16 | 2010-12-16 |
+| Zakon o zigu | [`zakon/2010/338249/`](zakon/2010/338249/) | amended, not consolidated | 1 | 2010-12-16 | 2010-12-16 |
 | Zakon o izmjenama i dopunama Zakona o porezu na nepokretnosti | [`zakon/2010/338250/`](zakon/2010/338250/) | amending act | 1 | 2010-12-29 | 2010-12-29 |
 | Zakon o izmjenama i dopunama Zakona o drzavnim nagradama | [`zakon/2010/338251/`](zakon/2010/338251/) | amending act | 1 | 2010-12-29 | 2010-12-29 |
+| Zakon o stambenim zadrugama | [`zakon/2010/338292/`](zakon/2010/338292/) | amended, not consolidated | 1 | 2010-12-18 | 2010-12-18 |
 | Zakon o dopuni Zakona o obestecenju korisnika prava iz penzijskog i invalidskog osiguranja | [`zakon/2010/338669/`](zakon/2010/338669/) | amending act | 1 | 2011-01-06 | 2011-01-06 |
+| Zakon o izmjenama i dopunama Zakona o doprinosima za obavezno socijalno osiguranje | [`zakon/2010/338670/`](zakon/2010/338670/) | amended, not consolidated | 1 | 2010-12-30 | 2010-12-30 |
 | Zakon o proglasenju Zakona o izmjenama i dopunama Zakona o budzetu Crne Gore za 2011. godinu | [`zakon/2011/302667/`](zakon/2011/302667/) | amending act | 1 | 2011-06-10 | 2011-06-10 |
+| Zakon o izmjenama i dopunama Zakona o sadnom materijalu | [`zakon/2011/305316/`](zakon/2011/305316/) | amended, not consolidated | 1 | 2011-12-31 | 2011-12-31 |
+| Zakon o stranim investicijama | [`zakon/2011/306776/`](zakon/2011/306776/) | amended, not consolidated | 1 | 2011-04-09 | 2011-04-09 |
+| Zakon o javnom redu i miru | [`zakon/2011/306909/`](zakon/2011/306909/) | amended, not consolidated | 1 | 2012-01-06 | 2012-01-06 |
+| Zakon o dopunama Zakona o crnogorskom drzavljanstvu | [`zakon/2011/308240/`](zakon/2011/308240/) | amended, not consolidated | 1 | 2011-09-24 | 2011-09-24 |
+| Zakon o preuzimanju akcionarskih društava | [`zakon/2011/319936/`](zakon/2011/319936/) | amended, not consolidated | 1 | 2011-04-08 | 2011-04-08 |
 | Zakon o Zavrsnom racunu Budzeta Crne Gore za 2010. godinu | [`zakon/2011/320852/`](zakon/2011/320852/) | in force | 1 | 2011-12-22 | 2011-12-22 |
 | Zakon o potvrdjivanju Sporazuma izmedju Vlade Crne Gore i Vlade Republike Ceske o izmjenama i dopunama Sporazuma o uzajamnom podsticanju i zastiti ulaganja | [`zakon/2011/325373/`](zakon/2011/325373/) | amending act | 1 | 2011-04-28 | 2011-04-28 |
+| Zakon o dopuni Zakona o strancima | [`zakon/2011/326133/`](zakon/2011/326133/) | amended, not consolidated | 1 | 2011-11-19 | 2011-11-19 |
+| Zakon o izmjenama i dopunama Zakona o izboru odbornika i poslanika | [`zakon/2011/333095/`](zakon/2011/333095/) | amended, not consolidated | 1 | 2011-09-24 | 2011-09-24 |
+| Zakon o izmjenama i dopunama Zakona o poreskoj administraciji | [`zakon/2011/334572/`](zakon/2011/334572/) | amended, not consolidated | 1 | 2011-04-23 | 2011-04-23 |
+| Zakon o izmjenama i dopunama Zakona o racunovodstvu i reviziji | [`zakon/2011/335554/`](zakon/2011/335554/) | amended, not consolidated | 1 | 2011-07-01 | 2011-07-01 |
+| Zakon o izmjenama i dopunama Krivicnog zakonika | [`zakon/2011/335694/`](zakon/2011/335694/) | amended, not consolidated | 1 | 2011-07-09 | 2011-07-09 |
+| Zakon o izvrsenju i obezbjedjenju | [`zakon/2011/336034/`](zakon/2011/336034/) | amended, not consolidated | 1 | 2011-09-24 | 2011-09-24 |
+| Zakon o DNK registru | [`zakon/2011/336481/`](zakon/2011/336481/) | amended, not consolidated | 1 | 2011-08-12 | 2011-08-12 |
+| Zakon o izmjeni Opsteg zakona o obrazovanju i vaspitanju | [`zakon/2011/336784/`](zakon/2011/336784/) | amended, not consolidated | 1 | 2011-09-10 | 2011-09-10 |
+| Zakon o priznavanju inostranih obrazovnih isprava i izjednacavanju kvalifikacija | [`zakon/2011/337240/`](zakon/2011/337240/) | amended, not consolidated | 1 | 2011-12-08 | 2011-12-08 |
+| Zakon o postanskim uslugama | [`zakon/2011/337241/`](zakon/2011/337241/) | amended, not consolidated | 1 | 2011-12-08 | 2011-12-08 |
+| Zakon o trzisnoj inspekciji | [`zakon/2011/337354/`](zakon/2011/337354/) | amended, not consolidated | 1 | 2011-11-19 | 2011-11-19 |
+| Zakon o raftingu | [`zakon/2011/337363/`](zakon/2011/337363/) | amended, not consolidated | 1 | 2011-11-19 | 2011-11-19 |
+| Zakon o tehnickim zahtjevima za proizvode i ocjenjivanju usaglasenosti | [`zakon/2011/337364/`](zakon/2011/337364/) | amended, not consolidated | 1 | 2011-11-19 | 2011-11-19 |
 | Zakon o izmjenama i dopunama Zakona o optickim diskovima | [`zakon/2011/337373/`](zakon/2011/337373/) | amending act | 1 | 2011-11-19 | 2011-11-19 |
 | Zakon o izmjenama i dopunama Zakona o planinskim stazama | [`zakon/2011/337374/`](zakon/2011/337374/) | amending act | 1 | 2011-11-19 | 2011-11-19 |
 | Zakon o dopunama Zakona o zaradama drzavnih sluzbenika i namjestenika | [`zakon/2011/337519/`](zakon/2011/337519/) | amending act | 1 | 2011-12-22 | 2011-12-22 |
+| Zakon o izmjenama i dopunama Zakona o sjemenskom materijalu poljoprivrednog bilja | [`zakon/2011/337683/`](zakon/2011/337683/) | amended, not consolidated | 1 | 2011-12-31 | 2011-12-31 |
+| Zakon o dopunama Zakona o politickim partijama | [`zakon/2011/337731/`](zakon/2011/337731/) | amended, not consolidated | 1 | 2011-12-22 | 2011-12-22 |
+| Zakon o postupanju prema maloljetnicima u krivičnom postupku | [`zakon/2011/337981/`](zakon/2011/337981/) | amended, not consolidated | 1 | 2012-01-06 | 2012-01-06 |
 | Zakon o Budžetu Crne Gore za 2013. godinu | [`zakon/2012/304796/`](zakon/2012/304796/) | in force | 1 | 2012-12-31 | 2012-12-31 |
+| Zakon o izmjeni Zakona o ličnoj karti | [`zakon/2012/305569/`](zakon/2012/305569/) | amended, not consolidated | 1 | 2012-10-01 | 2012-10-01 |
 | Zakon o potvrđivanju Protokola o pristupanju Crne Gore Sporazumu iz Marakeša o osnivanju Svjetske trgovinske organizacije | [`zakon/2012/306112/`](zakon/2012/306112/) | in force | 1 | 2012-03-16 | 2012-03-16 |
+| Zakon o finansijskom obezbjeđenju | [`zakon/2012/309688/`](zakon/2012/309688/) | amended, not consolidated | 1 | 2012-08-17 | 2012-08-17 |
+| Zakon o izmjenama i dopunama Zakona o porezu na dobit pravnih lica | [`zakon/2012/327486/`](zakon/2012/327486/) | amended, not consolidated | 1 | 2012-03-07 | 2012-03-07 |
+| Zakon o Završnom računu Budžeta Crne Gore za 2011. godinu | [`zakon/2012/327832/`](zakon/2012/327832/) | amended, not consolidated | 1 | 2013-01-08 | 2013-01-08 |
+| Zakon o reviziji sredstava iz fondova Evropske Unije | [`zakon/2012/334263/`](zakon/2012/334263/) | amended, not consolidated | 1 | 2012-03-15 | 2012-03-15 |
+| Zakon o izmjenama i dopunama Zakona o doprinosima za obavezno socijalno osiguranje | [`zakon/2012/334478/`](zakon/2012/334478/) | amended, not consolidated | 1 | 2012-03-07 | 2012-03-07 |
+| Zakon o izmjeni i dopuni Zakona o poreskoj administraciji | [`zakon/2012/335457/`](zakon/2012/335457/) | amended, not consolidated | 1 | 2012-06-06 | 2012-06-06 |
 | Zakon o izmjenama i dopunama Zakona o staranju o privremeno i trajno oduzetoj imovini | [`zakon/2012/335829/`](zakon/2012/335829/) | amending act | 1 | 2012-06-15 | 2012-06-15 |
+| Zakon o dopuni zakona o tajnosti podataka | [`zakon/2012/336353/`](zakon/2012/336353/) | amended, not consolidated | 1 | 2012-07-19 | 2012-07-19 |
+| Zakon o izmjenama i dopunama Zakona o žigu | [`zakon/2012/336539/`](zakon/2012/336539/) | amended, not consolidated | 1 | 2012-08-17 | 2012-08-17 |
 | Zakon o amnestiji lica osuđenih za krivična djela propisana zakonima Crne Gore i lica osuđenih stranom krivičnom presudom koja se izvršava u Crnoj Gori | [`zakon/2013/301449/`](zakon/2013/301449/) | in force | 1 | 2013-08-15 | 2013-08-15 |
+| Zakon o dopuni Zakona o strancima | [`zakon/2013/302066/`](zakon/2013/302066/) | amended, not consolidated | 1 | 2013-06-19 | 2013-06-19 |
 | Zakon o dopunama Zakona o ljekovima | [`zakon/2013/303371/`](zakon/2013/303371/) | amending act | 1 | 2013-02-08 | 2013-02-08 |
+| Zakon o izmjeni Zakona o tajnosti podataka | [`zakon/2013/304439/`](zakon/2013/304439/) | amended, not consolidated | 1 | 2013-03-23 | 2013-03-23 |
+| Zakon o dopunama Zakona o osiguranju | [`zakon/2013/305792/`](zakon/2013/305792/) | amended, not consolidated | 1 | 2013-02-08 | 2013-02-08 |
+| Zakon o izmjeni i dopuni Zakona o hartijama od vrijednosti | [`zakon/2013/306140/`](zakon/2013/306140/) | amended, not consolidated | 1 | 2013-02-08 | 2013-02-08 |
 | Zakon o izmjenama i dopunama Zakona o taksama na pristup određenim uslugama od opšteg interesa i za upotrebu duvanskih proizvoda i elektroakustičnih i akustičnih uređaja | [`zakon/2013/307441/`](zakon/2013/307441/) | amending act | 1 | 2014-01-01 | 2014-01-01 |
 | Zakon o Budžetu Crne Gore za 2014. godinu | [`zakon/2013/308498/`](zakon/2013/308498/) | in force | 1 | 2013-12-31 | 2013-12-31 |
+| Zakon o izmjenama i dopunama Zakona o ugovorima o prevozu u drumskom saobraćaju | [`zakon/2013/309015/`](zakon/2013/309015/) | amended, not consolidated | 1 | 2013-08-03 | 2013-08-03 |
+| Zakon o zaštiti prirodnog i kulturno-istorijskog područja Kotora | [`zakon/2013/309289/`](zakon/2013/309289/) | amended, not consolidated | 1 | 2013-12-14 | 2013-12-14 |
 | Zakon o zaštiti državnih interesa u rudarsko-metalurškom sektoru | [`zakon/2013/313978/`](zakon/2013/313978/) | in force | 1 | 2013-12-20 | 2013-12-20 |
+| Zakon o izmjenama i dopunama Zakona o sprječavanju zloupotrebe droga | [`zakon/2013/316749/`](zakon/2013/316749/) | amended, not consolidated | 1 | 2013-07-31 | 2013-07-31 |
+| Zakon o elektronskim komunikacijama | [`zakon/2013/325547/`](zakon/2013/325547/) | amended, not consolidated | 1 | 2013-08-21 | 2013-08-21 |
+| Zakon o izmjenama i dopunama Zakona o putnim ispravama | [`zakon/2013/326561/`](zakon/2013/326561/) | amended, not consolidated | 1 | 2013-08-15 | 2013-08-15 |
 | Zakon o izmjenama i dopunama Zakona o zaštiti i ostvarivanju prava mentalno oboljelih lica | [`zakon/2013/328911/`](zakon/2013/328911/) | amending act | 1 | 2013-06-19 | 2013-06-19 |
 | Zakon o Završnom računu Budžeta Crne Gore za 2012. godinu | [`zakon/2013/329162/`](zakon/2013/329162/) | in force | 1 | 2014-01-04 | 2014-01-04 |
 | Zakon o izmjenama Zakona o strancima | [`zakon/2013/329254/`](zakon/2013/329254/) | in force | 1 | 2013-12-31 | 2013-12-31 |
+| Zakon o izmjeni i dopunama Zakona o porezu na dobit pravnih lica | [`zakon/2013/330197/`](zakon/2013/330197/) | amended, not consolidated | 1 | 2014-01-07 | 2014-01-07 |
+| Zakon o izmjenama i dopunama Krivičnog zakonika | [`zakon/2013/330478/`](zakon/2013/330478/) | amended, not consolidated | 1 | 2013-08-21 | 2013-08-21 |
+| Zakon o sprječavanju nelegalnog poslovanja | [`zakon/2013/335244/`](zakon/2013/335244/) | amended, not consolidated | 1 | 2013-06-23 | 2013-06-23 |
+| Zakon o socijalnoj i dječjoj zaštiti | [`zakon/2013/335370/`](zakon/2013/335370/) | amended, not consolidated | 1 | 2013-06-19 | 2013-06-19 |
+| Zakon o izmjenama i dopunama Zakona o procjeni uticaja na životnu sredinu | [`zakon/2013/335532/`](zakon/2013/335532/) | amended, not consolidated | 1 | 2013-06-19 | 2013-06-19 |
 | Zakon o izmjeni Zakona o isplati deviznih sredstava građana položenih kod Dafiment banke AD Beograd i Banke privatne privrede DD Podgorica položenih preko preduzeća Jugoskandik DD Beograd | [`zakon/2013/335540/`](zakon/2013/335540/) | in force | 1 | 2013-06-11 | 2013-06-11 |
+| Zakon o porezu na promet nepokretnosti | [`zakon/2013/335902/`](zakon/2013/335902/) | amended, not consolidated | 1 | 2013-08-03 | 2013-08-03 |
 | Zakon o dopunama Zakona o državnim i drugim praznicima | [`zakon/2013/335913/`](zakon/2013/335913/) | amending act | 1 | 2013-08-03 | 2013-08-03 |
+| Zakon o socijalnom stanovanju | [`zakon/2013/335984/`](zakon/2013/335984/) | amended, not consolidated | 1 | 2013-07-31 | 2013-07-31 |
+| Zakon o zaštiti od nejonizujućih zračenja | [`zakon/2013/335993/`](zakon/2013/335993/) | amended, not consolidated | 1 | 2013-07-31 | 2013-07-31 |
+| Zakon o izmjenama i dopunama Opšteg zakona o obrazovanju i vaspitanju | [`zakon/2013/336244/`](zakon/2013/336244/) | amended, not consolidated | 1 | 2013-08-15 | 2013-08-15 |
+| Zakon o izmjenama i dopunama Zakona o gimnaziji | [`zakon/2013/336387/`](zakon/2013/336387/) | amended, not consolidated | 1 | 2013-08-15 | 2013-08-15 |
+| Zakon o organskoj proizvodnji | [`zakon/2013/337249/`](zakon/2013/337249/) | amended, not consolidated | 1 | 2013-12-14 | 2013-12-14 |
+| Zakon o izmjeni i dopuni Zakona o administrativnim taksama | [`zakon/2013/337259/`](zakon/2013/337259/) | amended, not consolidated | 1 | 2013-12-14 | 2013-12-14 |
+| Zakon o izmjenama i dopunama Zakona o elektronskoj trgovini | [`zakon/2013/337260/`](zakon/2013/337260/) | amended, not consolidated | 1 | 2013-12-14 | 2013-12-14 |
+| Zakon o dopunama Zakona o teritorijalnoj organizaciji Crne Gore | [`zakon/2013/337559/`](zakon/2013/337559/) | amended, not consolidated | 1 | 2014-01-08 | 2014-01-08 |
+| Zakon o izmjenama i dopuni Zakona o doprinosima za obavezno socijalno osiguranje | [`zakon/2013/337560/`](zakon/2013/337560/) | amended, not consolidated | 1 | 2014-01-01 | 2014-01-01 |
+| Zakon o izmjenama i dopunama Zakona o istraživanju i proizvodnji ugljovodonika | [`zakon/2013/337570/`](zakon/2013/337570/) | amended, not consolidated | 1 | 2014-01-08 | 2014-01-08 |
+| Zakon o otpisu kamate na poreske i carinske obaveze | [`zakon/2013/337766/`](zakon/2013/337766/) | amended, not consolidated | 1 | 2013-12-31 | 2013-12-31 |
+| Zakon o izmjenama i dopunama Zakona o porezu na premije osiguranja | [`zakon/2013/337767/`](zakon/2013/337767/) | amended, not consolidated | 1 | 2013-12-31 | 2013-12-31 |
+| Zakon o izmjeni i dopuni Zakona o teritorijalnoj organizaciji Crne Gore | [`zakon/2013/348003/`](zakon/2013/348003/) | amended, not consolidated | 1 | 2013-06-19 | 2013-06-19 |
+| Zakon o izmjenama i dopunama Zakona o stranim investicijama | [`zakon/2014/301758/`](zakon/2014/301758/) | amended, not consolidated | 1 | 2014-11-01 | 2014-11-01 |
+| Zakon o komunalnoj policiji | [`zakon/2014/301931/`](zakon/2014/301931/) | amended, not consolidated | 1 | 2015-01-02 | 2015-01-02 |
+| Zakon o dopunama Zakona o izvršenju i obezbjeđenju | [`zakon/2014/302025/`](zakon/2014/302025/) | amended, not consolidated | 1 | 2014-07-12 | 2014-07-12 |
+| Zakon o izmjenama i dopunama Zakona o skijalištima | [`zakon/2014/302908/`](zakon/2014/302908/) | amended, not consolidated | 1 | 2014-05-14 | 2014-05-14 |
 | Zakon o kombinovanom prevozu tereta | [`zakon/2014/305914/`](zakon/2014/305914/) | in force | 1 | 2014-07-08 | 2014-07-08 |
+| Zakon o izmjenama i dopunama Zakona o prekršajima | [`zakon/2014/308063/`](zakon/2014/308063/) | amended, not consolidated | 1 | 2014-08-07 | 2014-08-07 |
 | Zakon o izmjenama i dopunama Zakona o turizmu | [`zakon/2014/326267/`](zakon/2014/326267/) | amending act | 1 | 2014-08-01 | 2014-08-01 |
+| Zakon o izmjenama i dopunama Zakona o ličnoj karti | [`zakon/2014/326379/`](zakon/2014/326379/) | amended, not consolidated | 1 | 2014-03-06 | 2014-03-06 |
+| Zakon o izvršenju uslovne osude i kazne rada u javnom interesu | [`zakon/2014/327252/`](zakon/2014/327252/) | amended, not consolidated | 1 | 2014-08-07 | 2014-08-07 |
+| Zakon o nacionalnim parkovima | [`zakon/2014/332912/`](zakon/2014/332912/) | amended, not consolidated | 1 | 2014-07-12 | 2014-07-12 |
 | Zakon o izmjenama i dopunama Zakona o sistemu unutrašnjih finansijskih kontrola u javnom sektoru | [`zakon/2014/333271/`](zakon/2014/333271/) | amending act | 1 | 2014-08-16 | 2014-08-16 |
+| Zakon o izmjeni Zakona o lokalnoj samoupravi | [`zakon/2014/333369/`](zakon/2014/333369/) | amended, not consolidated | 1 | 2014-03-06 | 2014-03-06 |
+| Zakon o biračkom spisku | [`zakon/2014/333771/`](zakon/2014/333771/) | amended, not consolidated | 1 | 2014-03-06 | 2014-03-06 |
+| Zakon o izmjenama i dopunama Zakona o teritorijalnoj organizaciji Crne Gore | [`zakon/2014/334168/`](zakon/2014/334168/) | amended, not consolidated | 1 | 2014-03-08 | 2014-03-08 |
+| Zakon o izmjeni Zakona o međunarodnom privatnom pravu | [`zakon/2014/334273/`](zakon/2014/334273/) | amended, not consolidated | 1 | 2014-03-22 | 2014-03-22 |
+| Zakon o međunarodnom privatnom pravu | [`zakon/2014/334675/`](zakon/2014/334675/) | amended, not consolidated | 1 | 2014-01-17 | 2014-01-17 |
+| Zakon o obebjeđivanju krvi | [`zakon/2014/334685/`](zakon/2014/334685/) | amended, not consolidated | 1 | 2014-01-17 | 2014-01-17 |
+| Zakon o izmjenama i dopunama Zakona o stanovanju i održavanju stambenih zgrada | [`zakon/2014/334696/`](zakon/2014/334696/) | amended, not consolidated | 1 | 2014-01-17 | 2014-01-17 |
+| Zakon o građevinskim proizvodima | [`zakon/2014/334795/`](zakon/2014/334795/) | amended, not consolidated | 1 | 2014-04-19 | 2014-04-19 |
+| Zakon o izmjenama i dopunama Zakona o žigu | [`zakon/2014/334797/`](zakon/2014/334797/) | amended, not consolidated | 1 | 2014-04-19 | 2014-04-19 |
+| Zakon o dopuni Zakona o tajnosti podataka | [`zakon/2014/334806/`](zakon/2014/334806/) | amended, not consolidated | 1 | 2014-04-19 | 2014-04-19 |
+| Zakon o dopunama Zakona o inspekcijskom nadzoru | [`zakon/2014/334814/`](zakon/2014/334814/) | amended, not consolidated | 1 | 2014-04-12 | 2014-04-12 |
+| Zakon o osnovama obavještajno bezbjednosnog sektora Crne Gore | [`zakon/2014/335493/`](zakon/2014/335493/) | amended, not consolidated | 1 | 2014-07-12 | 2014-07-12 |
+| Zakon o prevozu opasnih materija | [`zakon/2014/335636/`](zakon/2014/335636/) | amended, not consolidated | 1 | 2014-08-12 | 2014-08-12 |
+| Zakon o izmjenama i dopunama Zakona o Državnoj revizorskoj instituciji | [`zakon/2014/335722/`](zakon/2014/335722/) | amended, not consolidated | 1 | 2014-08-01 | 2014-08-01 |
+| Zakon o porezu na ugljovodonike | [`zakon/2014/335866/`](zakon/2014/335866/) | amended, not consolidated | 1 | 2014-08-01 | 2014-08-01 |
+| Zakon o zaštiti i zdravlju na radu | [`zakon/2014/335922/`](zakon/2014/335922/) | amended, not consolidated | 1 | 2014-08-16 | 2014-08-16 |
 | Zakon o likvidaciji i stečaju društava za osiguranje | [`zakon/2015/336328/`](zakon/2015/336328/) | in force | 1 | 2015-08-06 | 2015-08-06 |
 | Zakon o izmirenju obaveza prema radnicima Kombinata aluminijuma koji su, usled stečaja preduzeća, ostvarili pravo na penziju | [`zakon/2015/336330/`](zakon/2015/336330/) | in force | 1 | 2015-08-06 | 2015-08-06 |
 | Zakon o izmjeni i dopuni Zakona o budžetu Crne Gore za 2015. godinu | [`zakon/2015/336581/`](zakon/2015/336581/) | amending act | 1 | 2015-08-18 | 2015-08-18 |

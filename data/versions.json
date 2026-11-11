@@ -348242,6 +348242,21 @@
    ]
   },
   {
+   "slug": "uredba-2023-291342",
+   "path": "uredba/2023/291342",
+   "short": "Uredba o izmjenama Uredbe o načinu rada sistema brze razmjene informacija o proizvodima koji predstavljaju rizik",
+   "title": "Uredba o izmjenama Uredbe o načinu rada sistema brze razmjene informacija o proizvodima koji predstavljaju rizik",
+   "url": "https://www.sluzbenilist.me/propisi/291342",
+   "versions": [
+    {
+     "from": "2023-04-08",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/291342/download",
+     "sha256": "9cbfdbf22414fb1c34901ccf43ba44f265e49eac7033c5c3b93873c87d4e7027"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2023-313632",
    "path": "uredba/2023/313632",
    "short": "Uredba o izmjeni Uredbe o vrstama vitamina i minerala koji se mogu koristiti u proizvodnji suplemenata*",
@@ -348437,6 +348452,21 @@
    ]
   },
   {
+   "slug": "uredba-2024-364739",
+   "path": "uredba/2024/364739",
+   "short": "Uredba o izmjenama Uredbe o uslovima i načinu korišćenja objekata za reprezentativne potrebe u svojini Crne Gore",
+   "title": "Uredba o izmjenama Uredbe o uslovima i načinu korišćenja objekata za reprezentativne potrebe u svojini Crne Gore",
+   "url": "https://www.sluzbenilist.me/propisi/364739",
+   "versions": [
+    {
+     "from": "2024-01-26",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/364739/download",
+     "sha256": "b220b62b1d4b4d6f91fae5598e37990cd5b4bdfc596983eee10c68827c32610b"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2024-367261",
    "path": "uredba/2024/367261",
    "short": "Uredba o programu i načinu polaganja stručnog ispita za rad u državnim organima",
@@ -348512,6 +348542,36 @@
    ]
   },
   {
+   "slug": "uredba-2024-375933",
+   "path": "uredba/2024/375933",
+   "short": "Uredba o izmjeni Uredbe o načinu povraćaja blokova i pristupu trećih lica upstream postrojenjima",
+   "title": "Uredba o izmjeni Uredbe o načinu povraćaja blokova i pristupu trećih lica upstream postrojenjima",
+   "url": "https://www.sluzbenilist.me/propisi/375933",
+   "versions": [
+    {
+     "from": "2024-12-28",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/375933/download",
+     "sha256": "efe179c591cb264fca3372fce828fc9a40d7b6c1db3a992799c075bff4a2cbe2"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2024-375934",
+   "path": "uredba/2024/375934",
+   "short": "Uredba o izmjeni Uredbe o načinu obračuna i plaćanja naknade za proizvodnju nafte i gasa",
+   "title": "Uredba o izmjeni Uredbe o načinu obračuna i plaćanja naknade za proizvodnju nafte i gasa",
+   "url": "https://www.sluzbenilist.me/propisi/375934",
+   "versions": [
+    {
+     "from": "2024-12-28",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/375934/download",
+     "sha256": "287e123e329edd84b80041a22d86ce0b35af2817bf7dc5aadc59b9da06fd8877"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2024-376272",
    "path": "uredba/2024/376272",
    "short": "Uredba o izmjeni Uredbe o povjeravanju dijela poslova Ministarstva prostornog planiranja, urbanizma i državne imovine jedinicama lokalne samouprave",
@@ -348572,6 +348632,21 @@
    ]
   },
   {
+   "slug": "uredba-2025-378781",
+   "path": "uredba/2025/378781",
+   "short": "Uredba o izmjeni i dopuni Uredbe o posebnim zahtjevima higijene za proizvode životinjskog porijekla*",
+   "title": "Uredba o izmjeni i dopuni Uredbe o posebnim zahtjevima higijene za proizvode životinjskog porijekla*",
+   "url": "https://www.sluzbenilist.me/propisi/378781",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/378781/download",
+     "sha256": "6c62c55492856667066f6a3e0d8f0e18bd4505670cee2d195c161f711ff24958"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2025-379601",
    "path": "uredba/2025/379601",
    "short": "Uredba o visini troškova u postupku izdavanja dozvole za stavljanje biocidnih proizvoda u promet i upotrebu",
@@ -348587,6 +348662,36 @@
    ]
   },
   {
+   "slug": "uredba-2025-379603",
+   "path": "uredba/2025/379603",
+   "short": "Uredba o dopunama Uredbe o Kabinetu predsjednika Vlade Crne Gore",
+   "title": "Uredba o dopunama Uredbe o Kabinetu predsjednika Vlade Crne Gore",
+   "url": "https://www.sluzbenilist.me/propisi/379603",
+   "versions": [
+    {
+     "from": "2025-03-07",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/379603/download",
+     "sha256": "acfd38e9dcb55e943e2f9e7fbb5a49910f169e2f01fc4942d4a54953840478f3"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-379961",
+   "path": "uredba/2025/379961",
+   "short": "Uredba o izmjenama i dopuni Uredbe o listi vojne opreme i proizvoda, postupku i načinu sprovođenja javnih nabavki u oblasti odbrane i bezbjednosti",
+   "title": "Uredba o izmjenama i dopuni Uredbe o listi vojne opreme i proizvoda, postupku i načinu sprovođenja javnih nabavki u oblasti odbrane i bezbjednosti",
+   "url": "https://www.sluzbenilist.me/propisi/379961",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 10,
+     "source_url": "https://www.sluzbenilist.me/propisi/379961/download",
+     "sha256": "8ff7f6de6b0e738b91ada7c136a9566c5d9f9743b2150cdb2cece77a52122c44"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2025-380471",
    "path": "uredba/2025/380471",
    "short": "Uredba o uslovima i postupku za ostvarivanje prava na oslobođenje od plaćanja uvoznih dažbina",
@@ -348598,6 +348703,21 @@
      "units": 105,
      "source_url": "https://www.sluzbenilist.me/propisi/380471/download",
      "sha256": "42826a6250444e38015519b006087f765d614aed90a6dc2463eeed4dc26656fc"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-380827",
+   "path": "uredba/2025/380827",
+   "short": "Uredba o izmjenama i dopunama Uredbe o kriterijumima i načinu dodjeljivanja statusa istaknuti kulturni stvaralac",
+   "title": "Uredba o izmjenama i dopunama Uredbe o kriterijumima i načinu dodjeljivanja statusa istaknuti kulturni stvaralac",
+   "url": "https://www.sluzbenilist.me/propisi/380827",
+   "versions": [
+    {
+     "from": "2025-04-15",
+     "units": 10,
+     "source_url": "https://www.sluzbenilist.me/propisi/380827/download",
+     "sha256": "ff6abd1c5f2309c17adb73238ebcf256c9dd748f29d21ce1ac114496dd0c8ce9"
     }
    ]
   },
@@ -348797,6 +348917,21 @@
    ]
   },
   {
+   "slug": "uredba-2025-384786",
+   "path": "uredba/2025/384786",
+   "short": "Uredba o izmjenama i dopuni Uredbe o graničnim vrijednostima emisija zagađujućih materija u vazduh iz stacionarnih izvora",
+   "title": "Uredba o izmjenama i dopuni Uredbe o graničnim vrijednostima emisija zagađujućih materija u vazduh iz stacionarnih izvora",
+   "url": "https://www.sluzbenilist.me/propisi/384786",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.me/propisi/384786/download",
+     "sha256": "b7000d617f0feb52c7f702686d7f7ea178190b64574f11cc374acd8e0fa6b9e1"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2025-384909",
    "path": "uredba/2025/384909",
    "short": "Uredba o visini naknade za reviziju lokalnih planskih dokumenata",
@@ -348808,6 +348943,36 @@
      "units": 4,
      "source_url": "https://www.sluzbenilist.me/propisi/384909/download",
      "sha256": "5434894b5049417ecd6d5b1dbe4dcf0d04902b161bf631e1fb200fbe5495135a"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-385069",
+   "path": "uredba/2025/385069",
+   "short": "Uredba o dopunama Uredbe o bližim elementima i metodologiji za određivanje cijena komunalnih usluga",
+   "title": "Uredba o dopunama Uredbe o bližim elementima i metodologiji za određivanje cijena komunalnih usluga",
+   "url": "https://www.sluzbenilist.me/propisi/385069",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/385069/download",
+     "sha256": "fe610996c1fa22a54caa3afb9e7f855bec74db51c4cc0487fa550b43b5f2c828"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-385095",
+   "path": "uredba/2025/385095",
+   "short": "Uredba o izmjenama i dopunama Uredbe o bližem načinu sprovođenja carinskih postupaka i carinskih formalnosti",
+   "title": "Uredba o izmjenama i dopunama Uredbe o bližem načinu sprovođenja carinskih postupaka i carinskih formalnosti",
+   "url": "https://www.sluzbenilist.me/propisi/385095",
+   "versions": [
+    {
+     "from": "2025-09-27",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.me/propisi/385095/download",
+     "sha256": "8594923415c0d12c4452c18c519b6f622e250ef59610f825f753c6841a4ed6e2"
     }
    ]
   },
@@ -348842,6 +349007,21 @@
    ]
   },
   {
+   "slug": "uredba-2025-385414",
+   "path": "uredba/2025/385414",
+   "short": "Uredba o dopunama Uredbe o kriterijumima za formiranje maksimalnih cijena ljekova*",
+   "title": "Uredba o dopunama Uredbe o kriterijumima za formiranje maksimalnih cijena ljekova*",
+   "url": "https://www.sluzbenilist.me/propisi/385414",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.me/propisi/385414/download",
+     "sha256": "75bffaf402bde8005c44e1ff7e7bb4e27889540f0ed2d24a01306173161936b8"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2025-385426",
    "path": "uredba/2025/385426",
    "short": "Uredba o izmjeni Uredbe o kriterijumima za utvrđivanje visine doživotne mjesečne naknade, stipendije, premije, sportske invalidnine, nagrade za sportistu godine i zaslužnog sportskog radnika",
@@ -348872,6 +349052,36 @@
    ]
   },
   {
+   "slug": "uredba-2025-385539",
+   "path": "uredba/2025/385539",
+   "short": "Uredba o izmjeni Uredbe o metodologiji izračunavanja stepena konkurentnosti jedinice lokalne samouprave",
+   "title": "Uredba o izmjeni Uredbe o metodologiji izračunavanja stepena konkurentnosti jedinice lokalne samouprave",
+   "url": "https://www.sluzbenilist.me/propisi/385539",
+   "versions": [
+    {
+     "from": "2025-10-23",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/385539/download",
+     "sha256": "e2f8a520e7b6fad5e6858426bdeec3d0f6e4857b849943b2cb77da107b0899e0"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-386066",
+   "path": "uredba/2025/386066",
+   "short": "Uredba o izmjeni Uredbe o zvanjima i zaradi vojno-diplomatskih predstavnika, lica upućenih na rad u međunarodnim organizacijama i administrativno-tehničkog osoblja",
+   "title": "Uredba o izmjeni Uredbe o zvanjima i zaradi vojno-diplomatskih predstavnika, lica upućenih na rad u međunarodnim organizacijama i administrativno-tehničkog osoblja",
+   "url": "https://www.sluzbenilist.me/propisi/386066",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/386066/download",
+     "sha256": "c073878b3cbb84102bf0825c0d891daf27ae8ab13d62089957b8300c40852115"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2025-386649",
    "path": "uredba/2025/386649",
    "short": "Uredba o postupku javnog nadmetanja za izbor snabdjevača posljednjeg izbora za snabdijevanje električnom energijom",
@@ -348883,6 +349093,21 @@
      "units": 13,
      "source_url": "https://www.sluzbenilist.me/propisi/386649/download",
      "sha256": "223fa58e7fb6fc500ef9ea5de18fa72f6c8cd57ca857fba9ea0e6cb0fd6a6861"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-386850",
+   "path": "uredba/2025/386850",
+   "short": "Uredba o izmjenama i dopuni Uredbe o kriterijumima za stavljanje, odnosno skidanje lijeka sa osnovne i doplatne liste ljekova",
+   "title": "Uredba o izmjenama i dopuni Uredbe o kriterijumima za stavljanje, odnosno skidanje lijeka sa osnovne i doplatne liste ljekova",
+   "url": "https://www.sluzbenilist.me/propisi/386850",
+   "versions": [
+    {
+     "from": "2025-12-06",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/386850/download",
+     "sha256": "dce248b13102f931b29ad494b1595a034e246ee0ee68882e74eff3c84dcdc0e1"
     }
    ]
   },
@@ -349037,6 +349262,36 @@
    ]
   },
   {
+   "slug": "uredba-2026-390297",
+   "path": "uredba/2026/390297",
+   "short": "Uredba o izmjeni Uredbe o postupku popunjavanja, proširenja kvote na aukcijama za dodjelu prava na tržišnu premiju za neodređene lokacije i rangiranju ponuda na aukcijama za neodređene lokacije",
+   "title": "Uredba o izmjeni Uredbe o postupku popunjavanja, proširenja kvote na aukcijama za dodjelu prava na tržišnu premiju za neodređene lokacije i rangiranju ponuda na aukcijama za neodređene lokacije",
+   "url": "https://www.sluzbenilist.me/propisi/390297",
+   "versions": [
+    {
+     "from": "2026-01-31",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/390297/download",
+     "sha256": "0ff161f687cf12ff5ffad8e74529953684eee25c5e616b519a9f52758c7ced28"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2026-390352",
+   "path": "uredba/2026/390352",
+   "short": "Uredba o izmjeni i dopuni Uredbe o kriterijumima za određivanje manifestacija i festivala od posebnog značaja za kulturu Crne Gore",
+   "title": "Uredba o izmjeni i dopuni Uredbe o kriterijumima za određivanje manifestacija i festivala od posebnog značaja za kulturu Crne Gore",
+   "url": "https://www.sluzbenilist.me/propisi/390352",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/390352/download",
+     "sha256": "48025ef128df77edd0814869af42bc946d27990f1358b520d3254aaf1e70d9f2"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2026-390407",
    "path": "uredba/2026/390407",
    "short": "Uredba o izmjenama Uredbe o finansiranju projekata i programa nevladinih organizacija u oblastima od javnog interesa",
@@ -349187,6 +349442,21 @@
    ]
   },
   {
+   "slug": "uredba-2026-392357",
+   "path": "uredba/2026/392357",
+   "short": "Uredba o izmjenama Uredbe o saradnji između nacionalnih organa odgovornih za izvršavanje propisa o zaštiti potrošača",
+   "title": "Uredba o izmjenama Uredbe o saradnji između nacionalnih organa odgovornih za izvršavanje propisa o zaštiti potrošača",
+   "url": "https://www.sluzbenilist.me/propisi/392357",
+   "versions": [
+    {
+     "from": "2026-03-28",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/392357/download",
+     "sha256": "3bbbd8ce0ea4451a4c15757aa7f07ebf9ce8086b17036b4c43d58922c9536348"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2026-392369",
    "path": "uredba/2026/392369",
    "short": "Uredba o dopuni Uredbe o kancelarijskom poslovanju organa državne uprave",
@@ -349258,6 +349528,21 @@
      "units": 9,
      "source_url": "https://www.sluzbenilist.me/propisi/392625/download",
      "sha256": "688898682be8dcb518fdac63dfd9ecd0a872395d52b78700605792c22b9508d8"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2026-392707",
+   "path": "uredba/2026/392707",
+   "short": "Uredba o izmjeni Uredbe o vitaminima, mineralima i drugim supstancama koje se mogu dodavati hrani*",
+   "title": "Uredba o izmjeni Uredbe o vitaminima, mineralima i drugim supstancama koje se mogu dodavati hrani*",
+   "url": "https://www.sluzbenilist.me/propisi/392707",
+   "versions": [
+    {
+     "from": "2026-04-11",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/392707/download",
+     "sha256": "abafeb0d4012de513386bf406e49880168d61fd22dfea89d0d82348a0baeec4a"
     }
    ]
   },
@@ -349727,6 +350012,21 @@
    ]
   },
   {
+   "slug": "uredba-2026-396655",
+   "path": "uredba/2026/396655",
+   "short": "Uredba o izmjeni Uredbe o povjeravanju dijela poslova iz nadležnosti Ministarstva energetike i rudarstva Javnoj ustanovi Zavod za geološka istraživanja",
+   "title": "Uredba o izmjeni Uredbe o povjeravanju dijela poslova iz nadležnosti Ministarstva energetike i rudarstva Javnoj ustanovi Zavod za geološka istraživanja",
+   "url": "https://www.sluzbenilist.me/propisi/396655",
+   "versions": [
+    {
+     "from": "2026-08-08",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/396655/download",
+     "sha256": "e018df9a45a0bc672ac1ce3bdd96b16e1f0cb5fbf6014fdb4925ff7ffca020d9"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2026-396751",
    "path": "uredba/2026/396751",
    "short": "Uredba o bližim kriterijumima, načinu i postupku ostvarivanja prava na povraćaj dijela sredstava utrošenih za proizvodnju kinematografskog djela",
@@ -349847,6 +350147,21 @@
    ]
   },
   {
+   "slug": "uredba-2026-397216",
+   "path": "uredba/2026/397216",
+   "short": "Uredba o izmjenama Uredbe o uslovima, načinu i dinamici sprovođenja mjera agrarne politike za 2026. godinu - Agrobudžet",
+   "title": "Uredba o izmjenama Uredbe o uslovima, načinu i dinamici sprovođenja mjera agrarne politike za 2026. godinu - Agrobudžet",
+   "url": "https://www.sluzbenilist.me/propisi/397216",
+   "versions": [
+    {
+     "from": "2026-08-15",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/397216/download",
+     "sha256": "a5914509dda2f5561c338ee8a281ad6c439a2d7cb82441a1cb942936efab547a"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2026-397529",
    "path": "uredba/2026/397529",
    "short": "Uredba o novoj hrani*",
@@ -349903,6 +350218,21 @@
      "units": 13,
      "source_url": "https://www.sluzbenilist.me/propisi/397925/download",
      "sha256": "3b31efddd0bbb82c247221469a68b6040f9f79f086c2e9c9141554ed6a38652c"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2026-398126",
+   "path": "uredba/2026/398126",
+   "short": "Uredba o izmjenama i dopunama Uredbe o zaradama lica u službi u Vojsci Crne Gore",
+   "title": "Uredba o izmjenama i dopunama Uredbe o zaradama lica u službi u Vojsci Crne Gore",
+   "url": "https://www.sluzbenilist.me/propisi/398126",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/398126/download",
+     "sha256": "dbc5b147225533425a804c23425800f5c04dab6c6a9ca938b20ea4e250906cf5"
     }
    ]
   },
@@ -350132,6 +350462,21 @@
    ]
   },
   {
+   "slug": "uredba-2026-399807",
+   "path": "uredba/2026/399807",
+   "short": "Uredba o kriterijumima i načinu dodjeljivanja zvanja doajen i prvak i sastavu komisije za dodjelu tih zvanja",
+   "title": "Uredba o kriterijumima i načinu dodjeljivanja zvanja doajen i prvak i sastavu komisije za dodjelu tih zvanja",
+   "url": "https://www.sluzbenilist.me/propisi/399807",
+   "versions": [
+    {
+     "from": "2026-11-11",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.me/propisi/399807/download",
+     "sha256": "0257ab092d8bd14394ffcdfa7f6cb78addc083e165ef719ed57f67109bb20851"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2026-399808",
    "path": "uredba/2026/399808",
    "short": "Uredba o dopunama Uredbe o organizaciji i načinu rada državne uprave",
@@ -350143,6 +350488,21 @@
      "units": 4,
      "source_url": "https://www.sluzbenilist.me/propisi/399808/download",
      "sha256": "bfa3550987858f13083b744ea750a9d295f69bbd0b333594ec04c994ee4cd68a"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2026-399887",
+   "path": "uredba/2026/399887",
+   "short": "Uredba o prestanku važenja Uredbe o vrstama unutrašnjih organizacionih jedinica i zvanjima službenika Agencije za nacionalnu bezbjednost",
+   "title": "Uredba o prestanku važenja Uredbe o vrstama unutrašnjih organizacionih jedinica i zvanjima službenika Agencije za nacionalnu bezbjednost",
+   "url": "https://www.sluzbenilist.me/propisi/399887",
+   "versions": [
+    {
+     "from": "2026-11-05",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/399887/download",
+     "sha256": "31ae85f513277fc326d60ee0d0223c99aee65d4e9cd8dd5fa1d2877f8940cbb2"
     }
    ]
   },
@@ -520832,6 +521192,4011 @@
    ]
   },
   {
+   "slug": "uredba-2021-338256",
+   "path": "uredba/2021/338256",
+   "short": "Uredba o izmjenama Uredbe o povjeravanju dijela poslova Ministarstva održivog razvoja i turizma jedinicama lokalne samouprave",
+   "title": "Uredba o izmjenama Uredbe o povjeravanju dijela poslova Ministarstva održivog razvoja i turizma jedinicama lokalne samouprave",
+   "url": "https://www.sluzbenilist.me/propisi/338256",
+   "versions": [
+    {
+     "from": "2021-07-09",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/338256/download",
+     "sha256": "faaa50553cccac32976a6ef1925c54cfcaf7824e9088d1edbe76b00beb8562a8"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2021-338758",
+   "path": "uredba/2021/338758",
+   "short": "Uredba o izmjenama Uredbe o uslovima i načinu korišćenja objekata za reprezentativne potrebe u svojini Crne Gore",
+   "title": "Uredba o izmjenama Uredbe o uslovima i načinu korišćenja objekata za reprezentativne potrebe u svojini Crne Gore",
+   "url": "https://www.sluzbenilist.me/propisi/338758",
+   "versions": [
+    {
+     "from": "2021-08-06",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/338758/download",
+     "sha256": "3d5c8fb65c4a62917f60a2cb33d590f3eff02df8ec34021b7850cc845adeefb7"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-292369",
+   "path": "uredba/2022/292369",
+   "short": "Uredba o izmjeni Uredbe o Metodologiji izračunavanja stepena konkurentnosti jedinice lokalne samouprave",
+   "title": "Uredba o izmjeni Uredbe o Metodologiji izračunavanja stepena konkurentnosti jedinice lokalne samouprave",
+   "url": "https://www.sluzbenilist.me/propisi/292369",
+   "versions": [
+    {
+     "from": "2022-11-26",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/292369/download",
+     "sha256": "60505353078013f1bc38732eeeb2f0df8b98ad51d4f9231bd196027bab201afb"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-294220",
+   "path": "uredba/2022/294220",
+   "short": "Uredba o izmjenama Uredbe o kriterijumima za utvrđivanje visine doživotne mjesečne naknade, stipendije, premije, sportske invalidnine, nagrade za sportistu godine i zaslužnog sportskog radnika",
+   "title": "Uredba o izmjenama Uredbe o kriterijumima za utvrđivanje visine doživotne mjesečne naknade, stipendije, premije, sportske invalidnine, nagrade za sportistu godine i zaslužnog sportskog radnika",
+   "url": "https://www.sluzbenilist.me/propisi/294220",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/294220/download",
+     "sha256": "8b55ef92a5a43b8cc5322b2417cb131230ae379f903a670173093698ee26ef30"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-320521",
+   "path": "uredba/2022/320521",
+   "short": "Uredba o načinu utvrđivanja koncesione naknade za privredno društvo ili pravno lice koje koristi vodnu akumulaciju i/ili vodotok za proizvodnju električne energije u hidroelektranama",
+   "title": "Uredba o načinu utvrđivanja koncesione naknade za privredno društvo ili pravno lice koje koristi vodnu akumulaciju i/ili vodotok za proizvodnju električne energije u hidroelektranama",
+   "url": "https://www.sluzbenilist.me/propisi/320521",
+   "versions": [
+    {
+     "from": "2022-03-02",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/320521/download",
+     "sha256": "9ffba55b68654b7aba18b570109651eef38c5064a60a14555d23a49f3a5e622a"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-322875",
+   "path": "uredba/2022/322875",
+   "short": "Uredba o izmjenama Uredbe o zabranjenim odnosno dozvoljenim načinima upotrebe, proizvodnje i stavljanja na tržište hemikalija koje predstavljaju neprihvatljiv rizik po zdravlje ljudi i životnu sredinu",
+   "title": "Uredba o izmjenama Uredbe o zabranjenim odnosno dozvoljenim načinima upotrebe, proizvodnje i stavljanja na tržište hemikalija koje predstavljaju neprihvatljiv rizik po zdravlje ljudi i životnu sredinu",
+   "url": "https://www.sluzbenilist.me/propisi/322875",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/322875/download",
+     "sha256": "8cf869387c0be2477880504985e4176f9f26c5127e2b5a4198afd2f00f139547"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-332359",
+   "path": "uredba/2022/332359",
+   "short": "Uredba o povjeravanju dijela poslova iz nadležnosti Ministarstva kapitalnih investicija Javnoj ustanovi Zavod za geološka istraživanja",
+   "title": "Uredba o povjeravanju dijela poslova iz nadležnosti Ministarstva kapitalnih investicija Javnoj ustanovi Zavod za geološka istraživanja",
+   "url": "https://www.sluzbenilist.me/propisi/332359",
+   "versions": [
+    {
+     "from": "2022-02-16",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.me/propisi/332359/download",
+     "sha256": "da1583bfafb63f5be0b55c2100b8c15d0961c354fb84b1f16084884939b3ee30"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-333496",
+   "path": "uredba/2022/333496",
+   "short": "Uredba o izmjeni Uredbe o grupama poslova i koeficijentima za zarade policijskih službenika",
+   "title": "Uredba o izmjeni Uredbe o grupama poslova i koeficijentima za zarade policijskih službenika",
+   "url": "https://www.sluzbenilist.me/propisi/333496",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 2,
+     "source_url": "https://www.sluzbenilist.me/propisi/333496/download",
+     "sha256": "f7eba39df1bc3856f752acf61fe928dce2aff5c098848678038c9b24e1024836"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-333858",
+   "path": "uredba/2022/333858",
+   "short": "Uredba o dopuni Uredbe o prestanku važenja pojedinih podzakonskih akata",
+   "title": "Uredba o dopuni Uredbe o prestanku važenja pojedinih podzakonskih akata",
+   "url": "https://www.sluzbenilist.me/propisi/333858",
+   "versions": [
+    {
+     "from": "2022-10-15",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/333858/download",
+     "sha256": "f570d84232469ec6c6f4cabb1206561a576435ac9ae330def3fb92b81e4f6b2a"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-333939",
+   "path": "uredba/2022/333939",
+   "short": "Uredba o izmjeni Uredbe o povjeravanju dijela poslova iz nadležnosti Ministarstva kapitalnih investicija Javnoj ustanovi Zavod za geološka istraživanja",
+   "title": "Uredba o izmjeni Uredbe o povjeravanju dijela poslova iz nadležnosti Ministarstva kapitalnih investicija Javnoj ustanovi Zavod za geološka istraživanja",
+   "url": "https://www.sluzbenilist.me/propisi/333939",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/333939/download",
+     "sha256": "030bd21133e29355b9f4d6f86d7faf49be3149b9040d72f63b9920e62c604656"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-333964",
+   "path": "uredba/2022/333964",
+   "short": "Uredba o izmjenama i dopuni Uredbe o uspostavljanju unutrašnje revizije u javnom sektoru",
+   "title": "Uredba o izmjenama i dopuni Uredbe o uspostavljanju unutrašnje revizije u javnom sektoru",
+   "url": "https://www.sluzbenilist.me/propisi/333964",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/333964/download",
+     "sha256": "bfa0597796d9de9e1e13c0a2b031d0cd302cd84647240250ac1eb33e4567a1f9"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-334136",
+   "path": "uredba/2022/334136",
+   "short": "Uredba o izmjeni i dopuni Uredbe o posebnom dodatku na osnovnu zaradu, posebnim naknadama troškova i drugim primanjima za vrijeme rada u diplomatsko-konzularnom predstavništvu",
+   "title": "Uredba o izmjeni i dopuni Uredbe o posebnom dodatku na osnovnu zaradu, posebnim naknadama troškova i drugim primanjima za vrijeme rada u diplomatsko-konzularnom predstavništvu",
+   "url": "https://www.sluzbenilist.me/propisi/334136",
+   "versions": [
+    {
+     "from": "2022-12-16",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/334136/download",
+     "sha256": "39180178b909fc4b7b8ae831c02d15791b35058689fc6cf41ae4b825a2d07388"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-334330",
+   "path": "uredba/2022/334330",
+   "short": "Uredba o izmjeni Uredbe o povjeravanju dijela poslova Ministarstva ekologije, prostornog planiranja i urbanizma jedinicama lokalne samouprave",
+   "title": "Uredba o izmjeni Uredbe o povjeravanju dijela poslova Ministarstva ekologije, prostornog planiranja i urbanizma jedinicama lokalne samouprave",
+   "url": "https://www.sluzbenilist.me/propisi/334330",
+   "versions": [
+    {
+     "from": "2022-12-30",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/334330/download",
+     "sha256": "721dac34ff0efdf291356f525e86b73630379d78b0fe1a918f19491ad1e6eaa6"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-337822",
+   "path": "uredba/2022/337822",
+   "short": "Uredba o izmjeni Uredbe o Vladi Crne Gore",
+   "title": "Uredba o izmjeni Uredbe o Vladi Crne Gore",
+   "url": "https://www.sluzbenilist.me/propisi/337822",
+   "versions": [
+    {
+     "from": "2022-06-15",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/337822/download",
+     "sha256": "28f14b9a27f9e6fa3ae09432685b36155938c97be4b3b5075be5942fcea11f7a"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-332179",
+   "path": "uredba/2023/332179",
+   "short": "Uredbu o izmjeni i dopuni Uredbe o posebnim zahtjevima higijene za proizvode životinjskog porijekla*",
+   "title": "Uredbu o izmjeni i dopuni Uredbe o posebnim zahtjevima higijene za proizvode životinjskog porijekla*",
+   "url": "https://www.sluzbenilist.me/propisi/332179",
+   "versions": [
+    {
+     "from": "2023-02-11",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/332179/download",
+     "sha256": "fed9604d1151cddab239363290e742b40a4261bb8a947a715f0cea93dbeda53c"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-334676",
+   "path": "uredba/2023/334676",
+   "short": "Uredbu o dopuni Uredbe o načinu izračunavanja indeksa razvijenosti jedinice lokalne samouprave",
+   "title": "Uredbu o dopuni Uredbe o načinu izračunavanja indeksa razvijenosti jedinice lokalne samouprave",
+   "url": "https://www.sluzbenilist.me/propisi/334676",
+   "versions": [
+    {
+     "from": "2023-01-12",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/334676/download",
+     "sha256": "51c84bf3133b3a8f2e981fa33fa37f1d4bd10daa364a7ddcb41027e09054fbc1"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-335287",
+   "path": "uredba/2023/335287",
+   "short": "Uredba o utvrđivanju perioda sprovođenja popisa stanovništva, domaćinstava i stanova i referentnog momenta popisa",
+   "title": "Uredba o utvrđivanju perioda sprovođenja popisa stanovništva, domaćinstava i stanova i referentnog momenta popisa",
+   "url": "https://www.sluzbenilist.me/propisi/335287",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/335287/download",
+     "sha256": "51dea0708df659034a3ac6ea105d873569908cc820ad51cb8d7db7c7008aac67"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-335851",
+   "path": "uredba/2023/335851",
+   "short": "Uredba o kriterijumima za stavljanje, odnosno skidanje lijeka sa osnovne i doplatne Liste ljekova",
+   "title": "Uredba o kriterijumima za stavljanje, odnosno skidanje lijeka sa osnovne i doplatne Liste ljekova",
+   "url": "https://www.sluzbenilist.me/propisi/335851",
+   "versions": [
+    {
+     "from": "2023-01-13",
+     "units": 38,
+     "source_url": "https://www.sluzbenilist.me/propisi/335851/download",
+     "sha256": "1f06f79ae225610e084e89f5ea698d0555c90d0d63aff224991ffecd288b89d5"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-360707",
+   "path": "uredba/2023/360707",
+   "short": "Uredba o izmjenama i dopuni Uredbe o zaradama lica u službi u Vojsci Crne Gore",
+   "title": "Uredba o izmjenama i dopuni Uredbe o zaradama lica u službi u Vojsci Crne Gore",
+   "url": "https://www.sluzbenilist.me/propisi/360707",
+   "versions": [
+    {
+     "from": "2023-06-30",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/360707/download",
+     "sha256": "35cc422804253a9b142532cd497ad9e96ff39349ed258d4730d4dd9e041af6c3"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-360859",
+   "path": "uredba/2023/360859",
+   "short": "Uredba o zvanjima i zaradi vojno-diplomatskih predstavnika, lica upućenih na rad u međunarodnim organizacijama i administrativno-tehničkog osoblja",
+   "title": "Uredba o zvanjima i zaradi vojno-diplomatskih predstavnika, lica upućenih na rad u međunarodnim organizacijama i administrativno-tehničkog osoblja",
+   "url": "https://www.sluzbenilist.me/propisi/360859",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 42,
+     "source_url": "https://www.sluzbenilist.me/propisi/360859/download",
+     "sha256": "e9b12da0a86642b35a8b3b49b5014cff08cba7c31227dd95c9bfb4a8cb6c7f8d"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-362288",
+   "path": "uredba/2023/362288",
+   "short": "Uredba o izmjenama i dopunama Uredbe o organizaciji i načinu rada državne uprave",
+   "title": "Uredba o izmjenama i dopunama Uredbe o organizaciji i načinu rada državne uprave",
+   "url": "https://www.sluzbenilist.me/propisi/362288",
+   "versions": [
+    {
+     "from": "2023-12-23",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.me/propisi/362288/download",
+     "sha256": "95f1a09a287a04c43e620d61d55a79f591f6640444417149e187de3897b68cc6"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-362289",
+   "path": "uredba/2023/362289",
+   "short": "Uredba o organizaciji i načinu rada državne uprave",
+   "title": "Uredba o organizaciji i načinu rada državne uprave",
+   "url": "https://www.sluzbenilist.me/propisi/362289",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 72,
+     "source_url": "https://www.sluzbenilist.me/propisi/362289/download",
+     "sha256": "6b64d8f66d48aeef170ea308edf1baa3cddb7475783c24b68917ac71362378c1"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-362290",
+   "path": "uredba/2023/362290",
+   "short": "Uredba o dopuni Uredbe o organizaciji i načinu rada državne uprave",
+   "title": "Uredba o dopuni Uredbe o organizaciji i načinu rada državne uprave",
+   "url": "https://www.sluzbenilist.me/propisi/362290",
+   "versions": [
+    {
+     "from": "2023-11-17",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/362290/download",
+     "sha256": "02e4a8ba7a077235265dded2d1e5f34817a031e23c6af140573e5a93c508d799"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-362426",
+   "path": "uredba/2023/362426",
+   "short": "Uredba o izmjeni Uredbe o utvrđivanju perioda sprovođenja popisa stanovništva, domaćinstava i stanova i referentnog momenta popisa",
+   "title": "Uredba o izmjeni Uredbe o utvrđivanju perioda sprovođenja popisa stanovništva, domaćinstava i stanova i referentnog momenta popisa",
+   "url": "https://www.sluzbenilist.me/propisi/362426",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/362426/download",
+     "sha256": "de28c96731145453867a6c1ac8d466578867dca8aae9479e309b4f2e388d19b6"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-362536",
+   "path": "uredba/2023/362536",
+   "short": "Uredba o izmjeni Uredbe o utvrđivanju perioda sprovođenja popisa stanovništva, domaćinstava i stanova i referentnog momenta popisa",
+   "title": "Uredba o izmjeni Uredbe o utvrđivanju perioda sprovođenja popisa stanovništva, domaćinstava i stanova i referentnog momenta popisa",
+   "url": "https://www.sluzbenilist.me/propisi/362536",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/362536/download",
+     "sha256": "59fc29f95a29dbeb9c803c8c493d917f872e0cc2cf57e7a06ebce7f20f297e72"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-362578",
+   "path": "uredba/2023/362578",
+   "short": "Uredba o kabinetu predsjednika Vlade Crne Gore",
+   "title": "Uredba o kabinetu predsjednika Vlade Crne Gore",
+   "url": "https://www.sluzbenilist.me/propisi/362578",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 13,
+     "source_url": "https://www.sluzbenilist.me/propisi/362578/download",
+     "sha256": "71b5b1d0e50d3c0a77ded7880de235109fef2bc6c480afca4c1537dca1b6ec72"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-362906",
+   "path": "uredba/2023/362906",
+   "short": "Uredba o izmjeni Uredbe o utvrđivanju perioda sprovođenja popisa stanovništva, domaćinstava i stanova i referentnog momenta popisa",
+   "title": "Uredba o izmjeni Uredbe o utvrđivanju perioda sprovođenja popisa stanovništva, domaćinstava i stanova i referentnog momenta popisa",
+   "url": "https://www.sluzbenilist.me/propisi/362906",
+   "versions": [
+    {
+     "from": "2023-12-15",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/362906/download",
+     "sha256": "25591785373d9b4368924274067d4a229b207c9d0f4e1b3488650b3649da9ab7"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-363084",
+   "path": "uredba/2023/363084",
+   "short": "Uredba o izmjeni Uredbe o kriterijumima za stavljanje, odnosno skidanje lijeka sa osnovne i doplatne Liste ljekova 1944. Odluka o Savjetu za prava djeteta",
+   "title": "Uredba o izmjeni Uredbe o kriterijumima za stavljanje, odnosno skidanje lijeka sa osnovne i doplatne Liste ljekova 1944. Odluka o Savjetu za prava djeteta",
+   "url": "https://www.sluzbenilist.me/propisi/363084",
+   "versions": [
+    {
+     "from": "2024-01-07",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/363084/download",
+     "sha256": "d2e0198fc08f5205a34f9e28759adc2623d6fcf6b0c918b126ca9151f7050967"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-363093",
+   "path": "uredba/2023/363093",
+   "short": "Uredba o izmjeni Uredbe o kriterijumima za utvrđivanje visine doživotne mjesečne naknade, stipendije, premije, sportske invalidnine, nagrade za sportistu godine i zaslužnog sportskog radnika",
+   "title": "Uredba o izmjeni Uredbe o kriterijumima za utvrđivanje visine doživotne mjesečne naknade, stipendije, premije, sportske invalidnine, nagrade za sportistu godine i zaslužnog sportskog radnika",
+   "url": "https://www.sluzbenilist.me/propisi/363093",
+   "versions": [
+    {
+     "from": "2024-01-07",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/363093/download",
+     "sha256": "eb17a963c1d8544f46f100a0c95a0ee52f5b5ffd961865390f302c33bbaaaab6"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-363191",
+   "path": "uredba/2023/363191",
+   "short": "Uredba o izmjeni Uredbe o grupama poslova i koeficijentima za zarade policijskih službenika",
+   "title": "Uredba o izmjeni Uredbe o grupama poslova i koeficijentima za zarade policijskih službenika",
+   "url": "https://www.sluzbenilist.me/propisi/363191",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 2,
+     "source_url": "https://www.sluzbenilist.me/propisi/363191/download",
+     "sha256": "4a9702475d53e18e6161ae5d07054352ee06b2ee9caac8d9f1b1c83e763b32df"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-363194",
+   "path": "uredba/2023/363194",
+   "short": "Uredba o izmjenama Uredbe o povjeravanju dijela poslova iz nadležnosti Ministarstva kapitalnih investicija Javnoj ustanovi Zavod za geološka istraživanja",
+   "title": "Uredba o izmjenama Uredbe o povjeravanju dijela poslova iz nadležnosti Ministarstva kapitalnih investicija Javnoj ustanovi Zavod za geološka istraživanja",
+   "url": "https://www.sluzbenilist.me/propisi/363194",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/363194/download",
+     "sha256": "17bdb85048a43c1610a7c1b5b27a684275e590bf4fa4f0a270913cd41cab18ae"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-363252",
+   "path": "uredba/2023/363252",
+   "short": "Uredba o dopuni Uredbe o povjeravanju dijela poslova Ministarstva ekologije, prostornog planiranja i urbanizma jedinicama lokalne samouprave",
+   "title": "Uredba o dopuni Uredbe o povjeravanju dijela poslova Ministarstva ekologije, prostornog planiranja i urbanizma jedinicama lokalne samouprave",
+   "url": "https://www.sluzbenilist.me/propisi/363252",
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/363252/download",
+     "sha256": "e546c6e5dd45765e050cbbcb50948a7bb1b719081ff656c1ae5230db66ad91b6"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-363317",
+   "path": "uredba/2023/363317",
+   "short": "Uredba o izmjenama i dopunama Uredbe o bližem načinu sprovođenja carinskih postupaka i carinskih formalnosti",
+   "title": "Uredba o izmjenama i dopunama Uredbe o bližem načinu sprovođenja carinskih postupaka i carinskih formalnosti",
+   "url": "https://www.sluzbenilist.me/propisi/363317",
+   "versions": [
+    {
+     "from": "2023-11-07",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.me/propisi/363317/download",
+     "sha256": "adca3cf184c2ffd972f65390b59d87e3da41496fe1386655f5f771331d08ced9"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-364545",
+   "path": "uredba/2023/364545",
+   "short": "Uredba o dopuni Uredbe o utvrđivanju perioda sprovođenja popisa stanovništva, domaćinstava i stanova i referentnog momenta popisa",
+   "title": "Uredba o dopuni Uredbe o utvrđivanju perioda sprovođenja popisa stanovništva, domaćinstava i stanova i referentnog momenta popisa",
+   "url": "https://www.sluzbenilist.me/propisi/364545",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/364545/download",
+     "sha256": "97b95477544bddaa5b64bda7aa5875243a331637c8d0cbe7959090e81ea7a8f4"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-364554",
+   "path": "uredba/2023/364554",
+   "short": "Uredba o izmjenama i dopunama Uredbe o zvanjima i zaradi vojno-diplomatskih predstavnika, lica upućenih na rad u međunarodnim organizacijama i administrativno-tehničkog osoblja",
+   "title": "Uredba o izmjenama i dopunama Uredbe o zvanjima i zaradi vojno-diplomatskih predstavnika, lica upućenih na rad u međunarodnim organizacijama i administrativno-tehničkog osoblja",
+   "url": "https://www.sluzbenilist.me/propisi/364554",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.me/propisi/364554/download",
+     "sha256": "54273259b4df45a1968b01cf04017fe463e5acf17abb079f3d74e45703772386"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-364981",
+   "path": "uredba/2023/364981",
+   "short": "Uredba o dopuni Uredbe o kriterijumima za unutrašnju organizaciju i sistematizaciju poslova u organima državne uprave",
+   "title": "Uredba o dopuni Uredbe o kriterijumima za unutrašnju organizaciju i sistematizaciju poslova u organima državne uprave",
+   "url": "https://www.sluzbenilist.me/propisi/364981",
+   "versions": [
+    {
+     "from": "2023-12-08",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/364981/download",
+     "sha256": "7c05d371e546d8b20646acae6608b3ceb383ee75cc7accacf548a483f54e6ba9"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-365036",
+   "path": "uredba/2023/365036",
+   "short": "Uredba o izmjenama i dopuni Uredbe o Kabinetu predsjednika Vlade Crne Gore",
+   "title": "Uredba o izmjenama i dopuni Uredbe o Kabinetu predsjednika Vlade Crne Gore",
+   "url": "https://www.sluzbenilist.me/propisi/365036",
+   "versions": [
+    {
+     "from": "2023-12-16",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.me/propisi/365036/download",
+     "sha256": "88f3b7462bf6f1f036f76dd7fb0fbf1b22b71c61c2f745489e632468057b880a"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2024-365842",
+   "path": "uredba/2024/365842",
+   "short": "Uredba o povjeravanju dijela poslova Ministarstva prostornog planiranja, urbanizma i državne imovine jedinicama lokalne samouprave",
+   "title": "Uredba o povjeravanju dijela poslova Ministarstva prostornog planiranja, urbanizma i državne imovine jedinicama lokalne samouprave",
+   "url": "https://www.sluzbenilist.me/propisi/365842",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/365842/download",
+     "sha256": "468a77b190b44238a23ad534be1f43ed5a67c1b42e2ff95b07e41b210c20170e"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2024-366629",
+   "path": "uredba/2024/366629",
+   "short": "Uredba o realizaciji i postupku korišćenja sredstava iz instrumenta pretpristupne pomoći Evropske unije (IPARD III program)",
+   "title": "Uredba o realizaciji i postupku korišćenja sredstava iz instrumenta pretpristupne pomoći Evropske unije (IPARD III program)",
+   "url": "https://www.sluzbenilist.me/propisi/366629",
+   "versions": [
+    {
+     "from": "2024-03-08",
+     "units": 74,
+     "source_url": "https://www.sluzbenilist.me/propisi/366629/download",
+     "sha256": "72680c2c4fa90b19016e35a58e74e86671e7adb500678dba81b85a76b2fe7fe6"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2024-366648",
+   "path": "uredba/2024/366648",
+   "short": "Uredbu o izmjenama i dopunama Uredbe o kriterijumima za formiranje maksimalnih cijena ljekova*",
+   "title": "Uredbu o izmjenama i dopunama Uredbe o kriterijumima za formiranje maksimalnih cijena ljekova*",
+   "url": "https://www.sluzbenilist.me/propisi/366648",
+   "versions": [
+    {
+     "from": "2024-03-15",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.me/propisi/366648/download",
+     "sha256": "4b79d7230d73213aeb8144a8c9961b940ba25be5ddfcb18700d90aebfe72d898"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2024-371036",
+   "path": "uredba/2024/371036",
+   "short": "Uredba o Generalnom sekretarijatu Vlade Crne Gore",
+   "title": "Uredba o Generalnom sekretarijatu Vlade Crne Gore",
+   "url": "https://www.sluzbenilist.me/propisi/371036",
+   "versions": [
+    {
+     "from": "2024-07-10",
+     "units": 19,
+     "source_url": "https://www.sluzbenilist.me/propisi/371036/download",
+     "sha256": "1baa17e799613de0803cf047ea2bef46f73626ebccc133a234e9e994afb9336c"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2024-371628",
+   "path": "uredba/2024/371628",
+   "short": "Uredba o dopuni Uredbe o Listi vojne opreme i proizvoda, postupku i načinu sprovođenja javnih nabavki u oblasti odbrane i bezbjednosti",
+   "title": "Uredba o dopuni Uredbe o Listi vojne opreme i proizvoda, postupku i načinu sprovođenja javnih nabavki u oblasti odbrane i bezbjednosti",
+   "url": "https://www.sluzbenilist.me/propisi/371628",
+   "versions": [
+    {
+     "from": "2024-07-13",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/371628/download",
+     "sha256": "c8368237fa45c4f46de010a284f10ea3dd47493cd82976391558ce893e96ce3c"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2024-371984",
+   "path": "uredba/2024/371984",
+   "short": "Uredba o izmjenama i dopunama Uredbe o organizaciji i načinu rada državne uprave",
+   "title": "Uredba o izmjenama i dopunama Uredbe o organizaciji i načinu rada državne uprave",
+   "url": "https://www.sluzbenilist.me/propisi/371984",
+   "versions": [
+    {
+     "from": "2024-07-23",
+     "units": 22,
+     "source_url": "https://www.sluzbenilist.me/propisi/371984/download",
+     "sha256": "b6743ed3fdb45c823010f2cb6d001ec0d562724d710dd2400ebaf4f4a4e0ad30"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2024-372141",
+   "path": "uredba/2024/372141",
+   "short": "Uredba o izmjenama Uredbe o organizaciji i načinu rada državne uprave",
+   "title": "Uredba o izmjenama Uredbe o organizaciji i načinu rada državne uprave",
+   "url": "https://www.sluzbenilist.me/propisi/372141",
+   "versions": [
+    {
+     "from": "2024-07-26",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/372141/download",
+     "sha256": "98767f64c81f80e135184187f24a4712e3054bb7b78164d62dc6c167bb260809"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2024-373473",
+   "path": "uredba/2024/373473",
+   "short": "Uredba o izmjenama i dopunama Uredbe o organizaciji i načinu rada državne uprave",
+   "title": "Uredba o izmjenama i dopunama Uredbe o organizaciji i načinu rada državne uprave",
+   "url": "https://www.sluzbenilist.me/propisi/373473",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 25,
+     "source_url": "https://www.sluzbenilist.me/propisi/373473/download",
+     "sha256": "9ae06aa386017bb3ead81f020a190719e2a5dc25c19adc0959b6ef87e55d21b7"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2024-373611",
+   "path": "uredba/2024/373611",
+   "short": "Uredba o dopuni Uredbe o organizaciji i načinu rada državne uprave",
+   "title": "Uredba o dopuni Uredbe o organizaciji i načinu rada državne uprave",
+   "url": "https://www.sluzbenilist.me/propisi/373611",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/373611/download",
+     "sha256": "8bf63e8229c7cfd760e59f94f2b29568d5d13e855cacf77e338a1e4f3fce9e4b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2024-374454",
+   "path": "uredba/2024/374454",
+   "short": "Uredba o dopuni Uredbe o organizaciji i načinu rada državne uprave",
+   "title": "Uredba o dopuni Uredbe o organizaciji i načinu rada državne uprave",
+   "url": "https://www.sluzbenilist.me/propisi/374454",
+   "versions": [
+    {
+     "from": "2024-10-30",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/374454/download",
+     "sha256": "f5b31fd3058f78075b179a5dede6f6f60e46a04b7e5b8ea05f39694e66fc9148"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2024-375388",
+   "path": "uredba/2024/375388",
+   "short": "Uredba o izmjeni i dopunama Uredbe o organizaciji i načinu rada državne uprave",
+   "title": "Uredba o izmjeni i dopunama Uredbe o organizaciji i načinu rada državne uprave",
+   "url": "https://www.sluzbenilist.me/propisi/375388",
+   "versions": [
+    {
+     "from": "2024-12-06",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/375388/download",
+     "sha256": "b840d79645dd9b75ae111ef471550a050410956913ce9e804ca3b9d6d7c58ded"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2024-376113",
+   "path": "uredba/2024/376113",
+   "short": "Uredba o izmjenama Uredbe o povjeravanju dijela poslova iz nadležnosti Ministarstva energetike i rudarstva Javnoj ustanovi Zavod za geološka istraživanja",
+   "title": "Uredba o izmjenama Uredbe o povjeravanju dijela poslova iz nadležnosti Ministarstva energetike i rudarstva Javnoj ustanovi Zavod za geološka istraživanja",
+   "url": "https://www.sluzbenilist.me/propisi/376113",
+   "versions": [
+    {
+     "from": "2024-12-28",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/376113/download",
+     "sha256": "bbad426d24c71de7999f1bc6c1da520a4205de234b29446fe49bd1f4af11ea77"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2024-376121",
+   "path": "uredba/2024/376121",
+   "short": "Uredba o izmjenama i dopunama Uredbe o posebnom dodatku na osnovnu zaradu, posebnim naknadama troškova i drugim primanjima za vrijeme rada u diplomatsko-konzularnom predstavništvu",
+   "title": "Uredba o izmjenama i dopunama Uredbe o posebnom dodatku na osnovnu zaradu, posebnim naknadama troškova i drugim primanjima za vrijeme rada u diplomatsko-konzularnom predstavništvu",
+   "url": "https://www.sluzbenilist.me/propisi/376121",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.me/propisi/376121/download",
+     "sha256": "0e6978d8858abd84ab2128d9ff7eabfbdef333bdda0fe3c762a1e39f40026dff"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2024-376297",
+   "path": "uredba/2024/376297",
+   "short": "Uredba o izmjeni Uredbe o povjeravanju dijela poslova Ministarstva prostornog planiranja, urbanizma i državne imovine Javnom preduzeću za upravljanje morskim dobrom Crne Gore i Javnom preduzeću za Nacionalne parkove Crne Gore",
+   "title": "Uredba o izmjeni Uredbe o povjeravanju dijela poslova Ministarstva prostornog planiranja, urbanizma i državne imovine Javnom preduzeću za upravljanje morskim dobrom Crne Gore i Javnom preduzeću za Nacionalne parkove Crne Gore",
+   "url": "https://www.sluzbenilist.me/propisi/376297",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/376297/download",
+     "sha256": "97d19a0f99d9613cc267e5de688c1628949969ef553e5ec39b9fc1d15335d245"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-378769",
+   "path": "uredba/2025/378769",
+   "short": "Uredba o izmjeni Uredbe o supstancama koje se mogu dodavati hrani za posebne prehrambene potrebe*",
+   "title": "Uredba o izmjeni Uredbe o supstancama koje se mogu dodavati hrani za posebne prehrambene potrebe*",
+   "url": "https://www.sluzbenilist.me/propisi/378769",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 2,
+     "source_url": "https://www.sluzbenilist.me/propisi/378769/download",
+     "sha256": "b66c9c2add200f0e8af6385d426713c73d053b44d87f5bda7781304e15b3280f"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-378780",
+   "path": "uredba/2025/378780",
+   "short": "Odluka o obrazovanju Komisije za analizu i praćenje ugovora o djelu i ugovora o obavljanju privremenih i povremenih poslova u potrošačkim jedinicama koje se finansiraju iz budžeta države",
+   "title": "Odluka o obrazovanju Komisije za analizu i praćenje ugovora o djelu i ugovora o obavljanju privremenih i povremenih poslova u potrošačkim jedinicama koje se finansiraju iz budžeta države",
+   "url": "https://www.sluzbenilist.me/propisi/378780",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.me/propisi/378780/download",
+     "sha256": "ee9e17a6622279b85cfd42249bad9df6e0e149d26885f11f3a11f299517b7693"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-378783",
+   "path": "uredba/2025/378783",
+   "short": "Uredba o izmjeni Uredbe o vitaminima, mineralima i drugim supstancama koje se mogu dodavati hrani*",
+   "title": "Uredba o izmjeni Uredbe o vitaminima, mineralima i drugim supstancama koje se mogu dodavati hrani*",
+   "url": "https://www.sluzbenilist.me/propisi/378783",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 2,
+     "source_url": "https://www.sluzbenilist.me/propisi/378783/download",
+     "sha256": "545632e214ae983d187554dbc35c1f5bd01234830cacb6ee6229d7f85d2dbcb2"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-379752",
+   "path": "uredba/2025/379752",
+   "short": "Uredba o izmjenama Uredbe o uspostavljanju unutrašnje revizije u javnom sektoru",
+   "title": "Uredba o izmjenama Uredbe o uspostavljanju unutrašnje revizije u javnom sektoru",
+   "url": "https://www.sluzbenilist.me/propisi/379752",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/379752/download",
+     "sha256": "e16d5cc40027392147739258fbd47f6343201b9c15bddaaae01ce5717f8276bf"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-381141",
+   "path": "uredba/2025/381141",
+   "short": "Uredba o izmjenama i dopunama Uredbe o organizaciji i načinu rada državne uprave",
+   "title": "Uredba o izmjenama i dopunama Uredbe o organizaciji i načinu rada državne uprave",
+   "url": "https://www.sluzbenilist.me/propisi/381141",
+   "versions": [
+    {
+     "from": "2025-04-16",
+     "units": 11,
+     "source_url": "https://www.sluzbenilist.me/propisi/381141/download",
+     "sha256": "c47677eb550e48e01d1d388afc7645323ecd9a60e7da7a2352bd34d3d03fda37"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-383504",
+   "path": "uredba/2025/383504",
+   "short": "Uredba o snabdijevanju ranjivih kupaca električne energije",
+   "title": "Uredba o snabdijevanju ranjivih kupaca električne energije",
+   "url": "https://www.sluzbenilist.me/propisi/383504",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.me/propisi/383504/download",
+     "sha256": "6139dda5b52602df9c372bcfa75787f29b03259da048b648ccab315418f994cc"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-383557",
+   "path": "uredba/2025/383557",
+   "short": "Uredba o postupku popunjavanja, proširenja kvote na aukcijama za dodjelu prava na tržišnu premiju za neodređene lokacije i rangiranju ponuda na aukcijama za neodređene lokacije",
+   "title": "Uredba o postupku popunjavanja, proširenja kvote na aukcijama za dodjelu prava na tržišnu premiju za neodređene lokacije i rangiranju ponuda na aukcijama za neodređene lokacije",
+   "url": "https://www.sluzbenilist.me/propisi/383557",
+   "versions": [
+    {
+     "from": "2025-07-10",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.me/propisi/383557/download",
+     "sha256": "0e96769d1fdb1d43e659a1da2070d5b06e1b25459b4351a42632550b11570fe3"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-383748",
+   "path": "uredba/2025/383748",
+   "short": "Uredba o izmjeni i dopunama Uredbe o posebnom dodatku na osnovnu zaradu, posebnim naknadama troškova i drugim primanjima za vrijeme rada u diplomatsko-konzularnom predstavništvu",
+   "title": "Uredba o izmjeni i dopunama Uredbe o posebnom dodatku na osnovnu zaradu, posebnim naknadama troškova i drugim primanjima za vrijeme rada u diplomatsko-konzularnom predstavništvu",
+   "url": "https://www.sluzbenilist.me/propisi/383748",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/383748/download",
+     "sha256": "5cc62cea9bec0ca76d97fe7bcd85993a96219af8f576a7e77fd4617c323d8df9"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-385074",
+   "path": "uredba/2025/385074",
+   "short": "Uredba o dopuni Uredbe o prestanku važenja pojedinih podzakonskih akata",
+   "title": "Uredba o dopuni Uredbe o prestanku važenja pojedinih podzakonskih akata",
+   "url": "https://www.sluzbenilist.me/propisi/385074",
+   "versions": [
+    {
+     "from": "2025-09-27",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/385074/download",
+     "sha256": "80d9c5fe92139a2dba029b39b62c0e545f77ba751f3eb3264f5efd766a33f386"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-385625",
+   "path": "uredba/2025/385625",
+   "short": "Uredba o bližim uslovima za proglašenje linije u javnom interesu i načinu obavljanja prevoza na liniji od javnog interesa",
+   "title": "Uredba o bližim uslovima za proglašenje linije u javnom interesu i načinu obavljanja prevoza na liniji od javnog interesa",
+   "url": "https://www.sluzbenilist.me/propisi/385625",
+   "versions": [
+    {
+     "from": "2025-10-25",
+     "units": 10,
+     "source_url": "https://www.sluzbenilist.me/propisi/385625/download",
+     "sha256": "ea8c0d163a272c0001278d01ffbd48d1e710251fffaaedd10bbb153dce390049"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-386836",
+   "path": "uredba/2025/386836",
+   "short": "Uredba o izmjenama i dopunama Uredbe o zaradama lica u službi u Vojsci Crne Gore",
+   "title": "Uredba o izmjenama i dopunama Uredbe o zaradama lica u službi u Vojsci Crne Gore",
+   "url": "https://www.sluzbenilist.me/propisi/386836",
+   "versions": [
+    {
+     "from": "2025-12-06",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.me/propisi/386836/download",
+     "sha256": "5539fd38cbcef5650fbd5b71119251e50d7160325e18c164069d61e8bd72d55d"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-387479",
+   "path": "uredba/2025/387479",
+   "short": "Uredba o izmjeni Uredbe o zabranjenim odnosno dozvoljenim načinima upotrebe, proizvodnje i stavljanja na tržište hemikalija koje predstavljaju neprihvatljiv rizik po zdravlje ljudi i životnu sredinu",
+   "title": "Uredba o izmjeni Uredbe o zabranjenim odnosno dozvoljenim načinima upotrebe, proizvodnje i stavljanja na tržište hemikalija koje predstavljaju neprihvatljiv rizik po zdravlje ljudi i životnu sredinu",
+   "url": "https://www.sluzbenilist.me/propisi/387479",
+   "versions": [
+    {
+     "from": "2025-10-14",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/387479/download",
+     "sha256": "330f1b74fd9f62dd9c1b2f54c482e1fce3215419ccd402611ca754f9f32f3fa8"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-387500",
+   "path": "uredba/2025/387500",
+   "short": "Uredba o izmjeni Uredbe o viznom režimu",
+   "title": "Uredba o izmjeni Uredbe o viznom režimu",
+   "url": "https://www.sluzbenilist.me/propisi/387500",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/387500/download",
+     "sha256": "fb7c93fe75de7eb6f8ebdc7acdaa5230a8735a950f18594b99da2f601665eb25"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-388011",
+   "path": "uredba/2025/388011",
+   "short": "Uredba o izmjeni i dopuni Uredbe o naknadi troškova zaposlenih u javnom sektoru",
+   "title": "Uredba o izmjeni i dopuni Uredbe o naknadi troškova zaposlenih u javnom sektoru",
+   "url": "https://www.sluzbenilist.me/propisi/388011",
+   "versions": [
+    {
+     "from": "2025-07-26",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/388011/download",
+     "sha256": "92e94beed0b24fc12e898b31efbf6d803bbb7b5eb64e48f7b9b0a693fdaaa6cd"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-388829",
+   "path": "uredba/2025/388829",
+   "short": "Uredba o dopunama Uredbe o zaradama lica u službi u Vojsci Crne Gore",
+   "title": "Uredba o dopunama Uredbe o zaradama lica u službi u Vojsci Crne Gore",
+   "url": "https://www.sluzbenilist.me/propisi/388829",
+   "versions": [
+    {
+     "from": "2025-12-13",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/388829/download",
+     "sha256": "c322511074923a0cf5149b51e853eac2dc21f57029dd4a3ea25bfd69d9651dcb"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-388976",
+   "path": "uredba/2025/388976",
+   "short": "Uredba o izmjenama i dopunama Uredbe o organizaciji i načinu rada državne uprave",
+   "title": "Uredba o izmjenama i dopunama Uredbe o organizaciji i načinu rada državne uprave",
+   "url": "https://www.sluzbenilist.me/propisi/388976",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.me/propisi/388976/download",
+     "sha256": "2314d84a1ec542a525f1ee59fcbe028000389b14eb0bdf57643490b9205cce49"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-389464",
+   "path": "uredba/2025/389464",
+   "short": "Uredba o izmjenama Uredbe o povjeravanju dijela poslova iz nadležnosti Ministarstva rudarstva, nafte i gasa Javnoj ustanovi Zavod za geološka istraživanja",
+   "title": "Uredba o izmjenama Uredbe o povjeravanju dijela poslova iz nadležnosti Ministarstva rudarstva, nafte i gasa Javnoj ustanovi Zavod za geološka istraživanja",
+   "url": "https://www.sluzbenilist.me/propisi/389464",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/389464/download",
+     "sha256": "2d87c2e75d885648a551dfb56b9a7429df21e748c2cd0f68840d26b27f07a634"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-389473",
+   "path": "uredba/2025/389473",
+   "short": "Uredba o izmjenama i dopunama Uredbe o organizaciji i načinu rada državne uprave",
+   "title": "Uredba o izmjenama i dopunama Uredbe o organizaciji i načinu rada državne uprave",
+   "url": "https://www.sluzbenilist.me/propisi/389473",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.me/propisi/389473/download",
+     "sha256": "f2d50e05d05a2fd3386bf8ece826acdba3af242cdaa1d6649af906af89c69cc4"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2026-390231",
+   "path": "uredba/2026/390231",
+   "short": "Uredba o izmjenama i dopuni Uredbe o posebnom dodatku na osnovnu zaradu, posebnim naknadama troškova i drugim primanjima za vrijeme rada u diplomatsko-konzularnom predstavništvu",
+   "title": "Uredba o izmjenama i dopuni Uredbe o posebnom dodatku na osnovnu zaradu, posebnim naknadama troškova i drugim primanjima za vrijeme rada u diplomatsko-konzularnom predstavništvu",
+   "url": "https://www.sluzbenilist.me/propisi/390231",
+   "versions": [
+    {
+     "from": "2026-01-31",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.me/propisi/390231/download",
+     "sha256": "616f8bcdfa79ea4d9d419b5d39a47aa88709972960546a033b3154ada303a2cf"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2026-390632",
+   "path": "uredba/2026/390632",
+   "short": "Uredba o dopunama Uredbe o Generalnom sekretarijatu Vlade Crne Gore",
+   "title": "Uredba o dopunama Uredbe o Generalnom sekretarijatu Vlade Crne Gore",
+   "url": "https://www.sluzbenilist.me/propisi/390632",
+   "versions": [
+    {
+     "from": "2026-02-21",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/390632/download",
+     "sha256": "23fc3103d1d6bf4e1fe969106a82f0b06973887fb9bfd12e1d430f5cac831a44"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2026-391274",
+   "path": "uredba/2026/391274",
+   "short": "Uredba o izmjenama i dopunama Uredbe o organizaciji i načinu rada državne uprave",
+   "title": "Uredba o izmjenama i dopunama Uredbe o organizaciji i načinu rada državne uprave",
+   "url": "https://www.sluzbenilist.me/propisi/391274",
+   "versions": [
+    {
+     "from": "2026-03-02",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/391274/download",
+     "sha256": "48e08ab520d8bd4be60950d502a5bf757f48aa2337e2807659ecb79471d5b3b7"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2026-392196",
+   "path": "uredba/2026/392196",
+   "short": "Uredba o bližim kriterijumima održivosti i ušteda emisija gasova sa efektom staklene bašte za biogoriva, biotečnosti i goriva iz biomase*",
+   "title": "Uredba o bližim kriterijumima održivosti i ušteda emisija gasova sa efektom staklene bašte za biogoriva, biotečnosti i goriva iz biomase*",
+   "url": "https://www.sluzbenilist.me/propisi/392196",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 13,
+     "source_url": "https://www.sluzbenilist.me/propisi/392196/download",
+     "sha256": "a91aad501a3fcc8925235115dff3a040c05110f45cfe5a8b87df4f8a6bda4728"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2026-392326",
+   "path": "uredba/2026/392326",
+   "short": "Uredba o dopuni Uredbe o prestanku važenja pojedinih podzakonskih akata",
+   "title": "Uredba o dopuni Uredbe o prestanku važenja pojedinih podzakonskih akata",
+   "url": "https://www.sluzbenilist.me/propisi/392326",
+   "versions": [
+    {
+     "from": "2026-04-02",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/392326/download",
+     "sha256": "6b32cf5ca24e103e5d7cb3a99196fa1cd1d7cb0d82b13d003fdb2a4bfcd7615a"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2026-393169",
+   "path": "uredba/2026/393169",
+   "short": "Uredba o dopuni Uredbe o prestanku važenja pojedinih podzakonskih akata",
+   "title": "Uredba o dopuni Uredbe o prestanku važenja pojedinih podzakonskih akata",
+   "url": "https://www.sluzbenilist.me/propisi/393169",
+   "versions": [
+    {
+     "from": "2026-04-25",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/393169/download",
+     "sha256": "ea3932aee7989219dc990456824fe74501eb3bbb6068f4a423003755405859b0"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2026-393908",
+   "path": "uredba/2026/393908",
+   "short": "Uredba o izmjeni i dopuni Uredbe o organizaciji i načinu rada državne uprave",
+   "title": "Uredba o izmjeni i dopuni Uredbe o organizaciji i načinu rada državne uprave",
+   "url": "https://www.sluzbenilist.me/propisi/393908",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/393908/download",
+     "sha256": "0db3682ecc32ce1947ce4433bb6e7020e4986ec4125af168146c0495af2f3f42"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2026-395034",
+   "path": "uredba/2026/395034",
+   "short": "Uredba о mikrobiološkim kriterijumima za hranu*",
+   "title": "Uredba о mikrobiološkim kriterijumima za hranu*",
+   "url": "https://www.sluzbenilist.me/propisi/395034",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 15,
+     "source_url": "https://www.sluzbenilist.me/propisi/395034/download",
+     "sha256": "4f71b920570a61e6473bf921f00e8ae832372cf117d974dc1a14746847a84c7e"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2026-395508",
+   "path": "uredba/2026/395508",
+   "short": "Uredba o higijeni hrane*",
+   "title": "Uredba o higijeni hrane*",
+   "url": "https://www.sluzbenilist.me/propisi/395508",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 21,
+     "source_url": "https://www.sluzbenilist.me/propisi/395508/download",
+     "sha256": "4c4fb1e0ceb15b9815b04dca9ea4b92b9893502a68852692f21dffc4f737ec48"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2026-395509",
+   "path": "uredba/2026/395509",
+   "short": "Uredba o materijalima i predmetima koji dolaze u kontakt sa hranom*",
+   "title": "Uredba o materijalima i predmetima koji dolaze u kontakt sa hranom*",
+   "url": "https://www.sluzbenilist.me/propisi/395509",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 17,
+     "source_url": "https://www.sluzbenilist.me/propisi/395509/download",
+     "sha256": "8fecb88aded7a2e8d4c51aca83aa4b9fbf75658b62e05b2756c21eb7cb943396"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-295116",
+   "path": "zakon/1992/295116",
+   "short": "Zakon o poljoprvrednom zemljištu.",
+   "title": "Zakon o poljoprvrednom zemljištu.",
+   "url": "https://www.sluzbenilist.me/propisi/295116",
+   "versions": [
+    {
+     "from": "1992-04-18",
+     "units": 97,
+     "source_url": "https://www.sluzbenilist.me/propisi/295116/download",
+     "sha256": "942430c56931cf4a49093e1776aac9efd4c19b127d034f5299be740caa640987"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-295917",
+   "path": "zakon/1992/295917",
+   "short": "Zakon o morskom dobru.",
+   "title": "Zakon o morskom dobru.",
+   "url": "https://www.sluzbenilist.me/propisi/295917",
+   "versions": [
+    {
+     "from": "1992-04-11",
+     "units": 41,
+     "source_url": "https://www.sluzbenilist.me/propisi/295917/download",
+     "sha256": "2d5d7192583cb05f9e8894537e36577c2d63b2ecdea8115df5952ecff591b4a7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1992-296300",
+   "path": "zakon/1992/296300",
+   "short": "Zakon o svojinskoj i upravljačkoj transformaciji.",
+   "title": "Zakon o svojinskoj i upravljačkoj transformaciji.",
+   "url": "https://www.sluzbenilist.me/propisi/296300",
+   "versions": [
+    {
+     "from": "1992-01-28",
+     "units": 80,
+     "source_url": "https://www.sluzbenilist.me/propisi/296300/download",
+     "sha256": "90d130b23161a0119e142681aa601521cf21699eab4f4baf4b96276274cdcb15"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1994-349552",
+   "path": "zakon/1994/349552",
+   "short": "Zakon o izmjenama i dopunama Zakona o svojinskoj i upravljačkoj transformaciji",
+   "title": "Zakon o izmjenama i dopunama Zakona o svojinskoj i upravljačkoj transformaciji",
+   "url": "https://www.sluzbenilist.me/propisi/349552",
+   "versions": [
+    {
+     "from": "1994-08-06",
+     "units": 22,
+     "source_url": "https://www.sluzbenilist.me/propisi/349552/download",
+     "sha256": "6513ea08fa3de3eee5f160edf28527818ea74563cfd3b7bf008828039c8fcbaa"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-348535",
+   "path": "zakon/2000/348535",
+   "short": "Zakon o eksproprijaciji",
+   "title": "Zakon o eksproprijaciji",
+   "url": "https://www.sluzbenilist.me/propisi/348535",
+   "versions": [
+    {
+     "from": "2000-12-09",
+     "units": 70,
+     "source_url": "https://www.sluzbenilist.me/propisi/348535/download",
+     "sha256": "a8814abd48b4c0e304ad17dc286e0b3955cde6c3b3948d2aadc65354caee3d25"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-349064",
+   "path": "zakon/2000/349064",
+   "short": "Zakon o imovini bivsih drustveno-politickih organizacija",
+   "title": "Zakon o imovini bivsih drustveno-politickih organizacija",
+   "url": "https://www.sluzbenilist.me/propisi/349064",
+   "versions": [
+    {
+     "from": "2000-12-20",
+     "units": 16,
+     "source_url": "https://www.sluzbenilist.me/propisi/349064/download",
+     "sha256": "9435a8192ba484cd6b9e8af7713c129129598f228d5161443fecc852c406abef"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-348229",
+   "path": "zakon/2001/348229",
+   "short": "Zakon o dopunama Zakona o izboru odbornika i poslanika",
+   "title": "Zakon o dopunama Zakona o izboru odbornika i poslanika",
+   "url": "https://www.sluzbenilist.me/propisi/348229",
+   "versions": [
+    {
+     "from": "2001-03-02",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.me/propisi/348229/download",
+     "sha256": "76c47bd19fd722bf78b652f71573ea7654535f26da0c370bc91a8d6831f4da3c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-348771",
+   "path": "zakon/2001/348771",
+   "short": "Zakon o porezu na dohodak fizickih lica",
+   "title": "Zakon o porezu na dohodak fizickih lica",
+   "url": "https://www.sluzbenilist.me/propisi/348771",
+   "versions": [
+    {
+     "from": "2002-01-08",
+     "units": 70,
+     "source_url": "https://www.sluzbenilist.me/propisi/348771/download",
+     "sha256": "60a28c1c390c51d841930755e04c8f7a1c4671e537e661b0b6c7cb97ed401835"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-349493",
+   "path": "zakon/2001/349493",
+   "short": "Zakon o porezu na dodatnu vrijednost",
+   "title": "Zakon o porezu na dodatnu vrijednost",
+   "url": "https://www.sluzbenilist.me/propisi/349493",
+   "versions": [
+    {
+     "from": "2002-01-01",
+     "units": 99,
+     "source_url": "https://www.sluzbenilist.me/propisi/349493/download",
+     "sha256": "21820cae061d4fd6be976a99df55caa38b88c92d583f7a11bee9b1c2060c4d5e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-349494",
+   "path": "zakon/2001/349494",
+   "short": "Zakon o poreskoj administraciji",
+   "title": "Zakon o poreskoj administraciji",
+   "url": "https://www.sluzbenilist.me/propisi/349494",
+   "versions": [
+    {
+     "from": "2002-01-08",
+     "units": 138,
+     "source_url": "https://www.sluzbenilist.me/propisi/349494/download",
+     "sha256": "5728339862b41adb3b1d71a180319ffb271d2111a1c57c26bc71a45e1ee92e81"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-299421",
+   "path": "zakon/2002/299421",
+   "short": "Zakon o strucnom obrazovanju",
+   "title": "Zakon o strucnom obrazovanju",
+   "url": "https://www.sluzbenilist.me/propisi/299421",
+   "versions": [
+    {
+     "from": "2002-12-06",
+     "units": 134,
+     "source_url": "https://www.sluzbenilist.me/propisi/299421/download",
+     "sha256": "24b3d6dbda178f864e63a4705f6ea6b3095fa4c0d079d2f5237be14a383126a3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-324944",
+   "path": "zakon/2002/324944",
+   "short": "Opsti zakon o obrazovanju i vaspitanju",
+   "title": "Opsti zakon o obrazovanju i vaspitanju",
+   "url": "https://www.sluzbenilist.me/propisi/324944",
+   "versions": [
+    {
+     "from": "2002-12-06",
+     "units": 183,
+     "source_url": "https://www.sluzbenilist.me/propisi/324944/download",
+     "sha256": "5776537f37b9a1ebf4d99c1c82bb494c4ef398fd410f0b397aa831e2c07f86f0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-349443",
+   "path": "zakon/2002/349443",
+   "short": "Zakon o izmjenama i dopunama Zakona o izboru odbornika i poslanika",
+   "title": "Zakon o izmjenama i dopunama Zakona o izboru odbornika i poslanika",
+   "url": "https://www.sluzbenilist.me/propisi/349443",
+   "versions": [
+    {
+     "from": "2002-08-10",
+     "units": 22,
+     "source_url": "https://www.sluzbenilist.me/propisi/349443/download",
+     "sha256": "7f8b60ecae789e9e65f88eb590d03e3e90f4c1724592f8f2eb436e326eee5e27"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-349572",
+   "path": "zakon/2002/349572",
+   "short": "Zakon o osnovnom obrazovanju i vaspitanju",
+   "title": "Zakon o osnovnom obrazovanju i vaspitanju",
+   "url": "https://www.sluzbenilist.me/propisi/349572",
+   "versions": [
+    {
+     "from": "2002-12-06",
+     "units": 97,
+     "source_url": "https://www.sluzbenilist.me/propisi/349572/download",
+     "sha256": "c34f6e4fff5824e800a8c71d7f2690f0972aff1fb24b1c864753cba742510de9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-349603",
+   "path": "zakon/2002/349603",
+   "short": "Zakon o gimnaziji",
+   "title": "Zakon o gimnaziji",
+   "url": "https://www.sluzbenilist.me/propisi/349603",
+   "versions": [
+    {
+     "from": "2002-12-06",
+     "units": 76,
+     "source_url": "https://www.sluzbenilist.me/propisi/349603/download",
+     "sha256": "0ffe2295ef5d4ba2754169bcbec709994faa2730d19ccfce48414f6ca0add506"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-302174",
+   "path": "zakon/2003/302174",
+   "short": "Zakon o inspekcijskom nadzoru",
+   "title": "Zakon o inspekcijskom nadzoru",
+   "url": "https://www.sluzbenilist.me/propisi/302174",
+   "versions": [
+    {
+     "from": "2003-07-08",
+     "units": 92,
+     "source_url": "https://www.sluzbenilist.me/propisi/302174/download",
+     "sha256": "56714ae8feb755287895485e2d491bbde5e60dafff52e5cf1cf0e013942fc3e3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-304171",
+   "path": "zakon/2003/304171",
+   "short": "Zakon o borackoj i invalidskoj zastiti",
+   "title": "Zakon o borackoj i invalidskoj zastiti",
+   "url": "https://www.sluzbenilist.me/propisi/304171",
+   "versions": [
+    {
+     "from": "2004-01-02",
+     "units": 122,
+     "source_url": "https://www.sluzbenilist.me/propisi/304171/download",
+     "sha256": "c79307ef7723cc6ecafb976aa9b77fa9c874e2b26b9e3cb12473c8e0d2ccb095"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-305475",
+   "path": "zakon/2003/305475",
+   "short": "Zakon o evidencijama u oblasti rada i zaposljavanja",
+   "title": "Zakon o evidencijama u oblasti rada i zaposljavanja",
+   "url": "https://www.sluzbenilist.me/propisi/305475",
+   "versions": [
+    {
+     "from": "2004-01-02",
+     "units": 58,
+     "source_url": "https://www.sluzbenilist.me/propisi/305475/download",
+     "sha256": "7f28ce71141a46774776da8862c3bd86627dd54c31bb72517da67c9dd1dabfbc"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-298163",
+   "path": "zakon/2004/298163",
+   "short": "Zakon o Drzavnoj revizorskoj instituciji",
+   "title": "Zakon o Drzavnoj revizorskoj instituciji",
+   "url": "https://www.sluzbenilist.me/propisi/298163",
+   "versions": [
+    {
+     "from": "2004-05-07",
+     "units": 68,
+     "source_url": "https://www.sluzbenilist.me/propisi/298163/download",
+     "sha256": "6d5f5abac893877648fb9d8c2760bb244926bc2ca6452e3377e680c78525a332"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-298431",
+   "path": "zakon/2004/298431",
+   "short": "Zakon o izmjeni Zakona o porezu na premije osiguranja",
+   "title": "Zakon o izmjeni Zakona o porezu na premije osiguranja",
+   "url": "https://www.sluzbenilist.me/propisi/298431",
+   "versions": [
+    {
+     "from": "2004-06-05",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/298431/download",
+     "sha256": "f4206231b0b43ed861d78f6c44718d7c67235cb0a683251ea3866f1dbc537106"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-299025",
+   "path": "zakon/2004/299025",
+   "short": "Zakon o povracaju oduzetih imovinskih prava i obestecenju",
+   "title": "Zakon o povracaju oduzetih imovinskih prava i obestecenju",
+   "url": "https://www.sluzbenilist.me/propisi/299025",
+   "versions": [
+    {
+     "from": "2004-04-08",
+     "units": 50,
+     "source_url": "https://www.sluzbenilist.me/propisi/299025/download",
+     "sha256": "1f0c1c1532463c3fe8a34b4f9606d6e40d2e8b8bfa9dcffd6dbad16fe355992e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-299521",
+   "path": "zakon/2004/299521",
+   "short": "Zakon o politickim partijama",
+   "title": "Zakon o politickim partijama",
+   "url": "https://www.sluzbenilist.me/propisi/299521",
+   "versions": [
+    {
+     "from": "2004-04-08",
+     "units": 33,
+     "source_url": "https://www.sluzbenilist.me/propisi/299521/download",
+     "sha256": "7a90830663f17c901d74f77e993fce855b347b9bc8966e3b4b828751c5f1d594"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-299707",
+   "path": "zakon/2004/299707",
+   "short": "Zakon o porezu na premije osiguranja",
+   "title": "Zakon o porezu na premije osiguranja",
+   "url": "https://www.sluzbenilist.me/propisi/299707",
+   "versions": [
+    {
+     "from": "2004-05-06",
+     "units": 24,
+     "source_url": "https://www.sluzbenilist.me/propisi/299707/download",
+     "sha256": "24e7c1d246bd7df1a33ab90d6b5df3d9c4c55997cda35b60eb50d8b7db32edbe"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-301040",
+   "path": "zakon/2004/301040",
+   "short": "Zakon o elektronskoj trgovini",
+   "title": "Zakon o elektronskoj trgovini",
+   "url": "https://www.sluzbenilist.me/propisi/301040",
+   "versions": [
+    {
+     "from": "2005-01-06",
+     "units": 34,
+     "source_url": "https://www.sluzbenilist.me/propisi/301040/download",
+     "sha256": "c8720665f9a96c9c8c586e5e16d88fdcc8b8316a98a5d6f74c8370e22c170843"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-345135",
+   "path": "zakon/2004/345135",
+   "short": "Zakon o boravisnoj taksi",
+   "title": "Zakon o boravisnoj taksi",
+   "url": "https://www.sluzbenilist.me/propisi/345135",
+   "versions": [
+    {
+     "from": "2004-02-28",
+     "units": 15,
+     "source_url": "https://www.sluzbenilist.me/propisi/345135/download",
+     "sha256": "cc449f33e1610a329c967c1a24bf2f06b4e9d49020a93f4d0f8714d2ae24586f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-345186",
+   "path": "zakon/2004/345186",
+   "short": "Zakon o turistickim organizacijama",
+   "title": "Zakon o turistickim organizacijama",
+   "url": "https://www.sluzbenilist.me/propisi/345186",
+   "versions": [
+    {
+     "from": "2004-02-28",
+     "units": 59,
+     "source_url": "https://www.sluzbenilist.me/propisi/345186/download",
+     "sha256": "d404b56db41bcddb3daeabf71581e3f9f780f7d41a91790cf71a321209e15d40"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-345188",
+   "path": "zakon/2004/345188",
+   "short": "Zakon o zaduzivanju i upravljanju dugom javnog sektora",
+   "title": "Zakon o zaduzivanju i upravljanju dugom javnog sektora",
+   "url": "https://www.sluzbenilist.me/propisi/345188",
+   "versions": [
+    {
+     "from": "2004-02-28",
+     "units": 39,
+     "source_url": "https://www.sluzbenilist.me/propisi/345188/download",
+     "sha256": "26f1004080723643ac9f0bfec78553e778880349cb3b9922907a2ea9804fa2f7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-348552",
+   "path": "zakon/2004/348552",
+   "short": "Zakon o porezu na upotrebu putnickih motornih vozila, plovnih objekata, vazduhoplova i letilica",
+   "title": "Zakon o porezu na upotrebu putnickih motornih vozila, plovnih objekata, vazduhoplova i letilica",
+   "url": "https://www.sluzbenilist.me/propisi/348552",
+   "versions": [
+    {
+     "from": "2004-05-07",
+     "units": 23,
+     "source_url": "https://www.sluzbenilist.me/propisi/348552/download",
+     "sha256": "bbb8866f723afb3859c7250d461b5b6fa4a9b0ba5d0f0acc499de493c99b3228"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-348639",
+   "path": "zakon/2004/348639",
+   "short": "Zakon o Drzavnim simbolima i danu Drzavnosti Crne Gore",
+   "title": "Zakon o Drzavnim simbolima i danu Drzavnosti Crne Gore",
+   "url": "https://www.sluzbenilist.me/propisi/348639",
+   "versions": [
+    {
+     "from": "2004-07-13",
+     "units": 40,
+     "source_url": "https://www.sluzbenilist.me/propisi/348639/download",
+     "sha256": "2dbd2432d1f40a06368e558d3d7a0076c411d8e95138fff86985da968d13ef1e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-348673",
+   "path": "zakon/2004/348673",
+   "short": "Zakon o izmjeni Zakona o porezu na upotrebu putnickih motornih vozila, plovnih objekata, vazduhoplova i letilica",
+   "title": "Zakon o izmjeni Zakona o porezu na upotrebu putnickih motornih vozila, plovnih objekata, vazduhoplova i letilica",
+   "url": "https://www.sluzbenilist.me/propisi/348673",
+   "versions": [
+    {
+     "from": "2004-06-05",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/348673/download",
+     "sha256": "96cd2221eb8392087cd43c1dccf29260faa4c135867dad49cdd6c9c6d7e46644"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-297067",
+   "path": "zakon/2005/297067",
+   "short": "Zakon o strateskoj procjeni uticaja na zivotnu sredinu",
+   "title": "Zakon o strateskoj procjeni uticaja na zivotnu sredinu",
+   "url": "https://www.sluzbenilist.me/propisi/297067",
+   "versions": [
+    {
+     "from": "2006-01-05",
+     "units": 38,
+     "source_url": "https://www.sluzbenilist.me/propisi/297067/download",
+     "sha256": "0ad30712cc33b32f4af6e86c64c444e19ec6a711d15f18e8e2b24987129ab6a2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-333136",
+   "path": "zakon/2005/333136",
+   "short": "Zakon o Glavnom gradu",
+   "title": "Zakon o Glavnom gradu",
+   "url": "https://www.sluzbenilist.me/propisi/333136",
+   "versions": [
+    {
+     "from": "2005-11-11",
+     "units": 64,
+     "source_url": "https://www.sluzbenilist.me/propisi/333136/download",
+     "sha256": "471becce42ab88e8d8a3e545f5ad28a20c0f46ec64999eac95dcf62374b9a464"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-348695",
+   "path": "zakon/2005/348695",
+   "short": "Zakon o racunovodstvu i reviziji",
+   "title": "Zakon o racunovodstvu i reviziji",
+   "url": "https://www.sluzbenilist.me/propisi/348695",
+   "versions": [
+    {
+     "from": "2005-11-26",
+     "units": 43,
+     "source_url": "https://www.sluzbenilist.me/propisi/348695/download",
+     "sha256": "f7626e92b9eea9def9d4cf5eee2d802b0ea1155d22b326c7b58e9048e9de1019"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-348793",
+   "path": "zakon/2005/348793",
+   "short": "Zakon o zastiti i ostvarivanju prava mentalno oboljelih lica",
+   "title": "Zakon o zastiti i ostvarivanju prava mentalno oboljelih lica",
+   "url": "https://www.sluzbenilist.me/propisi/348793",
+   "versions": [
+    {
+     "from": "2005-06-04",
+     "units": 72,
+     "source_url": "https://www.sluzbenilist.me/propisi/348793/download",
+     "sha256": "b886216552d21179a807b684509a9ece3fd25ed95934d4371189283a77d8ccbc"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-349135",
+   "path": "zakon/2005/349135",
+   "short": "Zakon o objedinjenoj registraciji i sistemu izvjestavanja o obracunu i naplati poreza i doprinosa",
+   "title": "Zakon o objedinjenoj registraciji i sistemu izvjestavanja o obracunu i naplati poreza i doprinosa",
+   "url": "https://www.sluzbenilist.me/propisi/349135",
+   "versions": [
+    {
+     "from": "2005-05-17",
+     "units": 28,
+     "source_url": "https://www.sluzbenilist.me/propisi/349135/download",
+     "sha256": "e455457c8d57036d48e6ab028a75907253076fbf55520f386bb7e74211c67a8e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-349662",
+   "path": "zakon/2005/349662",
+   "short": "Zakon o izmjenama i dopunama Zakona o Budzetu Crne Gore",
+   "title": "Zakon o izmjenama i dopunama Zakona o Budzetu Crne Gore",
+   "url": "https://www.sluzbenilist.me/propisi/349662",
+   "versions": [
+    {
+     "from": "2005-12-06",
+     "units": 28,
+     "source_url": "https://www.sluzbenilist.me/propisi/349662/download",
+     "sha256": "708cf386201b9dc81a9aa389608b887e48c61e9b7637484c2fa0c81232bb0fd3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-300866",
+   "path": "zakon/2006/300866",
+   "short": "Zakon o izmjeni i dopuni Zakona o Drzavnoj revizorskoj instituciji",
+   "title": "Zakon o izmjeni i dopuni Zakona o Drzavnoj revizorskoj instituciji",
+   "url": "https://www.sluzbenilist.me/propisi/300866",
+   "versions": [
+    {
+     "from": "2006-12-22",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/300866/download",
+     "sha256": "6ca7437843cf23c8f0e83216ac46ca7c5aa4bf9f80236df53d581ac4360db402"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-324116",
+   "path": "zakon/2006/324116",
+   "short": "Zakon o Crvenom krstu Crne Gore",
+   "title": "Zakon o Crvenom krstu Crne Gore",
+   "url": "https://www.sluzbenilist.me/propisi/324116",
+   "versions": [
+    {
+     "from": "2006-05-11",
+     "units": 31,
+     "source_url": "https://www.sluzbenilist.me/propisi/324116/download",
+     "sha256": "9310779030cf64cd654e9f043b557acf813b5bb4e6df164892e4977957780d5c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-348670",
+   "path": "zakon/2006/348670",
+   "short": "Zakon o sadnom materijalu",
+   "title": "Zakon o sadnom materijalu",
+   "url": "https://www.sluzbenilist.me/propisi/348670",
+   "versions": [
+    {
+     "from": "2006-05-11",
+     "units": 82,
+     "source_url": "https://www.sluzbenilist.me/propisi/348670/download",
+     "sha256": "06696a77a5c742f7a98214df791bde0678ae773cd70e488026afe5c545ceda65"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-348709",
+   "path": "zakon/2006/348709",
+   "short": "Zakon o sjemenskom materijalu poljoprivrednog bilja",
+   "title": "Zakon o sjemenskom materijalu poljoprivrednog bilja",
+   "url": "https://www.sluzbenilist.me/propisi/348709",
+   "versions": [
+    {
+     "from": "2006-05-11",
+     "units": 103,
+     "source_url": "https://www.sluzbenilist.me/propisi/348709/download",
+     "sha256": "59829feb6ddaa01f4d42494ff06f5e7aaa167bb766f5f3d28d19b4bf6c215254"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-348710",
+   "path": "zakon/2006/348710",
+   "short": "Zakon o izmjenama i dopunama Zakona o eksproprijaciji",
+   "title": "Zakon o izmjenama i dopunama Zakona o eksproprijaciji",
+   "url": "https://www.sluzbenilist.me/propisi/348710",
+   "versions": [
+    {
+     "from": "2006-05-11",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.me/propisi/348710/download",
+     "sha256": "0077856ffa22969ffa9e3d1cefdf6044be911792a00bd3097f593b1aabf06883"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-349761",
+   "path": "zakon/2006/349761",
+   "short": "Zakon o izmjeni Zakona o drzavnoj revizorskoj instituciji",
+   "title": "Zakon o izmjeni Zakona o drzavnoj revizorskoj instituciji",
+   "url": "https://www.sluzbenilist.me/propisi/349761",
+   "versions": [
+    {
+     "from": "2006-05-05",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/349761/download",
+     "sha256": "189251dcb7f1dd6e5f55d80298457bce5e0782ffc57e6d24bb04574febf29e40"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-349858",
+   "path": "zakon/2006/349858",
+   "short": "Zakon o izmjenama i dopunama Zakona o izboru odbornika i poslanika",
+   "title": "Zakon o izmjenama i dopunama Zakona o izboru odbornika i poslanika",
+   "url": "https://www.sluzbenilist.me/propisi/349858",
+   "versions": [
+    {
+     "from": "2006-07-29",
+     "units": 18,
+     "source_url": "https://www.sluzbenilist.me/propisi/349858/download",
+     "sha256": "31843d74a09843c6b7871420926d1835c05a2b20799faeaf592763e9ecb03c60"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2007-305468",
+   "path": "zakon/2007/305468",
+   "short": "Zakon o drzavnim i drugim praznicima",
+   "title": "Zakon o drzavnim i drugim praznicima",
+   "url": "https://www.sluzbenilist.me/propisi/305468",
+   "versions": [
+    {
+     "from": "2007-05-17",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.me/propisi/305468/download",
+     "sha256": "949262640828a2e03d8a75da17fe79dc4c9e85b255414132c0f37950f029334f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2007-325265",
+   "path": "zakon/2007/325265",
+   "short": "Zakon o izmjenama i dopunama Zakona o osnovnom obrazovanju i vaspitanju",
+   "title": "Zakon o izmjenama i dopunama Zakona o osnovnom obrazovanju i vaspitanju",
+   "url": "https://www.sluzbenilist.me/propisi/325265",
+   "versions": [
+    {
+     "from": "2007-08-18",
+     "units": 26,
+     "source_url": "https://www.sluzbenilist.me/propisi/325265/download",
+     "sha256": "298d995fe311e270e8f2295e19de5d9c1a8f1075ea4a0e388905a4711a12bf07"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2007-333885",
+   "path": "zakon/2007/333885",
+   "short": "Zakon o ličnoj karti",
+   "title": "Zakon o ličnoj karti",
+   "url": "https://www.sluzbenilist.me/propisi/333885",
+   "versions": [
+    {
+     "from": "2007-12-22",
+     "units": 44,
+     "source_url": "https://www.sluzbenilist.me/propisi/333885/download",
+     "sha256": "b9bd8e73f5b8ec5b4a452e0bfbfbd1bb7c5d7c7b1ca230d64566851fd0a29a9c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2007-334165",
+   "path": "zakon/2007/334165",
+   "short": "Zakon o skijalistima",
+   "title": "Zakon o skijalistima",
+   "url": "https://www.sluzbenilist.me/propisi/334165",
+   "versions": [
+    {
+     "from": "2007-12-26",
+     "units": 68,
+     "source_url": "https://www.sluzbenilist.me/propisi/334165/download",
+     "sha256": "cd2863954f4948a954e77db52587a2b4c998cff2f4b1d4cdd05748797f0d4530"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2007-334166",
+   "path": "zakon/2007/334166",
+   "short": "Zakon o zastiti i spasavanju",
+   "title": "Zakon o zastiti i spasavanju",
+   "url": "https://www.sluzbenilist.me/propisi/334166",
+   "versions": [
+    {
+     "from": "2007-12-26",
+     "units": 134,
+     "source_url": "https://www.sluzbenilist.me/propisi/334166/download",
+     "sha256": "d839c92e78c08578e66f280d850095b311b2e59d2d426ba10d67861794a10c21"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2007-334167",
+   "path": "zakon/2007/334167",
+   "short": "Zakon o doprinosima za obavezno socijalno osiguranje",
+   "title": "Zakon o doprinosima za obavezno socijalno osiguranje",
+   "url": "https://www.sluzbenilist.me/propisi/334167",
+   "versions": [
+    {
+     "from": "2007-12-26",
+     "units": 44,
+     "source_url": "https://www.sluzbenilist.me/propisi/334167/download",
+     "sha256": "44a71206c448a181e375a4e1ddc5b7e699ec355527e893eb56ea6c9c1e594f6e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2007-334286",
+   "path": "zakon/2007/334286",
+   "short": "Zakon o izboru Predsjednika Crne Gore",
+   "title": "Zakon o izboru Predsjednika Crne Gore",
+   "url": "https://www.sluzbenilist.me/propisi/334286",
+   "versions": [
+    {
+     "from": "2008-01-07",
+     "units": 29,
+     "source_url": "https://www.sluzbenilist.me/propisi/334286/download",
+     "sha256": "2f8d7e07c2d21d56ef59576eec37bed1e9b61d3a8ffef64aa0a839ea04531db2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2007-348089",
+   "path": "zakon/2007/348089",
+   "short": "Zakon o odbrani",
+   "title": "Zakon o odbrani",
+   "url": "https://www.sluzbenilist.me/propisi/348089",
+   "versions": [
+    {
+     "from": "2007-08-15",
+     "units": 75,
+     "source_url": "https://www.sluzbenilist.me/propisi/348089/download",
+     "sha256": "b8aa7444105cfbcca819178077a90bdb40cfdfcc3481f85dbc3c0d2636b73588"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2007-348435",
+   "path": "zakon/2007/348435",
+   "short": "Zakon o vodama",
+   "title": "Zakon o vodama",
+   "url": "https://www.sluzbenilist.me/propisi/348435",
+   "versions": [
+    {
+     "from": "2007-05-25",
+     "units": 198,
+     "source_url": "https://www.sluzbenilist.me/propisi/348435/download",
+     "sha256": "c33691670e0ba5839c677fa5d7b41b65fe28a1529efb9732272dfbdaf688617d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2007-348527",
+   "path": "zakon/2007/348527",
+   "short": "Zakon o izmjenama i dopunama Zakona o turistickim organizacijama",
+   "title": "Zakon o izmjenama i dopunama Zakona o turistickim organizacijama",
+   "url": "https://www.sluzbenilist.me/propisi/348527",
+   "versions": [
+    {
+     "from": "2007-08-08",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/348527/download",
+     "sha256": "5356b298ccc978b7be6c9c36242c95b20f475822f6a4d21a4a87c433f98becfb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2007-348761",
+   "path": "zakon/2007/348761",
+   "short": "Zakon o izmjenama i dopunama Opsteg zakona o obrazovanju i vaspitanju",
+   "title": "Zakon o izmjenama i dopunama Opsteg zakona o obrazovanju i vaspitanju",
+   "url": "https://www.sluzbenilist.me/propisi/348761",
+   "versions": [
+    {
+     "from": "2007-08-18",
+     "units": 61,
+     "source_url": "https://www.sluzbenilist.me/propisi/348761/download",
+     "sha256": "89ed030e9782a24a8fec8543cac0e32fbef553c8e2d3382b1424bac31d8a5e19"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2007-348762",
+   "path": "zakon/2007/348762",
+   "short": "Zakon o izmjenama i dopunama Zakona o gimnaziji",
+   "title": "Zakon o izmjenama i dopunama Zakona o gimnaziji",
+   "url": "https://www.sluzbenilist.me/propisi/348762",
+   "versions": [
+    {
+     "from": "2007-08-18",
+     "units": 33,
+     "source_url": "https://www.sluzbenilist.me/propisi/348762/download",
+     "sha256": "a61728bf96e8ad0ad38e0c3883f05bca678e02e225091de85b122a0a9aa7c8a0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2007-348802",
+   "path": "zakon/2007/348802",
+   "short": "Zakon o izmjenama i dopunama Zakona o strucnom obrazovanju",
+   "title": "Zakon o izmjenama i dopunama Zakona o strucnom obrazovanju",
+   "url": "https://www.sluzbenilist.me/propisi/348802",
+   "versions": [
+    {
+     "from": "2007-08-18",
+     "units": 57,
+     "source_url": "https://www.sluzbenilist.me/propisi/348802/download",
+     "sha256": "d6e0385cca1931b5218acdf471ef6c52794260c56e681835c0896374c21de66f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2007-348804",
+   "path": "zakon/2007/348804",
+   "short": "Zakon o centralnom registru stanovnistva",
+   "title": "Zakon o centralnom registru stanovnistva",
+   "url": "https://www.sluzbenilist.me/propisi/348804",
+   "versions": [
+    {
+     "from": "2007-08-18",
+     "units": 48,
+     "source_url": "https://www.sluzbenilist.me/propisi/348804/download",
+     "sha256": "f0aeef4ac7ed56605379d7a1462fb5b8b16a188e2ddeebb14142582766d270bd"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2007-349059",
+   "path": "zakon/2007/349059",
+   "short": "Zakon o jahtama",
+   "title": "Zakon o jahtama",
+   "url": "https://www.sluzbenilist.me/propisi/349059",
+   "versions": [
+    {
+     "from": "2007-08-08",
+     "units": 54,
+     "source_url": "https://www.sluzbenilist.me/propisi/349059/download",
+     "sha256": "bbad33811468980bbe9e7b2d496f34e4fb772ae313064dd854c7d7acb31f2188"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2007-349141",
+   "path": "zakon/2007/349141",
+   "short": "Zakon o izmjenama i dopunama Zakona o stranim ulaganjima",
+   "title": "Zakon o izmjenama i dopunama Zakona o stranim ulaganjima",
+   "url": "https://www.sluzbenilist.me/propisi/349141",
+   "versions": [
+    {
+     "from": "2007-06-23",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.me/propisi/349141/download",
+     "sha256": "66290f025e8f412f92e66c3c628a415dbde055156d809a3cbf6c5a0b4d1073fc"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2007-349688",
+   "path": "zakon/2007/349688",
+   "short": "Zakon o reproduktivnom materijalu sumskog drveca",
+   "title": "Zakon o reproduktivnom materijalu sumskog drveca",
+   "url": "https://www.sluzbenilist.me/propisi/349688",
+   "versions": [
+    {
+     "from": "2007-06-27",
+     "units": 72,
+     "source_url": "https://www.sluzbenilist.me/propisi/349688/download",
+     "sha256": "e18c415cf1fdc20c6a77183bd4617c3adfb8219c349754b071791fa61197f934"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2007-349897",
+   "path": "zakon/2007/349897",
+   "short": "Zakon o zastiti biljnih sorti",
+   "title": "Zakon o zastiti biljnih sorti",
+   "url": "https://www.sluzbenilist.me/propisi/349897",
+   "versions": [
+    {
+     "from": "2007-08-17",
+     "units": 76,
+     "source_url": "https://www.sluzbenilist.me/propisi/349897/download",
+     "sha256": "35af1f37afc9642277726fdb4247284e337cde67baa7221ef78121349cf76a79"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2007-350109",
+   "path": "zakon/2007/350109",
+   "short": "Zakon o poreskim savjetnicima",
+   "title": "Zakon o poreskim savjetnicima",
+   "url": "https://www.sluzbenilist.me/propisi/350109",
+   "versions": [
+    {
+     "from": "2007-05-24",
+     "units": 42,
+     "source_url": "https://www.sluzbenilist.me/propisi/350109/download",
+     "sha256": "d6fa6cd567f821452c2811c0fbd85ebaeec6122a36fe7f99ad33e36800f48e3c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-297764",
+   "path": "zakon/2008/297764",
+   "short": "Zakon o licnom imenu",
+   "title": "Zakon o licnom imenu",
+   "url": "https://www.sluzbenilist.me/propisi/297764",
+   "versions": [
+    {
+     "from": "2008-08-15",
+     "units": 31,
+     "source_url": "https://www.sluzbenilist.me/propisi/297764/download",
+     "sha256": "40f4522963e1ae8cada742ad824673209676913489fa6115837ff98f4bd34c08"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-300596",
+   "path": "zakon/2008/300596",
+   "short": "Zakon o duvanu",
+   "title": "Zakon o duvanu",
+   "url": "https://www.sluzbenilist.me/propisi/300596",
+   "versions": [
+    {
+     "from": "2008-08-19",
+     "units": 70,
+     "source_url": "https://www.sluzbenilist.me/propisi/300596/download",
+     "sha256": "dd098886b5d2c8955c5ed77db4938869c5284c70beb1e5f9ec3bf582d4718997"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-307660",
+   "path": "zakon/2008/307660",
+   "short": "Zakon o staranju o privremeno i trajno oduzetoj imovini",
+   "title": "Zakon o staranju o privremeno i trajno oduzetoj imovini",
+   "url": "https://www.sluzbenilist.me/propisi/307660",
+   "versions": [
+    {
+     "from": "2008-08-23",
+     "units": 42,
+     "source_url": "https://www.sluzbenilist.me/propisi/307660/download",
+     "sha256": "4e0f37c1b63ac1f71a1e77e9637a90164db50ff1be94b034fabef9c84c052508"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-309687",
+   "path": "zakon/2008/309687",
+   "short": "Zakon o kulturi",
+   "title": "Zakon o kulturi",
+   "url": "https://www.sluzbenilist.me/propisi/309687",
+   "versions": [
+    {
+     "from": "2008-08-23",
+     "units": 123,
+     "source_url": "https://www.sluzbenilist.me/propisi/309687/download",
+     "sha256": "7d16ac8e3062c6820d9de96304f23bb86139256fde93b526b89c405c05a8b9e4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-324260",
+   "path": "zakon/2008/324260",
+   "short": "Zakon o mjerama za zastitu bankarskog sistema",
+   "title": "Zakon o mjerama za zastitu bankarskog sistema",
+   "url": "https://www.sluzbenilist.me/propisi/324260",
+   "versions": [
+    {
+     "from": "2008-10-27",
+     "units": 15,
+     "source_url": "https://www.sluzbenilist.me/propisi/324260/download",
+     "sha256": "14fd42de91d44d8d43375ce5c9ccf679eeb5f0c1f1ac2bf41febbd899697afbb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-325094",
+   "path": "zakon/2008/325094",
+   "short": "Zakon o divljaci i lovstvu",
+   "title": "Zakon o divljaci i lovstvu",
+   "url": "https://www.sluzbenilist.me/propisi/325094",
+   "versions": [
+    {
+     "from": "2008-09-04",
+     "units": 109,
+     "source_url": "https://www.sluzbenilist.me/propisi/325094/download",
+     "sha256": "1a155ee7fec99b821e8d8efa69578c39527fdbffebbbad2bdb245bc6a6dd42e8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-333372",
+   "path": "zakon/2008/333372",
+   "short": "Zakon o izmjenama i dopunama Zakona o doprinosima za obavezno socijalno osiguranje",
+   "title": "Zakon o izmjenama i dopunama Zakona o doprinosima za obavezno socijalno osiguranje",
+   "url": "https://www.sluzbenilist.me/propisi/333372",
+   "versions": [
+    {
+     "from": "2008-12-31",
+     "units": 15,
+     "source_url": "https://www.sluzbenilist.me/propisi/333372/download",
+     "sha256": "caf9f25089a715f55e4d5fec69d8889845bd4a49b0ab83bf0933982bc4a58792"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-334199",
+   "path": "zakon/2008/334199",
+   "short": "Zakon o crnogorskom drzavljanstvu",
+   "title": "Zakon o crnogorskom drzavljanstvu",
+   "url": "https://www.sluzbenilist.me/propisi/334199",
+   "versions": [
+    {
+     "from": "2008-03-05",
+     "units": 56,
+     "source_url": "https://www.sluzbenilist.me/propisi/334199/download",
+     "sha256": "26873b11575d92c163fecaa97cba0af1d81ef754b729458291b25eb91affff77"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-334412",
+   "path": "zakon/2008/334412",
+   "short": "Zakon o tajnosti podataka",
+   "title": "Zakon o tajnosti podataka",
+   "url": "https://www.sluzbenilist.me/propisi/334412",
+   "versions": [
+    {
+     "from": "2008-03-08",
+     "units": 104,
+     "source_url": "https://www.sluzbenilist.me/propisi/334412/download",
+     "sha256": "8734467c2c5a9549ea200d375c0cce8817f60dffd1b299aee4dfc72074b9db94"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-334413",
+   "path": "zakon/2008/334413",
+   "short": "Zakon o zastiti dobrobiti zivotinja",
+   "title": "Zakon o zastiti dobrobiti zivotinja",
+   "url": "https://www.sluzbenilist.me/propisi/334413",
+   "versions": [
+    {
+     "from": "2008-03-08",
+     "units": 71,
+     "source_url": "https://www.sluzbenilist.me/propisi/334413/download",
+     "sha256": "19de863ba11ee177f375ac920dd1249192a0813c5a0f2ff031e15294b4fee51a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-334627",
+   "path": "zakon/2008/334627",
+   "short": "Zakon o putnim ispravama",
+   "title": "Zakon o putnim ispravama",
+   "url": "https://www.sluzbenilist.me/propisi/334627",
+   "versions": [
+    {
+     "from": "2008-04-04",
+     "units": 74,
+     "source_url": "https://www.sluzbenilist.me/propisi/334627/download",
+     "sha256": "186ed38e84f60243038f258d2e258b0c0c7f5ee81ee0232b33d59d1a9927876c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-334661",
+   "path": "zakon/2008/334661",
+   "short": "Zakon o isplati deviznih sredstava gradjana polozenih kod Dafiment Banke ad Beograd i banke privatne privrede DD Podgorica polozenih preko preduzeca Jugoskandik DD Beograd",
+   "title": "Zakon o isplati deviznih sredstava gradjana polozenih kod Dafiment Banke ad Beograd i banke privatne privrede DD Podgorica polozenih preko preduzeca Jugoskandik DD Beograd",
+   "url": "https://www.sluzbenilist.me/propisi/334661",
+   "versions": [
+    {
+     "from": "2008-04-04",
+     "units": 20,
+     "source_url": "https://www.sluzbenilist.me/propisi/334661/download",
+     "sha256": "bdce3c27cbb7cdea033fe778327ab6b42c801d51b76d16690064a9501702cff4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-334663",
+   "path": "zakon/2008/334663",
+   "short": "Zakon o izmjenama i dopunama Zakona o eksproprijaciji",
+   "title": "Zakon o izmjenama i dopunama Zakona o eksproprijaciji",
+   "url": "https://www.sluzbenilist.me/propisi/334663",
+   "versions": [
+    {
+     "from": "2008-04-04",
+     "units": 12,
+     "source_url": "https://www.sluzbenilist.me/propisi/334663/download",
+     "sha256": "d310a137b71ebf068e9cc4fe0b3c2fd740b4f7538d2d2daaf0c15c7fd024fa11"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-334693",
+   "path": "zakon/2008/334693",
+   "short": "Zakon o izmjenama i dopunama Zakona o borackoj i invalidskoj zastiti",
+   "title": "Zakon o izmjenama i dopunama Zakona o borackoj i invalidskoj zastiti",
+   "url": "https://www.sluzbenilist.me/propisi/334693",
+   "versions": [
+    {
+     "from": "2008-04-04",
+     "units": 16,
+     "source_url": "https://www.sluzbenilist.me/propisi/334693/download",
+     "sha256": "980104ff85d35772da6ffc57b545193f96fff591a9936788ef637f44db1ee1b5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-334941",
+   "path": "zakon/2008/334941",
+   "short": "Zakon o izmjenama i dopunama Zakona o administrativnim taksama",
+   "title": "Zakon o izmjenama i dopunama Zakona o administrativnim taksama",
+   "url": "https://www.sluzbenilist.me/propisi/334941",
+   "versions": [
+    {
+     "from": "2008-04-10",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/334941/download",
+     "sha256": "6b634b7f32ed08aede5c5789e496af49355947e581315d758ac8a679795867db"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-336485",
+   "path": "zakon/2008/336485",
+   "short": "Zakon izmjenama i dopunama krivicnog zakonika",
+   "title": "Zakon izmjenama i dopunama krivicnog zakonika",
+   "url": "https://www.sluzbenilist.me/propisi/336485",
+   "versions": [
+    {
+     "from": "2008-07-05",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/336485/download",
+     "sha256": "6db96b7ad738903e091edb90b0fb2fdcceab9c917311c6b0909ddd569e304a1f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-336498",
+   "path": "zakon/2008/336498",
+   "short": "Zakon o spomen - obiljezjima",
+   "title": "Zakon o spomen - obiljezjima",
+   "url": "https://www.sluzbenilist.me/propisi/336498",
+   "versions": [
+    {
+     "from": "2008-07-05",
+     "units": 65,
+     "source_url": "https://www.sluzbenilist.me/propisi/336498/download",
+     "sha256": "442fc05675f79164dd57979d4fb07720042390795531ba5925d5c5608de6293e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-336534",
+   "path": "zakon/2008/336534",
+   "short": "Zakon o maticnim registrima",
+   "title": "Zakon o maticnim registrima",
+   "url": "https://www.sluzbenilist.me/propisi/336534",
+   "versions": [
+    {
+     "from": "2008-08-15",
+     "units": 67,
+     "source_url": "https://www.sluzbenilist.me/propisi/336534/download",
+     "sha256": "c0f25907c4cf80c36a575c28d0bc79922497128294a22445af94f0ad00bb7a23"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-336858",
+   "path": "zakon/2008/336858",
+   "short": "Zakon o oznakama geografskog porijekla",
+   "title": "Zakon o oznakama geografskog porijekla",
+   "url": "https://www.sluzbenilist.me/propisi/336858",
+   "versions": [
+    {
+     "from": "2008-08-19",
+     "units": 81,
+     "source_url": "https://www.sluzbenilist.me/propisi/336858/download",
+     "sha256": "fc9d884867f1569a9d3056aeeddf03e0ac01408b8c5cba6fa6176c747032cbe4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-337040",
+   "path": "zakon/2008/337040",
+   "short": "Zakon o unutrasnjoj trgovini",
+   "title": "Zakon o unutrasnjoj trgovini",
+   "url": "https://www.sluzbenilist.me/propisi/337040",
+   "versions": [
+    {
+     "from": "2008-08-23",
+     "units": 57,
+     "source_url": "https://www.sluzbenilist.me/propisi/337040/download",
+     "sha256": "ddff76d607cfd948a622b89b1467d065288b24a6648d03c8afdc26c925bbde4f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-337792",
+   "path": "zakon/2008/337792",
+   "short": "Zakon o upotrebi jedinica Vojske Crne Gore u medjunarodnim snagama i ucescu pripadnika civilne zastite, policije i zaposlenih u organima drzavne uprave u mirovnim misijama i drugim aktivnostima u inostranstvu",
+   "title": "Zakon o upotrebi jedinica Vojske Crne Gore u medjunarodnim snagama i ucescu pripadnika civilne zastite, policije i zaposlenih u organima drzavne uprave u mirovnim misijama i drugim aktivnostima u inostranstvu",
+   "url": "https://www.sluzbenilist.me/propisi/337792",
+   "versions": [
+    {
+     "from": "2008-10-21",
+     "units": 30,
+     "source_url": "https://www.sluzbenilist.me/propisi/337792/download",
+     "sha256": "b0a17d1c254833f5f1f868e37cb55237f80e8f59e1eef7335a01094639576b99"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-338200",
+   "path": "zakon/2008/338200",
+   "short": "Zakon o izmjenama i dopunama Zakona o administrativnim taksama",
+   "title": "Zakon o izmjenama i dopunama Zakona o administrativnim taksama",
+   "url": "https://www.sluzbenilist.me/propisi/338200",
+   "versions": [
+    {
+     "from": "2008-12-17",
+     "units": 22,
+     "source_url": "https://www.sluzbenilist.me/propisi/338200/download",
+     "sha256": "da5242cd4678c4ffed900d53a9fc09c108ca529321a3607ac474814c8f34526f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-338487",
+   "path": "zakon/2008/338487",
+   "short": "Zakon o metrologiji",
+   "title": "Zakon o metrologiji",
+   "url": "https://www.sluzbenilist.me/propisi/338487",
+   "versions": [
+    {
+     "from": "2008-12-31",
+     "units": 54,
+     "source_url": "https://www.sluzbenilist.me/propisi/338487/download",
+     "sha256": "c709f86db36871dc2b74d89c28a92409230bffe55834f795cac77139bb35fec4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-338488",
+   "path": "zakon/2008/338488",
+   "short": "Zakon o inspekciji rada",
+   "title": "Zakon o inspekciji rada",
+   "url": "https://www.sluzbenilist.me/propisi/338488",
+   "versions": [
+    {
+     "from": "2008-12-31",
+     "units": 13,
+     "source_url": "https://www.sluzbenilist.me/propisi/338488/download",
+     "sha256": "17bae66ba6b5de0cf77dc75414fe5fb648c14dc0f2e887fc123845a7a8f87e4f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-338722",
+   "path": "zakon/2008/338722",
+   "short": "Zakon o javnim radio-difuznim servisima Crne Gore",
+   "title": "Zakon o javnim radio-difuznim servisima Crne Gore",
+   "url": "https://www.sluzbenilist.me/propisi/338722",
+   "versions": [
+    {
+     "from": "2008-12-31",
+     "units": 74,
+     "source_url": "https://www.sluzbenilist.me/propisi/338722/download",
+     "sha256": "ae54577f34295277cd675210ba8fc616903cd999505c48a72731d590069fb196"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2009-291579",
+   "path": "zakon/2009/291579",
+   "short": "Zakon o izmjenama Zakona porezu na upotrebu putnickih motornih vozila,plovnih objekata,vazduhoplova i letilica",
+   "title": "Zakon o izmjenama Zakona porezu na upotrebu putnickih motornih vozila,plovnih objekata,vazduhoplova i letilica",
+   "url": "https://www.sluzbenilist.me/propisi/291579",
+   "versions": [
+    {
+     "from": "2010-01-02",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/291579/download",
+     "sha256": "0b11b4bf8af269700a10f2b659783a5daee862565857de8fb19e09b4734864a2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2009-297495",
+   "path": "zakon/2009/297495",
+   "short": "Zakon o dopunama Zakona o strancima",
+   "title": "Zakon o dopunama Zakona o strancima",
+   "url": "https://www.sluzbenilist.me/propisi/297495",
+   "versions": [
+    {
+     "from": "2009-11-07",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/297495/download",
+     "sha256": "2d18276963e0feac68989e01b1e1ca357bb624f7c1ead97db368349307117080"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2009-297718",
+   "path": "zakon/2009/297718",
+   "short": "Zakon o uslovima i postupku za prekid trudnoce",
+   "title": "Zakon o uslovima i postupku za prekid trudnoce",
+   "url": "https://www.sluzbenilist.me/propisi/297718",
+   "versions": [
+    {
+     "from": "2009-08-15",
+     "units": 39,
+     "source_url": "https://www.sluzbenilist.me/propisi/297718/download",
+     "sha256": "4fdd2d7309b07471c41fa01039c5591a3293f7305cc6d16352284c3fede40c80"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2009-299828",
+   "path": "zakon/2009/299828",
+   "short": "Zakon o dopunama Zakona o tajnosti podataka",
+   "title": "Zakon o dopunama Zakona o tajnosti podataka",
+   "url": "https://www.sluzbenilist.me/propisi/299828",
+   "versions": [
+    {
+     "from": "2009-11-26",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/299828/download",
+     "sha256": "d6dd64f98eb613adf57b5ac09f2f749b91b09bc566e8fce328bf1143f4bba635"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2009-304867",
+   "path": "zakon/2009/304867",
+   "short": "Zakon o akreditaciji",
+   "title": "Zakon o akreditaciji",
+   "url": "https://www.sluzbenilist.me/propisi/304867",
+   "versions": [
+    {
+     "from": "2009-08-18",
+     "units": 25,
+     "source_url": "https://www.sluzbenilist.me/propisi/304867/download",
+     "sha256": "be33b072e23fee1c9177e7ec7a47b1398cdbae3ac58b3c6304daa64aeea41cc4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2009-337345",
+   "path": "zakon/2009/337345",
+   "short": "Zakon o izmjenama i dopunama Zakona o budzetu",
+   "title": "Zakon o izmjenama i dopunama Zakona o budzetu",
+   "url": "https://www.sluzbenilist.me/propisi/337345",
+   "versions": [
+    {
+     "from": "2009-08-15",
+     "units": 23,
+     "source_url": "https://www.sluzbenilist.me/propisi/337345/download",
+     "sha256": "89f5d049d6b3ce7c51bbc1e9611283e25354036813845d2e916c6d7f1d9a0d19"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2009-337352",
+   "path": "zakon/2009/337352",
+   "short": "Zakon o ugovorima o prevozu u drumskom saobracaju",
+   "title": "Zakon o ugovorima o prevozu u drumskom saobracaju",
+   "url": "https://www.sluzbenilist.me/propisi/337352",
+   "versions": [
+    {
+     "from": "2009-08-15",
+     "units": 109,
+     "source_url": "https://www.sluzbenilist.me/propisi/337352/download",
+     "sha256": "a79bf9a63e54eaf633324271bef6104e63d8e4477e1fe207d99203614873ed67"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2009-337406",
+   "path": "zakon/2009/337406",
+   "short": "Zakon o poljoprivredi i ruralnom razvoju",
+   "title": "Zakon o poljoprivredi i ruralnom razvoju",
+   "url": "https://www.sluzbenilist.me/propisi/337406",
+   "versions": [
+    {
+     "from": "2009-08-22",
+     "units": 101,
+     "source_url": "https://www.sluzbenilist.me/propisi/337406/download",
+     "sha256": "3fb872830c6d9e80ac07e491a097536e9360f78d1d220c2bde06e5ff043395df"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2009-337432",
+   "path": "zakon/2009/337432",
+   "short": "Zakon o zanatstvu",
+   "title": "Zakon o zanatstvu",
+   "url": "https://www.sluzbenilist.me/propisi/337432",
+   "versions": [
+    {
+     "from": "2009-08-18",
+     "units": 31,
+     "source_url": "https://www.sluzbenilist.me/propisi/337432/download",
+     "sha256": "7e836c6ee2fe8ddabffee7af3aa85fa2436db4d5ae8a2164834aeec572352957"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2009-338253",
+   "path": "zakon/2009/338253",
+   "short": "Zakon o izmjenama i dopunama Zakona o inspekcijskom nadzoru",
+   "title": "Zakon o izmjenama i dopunama Zakona o inspekcijskom nadzoru",
+   "url": "https://www.sluzbenilist.me/propisi/338253",
+   "versions": [
+    {
+     "from": "2009-11-26",
+     "units": 26,
+     "source_url": "https://www.sluzbenilist.me/propisi/338253/download",
+     "sha256": "d14d6d262fa24e564b9a3e2b882dfde4c10127cca949e65ea5469a357672a96f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2009-338485",
+   "path": "zakon/2009/338485",
+   "short": "Zakon o izmjenama Zakona o doprinosima za obavezno socijalno osiguranje",
+   "title": "Zakon o izmjenama Zakona o doprinosima za obavezno socijalno osiguranje",
+   "url": "https://www.sluzbenilist.me/propisi/338485",
+   "versions": [
+    {
+     "from": "2010-01-02",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/338485/download",
+     "sha256": "84b73df55250e04dee24ae6b385c2110a3cc7229b905f0f6a7868cb845ec2a6b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-305349",
+   "path": "zakon/2010/305349",
+   "short": "Zakon o istrazivanju i proizvodnji ugljovodonika",
+   "title": "Zakon o istrazivanju i proizvodnji ugljovodonika",
+   "url": "https://www.sluzbenilist.me/propisi/305349",
+   "versions": [
+    {
+     "from": "2010-07-31",
+     "units": 86,
+     "source_url": "https://www.sluzbenilist.me/propisi/305349/download",
+     "sha256": "23e01536fa9242172807153c44dfa11bbaa7463798850632ab77d4f418e728ae"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-319678",
+   "path": "zakon/2010/319678",
+   "short": "Zakon o izmjenama i dopuni Zakona o licnoj karti",
+   "title": "Zakon o izmjenama i dopuni Zakona o licnoj karti",
+   "url": "https://www.sluzbenilist.me/propisi/319678",
+   "versions": [
+    {
+     "from": "2010-12-18",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/319678/download",
+     "sha256": "237b4387f9aa665743dd39703f36b4a5d2951fa3f42ddf92829e8241a3c80b0b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-330895",
+   "path": "zakon/2010/330895",
+   "short": "Zakon o zastiti topografija poluprovodnika",
+   "title": "Zakon o zastiti topografija poluprovodnika",
+   "url": "https://www.sluzbenilist.me/propisi/330895",
+   "versions": [
+    {
+     "from": "2010-12-29",
+     "units": 26,
+     "source_url": "https://www.sluzbenilist.me/propisi/330895/download",
+     "sha256": "96c8cccc7f22fe2661c4b96a3f10d7ebedbe08e5fbbf1814b3cb7943a725b571"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-334230",
+   "path": "zakon/2010/334230",
+   "short": "Zakon o izmjenama i dopunama zakona o zastiti stanovnistva od zaraznih bolesti",
+   "title": "Zakon o izmjenama i dopunama zakona o zastiti stanovnistva od zaraznih bolesti",
+   "url": "https://www.sluzbenilist.me/propisi/334230",
+   "versions": [
+    {
+     "from": "2010-03-25",
+     "units": 17,
+     "source_url": "https://www.sluzbenilist.me/propisi/334230/download",
+     "sha256": "1a478fbe017db44f62fde4542389984e8796b7f58230c66a013f24a6130f16d9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-334445",
+   "path": "zakon/2010/334445",
+   "short": "Zakon o uzimanju i koriscenju bioloskih uzoraka",
+   "title": "Zakon o uzimanju i koriscenju bioloskih uzoraka",
+   "url": "https://www.sluzbenilist.me/propisi/334445",
+   "versions": [
+    {
+     "from": "2010-03-25",
+     "units": 40,
+     "source_url": "https://www.sluzbenilist.me/propisi/334445/download",
+     "sha256": "bef3754ef997b7a0db14d8ab21ab8667e0bf678e1d1d5c0ced9d87e270585763"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-338248",
+   "path": "zakon/2010/338248",
+   "short": "Zakon o stocarstvu",
+   "title": "Zakon o stocarstvu",
+   "url": "https://www.sluzbenilist.me/propisi/338248",
+   "versions": [
+    {
+     "from": "2010-12-16",
+     "units": 73,
+     "source_url": "https://www.sluzbenilist.me/propisi/338248/download",
+     "sha256": "923a84bcde4a69fc56a9beba5896c9b9fe8e39e804453eabfa6527fd08374ce2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-338249",
+   "path": "zakon/2010/338249",
+   "short": "Zakon o zigu",
+   "title": "Zakon o zigu",
+   "url": "https://www.sluzbenilist.me/propisi/338249",
+   "versions": [
+    {
+     "from": "2010-12-16",
+     "units": 81,
+     "source_url": "https://www.sluzbenilist.me/propisi/338249/download",
+     "sha256": "bf20043f0c73decc8045b8ed88783f82e21519cfdb3d383ee0e069e0bd0b2be2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-338292",
+   "path": "zakon/2010/338292",
+   "short": "Zakon o stambenim zadrugama",
+   "title": "Zakon o stambenim zadrugama",
+   "url": "https://www.sluzbenilist.me/propisi/338292",
+   "versions": [
+    {
+     "from": "2010-12-18",
+     "units": 70,
+     "source_url": "https://www.sluzbenilist.me/propisi/338292/download",
+     "sha256": "236ea2753d554d35d59274928dfc89296564ba6c07a56bfadfbf89b834326cd7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-338670",
+   "path": "zakon/2010/338670",
+   "short": "Zakon o izmjenama i dopunama Zakona o doprinosima za obavezno socijalno osiguranje",
+   "title": "Zakon o izmjenama i dopunama Zakona o doprinosima za obavezno socijalno osiguranje",
+   "url": "https://www.sluzbenilist.me/propisi/338670",
+   "versions": [
+    {
+     "from": "2010-12-30",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/338670/download",
+     "sha256": "33106a15a6a26c2d377ab6e6542b321e8dc200e11250d4fcce1acfc65fd585df"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-305316",
+   "path": "zakon/2011/305316",
+   "short": "Zakon o izmjenama i dopunama Zakona o sadnom materijalu",
+   "title": "Zakon o izmjenama i dopunama Zakona o sadnom materijalu",
+   "url": "https://www.sluzbenilist.me/propisi/305316",
+   "versions": [
+    {
+     "from": "2011-12-31",
+     "units": 31,
+     "source_url": "https://www.sluzbenilist.me/propisi/305316/download",
+     "sha256": "6879f89c341deea09b67d00730480d9fcd73408d7968df7666673d77246f175c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-306776",
+   "path": "zakon/2011/306776",
+   "short": "Zakon o stranim investicijama",
+   "title": "Zakon o stranim investicijama",
+   "url": "https://www.sluzbenilist.me/propisi/306776",
+   "versions": [
+    {
+     "from": "2011-04-09",
+     "units": 43,
+     "source_url": "https://www.sluzbenilist.me/propisi/306776/download",
+     "sha256": "92b74da443e100310f04f7951c5e77b00699a60071636ecb82154c54f241a073"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-306909",
+   "path": "zakon/2011/306909",
+   "short": "Zakon o javnom redu i miru",
+   "title": "Zakon o javnom redu i miru",
+   "url": "https://www.sluzbenilist.me/propisi/306909",
+   "versions": [
+    {
+     "from": "2012-01-06",
+     "units": 46,
+     "source_url": "https://www.sluzbenilist.me/propisi/306909/download",
+     "sha256": "ed283999c13db1dd5996cb3a63b2a3adf2c3e0a71e18ab05cccf7047662a2dfd"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-308240",
+   "path": "zakon/2011/308240",
+   "short": "Zakon o dopunama Zakona o crnogorskom drzavljanstvu",
+   "title": "Zakon o dopunama Zakona o crnogorskom drzavljanstvu",
+   "url": "https://www.sluzbenilist.me/propisi/308240",
+   "versions": [
+    {
+     "from": "2011-09-24",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/308240/download",
+     "sha256": "592b038bf7357aabcf3609dd9fafd283cca987d6d1a1ad88b547bdfb42a2b895"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-319936",
+   "path": "zakon/2011/319936",
+   "short": "Zakon o preuzimanju akcionarskih društava",
+   "title": "Zakon o preuzimanju akcionarskih društava",
+   "url": "https://www.sluzbenilist.me/propisi/319936",
+   "versions": [
+    {
+     "from": "2011-04-08",
+     "units": 68,
+     "source_url": "https://www.sluzbenilist.me/propisi/319936/download",
+     "sha256": "c86cee5e4615602100a084b8bc5b9882ae3e797e28680c8d4e574f01411f4cc8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-326133",
+   "path": "zakon/2011/326133",
+   "short": "Zakon o dopuni Zakona o strancima",
+   "title": "Zakon o dopuni Zakona o strancima",
+   "url": "https://www.sluzbenilist.me/propisi/326133",
+   "versions": [
+    {
+     "from": "2011-11-19",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/326133/download",
+     "sha256": "8455462c887f35c9a1f25a4fd71709cef6e3ff8f3cc82a794193561d232df2bf"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-333095",
+   "path": "zakon/2011/333095",
+   "short": "Zakon o izmjenama i dopunama Zakona o izboru odbornika i poslanika",
+   "title": "Zakon o izmjenama i dopunama Zakona o izboru odbornika i poslanika",
+   "url": "https://www.sluzbenilist.me/propisi/333095",
+   "versions": [
+    {
+     "from": "2011-09-24",
+     "units": 71,
+     "source_url": "https://www.sluzbenilist.me/propisi/333095/download",
+     "sha256": "67788e183e22762164b3a07747fb8ad86fd21339a07dabe3b87c645c8e7ce885"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-334572",
+   "path": "zakon/2011/334572",
+   "short": "Zakon o izmjenama i dopunama Zakona o poreskoj administraciji",
+   "title": "Zakon o izmjenama i dopunama Zakona o poreskoj administraciji",
+   "url": "https://www.sluzbenilist.me/propisi/334572",
+   "versions": [
+    {
+     "from": "2011-04-23",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.me/propisi/334572/download",
+     "sha256": "80409561feb7c4ffb26df8006441b637ca23492b26fe6458539c5c16e68db0a7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-335554",
+   "path": "zakon/2011/335554",
+   "short": "Zakon o izmjenama i dopunama Zakona o racunovodstvu i reviziji",
+   "title": "Zakon o izmjenama i dopunama Zakona o racunovodstvu i reviziji",
+   "url": "https://www.sluzbenilist.me/propisi/335554",
+   "versions": [
+    {
+     "from": "2011-07-01",
+     "units": 36,
+     "source_url": "https://www.sluzbenilist.me/propisi/335554/download",
+     "sha256": "0b22b56e85c814e1875b047f28801410e52b7e35dac0d44f70aec769b963b97c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-335694",
+   "path": "zakon/2011/335694",
+   "short": "Zakon o izmjenama i dopunama Krivicnog zakonika",
+   "title": "Zakon o izmjenama i dopunama Krivicnog zakonika",
+   "url": "https://www.sluzbenilist.me/propisi/335694",
+   "versions": [
+    {
+     "from": "2011-07-09",
+     "units": 26,
+     "source_url": "https://www.sluzbenilist.me/propisi/335694/download",
+     "sha256": "b4216a8ac75ff0bc7d732c3e2d91626c08c3845f575840bce296ce7c27b59c66"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-336034",
+   "path": "zakon/2011/336034",
+   "short": "Zakon o izvrsenju i obezbjedjenju",
+   "title": "Zakon o izvrsenju i obezbjedjenju",
+   "url": "https://www.sluzbenilist.me/propisi/336034",
+   "versions": [
+    {
+     "from": "2011-09-24",
+     "units": 352,
+     "source_url": "https://www.sluzbenilist.me/propisi/336034/download",
+     "sha256": "55b7fdfdba2a5d54763bcaee11c63ed7a2942ab16b29c1897733d999dd6f806f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-336481",
+   "path": "zakon/2011/336481",
+   "short": "Zakon o DNK registru",
+   "title": "Zakon o DNK registru",
+   "url": "https://www.sluzbenilist.me/propisi/336481",
+   "versions": [
+    {
+     "from": "2011-08-12",
+     "units": 36,
+     "source_url": "https://www.sluzbenilist.me/propisi/336481/download",
+     "sha256": "40b20dcf62e0dad1d49eabd2b52a7b77d0339a09bde96c602200ff32b11f2e7b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-336784",
+   "path": "zakon/2011/336784",
+   "short": "Zakon o izmjeni Opsteg zakona o obrazovanju i vaspitanju",
+   "title": "Zakon o izmjeni Opsteg zakona o obrazovanju i vaspitanju",
+   "url": "https://www.sluzbenilist.me/propisi/336784",
+   "versions": [
+    {
+     "from": "2011-09-10",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/336784/download",
+     "sha256": "720e426d52570f449bb8a3a015599319e4fe59b3f9e7635862b575b0a77176eb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-337240",
+   "path": "zakon/2011/337240",
+   "short": "Zakon o priznavanju inostranih obrazovnih isprava i izjednacavanju kvalifikacija",
+   "title": "Zakon o priznavanju inostranih obrazovnih isprava i izjednacavanju kvalifikacija",
+   "url": "https://www.sluzbenilist.me/propisi/337240",
+   "versions": [
+    {
+     "from": "2011-12-08",
+     "units": 38,
+     "source_url": "https://www.sluzbenilist.me/propisi/337240/download",
+     "sha256": "1714c15f1d28e45c2d0ee4bafba6505d47477b56d930a81bc38cb63b5747419b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-337241",
+   "path": "zakon/2011/337241",
+   "short": "Zakon o postanskim uslugama",
+   "title": "Zakon o postanskim uslugama",
+   "url": "https://www.sluzbenilist.me/propisi/337241",
+   "versions": [
+    {
+     "from": "2011-12-08",
+     "units": 140,
+     "source_url": "https://www.sluzbenilist.me/propisi/337241/download",
+     "sha256": "359174d374696dcc48154e05d42d32ef51c56ccdaac7f2872486e163c1ddfb9c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-337354",
+   "path": "zakon/2011/337354",
+   "short": "Zakon o trzisnoj inspekciji",
+   "title": "Zakon o trzisnoj inspekciji",
+   "url": "https://www.sluzbenilist.me/propisi/337354",
+   "versions": [
+    {
+     "from": "2011-11-19",
+     "units": 35,
+     "source_url": "https://www.sluzbenilist.me/propisi/337354/download",
+     "sha256": "c3d0ace7dca61b2140903c893cde553c63d779bfe85926f3494595f0c2cbaee1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-337363",
+   "path": "zakon/2011/337363",
+   "short": "Zakon o raftingu",
+   "title": "Zakon o raftingu",
+   "url": "https://www.sluzbenilist.me/propisi/337363",
+   "versions": [
+    {
+     "from": "2011-11-19",
+     "units": 68,
+     "source_url": "https://www.sluzbenilist.me/propisi/337363/download",
+     "sha256": "8d962df0d53a44e4075d466155d6d309b737619f8c2d49fef59c4c87cd65b783"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-337364",
+   "path": "zakon/2011/337364",
+   "short": "Zakon o tehnickim zahtjevima za proizvode i ocjenjivanju usaglasenosti",
+   "title": "Zakon o tehnickim zahtjevima za proizvode i ocjenjivanju usaglasenosti",
+   "url": "https://www.sluzbenilist.me/propisi/337364",
+   "versions": [
+    {
+     "from": "2011-11-19",
+     "units": 53,
+     "source_url": "https://www.sluzbenilist.me/propisi/337364/download",
+     "sha256": "1425414e1191a056b61d2b2272e0ae8d089b9fdc5e17ad7f5a8d08bb1410cd2c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-337683",
+   "path": "zakon/2011/337683",
+   "short": "Zakon o izmjenama i dopunama Zakona o sjemenskom materijalu poljoprivrednog bilja",
+   "title": "Zakon o izmjenama i dopunama Zakona o sjemenskom materijalu poljoprivrednog bilja",
+   "url": "https://www.sluzbenilist.me/propisi/337683",
+   "versions": [
+    {
+     "from": "2011-12-31",
+     "units": 46,
+     "source_url": "https://www.sluzbenilist.me/propisi/337683/download",
+     "sha256": "01bd343544c08b7d1686d3b658738867ad9c650210a5fe478c8b73f467dc3223"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-337731",
+   "path": "zakon/2011/337731",
+   "short": "Zakon o dopunama Zakona o politickim partijama",
+   "title": "Zakon o dopunama Zakona o politickim partijama",
+   "url": "https://www.sluzbenilist.me/propisi/337731",
+   "versions": [
+    {
+     "from": "2011-12-22",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/337731/download",
+     "sha256": "bcd6e922400d6cd04ebd4af6336fd9d1a6ca34dce55c5b4f983612f52411810a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-337981",
+   "path": "zakon/2011/337981",
+   "short": "Zakon o postupanju prema maloljetnicima u krivičnom postupku",
+   "title": "Zakon o postupanju prema maloljetnicima u krivičnom postupku",
+   "url": "https://www.sluzbenilist.me/propisi/337981",
+   "versions": [
+    {
+     "from": "2012-01-06",
+     "units": 208,
+     "source_url": "https://www.sluzbenilist.me/propisi/337981/download",
+     "sha256": "d937bb4cd8e53f8a6d0a036e6c4e6e3e3a7763ed7634d8823a12a396dc37fe23"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-305569",
+   "path": "zakon/2012/305569",
+   "short": "Zakon o izmjeni Zakona o ličnoj karti",
+   "title": "Zakon o izmjeni Zakona o ličnoj karti",
+   "url": "https://www.sluzbenilist.me/propisi/305569",
+   "versions": [
+    {
+     "from": "2012-10-01",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/305569/download",
+     "sha256": "3c9b017664fb3bd47f3a51a154b80e5c87ec3ec6c6bac738d2c6496b26664b81"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-309688",
+   "path": "zakon/2012/309688",
+   "short": "Zakon o finansijskom obezbjeđenju",
+   "title": "Zakon o finansijskom obezbjeđenju",
+   "url": "https://www.sluzbenilist.me/propisi/309688",
+   "versions": [
+    {
+     "from": "2012-08-17",
+     "units": 22,
+     "source_url": "https://www.sluzbenilist.me/propisi/309688/download",
+     "sha256": "e84bd6ccdc6b8376e535b5287384ad5dc26ab3fa25f6682c6d04397ec3cb2411"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-327486",
+   "path": "zakon/2012/327486",
+   "short": "Zakon o izmjenama i dopunama Zakona o porezu na dobit pravnih lica",
+   "title": "Zakon o izmjenama i dopunama Zakona o porezu na dobit pravnih lica",
+   "url": "https://www.sluzbenilist.me/propisi/327486",
+   "versions": [
+    {
+     "from": "2012-03-07",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/327486/download",
+     "sha256": "87c6620bd29addd9415fc0d218e235787899e2502722eac31f066b76f0f6c55c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-334263",
+   "path": "zakon/2012/334263",
+   "short": "Zakon o reviziji sredstava iz fondova Evropske Unije",
+   "title": "Zakon o reviziji sredstava iz fondova Evropske Unije",
+   "url": "https://www.sluzbenilist.me/propisi/334263",
+   "versions": [
+    {
+     "from": "2012-03-15",
+     "units": 47,
+     "source_url": "https://www.sluzbenilist.me/propisi/334263/download",
+     "sha256": "007f9fb9c5dcef460d77028203cceeabe3a1dc9bc2f68521db24046e31b94fa0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-334478",
+   "path": "zakon/2012/334478",
+   "short": "Zakon o izmjenama i dopunama Zakona o doprinosima za obavezno socijalno osiguranje",
+   "title": "Zakon o izmjenama i dopunama Zakona o doprinosima za obavezno socijalno osiguranje",
+   "url": "https://www.sluzbenilist.me/propisi/334478",
+   "versions": [
+    {
+     "from": "2012-03-07",
+     "units": 11,
+     "source_url": "https://www.sluzbenilist.me/propisi/334478/download",
+     "sha256": "35f39d38c63f277c260ae541a47e8420ffd11231fb94e58d943b1f79d7624c7d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-335457",
+   "path": "zakon/2012/335457",
+   "short": "Zakon o izmjeni i dopuni Zakona o poreskoj administraciji",
+   "title": "Zakon o izmjeni i dopuni Zakona o poreskoj administraciji",
+   "url": "https://www.sluzbenilist.me/propisi/335457",
+   "versions": [
+    {
+     "from": "2012-06-06",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/335457/download",
+     "sha256": "df3f0d31878dc290feb53ce9e59f9507ad6393447c4e38e196a16c1880783f4e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-336353",
+   "path": "zakon/2012/336353",
+   "short": "Zakon o dopuni zakona o tajnosti podataka",
+   "title": "Zakon o dopuni zakona o tajnosti podataka",
+   "url": "https://www.sluzbenilist.me/propisi/336353",
+   "versions": [
+    {
+     "from": "2012-07-19",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/336353/download",
+     "sha256": "9a14d3d3c2da4098f97742c31332fb47c82c36ae0139b291507604e8dd588d7c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-336539",
+   "path": "zakon/2012/336539",
+   "short": "Zakon o izmjenama i dopunama Zakona o žigu",
+   "title": "Zakon o izmjenama i dopunama Zakona o žigu",
+   "url": "https://www.sluzbenilist.me/propisi/336539",
+   "versions": [
+    {
+     "from": "2012-08-17",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.me/propisi/336539/download",
+     "sha256": "8523c423d272dc139b232b19b085eaa36cff296cf6c29e83ddc73ffcc032e567"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-302066",
+   "path": "zakon/2013/302066",
+   "short": "Zakon o dopuni Zakona o strancima",
+   "title": "Zakon o dopuni Zakona o strancima",
+   "url": "https://www.sluzbenilist.me/propisi/302066",
+   "versions": [
+    {
+     "from": "2013-06-19",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/302066/download",
+     "sha256": "f1eb79d2c5272183266964809e36a746f227137e7d8fbfa1a25cd4efdf00d25e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-304439",
+   "path": "zakon/2013/304439",
+   "short": "Zakon o izmjeni Zakona o tajnosti podataka",
+   "title": "Zakon o izmjeni Zakona o tajnosti podataka",
+   "url": "https://www.sluzbenilist.me/propisi/304439",
+   "versions": [
+    {
+     "from": "2013-03-23",
+     "units": 2,
+     "source_url": "https://www.sluzbenilist.me/propisi/304439/download",
+     "sha256": "ac4bdf737b4c40ed36a018a4c6275a7a408de4a339ef7bb486157eac81faa724"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-305792",
+   "path": "zakon/2013/305792",
+   "short": "Zakon o dopunama Zakona o osiguranju",
+   "title": "Zakon o dopunama Zakona o osiguranju",
+   "url": "https://www.sluzbenilist.me/propisi/305792",
+   "versions": [
+    {
+     "from": "2013-02-08",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/305792/download",
+     "sha256": "09f6427905ff9c1552e98b39802bcf31ccb378c4f89da5b4477edf25e14f0c41"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-306140",
+   "path": "zakon/2013/306140",
+   "short": "Zakon o izmjeni i dopuni Zakona o hartijama od vrijednosti",
+   "title": "Zakon o izmjeni i dopuni Zakona o hartijama od vrijednosti",
+   "url": "https://www.sluzbenilist.me/propisi/306140",
+   "versions": [
+    {
+     "from": "2013-02-08",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/306140/download",
+     "sha256": "42cfc9cb3eae942fa893122a47bfaaf0b87ad4ea6b9126a2ec57ff6df8e53775"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-309015",
+   "path": "zakon/2013/309015",
+   "short": "Zakon o izmjenama i dopunama Zakona o ugovorima o prevozu u drumskom saobraćaju",
+   "title": "Zakon o izmjenama i dopunama Zakona o ugovorima o prevozu u drumskom saobraćaju",
+   "url": "https://www.sluzbenilist.me/propisi/309015",
+   "versions": [
+    {
+     "from": "2013-08-03",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.me/propisi/309015/download",
+     "sha256": "a8a2b51a99c7171a181308fe03793cbb2213d2e726960072d98edfa596cb1c0b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-309289",
+   "path": "zakon/2013/309289",
+   "short": "Zakon o zaštiti prirodnog i kulturno-istorijskog područja Kotora",
+   "title": "Zakon o zaštiti prirodnog i kulturno-istorijskog područja Kotora",
+   "url": "https://www.sluzbenilist.me/propisi/309289",
+   "versions": [
+    {
+     "from": "2013-12-14",
+     "units": 35,
+     "source_url": "https://www.sluzbenilist.me/propisi/309289/download",
+     "sha256": "30410d6461dea22c08e6d5f041685cbc9ea511dc9cb01e67b0598664f6b6dbfb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-316749",
+   "path": "zakon/2013/316749",
+   "short": "Zakon o izmjenama i dopunama Zakona o sprječavanju zloupotrebe droga",
+   "title": "Zakon o izmjenama i dopunama Zakona o sprječavanju zloupotrebe droga",
+   "url": "https://www.sluzbenilist.me/propisi/316749",
+   "versions": [
+    {
+     "from": "2013-07-31",
+     "units": 12,
+     "source_url": "https://www.sluzbenilist.me/propisi/316749/download",
+     "sha256": "e97f11971e1d04ab72bdd55cc3806732e7b23b9bfd8ffea864b2498009cb7d4c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-325547",
+   "path": "zakon/2013/325547",
+   "short": "Zakon o elektronskim komunikacijama",
+   "title": "Zakon o elektronskim komunikacijama",
+   "url": "https://www.sluzbenilist.me/propisi/325547",
+   "versions": [
+    {
+     "from": "2013-08-21",
+     "units": 222,
+     "source_url": "https://www.sluzbenilist.me/propisi/325547/download",
+     "sha256": "dd510f6daae7af535915a2971c56c784b0af3c9abba8aa91ad9702e248ae682f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-326561",
+   "path": "zakon/2013/326561",
+   "short": "Zakon o izmjenama i dopunama Zakona o putnim ispravama",
+   "title": "Zakon o izmjenama i dopunama Zakona o putnim ispravama",
+   "url": "https://www.sluzbenilist.me/propisi/326561",
+   "versions": [
+    {
+     "from": "2013-08-15",
+     "units": 14,
+     "source_url": "https://www.sluzbenilist.me/propisi/326561/download",
+     "sha256": "c1fc996b37bf3ae51cdd81054334fb69224822c2165239c48a298170263ab320"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-330197",
+   "path": "zakon/2013/330197",
+   "short": "Zakon o izmjeni i dopunama Zakona o porezu na dobit pravnih lica",
+   "title": "Zakon o izmjeni i dopunama Zakona o porezu na dobit pravnih lica",
+   "url": "https://www.sluzbenilist.me/propisi/330197",
+   "versions": [
+    {
+     "from": "2014-01-07",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/330197/download",
+     "sha256": "fd859505221279b73a330830d22c06b0408f0efe6440d360caa782e063f02818"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-330478",
+   "path": "zakon/2013/330478",
+   "short": "Zakon o izmjenama i dopunama Krivičnog zakonika",
+   "title": "Zakon o izmjenama i dopunama Krivičnog zakonika",
+   "url": "https://www.sluzbenilist.me/propisi/330478",
+   "versions": [
+    {
+     "from": "2013-08-21",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/330478/download",
+     "sha256": "22bb8a9a9fbc8e7b6f7721a2b2aa0ffd9de79b3e77fa895dc0c27b6f7dc8181a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-335244",
+   "path": "zakon/2013/335244",
+   "short": "Zakon o sprječavanju nelegalnog poslovanja",
+   "title": "Zakon o sprječavanju nelegalnog poslovanja",
+   "url": "https://www.sluzbenilist.me/propisi/335244",
+   "versions": [
+    {
+     "from": "2013-06-23",
+     "units": 26,
+     "source_url": "https://www.sluzbenilist.me/propisi/335244/download",
+     "sha256": "4d29419991a7e95dff996020b926f39f525f3ad30b49247fca4eff06a9fdc9b6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-335370",
+   "path": "zakon/2013/335370",
+   "short": "Zakon o socijalnoj i dječjoj zaštiti",
+   "title": "Zakon o socijalnoj i dječjoj zaštiti",
+   "url": "https://www.sluzbenilist.me/propisi/335370",
+   "versions": [
+    {
+     "from": "2013-06-19",
+     "units": 196,
+     "source_url": "https://www.sluzbenilist.me/propisi/335370/download",
+     "sha256": "e71e344a2523802cd4e51cdfa0d1568d3779fa6225b56ae783036c32c23ba57a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-335532",
+   "path": "zakon/2013/335532",
+   "short": "Zakon o izmjenama i dopunama Zakona o procjeni uticaja na životnu sredinu",
+   "title": "Zakon o izmjenama i dopunama Zakona o procjeni uticaja na životnu sredinu",
+   "url": "https://www.sluzbenilist.me/propisi/335532",
+   "versions": [
+    {
+     "from": "2013-06-19",
+     "units": 22,
+     "source_url": "https://www.sluzbenilist.me/propisi/335532/download",
+     "sha256": "2cbb9302ac2d4ef6511ee7823ed0bf4b383d453e781907e6a1ef7ed818a8e95e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-335902",
+   "path": "zakon/2013/335902",
+   "short": "Zakon o porezu na promet nepokretnosti",
+   "title": "Zakon o porezu na promet nepokretnosti",
+   "url": "https://www.sluzbenilist.me/propisi/335902",
+   "versions": [
+    {
+     "from": "2013-08-03",
+     "units": 37,
+     "source_url": "https://www.sluzbenilist.me/propisi/335902/download",
+     "sha256": "cc4ca19c9414464e24358779703248ee4bedc18dabc5168d457efc5c89d8afa7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-335984",
+   "path": "zakon/2013/335984",
+   "short": "Zakon o socijalnom stanovanju",
+   "title": "Zakon o socijalnom stanovanju",
+   "url": "https://www.sluzbenilist.me/propisi/335984",
+   "versions": [
+    {
+     "from": "2013-07-31",
+     "units": 39,
+     "source_url": "https://www.sluzbenilist.me/propisi/335984/download",
+     "sha256": "6c1a4a5f25658270a9451fb1d106c764232c77c8ec60fba8c4d9b77e6135c537"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-335993",
+   "path": "zakon/2013/335993",
+   "short": "Zakon o zaštiti od nejonizujućih zračenja",
+   "title": "Zakon o zaštiti od nejonizujućih zračenja",
+   "url": "https://www.sluzbenilist.me/propisi/335993",
+   "versions": [
+    {
+     "from": "2013-07-31",
+     "units": 68,
+     "source_url": "https://www.sluzbenilist.me/propisi/335993/download",
+     "sha256": "4a538066c5f02e9c6b99258059a4b5fd3e3e5f23219f91f526a658abce60e05d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-336244",
+   "path": "zakon/2013/336244",
+   "short": "Zakon o izmjenama i dopunama Opšteg zakona o obrazovanju i vaspitanju",
+   "title": "Zakon o izmjenama i dopunama Opšteg zakona o obrazovanju i vaspitanju",
+   "url": "https://www.sluzbenilist.me/propisi/336244",
+   "versions": [
+    {
+     "from": "2013-08-15",
+     "units": 52,
+     "source_url": "https://www.sluzbenilist.me/propisi/336244/download",
+     "sha256": "f4995e001359d08b7ecf309aad5228293d83dd92fd6999bb46663bfc257c2a71"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-336387",
+   "path": "zakon/2013/336387",
+   "short": "Zakon o izmjenama i dopunama Zakona o gimnaziji",
+   "title": "Zakon o izmjenama i dopunama Zakona o gimnaziji",
+   "url": "https://www.sluzbenilist.me/propisi/336387",
+   "versions": [
+    {
+     "from": "2013-08-15",
+     "units": 32,
+     "source_url": "https://www.sluzbenilist.me/propisi/336387/download",
+     "sha256": "7b9cb60b6fb4d7eb9649f3f074d73eb045e3c5585b63448238bb71b697547085"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-337249",
+   "path": "zakon/2013/337249",
+   "short": "Zakon o organskoj proizvodnji",
+   "title": "Zakon o organskoj proizvodnji",
+   "url": "https://www.sluzbenilist.me/propisi/337249",
+   "versions": [
+    {
+     "from": "2013-12-14",
+     "units": 65,
+     "source_url": "https://www.sluzbenilist.me/propisi/337249/download",
+     "sha256": "158309236184e748205f8094fe096643b77864d4bce4de3a7fff68f9cbbb5287"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-337259",
+   "path": "zakon/2013/337259",
+   "short": "Zakon o izmjeni i dopuni Zakona o administrativnim taksama",
+   "title": "Zakon o izmjeni i dopuni Zakona o administrativnim taksama",
+   "url": "https://www.sluzbenilist.me/propisi/337259",
+   "versions": [
+    {
+     "from": "2013-12-14",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/337259/download",
+     "sha256": "090e49b4d5023950d04f37f3459d22c7ff599d7f13265d5af66d39b90a830a4d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-337260",
+   "path": "zakon/2013/337260",
+   "short": "Zakon o izmjenama i dopunama Zakona o elektronskoj trgovini",
+   "title": "Zakon o izmjenama i dopunama Zakona o elektronskoj trgovini",
+   "url": "https://www.sluzbenilist.me/propisi/337260",
+   "versions": [
+    {
+     "from": "2013-12-14",
+     "units": 12,
+     "source_url": "https://www.sluzbenilist.me/propisi/337260/download",
+     "sha256": "3dfb9e84416279d389a87d23eb9db5d4c63f2f429f62990106f62805c364b29b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-337559",
+   "path": "zakon/2013/337559",
+   "short": "Zakon o dopunama Zakona o teritorijalnoj organizaciji Crne Gore",
+   "title": "Zakon o dopunama Zakona o teritorijalnoj organizaciji Crne Gore",
+   "url": "https://www.sluzbenilist.me/propisi/337559",
+   "versions": [
+    {
+     "from": "2014-01-08",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/337559/download",
+     "sha256": "27ee12d9895863f676e5f375916ddb2b2604f9a9676c96d3d76c05489bee9f4f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-337560",
+   "path": "zakon/2013/337560",
+   "short": "Zakon o izmjenama i dopuni Zakona o doprinosima za obavezno socijalno osiguranje",
+   "title": "Zakon o izmjenama i dopuni Zakona o doprinosima za obavezno socijalno osiguranje",
+   "url": "https://www.sluzbenilist.me/propisi/337560",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.me/propisi/337560/download",
+     "sha256": "98a547d995506fbb629f85c8e37af0db83ae327084215d66163e51b8b6408465"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-337570",
+   "path": "zakon/2013/337570",
+   "short": "Zakon o izmjenama i dopunama Zakona o istraživanju i proizvodnji ugljovodonika",
+   "title": "Zakon o izmjenama i dopunama Zakona o istraživanju i proizvodnji ugljovodonika",
+   "url": "https://www.sluzbenilist.me/propisi/337570",
+   "versions": [
+    {
+     "from": "2014-01-08",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/337570/download",
+     "sha256": "15235850be105bbcf6eb3c5df45ef76b6201359326e6593d79b2aea4c698e63a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-337766",
+   "path": "zakon/2013/337766",
+   "short": "Zakon o otpisu kamate na poreske i carinske obaveze",
+   "title": "Zakon o otpisu kamate na poreske i carinske obaveze",
+   "url": "https://www.sluzbenilist.me/propisi/337766",
+   "versions": [
+    {
+     "from": "2013-12-31",
+     "units": 10,
+     "source_url": "https://www.sluzbenilist.me/propisi/337766/download",
+     "sha256": "e23e8a541c8a3ca6ddd362235e573566df7153a8bcb9ba0224c3c9c1ca4e93ac"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-337767",
+   "path": "zakon/2013/337767",
+   "short": "Zakon o izmjenama i dopunama Zakona o porezu na premije osiguranja",
+   "title": "Zakon o izmjenama i dopunama Zakona o porezu na premije osiguranja",
+   "url": "https://www.sluzbenilist.me/propisi/337767",
+   "versions": [
+    {
+     "from": "2013-12-31",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.me/propisi/337767/download",
+     "sha256": "d5b5adcfca5ebd8b433a867037c6ddaa8c53405678ae81da2e22589ec3b24515"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-348003",
+   "path": "zakon/2013/348003",
+   "short": "Zakon o izmjeni i dopuni Zakona o teritorijalnoj organizaciji Crne Gore",
+   "title": "Zakon o izmjeni i dopuni Zakona o teritorijalnoj organizaciji Crne Gore",
+   "url": "https://www.sluzbenilist.me/propisi/348003",
+   "versions": [
+    {
+     "from": "2013-06-19",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/348003/download",
+     "sha256": "a538abae8c0ba678ec7849ec2771668b7822cfbe4f18fa54d491809fbc6adf61"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-301758",
+   "path": "zakon/2014/301758",
+   "short": "Zakon o izmjenama i dopunama Zakona o stranim investicijama",
+   "title": "Zakon o izmjenama i dopunama Zakona o stranim investicijama",
+   "url": "https://www.sluzbenilist.me/propisi/301758",
+   "versions": [
+    {
+     "from": "2014-11-01",
+     "units": 2,
+     "source_url": "https://www.sluzbenilist.me/propisi/301758/download",
+     "sha256": "0a44781942ef2f71cdb0361d55e299171fde4453516e470b227515dbfced19e8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-301931",
+   "path": "zakon/2014/301931",
+   "short": "Zakon o komunalnoj policiji",
+   "title": "Zakon o komunalnoj policiji",
+   "url": "https://www.sluzbenilist.me/propisi/301931",
+   "versions": [
+    {
+     "from": "2015-01-02",
+     "units": 72,
+     "source_url": "https://www.sluzbenilist.me/propisi/301931/download",
+     "sha256": "61138c824782d8def15a81d1c6436f523af53425b960bef5031add2d54fbd1e0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-302025",
+   "path": "zakon/2014/302025",
+   "short": "Zakon o dopunama Zakona o izvršenju i obezbjeđenju",
+   "title": "Zakon o dopunama Zakona o izvršenju i obezbjeđenju",
+   "url": "https://www.sluzbenilist.me/propisi/302025",
+   "versions": [
+    {
+     "from": "2014-07-12",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/302025/download",
+     "sha256": "eafe9748a56b5c746d8f650df4ae930d312fcb2983bc6c2cda4b73c39f6f8b83"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-302908",
+   "path": "zakon/2014/302908",
+   "short": "Zakon o izmjenama i dopunama Zakona o skijalištima",
+   "title": "Zakon o izmjenama i dopunama Zakona o skijalištima",
+   "url": "https://www.sluzbenilist.me/propisi/302908",
+   "versions": [
+    {
+     "from": "2014-05-14",
+     "units": 25,
+     "source_url": "https://www.sluzbenilist.me/propisi/302908/download",
+     "sha256": "4cb5c15cdb2a825628bb07c0923bb9133c0159cd0dc04a91553f726cffa59498"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-308063",
+   "path": "zakon/2014/308063",
+   "short": "Zakon o izmjenama i dopunama Zakona o prekršajima",
+   "title": "Zakon o izmjenama i dopunama Zakona o prekršajima",
+   "url": "https://www.sluzbenilist.me/propisi/308063",
+   "versions": [
+    {
+     "from": "2014-08-07",
+     "units": 58,
+     "source_url": "https://www.sluzbenilist.me/propisi/308063/download",
+     "sha256": "bec052023d64efda2ff4c30538718106deb450cd7074393fec72b26736b2223a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-326379",
+   "path": "zakon/2014/326379",
+   "short": "Zakon o izmjenama i dopunama Zakona o ličnoj karti",
+   "title": "Zakon o izmjenama i dopunama Zakona o ličnoj karti",
+   "url": "https://www.sluzbenilist.me/propisi/326379",
+   "versions": [
+    {
+     "from": "2014-03-06",
+     "units": 12,
+     "source_url": "https://www.sluzbenilist.me/propisi/326379/download",
+     "sha256": "1c16e258010782411b2a4c6dd6b68b60b684e2960031cc6a355f7ba31d1ee64d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-327252",
+   "path": "zakon/2014/327252",
+   "short": "Zakon o izvršenju uslovne osude i kazne rada u javnom interesu",
+   "title": "Zakon o izvršenju uslovne osude i kazne rada u javnom interesu",
+   "url": "https://www.sluzbenilist.me/propisi/327252",
+   "versions": [
+    {
+     "from": "2014-08-07",
+     "units": 54,
+     "source_url": "https://www.sluzbenilist.me/propisi/327252/download",
+     "sha256": "4da4061ebae586c303c8cb370ae34a4d46a75168dec155c07024eb72b5062fa1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-332912",
+   "path": "zakon/2014/332912",
+   "short": "Zakon o nacionalnim parkovima",
+   "title": "Zakon o nacionalnim parkovima",
+   "url": "https://www.sluzbenilist.me/propisi/332912",
+   "versions": [
+    {
+     "from": "2014-07-12",
+     "units": 54,
+     "source_url": "https://www.sluzbenilist.me/propisi/332912/download",
+     "sha256": "60d52851d84263c3ab732faa801acb026ac44e37eaadff25dc1a4c55dbbf804f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-333369",
+   "path": "zakon/2014/333369",
+   "short": "Zakon o izmjeni Zakona o lokalnoj samoupravi",
+   "title": "Zakon o izmjeni Zakona o lokalnoj samoupravi",
+   "url": "https://www.sluzbenilist.me/propisi/333369",
+   "versions": [
+    {
+     "from": "2014-03-06",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/333369/download",
+     "sha256": "7db3cc16fdb05ee32c11c7c9429dbcb5afc7b6f0c684b94462c98ee048825f07"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-333771",
+   "path": "zakon/2014/333771",
+   "short": "Zakon o biračkom spisku",
+   "title": "Zakon o biračkom spisku",
+   "url": "https://www.sluzbenilist.me/propisi/333771",
+   "versions": [
+    {
+     "from": "2014-03-06",
+     "units": 46,
+     "source_url": "https://www.sluzbenilist.me/propisi/333771/download",
+     "sha256": "f034635f2bd9315e4fd7e08d4d62956d38842faca8369041586b137b1accab6a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-334168",
+   "path": "zakon/2014/334168",
+   "short": "Zakon o izmjenama i dopunama Zakona o teritorijalnoj organizaciji Crne Gore",
+   "title": "Zakon o izmjenama i dopunama Zakona o teritorijalnoj organizaciji Crne Gore",
+   "url": "https://www.sluzbenilist.me/propisi/334168",
+   "versions": [
+    {
+     "from": "2014-03-08",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/334168/download",
+     "sha256": "4bbeebfa981d7c1622c50e9733ede6953a9a4d6afeb6a938ea220066ad21cfb7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-334273",
+   "path": "zakon/2014/334273",
+   "short": "Zakon o izmjeni Zakona o međunarodnom privatnom pravu",
+   "title": "Zakon o izmjeni Zakona o međunarodnom privatnom pravu",
+   "url": "https://www.sluzbenilist.me/propisi/334273",
+   "versions": [
+    {
+     "from": "2014-03-22",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/334273/download",
+     "sha256": "dfa73928db284c4b0a80fb81bf7299f72c5ede8a2a27473e390d04ffd72708dc"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-334675",
+   "path": "zakon/2014/334675",
+   "short": "Zakon o međunarodnom privatnom pravu",
+   "title": "Zakon o međunarodnom privatnom pravu",
+   "url": "https://www.sluzbenilist.me/propisi/334675",
+   "versions": [
+    {
+     "from": "2014-01-17",
+     "units": 220,
+     "source_url": "https://www.sluzbenilist.me/propisi/334675/download",
+     "sha256": "14ea265d10cf89842f0ce94e2f71ae81a53af17a09ebdb43f62a4c1ff8b47ba6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-334685",
+   "path": "zakon/2014/334685",
+   "short": "Zakon o obebjeđivanju krvi",
+   "title": "Zakon o obebjeđivanju krvi",
+   "url": "https://www.sluzbenilist.me/propisi/334685",
+   "versions": [
+    {
+     "from": "2014-01-17",
+     "units": 65,
+     "source_url": "https://www.sluzbenilist.me/propisi/334685/download",
+     "sha256": "2c2aa963472f863e52c12b693adf1c286723c2e13d0da7bfe45f0f8ff4c7793e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-334696",
+   "path": "zakon/2014/334696",
+   "short": "Zakon o izmjenama i dopunama Zakona o stanovanju i održavanju stambenih zgrada",
+   "title": "Zakon o izmjenama i dopunama Zakona o stanovanju i održavanju stambenih zgrada",
+   "url": "https://www.sluzbenilist.me/propisi/334696",
+   "versions": [
+    {
+     "from": "2014-01-17",
+     "units": 14,
+     "source_url": "https://www.sluzbenilist.me/propisi/334696/download",
+     "sha256": "bd93774acf91eba38214e2ef9c2c4d7f192808d2bb319e59232e908278651382"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-334795",
+   "path": "zakon/2014/334795",
+   "short": "Zakon o građevinskim proizvodima",
+   "title": "Zakon o građevinskim proizvodima",
+   "url": "https://www.sluzbenilist.me/propisi/334795",
+   "versions": [
+    {
+     "from": "2014-04-19",
+     "units": 75,
+     "source_url": "https://www.sluzbenilist.me/propisi/334795/download",
+     "sha256": "dc4fc067303abb11e18530a098fe0b69fbe5a4a2102fb0f64c780523f5c389e3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-334797",
+   "path": "zakon/2014/334797",
+   "short": "Zakon o izmjenama i dopunama Zakona o žigu",
+   "title": "Zakon o izmjenama i dopunama Zakona o žigu",
+   "url": "https://www.sluzbenilist.me/propisi/334797",
+   "versions": [
+    {
+     "from": "2014-04-19",
+     "units": 27,
+     "source_url": "https://www.sluzbenilist.me/propisi/334797/download",
+     "sha256": "14581ac3f43e6e92ce98a964d67a37eca96170d23febf8c3e9bbadeb458694bd"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-334806",
+   "path": "zakon/2014/334806",
+   "short": "Zakon o dopuni Zakona o tajnosti podataka",
+   "title": "Zakon o dopuni Zakona o tajnosti podataka",
+   "url": "https://www.sluzbenilist.me/propisi/334806",
+   "versions": [
+    {
+     "from": "2014-04-19",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/334806/download",
+     "sha256": "ad57bdcac1a5ccdb0919e548c504da8535fc213ddb4d08a769a4eef7f098146f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-334814",
+   "path": "zakon/2014/334814",
+   "short": "Zakon o dopunama Zakona o inspekcijskom nadzoru",
+   "title": "Zakon o dopunama Zakona o inspekcijskom nadzoru",
+   "url": "https://www.sluzbenilist.me/propisi/334814",
+   "versions": [
+    {
+     "from": "2014-04-12",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/334814/download",
+     "sha256": "39034383c06c29d652b1babfc88b567007524237500fdb83330701f275289bbe"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-335493",
+   "path": "zakon/2014/335493",
+   "short": "Zakon o osnovama obavještajno bezbjednosnog sektora Crne Gore",
+   "title": "Zakon o osnovama obavještajno bezbjednosnog sektora Crne Gore",
+   "url": "https://www.sluzbenilist.me/propisi/335493",
+   "versions": [
+    {
+     "from": "2014-07-12",
+     "units": 23,
+     "source_url": "https://www.sluzbenilist.me/propisi/335493/download",
+     "sha256": "05bb4dcc08527571e2eb30874e106d7ac55f57baefccec86dbad10ffbdaef6ea"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-335636",
+   "path": "zakon/2014/335636",
+   "short": "Zakon o prevozu opasnih materija",
+   "title": "Zakon o prevozu opasnih materija",
+   "url": "https://www.sluzbenilist.me/propisi/335636",
+   "versions": [
+    {
+     "from": "2014-08-12",
+     "units": 107,
+     "source_url": "https://www.sluzbenilist.me/propisi/335636/download",
+     "sha256": "bc88c10fd236244372af287c18fb048ec5cbb7729dc0e5b724d1f2a3f517d762"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-335722",
+   "path": "zakon/2014/335722",
+   "short": "Zakon o izmjenama i dopunama Zakona o Državnoj revizorskoj instituciji",
+   "title": "Zakon o izmjenama i dopunama Zakona o Državnoj revizorskoj instituciji",
+   "url": "https://www.sluzbenilist.me/propisi/335722",
+   "versions": [
+    {
+     "from": "2014-08-01",
+     "units": 2,
+     "source_url": "https://www.sluzbenilist.me/propisi/335722/download",
+     "sha256": "b4866e5390720f7b77aa66c2f10e53a72f3753c1ff7d995dee1cdb6c5c68a9af"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-335866",
+   "path": "zakon/2014/335866",
+   "short": "Zakon o porezu na ugljovodonike",
+   "title": "Zakon o porezu na ugljovodonike",
+   "url": "https://www.sluzbenilist.me/propisi/335866",
+   "versions": [
+    {
+     "from": "2014-08-01",
+     "units": 35,
+     "source_url": "https://www.sluzbenilist.me/propisi/335866/download",
+     "sha256": "77d19b40950ea6952c4c395cd5481b2097342abf6f5a9413501bf3d76a98f942"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-335922",
+   "path": "zakon/2014/335922",
+   "short": "Zakon o zaštiti i zdravlju na radu",
+   "title": "Zakon o zaštiti i zdravlju na radu",
+   "url": "https://www.sluzbenilist.me/propisi/335922",
+   "versions": [
+    {
+     "from": "2014-08-16",
+     "units": 75,
+     "source_url": "https://www.sluzbenilist.me/propisi/335922/download",
+     "sha256": "efa83309f3fbfba9b6982beaaa1631927c6b35ee9bc7a7aa0673d59d6b4eab6a"
+    }
+   ]
+  },
+  {
    "slug": "akt-2012-319876",
    "path": "akt/2012/319876",
    "short": "Metodologija za utvrđivanje regulatornog prihoda i cijena za korišćenje prenosnog sistema električne energije",
@@ -523333,6 +527698,141 @@
      "units": 3,
      "source_url": "https://www.sluzbenilist.me/propisi/331221/download",
      "sha256": "6c7f6acd605cff5576cdcbf6c591407f12646b964684949a0055973a720b372c"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2024-376257",
+   "path": "uredba/2024/376257",
+   "short": "Uredba o izmjeni Uredbe o naknadi troškova zaposlenih u javnom sektoru",
+   "title": "Uredba o izmjeni Uredbe o naknadi troškova zaposlenih u javnom sektoru",
+   "url": "https://www.sluzbenilist.me/propisi/376257",
+   "versions": [
+    {
+     "from": "2025-01-08",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/376257/download",
+     "sha256": "ea50eca79e4d3e490ca4cbbe3120b1dd8d34376ef22421d704547dede75f42f4"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-382161",
+   "path": "uredba/2025/382161",
+   "short": "Uredba o uslovima, načinu i dinamici sprovođenja mjera agrarne politike za 2025. godinu - Agrobudžet",
+   "title": "Uredba o uslovima, načinu i dinamici sprovođenja mjera agrarne politike za 2025. godinu - Agrobudžet",
+   "url": "https://www.sluzbenilist.me/propisi/382161",
+   "versions": [
+    {
+     "from": "2025-03-29",
+     "units": 11,
+     "source_url": "https://www.sluzbenilist.me/propisi/382161/download",
+     "sha256": "2c5e64d1b5fb32d75dbd82322dfb1321932a5c6c5d4bb9fd83775d94b0ccd106"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2026-391029",
+   "path": "uredba/2026/391029",
+   "short": "Uredba o saradnji između nacionalnih organa odgovornih za izvršavanje propisa o zaštiti potrošača",
+   "title": "Uredba o saradnji između nacionalnih organa odgovornih za izvršavanje propisa o zaštiti potrošača",
+   "url": "https://www.sluzbenilist.me/propisi/391029",
+   "versions": [
+    {
+     "from": "2026-03-14",
+     "units": 18,
+     "source_url": "https://www.sluzbenilist.me/propisi/391029/download",
+     "sha256": "da4af06984e58698f9ca1ae3678e4d4c8443ac18cfdc95ac9143894339aa03e2"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2026-392920",
+   "path": "uredba/2026/392920",
+   "short": "Uredba o uslovima, načinu i dinamici sprovođenja mjera agrarne politike za 2026. godinu - Agrobudžet",
+   "title": "Uredba o uslovima, načinu i dinamici sprovođenja mjera agrarne politike za 2026. godinu - Agrobudžet",
+   "url": "https://www.sluzbenilist.me/propisi/392920",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 11,
+     "source_url": "https://www.sluzbenilist.me/propisi/392920/download",
+     "sha256": "ca54c49c21b2361c51480da2dbf99d44ac4ef75eaedb5062d8637fa05dfbfd30"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2007-350077",
+   "path": "zakon/2007/350077",
+   "short": "Zakon o drzavnom premjeru i katastaru nepokretnosti",
+   "title": "Zakon o drzavnom premjeru i katastaru nepokretnosti",
+   "url": "https://www.sluzbenilist.me/propisi/350077",
+   "versions": [
+    {
+     "from": "2007-06-02",
+     "units": 241,
+     "source_url": "https://www.sluzbenilist.me/propisi/350077/download",
+     "sha256": "30741678af2fea3c6ca4f6b4e991ed5e5df71fde16560b5e5cdd028b14fa0fac"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-338026",
+   "path": "zakon/2008/338026",
+   "short": "Zakon o finansiranju upravljanja vodama",
+   "title": "Zakon o finansiranju upravljanja vodama",
+   "url": "https://www.sluzbenilist.me/propisi/338026",
+   "versions": [
+    {
+     "from": "2008-11-06",
+     "units": 33,
+     "source_url": "https://www.sluzbenilist.me/propisi/338026/download",
+     "sha256": "3b436fa5bacb11b6f2966a80bb3292f3c1ec7cdbaedb00b88cba8519e50635ff"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2009-333069",
+   "path": "zakon/2009/333069",
+   "short": "Zakon o koncesijama",
+   "title": "Zakon o koncesijama",
+   "url": "https://www.sluzbenilist.me/propisi/333069",
+   "versions": [
+    {
+     "from": "2009-02-12",
+     "units": 83,
+     "source_url": "https://www.sluzbenilist.me/propisi/333069/download",
+     "sha256": "b61d9dfdbd5d4b6d5bb9751a4128f484daecf580f99111697a472f5f44d9c176"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-325763",
+   "path": "zakon/2010/325763",
+   "short": "Zakon o informacionoj bezbjednosti",
+   "title": "Zakon o informacionoj bezbjednosti",
+   "url": "https://www.sluzbenilist.me/propisi/325763",
+   "versions": [
+    {
+     "from": "2010-03-25",
+     "units": 24,
+     "source_url": "https://www.sluzbenilist.me/propisi/325763/download",
+     "sha256": "5f32d157b76980742739ef644b41e9af3c76e09e1be38d711db35a05b8596bf6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-327832",
+   "path": "zakon/2012/327832",
+   "short": "Zakon o Završnom računu Budžeta Crne Gore za 2011. godinu",
+   "title": "Zakon o Završnom računu Budžeta Crne Gore za 2011. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/327832",
+   "versions": [
+    {
+     "from": "2013-01-08",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/327832/download",
+     "sha256": "3b46f12d83906aed6f687bf61df0dae871d2290eab1a14706a9d8c3f2c49a6cc"
     }
    ]
   },
