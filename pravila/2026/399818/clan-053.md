@@ -1,0 +1,9 @@
+# Član 53
+## Neprimjereno korišćenje ugovora o finansijskom kolateralu sa prenosom prava svojine
+(1) Investiciono društvo dužno je da procijeni primjerenost korišćenja ugovora o finansijskom kolateralu sa prenosom prava svojine u kontekstu odnosa između obaveza klijenta prema investicionom društvu i imovine klijenta koja je predmet ugovora o finansijskom kolateralu sa prenosom prava svojine.
+(2) Investiciono društvo dužno je da procjenu iz stava 1 ovog člana dokumentuje i potkrijepi odgovarajućim dokazima, pri čemu naročito uzima u obzir sljedeće okolnosti:
+1) da li postoji samo slaba povezanost između obaveze klijenta prema investicionom društvu i korišćenja ugovora o finansijskom kolateralu sa prenosom prava svojine, uključujući slučajeve kada je vjerovatnoća nastanka obaveze klijenta prema investicionom društvu mala ili zanemarljiva;
+2) da li vrijednost novčanih sredstava ili finansijskih instrumenata klijenta koji su predmet ugovora o finansijskom kolateralu sa prenosom prava svojine značajno premašuje iznos obaveza klijenta ili je neograničena, iako klijent ima bilo kakvu obavezu prema investicionom društvu; i
+3) da li su svi finansijski instrumenti ili novčana sredstva klijenta obuhvaćeni ugovorom o finansijskom kolateralu sa prenosom prava svojine, bez obzira na visinu pojedinačne obaveze klijenta prema investicionom društvu.
+(3) Prilikom korišćenja ugovora o finansijskom kolateralu sa prenosom prava svojine, investiciono društvo dužno je profesionalnom klijentu i prihvatljivoj drugoj ugovornoj strani jasno predočiti rizike povezane sa takvim ugovorom, kao i njegov uticaj na finansijske instrumente i novčana sredstva klijenta.
+(4) Investiciono društvo ne smije sa malim investitorom zaključiti ugovor o finansijskom kolateralu sa prenosom prava svojine radi obezbjeđenja ili pokrića postojećih ili budućih, stvarnih, uslovnih ili mogućih obaveza tog klijenta.

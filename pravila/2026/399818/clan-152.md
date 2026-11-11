@@ -1,0 +1,7 @@
+# Član 152
+## skladu sa propisima kojima se uređuje zloupotreba tržišta
+(1) Prilikom procjene postojanja obaveze da bez odlaganja obavijeste Komisiju o postupanju koje može ukazivati na ponašanje zabranjeno u skladu sa propisima kojima se uređuje zloupotreba tržišta, operateri mjesta trgovanja dužni su da uzmu u obzir pokazatelje navedene u Odjeljku B Priloga III ovih pravila.
+(2) Prije dostavljanja obavještenja Komisiji, operater jednog ili više mjesta trgovanja na kojima se trguje finansijskim instrumentom i/ili povezanim finansijskim instrumentom primjenjuje pristup zasnovan na procjeni rizika i donosi odluku o tome koji su pokazatelji aktivirani, uzimajući u obzir:
+1) odstupanja od uobičajenog obrasca trgovanja finansijskim instrumentima uvrštenim za trgovanje ili kojima se trguje na tom mjestu trgovanja;
+2) informacije koje su dostupne operateru ili kojima operater ima pristup, bez obzira na to da li su dostupne interno, u okviru aktivnosti mjesta trgovanja, ili javno.
+(3) Operater jednog ili više mjesta trgovanja dužan je da uzme u obzir i ponašanja koja prethode trgovanju (front running), koja podrazumijevaju situaciju u kojoj član tržišta ili učesnik na tržištu trguje za sopstveni račun prije izvršenja naloga svog klijenta, koristeći pritom informacije iz knjige naloga koje je mjesto trgovanja dužno da evidentira u skladu sa propisima kojima se uređuje tržište finansijskih instrumenata, naročito informacije koje se odnose na način na koji član ili učesnik na tržištu obavlja aktivnosti trgovanja.

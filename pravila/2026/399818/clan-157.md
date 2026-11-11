@@ -1,0 +1,5 @@
+# Član 157
+## Naknade po korisniku
+(1) Ovlašćeni sistemi objavljivanja i pružaoci konsolidovanih podataka o trgovanju naplaćuju korišćenje tržišnih podataka u skladu sa svrhom za koju ih pojedinačni krajnji korisnici koriste ("po korisniku"). Ovlašćeni sistemi objavljivanja i pružaoci konsolidovanih podataka o trgovanju dužni su da uspostave mehanizme kojima se obezbjeđuje da se svako pojedinačno korišćenje tržišnih podataka naplati samo jednom.
+(2) Izuzetno od stava 1 ovog člana, ovlašćeni sistemi objavljivanja i pružaoci konsolidovanih podataka o trgovanju mogu odlučiti da tržišne podatke ne stavljaju na raspolaganje po korisniku, ako bi naplaćivanje naknade po korisniku bilo nesrazmjerno troškovima stavljanja tržišnih podataka na raspolaganje, uzimajući u obzir njihov obim i sadržaj.
+(3) Ovlašćeni sistemi objavljivanja i pružaoci konsolidovanih podataka o trgovanju dužni su da obrazlože razloge zbog kojih tržišne podatke ne stavljaju na raspolaganje po korisniku i da to obrazloženje objave na svojoj internet stranici.

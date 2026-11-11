@@ -1,0 +1,13 @@
+# Član 87
+## Kategorije klijenata
+(1) Investiciono društvo dužno je da svoje klijente, s obzirom na njihovo znanje, iskustvo, finansijsku situaciju i investicione ciljeve, razvrsta na male i profesionalne investitore.
+(2) Investiciono društvo dužno je da donese i primjenjuje pisane interne politike i postupke za razvrstavanje klijenata iz stava 1 ovog člana.
+(3) Mali investitor je klijent investicionog društva koji, u skladu sa Zakonom, ne ispunjava uslove za profesionalnog investitora.
+(4) Investiciono društvo je dužno da, prije nego što klijentu prvi put pruži investicionu ili pomoćnu uslugu, sa klijentom zaključi osnovni ugovor u pisanom obliku, na papiru ili drugom trajnom mediju, kojim se uređuju njihova osnovna međusobna prava i obaveze.
+(5) Odredba stava 4 ovog člana ne primjenjuje se na pružanje usluge investicionog savjetovanja, osim ako se u vezi sa tom uslugom sprovodi periodična procjena primjerenosti finansijskih instrumenata ili investicionih usluga.
+(6) Osnovni ugovor iz stava 4 ovog člana mora jasno utvrditi osnovna prava i obaveze investicionog društva i klijenta i naročito sadržati:
+1) opis investicionih i pomoćnih usluga koje će investiciono društvo pružati klijentu, uključujući, kada je primjenjivo, prirodu i obim investicionog savjetovanja koje se pruža;
+2) kada se pruža usluga upravljanja portfeljem, vrste finansijskih instrumenata koji mogu biti predmet kupovine ili prodaje, vrste transakcija koje se mogu izvršavati za račun klijenta, kao i finansijske instrumente ili transakcije koje nijesu dozvoljene;
+3) opis osnovnih karakteristika svih pomoćnih usluga koje se pružaju u vezi sa finansijskim instrumentima klijenta, uključujući, kada je primjenjivo, ulogu investicionog društva u vezi sa korporativnim radnjama koje se odnose na finansijske instrumente klijenta, kao i uslove pod kojima će transakcije finansiranja hartija od vrijednosti koje uključuju finansijske instrumente klijenta ostvarivati korist za klijenta.
+(7) Na zaključenje i raskid ugovora iz stava 4 ovog člana putem trajnog medija, kao i na prava i obaveze koje iz njega proizlaze za klijenta i investiciono društvo, pored odredaba Zakona i ovih pravila, primjenjuju se i odredbe zakona kojim se uređuje zaštita potrošača, u dijelu koji se odnosi na zaključivanje ugovora na daljinu o pružanju finansijskih usluga.
+(8) Za ugovore zaključene na daljinu u skladu sa stavom 7 ovog člana putem sredstava elektronske komunikacije nije neophodno da klijent ugovor potpiše kvalifikovanim elektronskim potpisom, u skladu sa zakonom kojim se uređuje elektronska identifikacija i elektronski potpis.

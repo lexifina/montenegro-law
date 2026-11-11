@@ -1,0 +1,11 @@
+# Član 44
+## Držanje imovine klijenata kod trećih lica u trećim zemljama
+(1) Investiciono društvo može držati odnosno povjeriti čuvanje imovine klijenta trećem licu u trećoj zemlji, kada propisi treće zemlje u kojoj se imovina klijenta drži onemogućavaju investiciono društvo da ispuni obaveze iz člana 296 Zakona, samo ako su ispunjeni svi sljedeći uslovi:
+1) držanje odnosno čuvanje imovine klijenta kod takvog trećeg lica neophodno je za pružanje investicione ili pomoćne usluge;
+2) investiciono društvo u svojim internim evidencijama jasno razdvaja imovinu klijenta od imovine drugih klijenata i imovine samog investicionog društva, u skladu sa članom 43 stav 1 tačka 1 ovih pravila;
+3) klijent je prethodno obaviješten o okolnostima držanja odnosno čuvanja imovine kod takvog trećeg lica i dao je saglasnost za takav način držanja imovine, što potvrđuje svojim potpisom;
+4) kada se radi o malom klijentu, prethodno obavještenje iz tačke 3 ovog stava mora sadržati posebno upozorenje o rizicima i posljedicama držanja imovine kod takvog trećeg lica.
+(2) Investiciono društvo koje drži imovinu klijenta u skladu sa stavom 1 ovog člana dužno je da klijenta izričito upozori da imovina klijenta nije zaštićena na način i u obimu propisanom Zakonom i ovim pravilima.
+(3) Kada investiciono društvo, u skladu sa zahtjevima prava treće zemlje iz člana 299 Zakona, ugovori založno pravo, teret ili pravo prebijanja na finansijskim instrumentima ili novčanim sredstvima klijenta, kojim se omogućava trećem licu da raspolaže finansijskim instrumentima ili novčanim sredstvima klijenta radi naplate obaveza koje nijesu povezane sa klijentom ili pružanjem usluga tom klijentu, dužno je da o tome obavijesti klijenta i pruži informacije o rizicima povezanim sa takvim aranžmanima.
+(4) Ako investiciono društvo ugovori založno pravo, teret ili pravo prebijanja na finansijskim instrumentima ili novčanim sredstvima klijenta, ili bude obaviješteno da su takvi aranžmani ugovoreni, dužno je da ih evidentira u ugovorima sa klijentima i u sopstvenim evidencijama, kako bi status vlasništva nad imovinom klijenta bio jasno određen, naročito u slučaju nesolventnosti investicionog društva.
+(5) Odredbe ovog člana naročito se primjenjuju na sva založna prava, terete ili prava prebijanja koja se odnose na finansijske instrumente ili novčana sredstva klijenata.

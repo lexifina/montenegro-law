@@ -1,0 +1,3 @@
+# Član 110
+## Posebne odredbe u vezi sa hipotekarnim kreditom
+Ako ugovor o kreditu koji se odnosi na stambenu nepokretnost, na koji se primjenjuju odredbe o procjeni kreditne sposobnosti potrošača propisane propisima kojima se uređuje potrošačko kreditiranje, kao uslov predviđa pružanje investicione usluge tom potrošaču u vezi sa hipotekarnim obveznicama izdatim radi obezbjeđenja finansiranja, sa uslovima ekvivalentnim ugovorima o kreditu koji se odnose na stambene nepokretnosti, a radi plaćanja, refinansiranja ili isplate kredita, ta usluga ne podliježe obavezama iz članova 98 do 109 ovih pravila.

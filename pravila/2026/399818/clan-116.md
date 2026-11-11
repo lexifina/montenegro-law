@@ -1,0 +1,15 @@
+# Član 116
+## Izvještaji o finansijskim instrumentima i novčanim sredstvima klijenata
+(1) Investiciono društvo koje drži finansijske instrumente ili novčana sredstva klijenta dužno je da svakom klijentu za čiji račun drži finansijske instrumente ili novčana sredstva dostavi, najmanje jednom u tri mjeseca, na trajnom mediju, izvještaj o tim finansijskim instrumentima i novčanim sredstvima, osim ako su te informacije sadržane u drugom periodičnom izvještaju.
+(2) Na zahtjev klijenta, investiciono društvo može dostavljati izvještaje iz stava 1 ovog člana i češće, uz naknadu koja odgovara stvarnim troškovima dostavljanja izvještaja.
+(3) Odredbe ovog člana ne primjenjuju se na kreditnu instituciju u odnosu na novčane depozite koje drži za klijenta u skladu sa propisima kojima se uređuje poslovanje kreditnih institucija.
+(4) Izvještaj iz stava 1 ovog člana naročito sadrži:
+1) podatke o svim finansijskim instrumentima i novčanim sredstvima koje investiciono društvo drži za račun klijenta na kraju izvještajnog perioda;
+2) podatke o tome u kojoj mjeri su finansijski instrumenti ili novčana sredstva klijenta bili predmet transakcija finansiranja hartija od vrijednosti;
+3) podatke o koristima koje je klijent ostvario po osnovu učešća u transakcijama finansiranja hartija od vrijednosti i osnov po kojem su te koristi ostvarene;
+4) jasno navođenje finansijskih instrumenata i novčanih sredstava na koje se primjenjuju odredbe Zakona i ovih pravila, kao i one imovine ili novčanih sredstava na koje se te odredbe ne primjenjuju, uključujući sredstva koja su predmet ugovora o finansijskom kolateralu sa prenosom prava svojine;
+5) jasno navođenje finansijskih instrumenata ili novčanih sredstava na kojima postoji založno pravo ili drugo pravo trećeg lica koje utiče na status vlasništva;
+6) tržišnu vrijednost finansijskih instrumenata ili, kada tržišna vrijednost nije dostupna, njihovu procijenjenu vrijednost, uz jasno navođenje da nepostojanje tržišne cijene može ukazivati na nedostatak likvidnosti. Procijenjena vrijednost određuje se u skladu sa raspoloživim podacima i najboljim procjenama investicionog društva.
+(5) Ako portfelj klijenta obuhvata sredstva iz jedne ili više nenamirenih transakcija, informacije iz tačke 1 stav 4 ovog člana mogu se zasnivati na datumu trgovanja ili datumu namirenja, pod uslovom da se ista osnova dosljedno primjenjuje na sve informacije u izvještaju.
+(6) Periodični izvještaj iz stava 1 ovog člana nije potrebno dostavljati ako investiciono društvo klijentu obezbijedi pristup elektronskom sistemu koji predstavlja trajni medij i putem kojeg klijent može jednostavno pristupiti ažuriranim izvještajima o finansijskim instrumentima i novčanim sredstvima, pod uslovom da investiciono društvo raspolaže dokazom da je klijent najmanje jednom tokom odgovarajućeg tromjesečja pristupio tom izvještaju.
+(7) Investiciono društvo koje za klijenta drži finansijske instrumente ili novčana sredstva i istovremeno pruža uslugu upravljanja portfeljem može izvještaj iz stava 1 ovog člana uključiti u periodični izvještaj o upravljanju portfeljem iz člana 113 ovih pravila.

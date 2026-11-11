@@ -1,0 +1,7 @@
+# Član 125
+## Izvršavanje naloga pod najpovoljnijim uslovima za klijenta
+(1) Investiciono društvo dužno je da prilikom izvršavanja naloga preduzme sve dovoljne korake radi postizanja najpovoljnijeg ishoda za klijenta, uzimajući u obzir cijenu, troškove, brzinu, vjerovatnoću izvršenja i namirenja, veličinu, vrstu i sve druge okolnosti relevantne za izvršenje naloga.
+(2) Obaveza postizanja najpovoljnijeg ishoda za klijenta smatra se ispunjenom kada investiciono društvo izvrši nalog u skladu sa izričitim uputstvom klijenta koje se odnosi na nalog ili posebno obilježje naloga.
+(3) Investiciona društva dužna su da donesu i primjenjuju efikasne mjere za postupanje u skladu sa odredbama ovog člana.
+(4) Kada se nalog, u skladu sa politikom iz člana 127 ovih pravila, može izvršiti na više mjesta trgovanja, radi utvrđivanja najpovoljnijeg ishoda za klijenta, investiciono društvo dužno je da, prilikom procjene i poređenja ishoda za klijenta koji bi se ostvarili izvršavanjem naloga na svakom od mogućih mjesta trgovanja odnosno izvršenja prema listi iz politike izvršavanja naloga investicionog društva, uzme u obzir i sopstvene provizije i troškove izvršenja naloga na svakom odgovarajućem mjestu izvršenja.
+(5) Kada je riječ o finansijskim instrumentima koji podliježu obavezama trgovanja, investiciono društvo dužno je da bez odlaganja nakon izvršenja naloga obavijesti klijenta o mjestu izvršenja naloga.

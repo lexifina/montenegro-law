@@ -1,0 +1,9 @@
+# Član 82
+## Izvještavanje klijenta o dodatnim podsticajima
+(1) U vezi sa svakim pruženim ili primljenim dodatnim podsticajem, investiciono društvo je dužno da, prije pružanja investicione ili pomoćne usluge, klijentu pruži informacije o dodatnom podsticaju, u skladu sa članom 265 Zakona i članom 97 ovih pravila.
+(2) Za nenovčane koristi koje je dalo ili primilo u vezi sa investicionom uslugom pruženom klijentu, investiciono društvo je dužno da zasebno objavi informacije o tim koristima i navede njihovu cijenu, odnosno vrijednost. Manje nenovčane koristi iz člana 83 ovih pravila mogu se prikazati na uopšten način.
+(3) Ako investiciono društvo nije u mogućnosti da unaprijed (ex ante) utvrdi iznos dodatnog podsticaja koji će biti plaćen ili primljen, pa u skladu sa članom 97 ovih pravila klijentu umjesto tog iznosa pruži informacije o metodi njegovog obračuna, dužno je da nakon pružanja usluge (ex post) klijentu dostavi informacije o tačnom iznosu koji je plaćen ili primljen, odnosno o cijeni ili vrijednosti pružene ili primljene koristi.
+(4) Ako investiciono društvo prima ili daje kontinuirane dodatne podsticaje u vezi sa investicionim uslugama koje pruža klijentima, dužno je da klijentu na kojeg se odnosi ta usluga najmanje jednom godišnje dostavi izvještaj o stvarnom iznosu primljenih ili datih dodatnih podsticaja. Manje nenovčane koristi iz člana 83 ovih pravila mogu se u izvještaju prikazati na uopšten način.
+(5) Ako je investiciono društvo prenijelo klijentu primljene dodatne podsticaje, dužno je da o tome obavijesti klijenta.
+(6) Izvještaj o dodatnim podsticajima iz ovog člana može se dostaviti klijentu kao poseban izvještaj ili kao dio drugih redovnih izvještaja koje je investiciono društvo dužno da dostavlja klijentu.
+(7) Investiciono društvo može obavljanje poslova izvještavanja iz ovog člana povjeriti trećem licu, u skladu sa odredbama Zakona koje uređuju izdvajanje ključnih operativnih funkcija.
