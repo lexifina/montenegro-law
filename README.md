@@ -18,6 +18,8 @@ Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git h
 | `zakon/`, `uredba/` | laws and Government decrees, by year of publication and PIS id; laws in force from the first publish sit at the top level under their title (`zakon-o-...`, listed in data/paths.json) |
 | `odluka/`, `rjesenje/`, `pravilnik/`, `naredba/`, `uputstvo/`, `pravila/`, `poslovnik/`, `statut/`, `program/`, `plan/`, `akt/` | decisions, rulings, regulations, orders, instructions, rules, rules of procedure, statutes, programmes, plans and other acts, national and local |
 | `ugovor/` | treaties and other international acts published in the Gazette |
+| `ukaz/`, `presuda/` | Presidential decrees (Ukaz) and the Gazette's translations of European Court of Human Rights judgments against Montenegro, which the PIS leaves unclassified (their kind is read from their titles) |
+| `local/<unit>/<year>/<id>/` | municipal acts (Službeni list Crne Gore – Opštinski propisi) added from 11 November 2026, by the municipality that issued them (read from each act's own signature block and preamble); earlier municipal acts are still in the kind folders above, listed in data/paths.json |
 | `<act>/clan-NNN.md` · `<act>/README.md` | one article per file (one paragraph per line) · the act's versions and notes |
 | [ACTS.md](ACTS.md) · `data/` · `tools/` | the act list · tables and indexes · the tools below |
 
@@ -35,7 +37,7 @@ Read dates with the tools, not `git rev-list --before`: they pick each version b
 
 ## Sources
 
-- The Službeni list's legal information system (PIS, [sluzbenilist.me/propisi](https://www.sluzbenilist.me/propisi)): each act's page gives its issue, publication, in-force and application days, its status (Važeći / Nevažeći) and the acts that amend it; `/propisi/<id>/download` gives its PDF, whose text layer is read. No OCR is run.
+- The Službeni list's legal information system (PIS, [sluzbenilist.me/propisi](https://www.sluzbenilist.me/propisi)): each act's page gives its issue, publication, in-force and application days, its status (Važeći / Nevažeći) and the acts that amend it; `/propisi/<id>/download` gives its PDF, whose text layer is read. Where a PDF's text layer is not its text, the act is read from an alternative text, labelled on its version: the text layer with the characters an old font maps wrongly mapped back (Ĉ→Č, ţ→ž, Ċ→đ, ...; every corrected word checked against the clean texts), or OCR (Tesseract) of scanned pages, gated by word confidence.
 - Every version names the official page and PDF it was read from (the `Source:` and `Consolidated:` trailers of its commit, and `portal` in [data/acts.json](data/acts.json)).
 
 ## How current is it
@@ -51,7 +53,9 @@ Checked against the official sources: 2026-11-11; 100% of acts verified in the l
 ## Dates, authors and limits
 
 - Each commit is dated at noon, Europe/Podgorica, on the day the change took effect (the PIS "Datum stupanja na snagu", checked against the act's own final article); the author is the act that made it, the committer Lexifina. A separate application day ("Datum početka primjene") is noted on the version.
+- Individual and programme acts (appointments, decisions, conclusions, programmes, plans, Presidential decrees, ECHR judgments) whose text states no in-force day and for which the PIS gives none are dated by their publication day in the Službeni list; each such version's note says so. Laws, decrees, rulebooks, statutes and treaties without an in-force day stay held back (data/held.json).
 - The PIS publishes no consolidated texts. An act is held as it was published; where the PIS lists later amending acts, the act's status in data/acts.json is `amended, not consolidated` and `amended_by` names those acts, with their official links. Only the Constitution's amendments are applied to its text.
+- Where the PIS lists no amending act but later acts' titles name an act as amended or corrected, and no other act in the PIS has its title, it is labelled `amended, not consolidated` too, with those acts as `amended_by`; acts sharing a title stay held back.
 - Only the Službeni list Crne Gore is authoritative. The President's promulgation decree printed above a law, and the signatures, are left out; an annex printed after the signature is one unit.
 - The 2007 Constitution was published in Cyrillic and its amendments in Latin; each line keeps the script of the text that gave it its words. Nothing is transliterated.
 - Every version is read back from git on its in-force day and must match the source; results are in `REPRODUCE.md`.

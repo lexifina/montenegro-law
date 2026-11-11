@@ -1,6 +1,6 @@
 # Every act in this repository
 
-35516 acts, 35,518 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+35816 acts, 35,818 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## akt (929, of which 89 amending acts)
 
@@ -34957,7 +34957,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Ustav Crne Gore | [`ustav/`](ustav/) | in force | 3 | 2007-10-22 | 2026-08-24 |
 
-## zakon (511, of which 174 amending acts)
+## zakon (811, of which 175 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -35301,69 +35301,369 @@
 | Zakon o izmjenama i dopunama Zakona o Državnoj revizorskoj instituciji | [`zakon/2014/335722/`](zakon/2014/335722/) | amended, not consolidated | 1 | 2014-08-01 | 2014-08-01 |
 | Zakon o porezu na ugljovodonike | [`zakon/2014/335866/`](zakon/2014/335866/) | amended, not consolidated | 1 | 2014-08-01 | 2014-08-01 |
 | Zakon o zaštiti i zdravlju na radu | [`zakon/2014/335922/`](zakon/2014/335922/) | amended, not consolidated | 1 | 2014-08-16 | 2014-08-16 |
+| Zakon o maslinarstvu i maslinovom ulju | [`zakon/2014/336685/`](zakon/2014/336685/) | amended, not consolidated | 1 | 2014-11-01 | 2014-11-01 |
+| Zakon o izmjenama i dopunama Zakona o administrativnim taksama | [`zakon/2014/336686/`](zakon/2014/336686/) | amended, not consolidated | 1 | 2014-11-01 | 2014-11-01 |
+| Zakon o izmjenama i dopunama Zakona o turističkim organizacijama | [`zakon/2014/336687/`](zakon/2014/336687/) | amended, not consolidated | 1 | 2014-11-01 | 2014-11-01 |
+| Zakon o autoputu Bar - Boljare | [`zakon/2014/336958/`](zakon/2014/336958/) | amended, not consolidated | 1 | 2014-12-16 | 2014-12-16 |
+| Zakon o upravnom postupku | [`zakon/2014/337279/`](zakon/2014/337279/) | amended, not consolidated | 1 | 2015-01-01 | 2015-01-01 |
+| Zakon o naknadi štete žrtvama krivičnih djela nasilja | [`zakon/2015/312843/`](zakon/2015/312843/) | amended, not consolidated | 1 | 2015-07-15 | 2015-07-15 |
+| Zakon o izmjeni Zakona o doprinosima za obavezno socijalno osiguranje | [`zakon/2015/313689/`](zakon/2015/313689/) | amended, not consolidated | 1 | 2015-02-28 | 2015-02-28 |
+| Zakon o izmjeni i dopunama Zakona o sigurnosti pomorske plovidbe | [`zakon/2015/313732/`](zakon/2015/313732/) | amended, not consolidated | 1 | 2015-08-26 | 2015-08-26 |
+| Zakon o izmjenama i dopunama Zakona o biračkom spisku | [`zakon/2015/314692/`](zakon/2015/314692/) | amended, not consolidated | 1 | 2015-05-02 | 2015-05-02 |
+| Zakon o arbitraži | [`zakon/2015/315344/`](zakon/2015/315344/) | amended, not consolidated | 1 | 2015-08-26 | 2015-08-26 |
+| Zakon o izmjenama i dopunama Zakona o jahtama | [`zakon/2015/316879/`](zakon/2015/316879/) | amended, not consolidated | 1 | 2015-08-06 | 2015-08-06 |
+| Zakon o uzimanju i presađivanju ljudskih tkiva i ćelija u svrhu liječenja | [`zakon/2015/316995/`](zakon/2015/316995/) | amended, not consolidated | 1 | 2015-10-15 | 2015-10-15 |
+| Zakon o izmjenama i dopunama Zakona o poljoprivredi i ruralnom razvoju | [`zakon/2015/317662/`](zakon/2015/317662/) | amended, not consolidated | 1 | 2015-01-06 | 2015-01-06 |
+| Zakon o izmjeni Zakona o upravnom postupku | [`zakon/2015/318163/`](zakon/2015/318163/) | amended, not consolidated | 1 | 2015-05-02 | 2015-05-02 |
+| Zakon o izmjenama i dopunama Zakona o zapaljivim tečnostima i gasovima | [`zakon/2015/329229/`](zakon/2015/329229/) | amended, not consolidated | 1 | 2015-08-29 | 2015-08-29 |
+| Zakon o izmjenama i dopunama Zakona o poreskoj administraciji | [`zakon/2015/330539/`](zakon/2015/330539/) | amended, not consolidated | 1 | 2015-02-28 | 2015-02-28 |
+| Zakon o izmjenama i dopunama Zakona o divljači i lovstvu | [`zakon/2015/330549/`](zakon/2015/330549/) | amended, not consolidated | 1 | 2015-08-29 | 2015-08-29 |
+| Zakon o dopunama Zakona o socijalnoj i dječjoj zaštiti | [`zakon/2015/330730/`](zakon/2015/330730/) | amended, not consolidated | 1 | 2015-08-06 | 2015-08-06 |
+| Zakon o izmjenama Zakona o zaštiti depozita | [`zakon/2015/332984/`](zakon/2015/332984/) | amended, not consolidated | 1 | 2015-08-26 | 2015-08-26 |
+| Zakon o izmjeni i dopuni Krivičnog zakonika Crne Gore | [`zakon/2015/333262/`](zakon/2015/333262/) | amended, not consolidated | 1 | 2015-04-03 | 2015-04-03 |
+| Zakon o izmjeni i dopuni Zakona o inspekcijskom nadzoru | [`zakon/2015/333580/`](zakon/2015/333580/) | amended, not consolidated | 1 | 2015-03-13 | 2015-03-13 |
+| Zakon o Specijalnom državnom tužilaštvu | [`zakon/2015/333656/`](zakon/2015/333656/) | amended, not consolidated | 1 | 2015-03-18 | 2015-03-18 |
+| Zakon o štrajku | [`zakon/2015/333864/`](zakon/2015/333864/) | amended, not consolidated | 1 | 2015-03-20 | 2015-03-20 |
+| Zakon o Ustavnom sudu Crne Gore | [`zakon/2015/333865/`](zakon/2015/333865/) | amended, not consolidated | 1 | 2015-03-20 | 2015-03-20 |
+| Zakon o sporazumnom finansijskom restrukturiranju dugova prema finansijskim institucijama | [`zakon/2015/334690/`](zakon/2015/334690/) | amended, not consolidated | 1 | 2015-05-02 | 2015-05-02 |
+| Zakon o izmjenama i dopunama Zakona o besplatnoj pravnoj pomoći | [`zakon/2015/334691/`](zakon/2015/334691/) | amended, not consolidated | 1 | 2015-05-02 | 2015-05-02 |
+| Zakon o izmjenama i dopunama Zakona o izvršenju i obezbjeđenju | [`zakon/2015/334692/`](zakon/2015/334692/) | amended, not consolidated | 1 | 2015-05-02 | 2015-05-02 |
+| Zakon o dopuni Zakona o boračkoj i invalidskoj zaštiti | [`zakon/2015/334707/`](zakon/2015/334707/) | amended, not consolidated | 1 | 2015-01-05 | 2015-01-05 |
+| Zakon o dopunama Zakona o socijalnoj i dječjoj zaštiti | [`zakon/2015/334708/`](zakon/2015/334708/) | amended, not consolidated | 1 | 2015-01-05 | 2015-01-05 |
+| Zakon o zabrani diskriminacije lica sa invaliditetom | [`zakon/2015/336002/`](zakon/2015/336002/) | amended, not consolidated | 1 | 2015-07-15 | 2015-07-15 |
+| Zakon o izmjenama i dopunama Zakonika o krivičnom postupku | [`zakon/2015/336068/`](zakon/2015/336068/) | amended, not consolidated | 1 | 2015-07-15 | 2015-07-15 |
+| Zakon o izmjenama i dopunama Zakona o duvanu | [`zakon/2015/336241/`](zakon/2015/336241/) | amended, not consolidated | 1 | 2015-08-06 | 2015-08-06 |
+| Zakon o izmjeni Krivičnog zakonika Crne Gore | [`zakon/2015/336274/`](zakon/2015/336274/) | amended, not consolidated | 1 | 2015-08-06 | 2015-08-06 |
+| Zakon o patentima | [`zakon/2015/336294/`](zakon/2015/336294/) | amended, not consolidated | 1 | 2015-08-06 | 2015-08-06 |
+| Zakon o kinematografiji | [`zakon/2015/336327/`](zakon/2015/336327/) | amended, not consolidated | 1 | 2015-08-06 | 2015-08-06 |
 | Zakon o likvidaciji i stečaju društava za osiguranje | [`zakon/2015/336328/`](zakon/2015/336328/) | in force | 1 | 2015-08-06 | 2015-08-06 |
 | Zakon o izmirenju obaveza prema radnicima Kombinata aluminijuma koji su, usled stečaja preduzeća, ostvarili pravo na penziju | [`zakon/2015/336330/`](zakon/2015/336330/) | in force | 1 | 2015-08-06 | 2015-08-06 |
 | Zakon o izmjeni i dopuni Zakona o budžetu Crne Gore za 2015. godinu | [`zakon/2015/336581/`](zakon/2015/336581/) | amending act | 1 | 2015-08-18 | 2015-08-18 |
+| Zakon o konverziji kredita u švajcarskim francima CHF u EURE EUR | [`zakon/2015/336589/`](zakon/2015/336589/) | amended, not consolidated | 1 | 2015-08-22 | 2015-08-22 |
+| Zakon o registrima prebivališta i boravišta | [`zakon/2015/336590/`](zakon/2015/336590/) | amended, not consolidated | 1 | 2015-08-22 | 2015-08-22 |
 | Zakon o kooperativama | [`zakon/2015/336621/`](zakon/2015/336621/) | in force | 1 | 2015-08-08 | 2015-08-08 |
 | Zakon o zaštiti potrošača - korisnika finansijskih usluga | [`zakon/2015/336622/`](zakon/2015/336622/) | in force | 1 | 2015-08-08 | 2015-08-08 |
 | Zakon o izmjeni i dopuni Zakona o budžetu Crne Gore za 2015. godinu | [`zakon/2015/336666/`](zakon/2015/336666/) | amending act | 1 | 2015-08-18 | 2015-08-18 |
+| Zakon o dopunama Zakona o socijalnoj i dječjoj zaštiti | [`zakon/2015/336667/`](zakon/2015/336667/) | amended, not consolidated | 1 | 2015-08-26 | 2015-08-26 |
+| Zakon o izmjenama i dopunama Zakona o šumama | [`zakon/2015/336668/`](zakon/2015/336668/) | amended, not consolidated | 1 | 2015-08-26 | 2015-08-26 |
+| Zakon o izmjenama i dopunama Zakona o akreditaciji | [`zakon/2015/336781/`](zakon/2015/336781/) | amended, not consolidated | 1 | 2015-08-08 | 2015-08-08 |
+| Zakon o izmjenama i dopunama Zakona o sadnom materijalu | [`zakon/2015/336906/`](zakon/2015/336906/) | amended, not consolidated | 1 | 2015-08-29 | 2015-08-29 |
+| Zakon o izmjenama i dopunama Zakona o tajnosti podataka | [`zakon/2015/336915/`](zakon/2015/336915/) | amended, not consolidated | 1 | 2015-08-29 | 2015-08-29 |
+| Zakon o izmjenama i dopunama Zakona o parničnom postupku | [`zakon/2015/337069/`](zakon/2015/337069/) | amended, not consolidated | 1 | 2015-08-29 | 2015-08-29 |
+| Zakon o izmjenama i dopunama Zakona o stočarstvu | [`zakon/2015/337070/`](zakon/2015/337070/) | amended, not consolidated | 1 | 2015-08-29 | 2015-08-29 |
+| Zakon o izmjenama i dopunama Zakona o sjemenskom materijalu poljoprivrednog bilja | [`zakon/2015/337076/`](zakon/2015/337076/) | amended, not consolidated | 1 | 2015-08-29 | 2015-08-29 |
+| Zakon o izmjenama i dopunama Zakona o volonterskom radu | [`zakon/2015/337077/`](zakon/2015/337077/) | amended, not consolidated | 1 | 2015-08-29 | 2015-08-29 |
+| Zakon o Centru za obuku u sudstvu i državnom tužilaštvu | [`zakon/2015/337660/`](zakon/2015/337660/) | amended, not consolidated | 1 | 2015-10-17 | 2015-10-17 |
+| Zakon o izmjenama Zakona o porezu na dohodak fizičkih lica | [`zakon/2015/338502/`](zakon/2015/338502/) | amended, not consolidated | 1 | 2016-01-01 | 2016-01-01 |
 | Zakon o porezu na kafu | [`zakon/2015/338883/`](zakon/2015/338883/) | in force | 1 | 2015-02-28 | 2015-02-28 |
 | Zakon o izmjenama Zakona o taksama na pristup određenim uslugama od opšteg interesa i za upotrebu duvanskih proizvoda i elektroakustičnih i akustičnih uređaja | [`zakon/2015/349165/`](zakon/2015/349165/) | in force | 1 | 2015-03-06 | 2015-03-06 |
 | Zakon o dopunama Zakona o konverziji kredita u Švajcarskim francima CHF u eure EUR | [`zakon/2016/291941/`](zakon/2016/291941/) | amending act | 1 | 2016-09-23 | 2016-09-23 |
 | Zakon o izmjeni Zakona o reprezentativnosti sidikata | [`zakon/2016/292425/`](zakon/2016/292425/) | in force | 1 | 2016-08-25 | 2016-08-25 |
+| Zakon o izmjenama Zakona o zabrani zlostavljanja na radu | [`zakon/2016/293774/`](zakon/2016/293774/) | amended, not consolidated | 1 | 2016-08-23 | 2016-08-23 |
 | Zakon o javnim okupLjanjima i javnim priredbama | [`zakon/2016/293843/`](zakon/2016/293843/) | in force | 1 | 2016-08-17 | 2016-08-17 |
+| Zakon o izmjenama i dopuni Zakona o reviziji sredstava iz fondova evropske unije | [`zakon/2016/294119/`](zakon/2016/294119/) | amended, not consolidated | 1 | 2016-08-23 | 2016-08-23 |
+| Zakon o izmjeni i dopuni Zakona o socijalnoj i dječjoj zaštiti | [`zakon/2016/309629/`](zakon/2016/309629/) | amended, not consolidated | 1 | 2016-08-31 | 2016-08-31 |
 | Zakon o državnom pečatu i pečatima državnih organa | [`zakon/2016/315711/`](zakon/2016/315711/) | in force | 1 | 2016-08-19 | 2016-08-19 |
+| Zakon o izmjenama i dopuni Zakona o crnogorskom državljanstvu | [`zakon/2016/318058/`](zakon/2016/318058/) | amended, not consolidated | 1 | 2016-08-23 | 2016-08-23 |
 | Zakon o potvrđivanju amandmana na Konvenciju o fizičkoj zaštiti nuklearnog materijala | [`zakon/2016/322104/`](zakon/2016/322104/) | in force | 1 | 2016-02-02 | 2016-02-02 |
 | Zakon o izmjeni Zakona o porezu na ugljovodonike | [`zakon/2016/322468/`](zakon/2016/322468/) | in force | 1 | 2016-08-17 | 2016-08-17 |
+| Zakon o izmjenama i dopunama Zakona o administrativnim taksama | [`zakon/2016/323128/`](zakon/2016/323128/) | amended, not consolidated | 1 | 2016-08-19 | 2016-08-19 |
 | Zakon o izmjenama i dopunama Zakona o ograničavanju upotrebe duvanskih proizvoda | [`zakon/2016/323360/`](zakon/2016/323360/) | amending act | 1 | 2016-01-23 | 2016-01-23 |
+| Zakon o izmjenama i dopunama Zakona o Glavnom gradu | [`zakon/2016/324410/`](zakon/2016/324410/) | amended, not consolidated | 1 | 2016-01-22 | 2016-01-22 |
 | Zakon o izmjenama i dopunama Zakona o javnim radio-difuznim servisima Crne Gore | [`zakon/2016/327762/`](zakon/2016/327762/) | amending act | 1 | 2016-08-23 | 2016-08-23 |
 | Zakon o izmjeni i dopuni Zakona o lokalnoj samoupravi | [`zakon/2016/329973/`](zakon/2016/329973/) | amending act | 1 | 2016-01-23 | 2016-01-23 |
 | Zakon o izmjenama i dopunama Zakona o preuzimanju akcionarskih društava | [`zakon/2016/331505/`](zakon/2016/331505/) | amending act | 1 | 2016-08-17 | 2016-08-17 |
+| Zakon o izmjenama i dopunama Zakona o poštanskim uslugama | [`zakon/2016/332807/`](zakon/2016/332807/) | amended, not consolidated | 1 | 2016-08-25 | 2016-08-25 |
+| Zakon o izmjenama Zakona o boračkoj i invalidskoj zaštiti | [`zakon/2016/332832/`](zakon/2016/332832/) | amended, not consolidated | 1 | 2016-08-17 | 2016-08-17 |
+| Zakon o izmjenama i dopunama Zakona o teritorijalnoj organizaciji Crne Gore | [`zakon/2016/332942/`](zakon/2016/332942/) | amended, not consolidated | 1 | 2016-01-23 | 2016-01-23 |
+| Zakon o izmjenama Zakona o odgovornosti za štetu u životnoj sredini | [`zakon/2016/333057/`](zakon/2016/333057/) | amended, not consolidated | 1 | 2016-08-25 | 2016-08-25 |
+| Zakon o izmjeni Zakona o jahtama | [`zakon/2016/334332/`](zakon/2016/334332/) | amended, not consolidated | 1 | 2016-03-16 | 2016-03-16 |
 | Zakon o primjeni Sporazuma o stvaranju uslova za slobodne i fer izbore | [`zakon/2016/335610/`](zakon/2016/335610/) | in force | 1 | 2016-05-20 | 2016-05-20 |
+| Zakon o izmjenama Zakona o maslinarstvu i maslinovom ulju | [`zakon/2016/336255/`](zakon/2016/336255/) | amended, not consolidated | 1 | 2016-07-07 | 2016-07-07 |
+| Zakon o vinu | [`zakon/2016/336291/`](zakon/2016/336291/) | amended, not consolidated | 1 | 2016-07-14 | 2016-07-14 |
+| Zakon o održavanju stambenih zgrada | [`zakon/2016/336300/`](zakon/2016/336300/) | amended, not consolidated | 1 | 2016-07-14 | 2016-07-14 |
+| Zakon o carinskoj službi | [`zakon/2016/336332/`](zakon/2016/336332/) | amended, not consolidated | 1 | 2016-01-23 | 2016-01-23 |
 | Zakon o dopuni Zakona o ličnom stečaju potrošača | [`zakon/2016/336333/`](zakon/2016/336333/) | amending act | 1 | 2016-01-23 | 2016-01-23 |
+| Zakon o izmjeni Zakona o nacionalnim parkovima | [`zakon/2016/336445/`](zakon/2016/336445/) | amended, not consolidated | 1 | 2016-07-07 | 2016-07-07 |
+| Zakon o spoljnoj trgovini naoružanjem i vojnom opremom | [`zakon/2016/336451/`](zakon/2016/336451/) | amended, not consolidated | 1 | 2016-07-08 | 2016-07-08 |
+| Zakon o izmjenama i dopunama Zakona o odgovornosti pravnih lica za krivična djela | [`zakon/2016/336455/`](zakon/2016/336455/) | amended, not consolidated | 1 | 2016-07-07 | 2016-07-07 |
+| Zakon o izmjeni Zakona o upravnom postupku | [`zakon/2016/336469/`](zakon/2016/336469/) | amended, not consolidated | 1 | 2016-06-30 | 2016-06-30 |
+| Zakon o uzimanju i presađivanju ljudskih organa u svrhu liječenja | [`zakon/2016/336798/`](zakon/2016/336798/) | amended, not consolidated | 1 | 2016-07-28 | 2016-07-28 |
+| Zakon o izmjenama Zakona o procjeni uticaja na životnu sredinu | [`zakon/2016/336901/`](zakon/2016/336901/) | amended, not consolidated | 1 | 2016-08-17 | 2016-08-17 |
+| Zakon o izmjenama Zakona o strateškoj procjeni uticaja na životnu sredinu | [`zakon/2016/336902/`](zakon/2016/336902/) | amended, not consolidated | 1 | 2016-08-17 | 2016-08-17 |
 | Zakon o izmjenama Zakona o oznakama porijekla, geografskim oznakama i oznakama garantovano tradicionalnih specijaliteta poLjoprivrednih i prehrambenih proizvoda | [`zakon/2016/336934/`](zakon/2016/336934/) | in force | 1 | 2016-08-17 | 2016-08-17 |
+| Zakon o dopuni Zakona o inspekcijskom nadzoru | [`zakon/2016/336935/`](zakon/2016/336935/) | amended, not consolidated | 1 | 2016-08-17 | 2016-08-17 |
+| Zakon o tumačima | [`zakon/2016/336992/`](zakon/2016/336992/) | amended, not consolidated | 1 | 2016-08-17 | 2016-08-17 |
+| Zakon o izmjenama i dopunama Zakona o notarima | [`zakon/2016/337191/`](zakon/2016/337191/) | amended, not consolidated | 1 | 2016-08-25 | 2016-08-25 |
+| Zakon o bezbjednosnoj zaštiti brodova i luka | [`zakon/2016/337221/`](zakon/2016/337221/) | amended, not consolidated | 1 | 2016-08-19 | 2016-08-19 |
+| Zakon o dopuni Zakona o Specijalnom državnom tužilaštvu | [`zakon/2016/337222/`](zakon/2016/337222/) | amended, not consolidated | 1 | 2016-08-19 | 2016-08-19 |
 | Zakon o izmjenama i dopunama Porodičnog zakona | [`zakon/2016/337223/`](zakon/2016/337223/) | amending act | 1 | 2016-08-19 | 2016-08-19 |
+| Zakon o izmjenama i dopunama Zakona o autorskim i srodnim pravima | [`zakon/2016/337234/`](zakon/2016/337234/) | amended, not consolidated | 1 | 2016-08-19 | 2016-08-19 |
+| Zakon o regionalnom vodosnadbijevanju Crnogorskog primorja | [`zakon/2016/337299/`](zakon/2016/337299/) | amended, not consolidated | 1 | 2016-08-31 | 2016-08-31 |
+| Zakon o izmjenama i dopunama Zakona o stečaju | [`zakon/2016/337356/`](zakon/2016/337356/) | amended, not consolidated | 1 | 2016-08-19 | 2016-08-19 |
+| Zakon o komunalnim djelatnostima | [`zakon/2016/337397/`](zakon/2016/337397/) | amended, not consolidated | 1 | 2016-08-25 | 2016-08-25 |
+| Zakon o izmjenama i dopunama Zakona o porezu na dobit pravnih lica | [`zakon/2016/337413/`](zakon/2016/337413/) | amended, not consolidated | 1 | 2016-08-25 | 2016-08-25 |
+| Zakon o izmjenama i dopunama Zakona o centralnom registru stanovništva | [`zakon/2016/337414/`](zakon/2016/337414/) | amended, not consolidated | 1 | 2016-08-25 | 2016-08-25 |
+| Zakon o izmjenama i dopunama Zakona o matičnim registrima | [`zakon/2016/337415/`](zakon/2016/337415/) | amended, not consolidated | 1 | 2016-08-25 | 2016-08-25 |
+| Zakon o biocidnim proizvodima | [`zakon/2016/337423/`](zakon/2016/337423/) | amended, not consolidated | 1 | 2016-08-23 | 2016-08-23 |
+| Zakon o upravnom sporu | [`zakon/2016/337425/`](zakon/2016/337425/) | amended, not consolidated | 1 | 2016-08-23 | 2016-08-23 |
+| Zakon o izmjenama i dopunama Zakona o putnim ispravama | [`zakon/2016/337433/`](zakon/2016/337433/) | amended, not consolidated | 1 | 2016-08-23 | 2016-08-23 |
+| Zakon o izmjenama Zakona o ličnom imenu | [`zakon/2016/337463/`](zakon/2016/337463/) | amended, not consolidated | 1 | 2016-08-25 | 2016-08-25 |
+| Zakon o zdravstvenom osiguranju | [`zakon/2016/337915/`](zakon/2016/337915/) | amended, not consolidated | 1 | 2016-01-30 | 2016-01-30 |
+| Zakon o dopunama Zakona o socijalnoj i dječjoj zaštiti | [`zakon/2016/338031/`](zakon/2016/338031/) | amended, not consolidated | 1 | 2016-10-28 | 2016-10-28 |
+| Zakon o izmjenama Zakona o porezu na dohodak fizičkih lica | [`zakon/2016/338711/`](zakon/2016/338711/) | amended, not consolidated | 1 | 2016-12-31 | 2016-12-31 |
 | Zakon o potvrđivanju Protokola o izmjenma i dopunama Sporazuma iz Marakeša o osnivanju Svjetske trgovinske organizacije | [`zakon/2016/348163/`](zakon/2016/348163/) | amending act | 1 | 2016-04-16 | 2016-04-16 |
+| Zakon o izmjenama Zakona o vodama | [`zakon/2016/348934/`](zakon/2016/348934/) | amended, not consolidated | 1 | 2016-08-17 | 2016-08-17 |
+| Zakon o izmjenama i dopunama Zakona o poljoprivredi i ruralnom razvoju | [`zakon/2017/293031/`](zakon/2017/293031/) | amended, not consolidated | 1 | 2017-05-17 | 2017-05-17 |
+| Zakon o tekućim i kapitalnim poslovima sa inostranstvom | [`zakon/2017/308917/`](zakon/2017/308917/) | amended, not consolidated | 1 | 2017-11-04 | 2017-11-04 |
+| Zakon o izmjenama Zakona o doprinosima za obavezno socijalno osiguranje | [`zakon/2017/311468/`](zakon/2017/311468/) | amended, not consolidated | 1 | 2017-04-03 | 2017-04-03 |
+| Zakon o izmjenama i dopunama Zakona o osnovnom obrazovanju i vaspitanju | [`zakon/2017/311484/`](zakon/2017/311484/) | amended, not consolidated | 1 | 2017-07-27 | 2017-07-27 |
+| Zakon o prevozu u drumskom saobraćaju | [`zakon/2017/314646/`](zakon/2017/314646/) | amended, not consolidated | 1 | 2017-11-08 | 2017-11-08 |
 | Zakon o izmjenama i dopunama Zakona o advokaturi | [`zakon/2017/314930/`](zakon/2017/314930/) | amending act | 1 | 2017-04-11 | 2017-04-11 |
+| Zakon o izmjenama i dopunama Zakona o građevinskim proizvodima | [`zakon/2017/316467/`](zakon/2017/316467/) | amended, not consolidated | 1 | 2017-08-11 | 2017-08-11 |
+| Zakon o izmjeni i dopuni Zakona o parničnom postupku | [`zakon/2017/320019/`](zakon/2017/320019/) | amended, not consolidated | 1 | 2017-08-11 | 2017-08-11 |
 | Zakon o Završnom računu Budžeta Crne Gore za 2016. godinu | [`zakon/2017/320297/`](zakon/2017/320297/) | in force | 1 | 2017-12-09 | 2017-12-09 |
+| Zakon o upravljanju komunalnim otpadnim vodama | [`zakon/2017/320624/`](zakon/2017/320624/) | amended, not consolidated | 1 | 2017-01-18 | 2017-01-18 |
+| Zakon o Prijestonici | [`zakon/2017/321380/`](zakon/2017/321380/) | amended, not consolidated | 1 | 2017-08-11 | 2017-08-11 |
 | Zakon o izmjenama i dopunama Zakona o izvršenju Odluke Ustavnog suda Crne Gore U-1 broj 6/16 od 19. aprila 2017. godine ("Službeni list CG", broj 31/17) | [`zakon/2017/331353/`](zakon/2017/331353/) | amending act | 1 | 2017-12-30 | 2017-12-30 |
+| Zakon o izmjeni Zakona o turističkim organizacijama | [`zakon/2017/331827/`](zakon/2017/331827/) | amended, not consolidated | 1 | 2017-06-30 | 2017-06-30 |
+| Zakon o izmjenama i dopunama Zakona o obligacionim odnosima | [`zakon/2017/335000/`](zakon/2017/335000/) | amended, not consolidated | 1 | 2017-04-11 | 2017-04-11 |
+| Zakon o šemama kvaliteta poljoprivrednih i prehrambenih proizvoda | [`zakon/2017/335123/`](zakon/2017/335123/) | amended, not consolidated | 1 | 2017-04-11 | 2017-04-11 |
+| Zakon o izmjenama i dopunama Zakona o izvršenju i obezbjeđenju | [`zakon/2017/335124/`](zakon/2017/335124/) | amended, not consolidated | 1 | 2017-04-11 | 2017-04-11 |
+| Zakon o izmjenama i dopunama Zakona o zaštiti podataka o ličnosti | [`zakon/2017/335133/`](zakon/2017/335133/) | amended, not consolidated | 1 | 2017-04-11 | 2017-04-11 |
+| Zakon o međunarodnoj i privremenoj zaštiti stranaca | [`zakon/2017/335552/`](zakon/2017/335552/) | amended, not consolidated | 1 | 2017-01-18 | 2017-01-18 |
+| Zakon o izmjenama i dopuni Zakona o žigu | [`zakon/2017/335553/`](zakon/2017/335553/) | amended, not consolidated | 1 | 2017-01-18 | 2017-01-18 |
+| Zakon o izmjenama Zakona o pravnoj zaštiti industrijskog dizajna | [`zakon/2017/335562/`](zakon/2017/335562/) | amended, not consolidated | 1 | 2017-01-18 | 2017-01-18 |
+| Zakon o nedozvoljenom oglašavanju | [`zakon/2017/335615/`](zakon/2017/335615/) | amended, not consolidated | 1 | 2017-05-17 | 2017-05-17 |
 | Zakon o izmjenama i dopunama Zakona o osnovama obavještajno bezbjednosnog sektora Crne Gore | [`zakon/2017/335673/`](zakon/2017/335673/) | amending act | 1 | 2017-05-20 | 2017-05-20 |
 | Zakon o izmjenama i dopunama Zakona o manjinskim pravima i slobodama | [`zakon/2017/335680/`](zakon/2017/335680/) | amending act | 1 | 2017-05-20 | 2017-05-20 |
 | Zakon o izmjenama i dopunama Zakona o zdravstvenom osiguranju | [`zakon/2017/335763/`](zakon/2017/335763/) | amending act | 1 | 2017-01-18 | 2017-01-18 |
+| Zakon o izmjenama Zakona o patentima | [`zakon/2017/335773/`](zakon/2017/335773/) | amended, not consolidated | 1 | 2017-01-18 | 2017-01-18 |
+| Zakon o izmjenama Zakona o spomen-obilježjima | [`zakon/2017/335774/`](zakon/2017/335774/) | amended, not consolidated | 1 | 2017-01-18 | 2017-01-18 |
+| Zakon o zdravstvenoj inspekciji | [`zakon/2017/335855/`](zakon/2017/335855/) | amended, not consolidated | 1 | 2017-05-17 | 2017-05-17 |
 | Zakon o izmjenama i dopuni Zakona o Glavnom gradu | [`zakon/2017/335859/`](zakon/2017/335859/) | amending act | 1 | 2017-05-20 | 2017-05-20 |
+| Zakon o izmjenama i dopunama Zakona o teritorijalnoj organizaciji Crne Gore | [`zakon/2017/335860/`](zakon/2017/335860/) | amended, not consolidated | 1 | 2017-05-20 | 2017-05-20 |
+| Zakon o izmjenama i dopunama Zakona o eksproprijaciji | [`zakon/2017/335864/`](zakon/2017/335864/) | amended, not consolidated | 1 | 2017-05-17 | 2017-05-17 |
+| Zakon o izmjenama Zakona o povraćaju oduzetih imovinskih prava i obeštećenju | [`zakon/2017/335865/`](zakon/2017/335865/) | amended, not consolidated | 1 | 2017-05-17 | 2017-05-17 |
 | Zakon o izmjeni Zakona o upravnom postupku | [`zakon/2017/335918/`](zakon/2017/335918/) | in force | 1 | 2017-06-22 | 2017-06-22 |
+| Zakon o nacionalnom brendu | [`zakon/2017/335968/`](zakon/2017/335968/) | amended, not consolidated | 1 | 2017-06-22 | 2017-06-22 |
+| Zakon o izmjeni Zakona o reviziji sredstava iz fondova Evropske unije | [`zakon/2017/335999/`](zakon/2017/335999/) | amended, not consolidated | 1 | 2017-06-22 | 2017-06-22 |
 | Zakon o dopuni Zakona o administrativnim taksama | [`zakon/2017/336032/`](zakon/2017/336032/) | amending act | 1 | 2017-06-22 | 2017-06-22 |
+| Zakon o izmjenama i dopunama Zakona o socijalnoj i dječjoj zaštiti | [`zakon/2017/336550/`](zakon/2017/336550/) | amended, not consolidated | 1 | 2017-06-30 | 2017-06-30 |
+| Zakon o izmjenama i dopunama Zakona o zaštiti kulturnih dobara | [`zakon/2017/336599/`](zakon/2017/336599/) | amended, not consolidated | 1 | 2017-07-14 | 2017-07-14 |
+| Zakon o izmjenama i dopunama Zakona o gimnaziji | [`zakon/2017/336604/`](zakon/2017/336604/) | amended, not consolidated | 1 | 2017-07-27 | 2017-07-27 |
+| Zakon o izmjenama Zakona o poreskoj administraciji | [`zakon/2017/336605/`](zakon/2017/336605/) | amended, not consolidated | 1 | 2017-07-19 | 2017-07-19 |
+| Zakon o izmjenama i dopunama Krivičnog zakonika Crne Gore | [`zakon/2017/336707/`](zakon/2017/336707/) | amended, not consolidated | 1 | 2017-07-14 | 2017-07-14 |
 | Zakon o izmjeni Zakona o porezu na nepokretnost | [`zakon/2017/336715/`](zakon/2017/336715/) | in force | 1 | 2017-07-14 | 2017-07-14 |
+| Zakon o izmjenama i dopunama Zakona o socijalnoj i dječjoj zaštiti | [`zakon/2017/336952/`](zakon/2017/336952/) | amended, not consolidated | 1 | 2017-07-31 | 2017-07-31 |
+| Zakon o Vojsci Crne Gore | [`zakon/2017/336956/`](zakon/2017/336956/) | amended, not consolidated | 1 | 2017-08-11 | 2017-08-11 |
+| Zakon o uređenju tržišta poljoprivrednih proizvoda | [`zakon/2017/336967/`](zakon/2017/336967/) | amended, not consolidated | 1 | 2017-08-11 | 2017-08-11 |
+| Zakon o izmjenama i dopunama Zakona o prekršajima | [`zakon/2017/336969/`](zakon/2017/336969/) | amended, not consolidated | 1 | 2017-08-11 | 2017-08-11 |
+| Zakon o izmjenama i dopunama Zakona o Centralnoj banci Crne Gore | [`zakon/2017/338152/`](zakon/2017/338152/) | amended, not consolidated | 1 | 2017-11-04 | 2017-11-04 |
+| Zakon o uslugama | [`zakon/2017/338213/`](zakon/2017/338213/) | amended, not consolidated | 1 | 2017-11-08 | 2017-11-08 |
 | Zakon o izmjenama i dopunama Carinskog zakona | [`zakon/2017/338319/`](zakon/2017/338319/) | amending act | 1 | 2017-11-08 | 2017-11-08 |
+| Zakon o izmjenama i dopunama Zakona o sigurnosti pomorske plovidbe | [`zakon/2017/338320/`](zakon/2017/338320/) | amended, not consolidated | 1 | 2017-11-08 | 2017-11-08 |
+| Zakon o izmjeni Zakona o povraćaju oduzetih imovinskih prava i obeštećenju | [`zakon/2017/338393/`](zakon/2017/338393/) | amended, not consolidated | 1 | 2017-11-04 | 2017-11-04 |
 | Zakon o izmjeni Zakona o reviziji sredstava iz fondova Evropske unije | [`zakon/2017/338401/`](zakon/2017/338401/) | in force | 1 | 2017-11-04 | 2017-11-04 |
+| Zakon o izmjenama i dopunama Zakona o carinskoj službi | [`zakon/2017/338491/`](zakon/2017/338491/) | amended, not consolidated | 1 | 2017-12-09 | 2017-12-09 |
+| Zakon o izmjenama i dopunama Zakona o biračkom spisku | [`zakon/2017/339055/`](zakon/2017/339055/) | amended, not consolidated | 1 | 2017-12-30 | 2017-12-30 |
+| Zakon o ovjeri potpisa, rukopisa i prepisa | [`zakon/2018/292552/`](zakon/2018/292552/) | amended, not consolidated | 1 | 2019-01-04 | 2019-01-04 |
+| Zakon o izmjenama i dopunama Zakona o poštanskim uslugama | [`zakon/2018/311675/`](zakon/2018/311675/) | amended, not consolidated | 1 | 2018-08-09 | 2018-08-09 |
+| Zakon o zaštiti lica i imovine | [`zakon/2018/311953/`](zakon/2018/311953/) | amended, not consolidated | 1 | 2018-07-11 | 2018-07-11 |
+| Zakon o socijalnom savjetu | [`zakon/2018/315014/`](zakon/2018/315014/) | amended, not consolidated | 1 | 2018-07-14 | 2018-07-14 |
+| Zakon o izmjenama Zakona o kinematografiji | [`zakon/2018/315181/`](zakon/2018/315181/) | amended, not consolidated | 1 | 2019-01-03 | 2019-01-03 |
 | Zakon o izmjeni Zakona o visini stope zatezne kamate | [`zakon/2018/316859/`](zakon/2018/316859/) | in force | 1 | 2018-12-01 | 2018-12-01 |
+| Zakon o izmjenama i dopunama Zakona o zaštiti i zdravlju na radu | [`zakon/2018/317039/`](zakon/2018/317039/) | amended, not consolidated | 1 | 2018-07-14 | 2018-07-14 |
 | Zakon o izmjenama i dopunama Zakona o izvršenju odluke Ustavnog suda Crne Gore U-I broj 6/16 od 19. aprila 2017. godine ("Službeni list CG" broj 31/17) | [`zakon/2018/320596/`](zakon/2018/320596/) | amending act | 1 | 2018-08-09 | 2018-08-09 |
 | Zakon o izmjeni Zakona sporazumnom finansijskom restrukturiranju dugova prema finansijskim institucijama | [`zakon/2018/328455/`](zakon/2018/328455/) | in force | 1 | 2018-07-11 | 2018-07-11 |
+| Zakon o izmjenama i dopunama Zakona o zaštiti prirodnog i kulturno-istorijskog područja Kotora | [`zakon/2018/333185/`](zakon/2018/333185/) | amended, not consolidated | 1 | 2018-03-08 | 2018-03-08 |
+| Zakon o izmjenama i dopunama Zakona o prevozu opasnih materija | [`zakon/2018/334037/`](zakon/2018/334037/) | amended, not consolidated | 1 | 2018-03-08 | 2018-03-08 |
+| Zakon o izmjenama i dopunama Zakona o turizmu i ugostiteljstvu | [`zakon/2018/334049/`](zakon/2018/334049/) | amended, not consolidated | 1 | 2018-03-08 | 2018-03-08 |
+| Zakon o strancima | [`zakon/2018/334183/`](zakon/2018/334183/) | amended, not consolidated | 1 | 2018-03-03 | 2018-03-03 |
+| Zakon o reprezentativnosti sindikata | [`zakon/2018/334184/`](zakon/2018/334184/) | amended, not consolidated | 1 | 2018-03-03 | 2018-03-03 |
+| Zakon o izmjenama i dopunama Zakona o postupanju prema maloljetnicima u krivičnom postupku | [`zakon/2018/334613/`](zakon/2018/334613/) | amended, not consolidated | 1 | 2018-01-12 | 2018-01-12 |
+| Zakon o državnim službenicima i namještenicima | [`zakon/2018/335783/`](zakon/2018/335783/) | amended, not consolidated | 1 | 2018-01-18 | 2018-01-18 |
+| Zakon o lokalnoj samoupravi | [`zakon/2018/335784/`](zakon/2018/335784/) | amended, not consolidated | 1 | 2018-01-18 | 2018-01-18 |
+| Zakon o turizmu i ugostiteljstvu | [`zakon/2018/335785/`](zakon/2018/335785/) | amended, not consolidated | 1 | 2018-01-18 | 2018-01-18 |
+| Zakon o sportu | [`zakon/2018/336610/`](zakon/2018/336610/) | amended, not consolidated | 1 | 2018-07-14 | 2018-07-14 |
+| Zakon o izmjeni Zakona o nadzoru proizvoda na tržištu | [`zakon/2018/336714/`](zakon/2018/336714/) | amended, not consolidated | 1 | 2018-07-11 | 2018-07-11 |
 | Zakon o dopuni Zakona o porezu na upotrebu putničkih motornih vozila, plovnih objekata, vazduhoplova i letilica | [`zakon/2018/336723/`](zakon/2018/336723/) | amending act | 1 | 2018-07-11 | 2018-07-11 |
+| Zakon o izmjenama i dopuni Krivičnog zakonika Crne Gore | [`zakon/2018/337167/`](zakon/2018/337167/) | amended, not consolidated | 1 | 2018-07-25 | 2018-07-25 |
+| Zakon o priznavanju profesionalnih kvalifikacija za obavljanje regulisanih profesija | [`zakon/2018/337320/`](zakon/2018/337320/) | amended, not consolidated | 1 | 2018-08-11 | 2018-08-11 |
+| Zakon o procjeni uticaja na životnu sredinu | [`zakon/2018/338168/`](zakon/2018/338168/) | amended, not consolidated | 1 | 2018-12-01 | 2018-12-01 |
+| Zakon o izmjenama i dopunama Zakona o eksproprijaciji | [`zakon/2018/338169/`](zakon/2018/338169/) | amended, not consolidated | 1 | 2018-12-01 | 2018-12-01 |
+| Zakon o izmjenama i dopunama Zakona o održavanju stambenih zgrada | [`zakon/2018/338569/`](zakon/2018/338569/) | amended, not consolidated | 1 | 2019-01-03 | 2019-01-03 |
+| Zakon o izmjenama i dopunama Zakona o notarima | [`zakon/2018/338571/`](zakon/2018/338571/) | amended, not consolidated | 1 | 2019-01-03 | 2019-01-03 |
+| Zakon o stranim i invazivnim stranim vrstama biljaka, životinja i gljiva | [`zakon/2019/309716/`](zakon/2019/309716/) | amended, not consolidated | 1 | 2019-03-30 | 2019-03-30 |
 | Zakon o završnom računu Budžeta Crne Gore za 2018. godinu | [`zakon/2019/311127/`](zakon/2019/311127/) | in force | 1 | 2020-01-02 | 2020-01-02 |
+| Zakon o izmjenama i dopunama Zakona o turističkim organizacijama | [`zakon/2019/311796/`](zakon/2019/311796/) | amended, not consolidated | 1 | 2019-05-25 | 2019-05-25 |
+| Zakon o izmjeni Zakona o fiskalizaciji u prometu proizvoda i usluga | [`zakon/2019/311897/`](zakon/2019/311897/) | amended, not consolidated | 1 | 2019-12-27 | 2019-12-27 |
+| Zakon o radu | [`zakon/2019/312153/`](zakon/2019/312153/) | amended, not consolidated | 1 | 2020-01-07 | 2020-01-07 |
+| Zakon o izmjenama i dopunama Zakona o državnim službenicima i namještenicima | [`zakon/2019/312867/`](zakon/2019/312867/) | amended, not consolidated | 1 | 2019-06-29 | 2019-06-29 |
+| Zakon o izmjenama i dopunama Zakona o poreskim savjetnicima | [`zakon/2019/314623/`](zakon/2019/314623/) | amended, not consolidated | 1 | 2019-08-20 | 2019-08-20 |
+| Zakon o mladima | [`zakon/2019/315105/`](zakon/2019/315105/) | amended, not consolidated | 1 | 2019-05-08 | 2019-05-08 |
+| Zakon o izmjenama i dopunama Zakona o lokalnoj samoupravi | [`zakon/2019/320640/`](zakon/2019/320640/) | amended, not consolidated | 1 | 2019-06-29 | 2019-06-29 |
+| Zakon o izmjenama Zakona o crnogorskom državljanstvu | [`zakon/2019/324836/`](zakon/2019/324836/) | amended, not consolidated | 1 | 2020-01-04 | 2020-01-04 |
 | Zakon o izmjeni i dopunama Zakona o posredovanju | [`zakon/2019/329017/`](zakon/2019/329017/) | amending act | 1 | 2019-03-30 | 2019-03-30 |
+| Zakon o izmjenama i dopunama Zakona o zaštiti prirodnog i kulturno-istorijskog područja Kotora | [`zakon/2019/330543/`](zakon/2019/330543/) | amended, not consolidated | 1 | 2019-12-19 | 2019-12-19 |
+| Zakon o izmjenama i dopunama Zakona o koncesijama | [`zakon/2019/333146/`](zakon/2019/333146/) | amended, not consolidated | 1 | 2020-01-04 | 2020-01-04 |
+| Zakon o dopuni Zakona o poreskoj administraciji | [`zakon/2019/333311/`](zakon/2019/333311/) | amended, not consolidated | 1 | 2019-09-18 | 2019-09-18 |
+| Zakon o izmjenama i dopunama Zakona o stečaju i likvidaciji banaka | [`zakon/2019/333490/`](zakon/2019/333490/) | amended, not consolidated | 1 | 2020-01-03 | 2020-01-03 |
+| Zakon o akademskom integritetu | [`zakon/2019/334337/`](zakon/2019/334337/) | amended, not consolidated | 1 | 2019-03-27 | 2019-03-27 |
+| Zakon o industrijskim emisijama | [`zakon/2019/334339/`](zakon/2019/334339/) | amended, not consolidated | 1 | 2019-03-27 | 2019-03-27 |
+| Zakon o izmjenama i dopunama Zakona o izvršenju uslovne osude i kazne rada u javnom interesu | [`zakon/2019/334376/`](zakon/2019/334376/) | amended, not consolidated | 1 | 2019-03-27 | 2019-03-27 |
+| Zakon o izmjenama i dopunama Zakona o izvršenju kazni zatvora, novčane kazne i mjera bezbjednosti | [`zakon/2019/334768/`](zakon/2019/334768/) | amended, not consolidated | 1 | 2019-03-30 | 2019-03-30 |
+| Zakon o izmjenama i dopunama Zakona o zaštiti kulturnih dobara | [`zakon/2019/334778/`](zakon/2019/334778/) | amended, not consolidated | 1 | 2019-03-30 | 2019-03-30 |
+| Zakon o kozmetičkim proizvodima | [`zakon/2019/335018/`](zakon/2019/335018/) | amended, not consolidated | 1 | 2019-04-30 | 2019-04-30 |
+| Zakon o posredovanju pri zapošljavanju i pravima za vrijeme nezaposlenosti | [`zakon/2019/335029/`](zakon/2019/335029/) | amended, not consolidated | 1 | 2019-04-30 | 2019-04-30 |
+| Zakon o detektivskoj djelatnosti | [`zakon/2019/335249/`](zakon/2019/335249/) | amended, not consolidated | 1 | 2019-05-08 | 2019-05-08 |
+| Zakon o izmjenama i dopunama Zakona o izvršenju i obezbjeđenju | [`zakon/2019/335250/`](zakon/2019/335250/) | amended, not consolidated | 1 | 2019-05-08 | 2019-05-08 |
+| Zakon o izmjenama i dopunama Zakona o efikasnom korišćenju energije | [`zakon/2019/335260/`](zakon/2019/335260/) | amended, not consolidated | 1 | 2019-05-08 | 2019-05-08 |
+| Zakon o načinu upisa brodova, plutajućih objekata i instalacija za proizvodnju ugljovodonika u upisnike i stvarnim pravima na brodovima i instalacijama za proizvodnju ugljovodonika | [`zakon/2019/336055/`](zakon/2019/336055/) | amended, not consolidated | 1 | 2019-06-29 | 2019-06-29 |
+| Zakon o izmjenama i dopunama Zakona o parničnom postupku | [`zakon/2019/336056/`](zakon/2019/336056/) | amended, not consolidated | 1 | 2019-06-29 | 2019-06-29 |
+| Zakon o izmjeni i dopunama Zakona o državnim simbolima i Danu državnosti Crne Gore | [`zakon/2019/336057/`](zakon/2019/336057/) | amended, not consolidated | 1 | 2019-06-29 | 2019-06-29 |
+| Zakon o izmjenama i dopunama Zakona o strancima | [`zakon/2019/336186/`](zakon/2019/336186/) | amended, not consolidated | 1 | 2019-01-23 | 2019-01-23 |
+| Zakon o izmjenama i dopuni Zakona o međunarodnoj i privremenoj zaštiti stranaca | [`zakon/2019/336187/`](zakon/2019/336187/) | amended, not consolidated | 1 | 2019-01-15 | 2019-01-15 |
+| Zakon o izmjenama i dopunama Zakona o unutrašnjoj trgovini | [`zakon/2019/336433/`](zakon/2019/336433/) | amended, not consolidated | 1 | 2019-07-13 | 2019-07-13 |
+| Zakon o fiskalizaciji u prometu proizvoda i usluga | [`zakon/2019/336628/`](zakon/2019/336628/) | amended, not consolidated | 1 | 2019-08-15 | 2019-08-15 |
+| Zakon o izmjenama i dopunama Zakona o odbrani | [`zakon/2019/336629/`](zakon/2019/336629/) | amended, not consolidated | 1 | 2019-08-15 | 2019-08-15 |
 | Zakon o izmjenama i dopunama Zakona o upotrebi jedinica Vojske Crne Gore u međunarodnim snagama i učešću pripadnika civilne zaštite, policije i zaposlenih u organima državne uprave u mirovnim misijama i drugim aktivnostima u inostranstvu | [`zakon/2019/336639/`](zakon/2019/336639/) | amending act | 1 | 2019-08-15 | 2019-08-15 |
+| Zakon o izmjenama i dopuni Zakona o doprinosima za obavezno socijalno osiguranje | [`zakon/2019/336710/`](zakon/2019/336710/) | amended, not consolidated | 1 | 2019-07-26 | 2019-07-26 |
 | Zakon o izmjeni Zakona o državnim simbolima i Danu državnosti Crne Gore | [`zakon/2019/337019/`](zakon/2019/337019/) | in force | 1 | 2019-08-12 | 2019-08-12 |
+| Zakon o izmjenama Zakona o zvaničnoj statistici i sistemu zvanične statistike | [`zakon/2019/337029/`](zakon/2019/337029/) | amended, not consolidated | 1 | 2019-08-20 | 2019-08-20 |
+| Zakon o izmjenama i dopunama Zakona o vanparničnom postupku | [`zakon/2019/338008/`](zakon/2019/338008/) | amended, not consolidated | 1 | 2019-12-19 | 2019-12-19 |
+| Zakon o izmjenama i dopunama Zakona o uzimanju i presađivanju ljudskih organa u svrhu liječenja | [`zakon/2019/338015/`](zakon/2019/338015/) | amended, not consolidated | 1 | 2019-12-19 | 2019-12-19 |
+| Zakon o izmjenama i dopunama Zakona o porezu na dohodak fizičkih lica | [`zakon/2019/338016/`](zakon/2019/338016/) | amended, not consolidated | 1 | 2019-12-19 | 2019-12-19 |
+| Zakon o računovodstvu u javnom sektoru | [`zakon/2019/338049/`](zakon/2019/338049/) | amended, not consolidated | 1 | 2019-12-14 | 2019-12-14 |
+| Zakon o zaštiti morske sredine | [`zakon/2019/338131/`](zakon/2019/338131/) | amended, not consolidated | 1 | 2020-01-04 | 2020-01-04 |
+| Zakon o javnim nabavkama | [`zakon/2019/338205/`](zakon/2019/338205/) | amended, not consolidated | 1 | 2020-01-07 | 2020-01-07 |
+| Zakon o zaštiti od negativnih uticaja klimatskih promjena | [`zakon/2019/338339/`](zakon/2019/338339/) | amended, not consolidated | 1 | 2020-01-04 | 2020-01-04 |
+| Zakon o izmjenama i dopunama Zakona o komunalnim djelatnostima | [`zakon/2019/348141/`](zakon/2019/348141/) | amended, not consolidated | 1 | 2019-12-14 | 2019-12-14 |
 | Zakon o izmjenama i dopunama Zakona o Budžetu Crne Gore za 2020. godinu | [`zakon/2020/292710/`](zakon/2020/292710/) | amending act | 1 | 2020-06-24 | 2020-06-24 |
+| Zakon o putevima | [`zakon/2020/310068/`](zakon/2020/310068/) | amended, not consolidated | 1 | 2020-08-14 | 2020-08-14 |
+| Zakon o alternativnom rješavanju sporova* | [`zakon/2020/310691/`](zakon/2020/310691/) | amended, not consolidated | 1 | 2020-08-06 | 2020-08-06 |
+| Zakon o vojno-obavještajnim i bezbjednosnim poslovima | [`zakon/2020/317302/`](zakon/2020/317302/) | amended, not consolidated | 1 | 2020-07-31 | 2020-07-31 |
+| Zakon o izmjenama i dopunama Zakona o teritorijalnoj organizaciji Crne Gore | [`zakon/2020/318270/`](zakon/2020/318270/) | amended, not consolidated | 1 | 2020-01-31 | 2020-01-31 |
+| Zakon o fondu rada* | [`zakon/2020/320379/`](zakon/2020/320379/) | amended, not consolidated | 1 | 2020-08-12 | 2020-08-12 |
 | Zakon o potvrđivanju Ugovora između Crne Gore i Ujedinjenog Kraljevstva Velike Britanije i Sjeverne Irske kojim se dopunjava Evropska Konvencija o ekstradiciji od 13. decembra 1957. godine i koji ima za cilj olakšavanje njene primjene | [`zakon/2020/327140/`](zakon/2020/327140/) | amending act | 1 | 2020-08-08 | 2020-08-08 |
+| Zakon o dopunama Zakona o turizmu i ugostiteljstvu | [`zakon/2020/333219/`](zakon/2020/333219/) | amended, not consolidated | 1 | 2020-07-28 | 2020-07-28 |
 | Zakon o izmjenama Porodičnog zakona | [`zakon/2020/333226/`](zakon/2020/333226/) | in force | 1 | 2020-08-05 | 2020-08-05 |
+| Zakon o dopuni Zakona o lokalnoj samoupravi | [`zakon/2020/336207/`](zakon/2020/336207/) | amended, not consolidated | 1 | 2020-04-25 | 2020-04-25 |
+| Zakon o izmjenama i dopunama Zakona o biračkom spisku | [`zakon/2020/336437/`](zakon/2020/336437/) | amended, not consolidated | 1 | 2020-01-31 | 2020-01-31 |
+| Zakon o dopunama Krivičnog zakonika Crne Gore | [`zakon/2020/336438/`](zakon/2020/336438/) | amended, not consolidated | 1 | 2020-01-31 | 2020-01-31 |
 | Zakon o izmjenama i dopunama Zakona o javnom redu i miru | [`zakon/2020/337196/`](zakon/2020/337196/) | amending act | 1 | 2020-06-23 | 2020-06-23 |
+| Zakon o izmjenama i dopunama Zakona o parničnom postupku | [`zakon/2020/338219/`](zakon/2020/338219/) | amended, not consolidated | 1 | 2020-08-05 | 2020-08-05 |
+| Zakon o izmjenama i dopunama Zakona o sudovima | [`zakon/2020/338220/`](zakon/2020/338220/) | amended, not consolidated | 1 | 2020-08-05 | 2020-08-05 |
+| Zakon o izmjenama i dopunama Zakona o hitnoj medicinskoj pomoći | [`zakon/2020/338503/`](zakon/2020/338503/) | amended, not consolidated | 1 | 2020-08-12 | 2020-08-12 |
+| Zakon o inovacionoj djelatnosti | [`zakon/2020/338611/`](zakon/2020/338611/) | amended, not consolidated | 1 | 2020-08-14 | 2020-08-14 |
+| Zakon o izmjeni i dopuni Zakona o finansiranju upravljanja vodama | [`zakon/2020/338613/`](zakon/2020/338613/) | amended, not consolidated | 1 | 2020-08-14 | 2020-08-14 |
+| Zakon o izmjenama i dopunama Zakona o porezu na dohodak fizičkih lica | [`zakon/2021/293530/`](zakon/2021/293530/) | amended, not consolidated | 1 | 2021-06-04 | 2021-06-04 |
 | Zakon o Budžetu Crne Gore za 2021. godinu | [`zakon/2021/309957/`](zakon/2021/309957/) | in force | 1 | 2021-06-25 | 2021-06-25 |
+| Zakon o izmjenama i dopunama Zakona o socijalnoj i dječjoj zaštiti | [`zakon/2021/310816/`](zakon/2021/310816/) | amended, not consolidated | 1 | 2021-06-12 | 2021-06-12 |
+| Zakon o izmjeni Zakona o gimnaziji | [`zakon/2021/311939/`](zakon/2021/311939/) | amended, not consolidated | 1 | 2022-01-08 | 2022-01-08 |
+| Zakon o izmjenama i dopunama Opšteg zakona o obrazovanju i vaspitanju | [`zakon/2021/313128/`](zakon/2021/313128/) | amended, not consolidated | 1 | 2021-06-12 | 2021-06-12 |
+| Zakon o izmjenama i dopunama Zakona o nacionalnom brendu | [`zakon/2021/319892/`](zakon/2021/319892/) | amended, not consolidated | 1 | 2022-01-08 | 2022-01-08 |
+| Zakon o dopuni Zakona o državnoj upravi | [`zakon/2021/321183/`](zakon/2021/321183/) | amended, not consolidated | 1 | 2021-07-03 | 2021-07-03 |
+| Zakon o izmjenama i dopunama Zakona o poreskoj administraciji | [`zakon/2021/322394/`](zakon/2021/322394/) | amended, not consolidated | 1 | 2022-01-08 | 2022-01-08 |
 | Zakon o izmjenama i dopunama Zakona o državnim i drugim praznicima | [`zakon/2021/324639/`](zakon/2021/324639/) | amending act | 1 | 2022-01-08 | 2022-01-08 |
+| Zakon o izmjenama Zakona o sanaciji kreditnih institucija | [`zakon/2021/327793/`](zakon/2021/327793/) | amended, not consolidated | 1 | 2021-01-26 | 2021-01-26 |
+| Zakon o izmjenama i dopunama Zakona o državnim službenicima i namještenicima | [`zakon/2021/328248/`](zakon/2021/328248/) | amended, not consolidated | 1 | 2021-02-03 | 2021-02-03 |
+| Zakon o izmjenama i dopunama Zakona o autorskom i srodnim pravima | [`zakon/2021/328643/`](zakon/2021/328643/) | amended, not consolidated | 1 | 2022-01-08 | 2022-01-08 |
+| Zakon o izmjenama i dopunama Zakona o socijalnoj i dječjoj zaštiti | [`zakon/2021/330331/`](zakon/2021/330331/) | amended, not consolidated | 1 | 2021-12-31 | 2021-12-31 |
+| Zakon o izmjenama i dopunama Zakona o kreditnim institucijama | [`zakon/2021/330418/`](zakon/2021/330418/) | amended, not consolidated | 1 | 2021-01-26 | 2021-01-26 |
+| Zakon o izmjenama i dopunama Zakona o radu | [`zakon/2021/330839/`](zakon/2021/330839/) | amended, not consolidated | 1 | 2021-12-31 | 2021-12-31 |
+| Zakon o dopuni Zakona o radu | [`zakon/2021/332842/`](zakon/2021/332842/) | amended, not consolidated | 1 | 2021-06-23 | 2021-06-23 |
+| Zakon o izmjenama i dopunama Krivičnog zakonika Crne Gore | [`zakon/2021/333168/`](zakon/2021/333168/) | amended, not consolidated | 1 | 2022-01-08 | 2022-01-08 |
+| Zakon o izmjeni Zakona 0 stručnom obrazovanju | [`zakon/2021/333195/`](zakon/2021/333195/) | amended, not consolidated | 1 | 2022-01-08 | 2022-01-08 |
+| Zakon o izmjenama i dopunama Zakona o sportu | [`zakon/2021/333733/`](zakon/2021/333733/) | amended, not consolidated | 1 | 2021-12-04 | 2021-12-04 |
+| Zakon o izmjenama Zakona o unutrašnjim poslovima | [`zakon/2021/333743/`](zakon/2021/333743/) | amended, not consolidated | 1 | 2021-12-04 | 2021-12-04 |
+| Zakon o izmjenama i dopunama Krivičnog zakonika Crne Gore | [`zakon/2021/333883/`](zakon/2021/333883/) | amended, not consolidated | 1 | 2022-01-08 | 2022-01-08 |
+| Zakon o mirnom rješavanju radnih sporova | [`zakon/2021/333895/`](zakon/2021/333895/) | amended, not consolidated | 1 | 2022-01-08 | 2022-01-08 |
+| Zakon o obaveznom zdravstvenom osiguranju | [`zakon/2021/333904/`](zakon/2021/333904/) | amended, not consolidated | 1 | 2021-12-31 | 2021-12-31 |
+| Zakon o standardizaciji | [`zakon/2021/333915/`](zakon/2021/333915/) | amended, not consolidated | 1 | 2022-01-08 | 2022-01-08 |
+| Zakon o dopuni opšteg Zakona o obrazovanju i vaspitanju | [`zakon/2021/333938/`](zakon/2021/333938/) | amended, not consolidated | 1 | 2022-01-08 | 2022-01-08 |
+| Zakon o izmjenama i dopunama Zakona o porezu na dobit pravnih lica | [`zakon/2021/333948/`](zakon/2021/333948/) | amended, not consolidated | 1 | 2021-12-31 | 2021-12-31 |
+| Zakon o izmjenama i dopunama zakona o osiguranju | [`zakon/2021/333949/`](zakon/2021/333949/) | amended, not consolidated | 1 | 2022-01-08 | 2022-01-08 |
+| Zakon o izmjenama i dopunama zakona o putnim ispravama | [`zakon/2021/333950/`](zakon/2021/333950/) | amended, not consolidated | 1 | 2022-01-08 | 2022-01-08 |
+| Zakon o izmjeni Zakona o socijalnoj i dječjoj zaštiti | [`zakon/2021/333963/`](zakon/2021/333963/) | amended, not consolidated | 1 | 2022-01-08 | 2022-01-08 |
+| Zakon o uporedivosti naknada povezanih sa računom za plaćanje potrošača, prebacivanju računa za plaćanje potrošača i računu za plaćanje sa osnovnim uslugama | [`zakon/2021/333988/`](zakon/2021/333988/) | amended, not consolidated | 1 | 2022-01-08 | 2022-01-08 |
+| Zakon o zaštiti zaposlenih građana crne gore koji se upućuju na rad u inostranstvo | [`zakon/2021/333991/`](zakon/2021/333991/) | amended, not consolidated | 1 | 2022-01-08 | 2022-01-08 |
+| Zakon o izmjenama Zakonika o krivičnom postupku | [`zakon/2021/333999/`](zakon/2021/333999/) | amended, not consolidated | 1 | 2022-01-08 | 2022-01-08 |
+| Zakon o izmjenama i dopunama Zakona o obaveznom osiguranju u saobraćaju | [`zakon/2021/334000/`](zakon/2021/334000/) | amended, not consolidated | 1 | 2022-01-08 | 2022-01-08 |
 | Zakon o izmjeni Zakona o porezu na upotrebu putničkih motornih vozila | [`zakon/2021/334001/`](zakon/2021/334001/) | in force | 1 | 2022-01-08 | 2022-01-08 |
 | Zakon o prestanku važenja zakon o ulaganju u konsolidaciju i razvoj društva za transport putnika i robe u vazdušnom saobraćaju "montenegro airlines" A.D. Podgorica | [`zakon/2021/334022/`](zakon/2021/334022/) | in force | 1 | 2021-12-31 | 2021-12-31 |
 | Zakon o izmjeni Zakona o objedinjenoj registraciji i sistemu izvještavanja o obračunu i naplati poreza i doprinosa | [`zakon/2021/334023/`](zakon/2021/334023/) | in force | 1 | 2021-12-31 | 2021-12-31 |
+| Zakon o izmjenama i dopunama Zakona o računovodstvu u javnom sektoru | [`zakon/2021/334024/`](zakon/2021/334024/) | amended, not consolidated | 1 | 2021-12-31 | 2021-12-31 |
+| Zakon o dopunama Zakona o zaštiti i spašavanju | [`zakon/2021/334034/`](zakon/2021/334034/) | amended, not consolidated | 1 | 2022-01-08 | 2022-01-08 |
+| Zakon o izmjenama i dopunama Zakona o porezu na dohodak fizičkih lica | [`zakon/2021/334044/`](zakon/2021/334044/) | amended, not consolidated | 1 | 2021-12-31 | 2021-12-31 |
+| Zakon o izmjenama i dopuni Zakona o doprinosima za obavezno socijalno osiguranje | [`zakon/2021/334055/`](zakon/2021/334055/) | amended, not consolidated | 1 | 2021-12-31 | 2021-12-31 |
+| Zakon o izmjenama i dopunama Zakona o radu | [`zakon/2021/337688/`](zakon/2021/337688/) | amended, not consolidated | 1 | 2021-06-12 | 2021-06-12 |
+| Zakon o izmjenama i dopunama Zakona o doprinosima za obavezno socijalno osiguranje | [`zakon/2021/337695/`](zakon/2021/337695/) | amended, not consolidated | 1 | 2021-06-04 | 2021-06-04 |
+| Zakon o izmjeni i dopunama Zakona o poljoprivredi i ruralnom razvoju | [`zakon/2021/337696/`](zakon/2021/337696/) | amended, not consolidated | 1 | 2021-06-12 | 2021-06-12 |
+| Zakon o unutrašnjim poslovima | [`zakon/2021/338201/`](zakon/2021/338201/) | amended, not consolidated | 1 | 2021-07-03 | 2021-07-03 |
+| Zakon o izmjeni Zakona o radu | [`zakon/2021/338921/`](zakon/2021/338921/) | amended, not consolidated | 1 | 2021-01-26 | 2021-01-26 |
 | Zakon o izmjenama i dopunama Zakona o slobodi vjeroispovijesti ili uvjerenja i pravnom položaju vjerskih zajednica | [`zakon/2021/338971/`](zakon/2021/338971/) | amending act | 1 | 2021-01-26 | 2021-01-26 |
+| Zakon o izmjenama i dopunama Zakona o fiskalizaciji u prometu proizvoda i usluga | [`zakon/2021/338972/`](zakon/2021/338972/) | amended, not consolidated | 1 | 2021-01-26 | 2021-01-26 |
+| Zakon o izmjenama i dopunama Zakona o osnovnom obrazovanju i vaspitanju | [`zakon/2021/348164/`](zakon/2021/348164/) | amended, not consolidated | 1 | 2021-06-12 | 2021-06-12 |
 | Zakon o izmjenama i dopunama Zakona o Budžetu Crne Gore za 2022. godinu | [`zakon/2022/292319/`](zakon/2022/292319/) | amending act | 1 | 2022-10-11 | 2022-10-11 |
+| Zakon o izmjeni i dopuni Zakona o stručnom osposobljavanju lica sa stečenim visokim obrazovanjem | [`zakon/2022/293348/`](zakon/2022/293348/) | amended, not consolidated | 1 | 2022-08-11 | 2022-08-11 |
+| Zakon o izmjenama i dopuni Zakona o putevima | [`zakon/2022/293542/`](zakon/2022/293542/) | amended, not consolidated | 1 | 2022-12-24 | 2022-12-24 |
+| Zakon o izmjenama i dopunama Zakona o doprinosima za obavezno socijalno osiguranje | [`zakon/2022/310599/`](zakon/2022/310599/) | amended, not consolidated | 1 | 2022-12-30 | 2022-12-30 |
+| Zakon o izmjenama i dopunama Zakona o efikasnom korišćenju energije | [`zakon/2022/315216/`](zakon/2022/315216/) | amended, not consolidated | 1 | 2022-12-24 | 2022-12-24 |
 | Zakon o izmjenama i dopuni Zakona o Glavnom gradu | [`zakon/2022/321193/`](zakon/2022/321193/) | amending act | 1 | 2022-08-22 | 2022-08-22 |
 | Zakon o izmjenama i dopuni Zakona o Budžetu za 2022. godinu | [`zakon/2022/321274/`](zakon/2022/321274/) | amending act | 1 | 2022-05-26 | 2022-05-26 |
+| Zakon o izmjenama i dopunama Zakona o strancima | [`zakon/2022/328008/`](zakon/2022/328008/) | amended, not consolidated | 1 | 2022-08-11 | 2022-08-11 |
 | Zakon o izmjenama i dopunama Zakona o Predsjedniku Crne Gore | [`zakon/2022/333961/`](zakon/2022/333961/) | amending act | 1 | 2022-12-16 | 2022-12-16 |
+| Zakon o izmjenama i dopunama Zakona o komunalnim djelatnostima | [`zakon/2022/333972/`](zakon/2022/333972/) | amended, not consolidated | 1 | 2022-12-24 | 2022-12-24 |
+| Zakon o dopunama Zakona o porezu na dobit pravnih lica | [`zakon/2022/334344/`](zakon/2022/334344/) | amended, not consolidated | 1 | 2022-12-30 | 2022-12-30 |
+| Zakon o dopuni Zakona o sprječavanju nelegalnog poslovanja | [`zakon/2022/334472/`](zakon/2022/334472/) | amended, not consolidated | 1 | 2022-12-30 | 2022-12-30 |
+| Zakon o izmjenama i dopunama Zakona o porezu na dohodak fizičkih lica | [`zakon/2022/334487/`](zakon/2022/334487/) | amended, not consolidated | 1 | 2022-12-30 | 2022-12-30 |
 | Zakon o izmjeni Zakona o klasifikaciji djelatnosti | [`zakon/2022/334488/`](zakon/2022/334488/) | in force | 1 | 2022-12-30 | 2022-12-30 |
 | Zakon o izmjenama i dopunama Zakona o stečaju | [`zakon/2022/334667/`](zakon/2022/334667/) | amending act | 1 | 2022-01-18 | 2022-01-18 |
 | Zakon o izmjeni Zakona o državnoj upravi | [`zakon/2022/337190/`](zakon/2022/337190/) | in force | 1 | 2022-05-13 | 2022-05-13 |
+| Carinski zakon | [`zakon/2022/338510/`](zakon/2022/338510/) | amended, not consolidated | 1 | 2022-08-11 | 2022-08-11 |
+| Zakon o privremenom izdržavanju djece | [`zakon/2022/338515/`](zakon/2022/338515/) | amended, not consolidated | 1 | 2022-08-04 | 2022-08-04 |
+| Zakon o izmjenama i dopuni Zakona o finansiranju lokalne samouprave | [`zakon/2022/338560/`](zakon/2022/338560/) | amended, not consolidated | 1 | 2022-08-03 | 2022-08-03 |
+| Zakon o izmjenama i dopunama Zakona o uzimanju i presađivanju ljudskih tkiva i ćelija u svrhu liječenja | [`zakon/2022/338561/`](zakon/2022/338561/) | amended, not consolidated | 1 | 2022-08-11 | 2022-08-11 |
 | Zakon o izmjenama i dopunama Zakona o teritorijalnoj organizaciji Crne Gore | [`zakon/2022/339092/`](zakon/2022/339092/) | amending act | 1 | 2022-08-22 | 2022-08-22 |
+| Zakon o izmjenama i dopunama Zakona o tehničkim zahtjevima za proizvode i ocjenjivanju usaglašenosti | [`zakon/2023/311435/`](zakon/2023/311435/) | amended, not consolidated | 1 | 2023-01-18 | 2023-01-18 |
+| Zakon o izmjenama i dopunama Zakona o registrima prebivališta i boravišta | [`zakon/2023/312410/`](zakon/2023/312410/) | amended, not consolidated | 1 | 2023-01-18 | 2023-01-18 |
+| Zakon o izmjeni Zakona o zaštiti i spašavanju | [`zakon/2023/317135/`](zakon/2023/317135/) | amended, not consolidated | 1 | 2023-01-10 | 2023-01-10 |
+| Zakon o izmjenama i dopunama Opšteg zakona o obrazovanju i vaspitanju | [`zakon/2023/317595/`](zakon/2023/317595/) | amended, not consolidated | 1 | 2023-01-18 | 2023-01-18 |
+| Zakon o izmjeni i dopunama Zakona o socijalnoj i dječjoj zaštiti | [`zakon/2023/317727/`](zakon/2023/317727/) | amended, not consolidated | 1 | 2023-01-18 | 2023-01-18 |
+| Zakon o izmjenama i dopuni Zakona o porezu na promet nepokretnosti | [`zakon/2023/324081/`](zakon/2023/324081/) | amended, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
+| Zakon o izmjenama i dopunama Zakona o žigu | [`zakon/2023/332696/`](zakon/2023/332696/) | amended, not consolidated | 1 | 2023-01-18 | 2023-01-18 |
+| Zakon o izmjeni i dopuni Zakona o porezu na promet nepokretnosti | [`zakon/2023/333502/`](zakon/2023/333502/) | amended, not consolidated | 1 | 2024-01-01 | 2024-01-01 |
+| Zakon o dopunama Zakona o sprječavanju nelegalnog poslovanja | [`zakon/2023/335266/`](zakon/2023/335266/) | amended, not consolidated | 1 | 2023-03-16 | 2023-03-16 |
+| Zakon o izmjeni i dopunama Zakona o porezu na dobit pravnih lica | [`zakon/2023/335340/`](zakon/2023/335340/) | amended, not consolidated | 1 | 2023-03-18 | 2023-03-18 |
+| Zakon o izmjenama i dopunama Zakona o patentima | [`zakon/2023/336213/`](zakon/2023/336213/) | amended, not consolidated | 1 | 2023-01-18 | 2023-01-18 |
+| Zakon o izmjenama i dopunama Zakona o ovjeri potpisa, rukopisa i prepisa | [`zakon/2023/336457/`](zakon/2023/336457/) | amended, not consolidated | 1 | 2023-01-18 | 2023-01-18 |
+| Zakon o izmjenama i dopunama Zakona o javnim nabavkama | [`zakon/2023/336458/`](zakon/2023/336458/) | amended, not consolidated | 1 | 2023-01-18 | 2023-01-18 |
+| Zakon o dopunama Zakona o industrijskim emisijama | [`zakon/2023/336468/`](zakon/2023/336468/) | amended, not consolidated | 1 | 2023-01-18 | 2023-01-18 |
+| Zakon o izmjenama Zakona o osnovnom obrazovanju i vaspitanju | [`zakon/2023/336476/`](zakon/2023/336476/) | amended, not consolidated | 1 | 2023-01-18 | 2023-01-18 |
+| Zakon o izmjenama i dopunama Zakona o unutrašnjim poslovima | [`zakon/2023/336477/`](zakon/2023/336477/) | amended, not consolidated | 1 | 2023-01-10 | 2023-01-10 |
+| Zakon o izmjenama i dopunama Zakona o porezu na dodatu vrijednost | [`zakon/2023/336484/`](zakon/2023/336484/) | amended, not consolidated | 1 | 2023-01-18 | 2023-01-18 |
+| Zakon o dopuni Zakona o koncesijama | [`zakon/2023/362946/`](zakon/2023/362946/) | amended, not consolidated | 1 | 2023-12-31 | 2023-12-31 |
 | Zakon o izmjeni Zakona o računovodstvu u javnom sektoru | [`zakon/2023/363003/`](zakon/2023/363003/) | in force | 1 | 2023-12-30 | 2023-12-30 |
 | Zakon o izmjenama i dopunama Zakona o Centralnoj banci Crne Gore | [`zakon/2023/363004/`](zakon/2023/363004/) | amending act | 1 | 2023-12-31 | 2023-12-31 |
+| Zakon o izmjenama i dopunama Zakona o porezu na dobit pravnih lica | [`zakon/2023/363013/`](zakon/2023/363013/) | amended, not consolidated | 1 | 2023-12-31 | 2023-12-31 |
+| Zakon o izmjenama i dopunama Zakona o privremenom izdržavanju djece | [`zakon/2023/363097/`](zakon/2023/363097/) | amended, not consolidated | 1 | 2024-01-07 | 2024-01-07 |
+| Zakon o izmjenama i dopunama Krivičnog zakonika Crne Gore | [`zakon/2023/364977/`](zakon/2023/364977/) | amended, not consolidated | 1 | 2023-12-12 | 2023-12-12 |
+| Zakon o sprečavanju pranja novca i finansiranja terorizma | [`zakon/2023/365058/`](zakon/2023/365058/) | amended, not consolidated | 1 | 2023-12-12 | 2023-12-12 |
+| Zakon o izmjenama i dopunama Zakona o finansiranju lokalne samouprave | [`zakon/2024/364759/`](zakon/2024/364759/) | amended, not consolidated | 1 | 2024-01-24 | 2024-01-24 |
+| Zakon o izmjenama Zakona o povraćaju oduzetih imovinskih prava i obeštećenju | [`zakon/2024/368082/`](zakon/2024/368082/) | in force | 1 | 2024-04-10 | 2024-04-10 |
+| Zakon o izmjenama i dopuni Zakona o eksproprijaciji | [`zakon/2024/368093/`](zakon/2024/368093/) | amended, not consolidated | 1 | 2024-04-10 | 2024-04-10 |
+| Zakon o dopuni Zakona o industrijskim emisijama | [`zakon/2024/368294/`](zakon/2024/368294/) | amended, not consolidated | 1 | 2024-04-20 | 2024-04-20 |
+| Zakon o izmjenama i dopunama Zakona o biocidnim proizvodima | [`zakon/2024/368316/`](zakon/2024/368316/) | amending act | 1 | 2024-04-20 | 2024-04-20 |
+| Zakon o upravljanju otpadom | [`zakon/2024/368332/`](zakon/2024/368332/) | amended, not consolidated | 1 | 2024-04-20 | 2024-04-20 |
+| Zakon o izmjenama i dopunama Zakona o socijalnoj i dječjoj zaštiti | [`zakon/2024/369947/`](zakon/2024/369947/) | amended, not consolidated | 1 | 2024-06-01 | 2024-06-01 |
+| Zakon o dopunama Zakona o hitnoj medicinskoj pomoći | [`zakon/2024/369948/`](zakon/2024/369948/) | amended, not consolidated | 1 | 2024-06-01 | 2024-06-01 |
+| Zakon o izmjenama i dopunama Zakona o autorskom i srodnim pravima | [`zakon/2024/369954/`](zakon/2024/369954/) | amended, not consolidated | 1 | 2024-06-01 | 2024-06-01 |
+| Zakon o izmjeni Zakona o obaveznom zdravstvenom osiguranju | [`zakon/2024/369958/`](zakon/2024/369958/) | amended, not consolidated | 1 | 2024-06-01 | 2024-06-01 |
+| Zakon o izmjeni i dopuni Zakonika o krivičnom postupku | [`zakon/2024/370159/`](zakon/2024/370159/) | amended, not consolidated | 1 | 2024-06-12 | 2024-06-12 |
+| Zakon o izmjeni i dopuni Zakona o Specijalnom državnom tužilaštvu | [`zakon/2024/370162/`](zakon/2024/370162/) | amended, not consolidated | 1 | 2024-06-19 | 2024-06-19 |
+| Zakon o sprečavanju korupcije* | [`zakon/2024/370174/`](zakon/2024/370174/) | amended, not consolidated | 1 | 2024-06-12 | 2024-06-12 |
+| Zakon o izmjenama i dopunama Zakona o sudovima | [`zakon/2024/370231/`](zakon/2024/370231/) | amended, not consolidated | 1 | 2024-06-19 | 2024-06-19 |
 | Zakon o izmjenama i dopuni Zakona o Centru za obuku u sudstvu i državnom tužilaštvu | [`zakon/2024/370232/`](zakon/2024/370232/) | amending act | 1 | 2024-06-19 | 2024-06-19 |
 | Zakon o izmjenama i dopunama Zakona o besplatnoj pravnoj pomoći | [`zakon/2024/375969/`](zakon/2024/375969/) | amending act | 1 | 2024-12-31 | 2024-12-31 |
 | Zakon o izmjenama Zakona o vanparničnom postupku | [`zakon/2024/375971/`](zakon/2024/375971/) | in force | 1 | 2024-12-31 | 2024-12-31 |
