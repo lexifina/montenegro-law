@@ -1,83 +1,97 @@
 # Montenegro: law history in git
 
-[Crnogorski](README.md) · **English**
+**English** · **[Ili pročitajte na crnogorskom](README.md)**
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
 <img alt="Montenegrin law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
 </picture>
 
+The law of Montenegro as a git history: one file per article, one commit per version on the day it took effect, and the act that made it as the commit's author. The Službeni list publishes no consolidated texts, so every act is here as published, and only the Constitution has later versions: its 21 amendments are applied to the articles they replace. `git blame` names the amendment behind every line of the Constitution; `git log` lists every change to an article; picking a date gives the text in force that day.
+
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Montenegro's national law, which global-law reads at `montenegro/national/acts/`.
 
-**Scope**
-- The acts the Službeni list Crne Gore (the Official Gazette) publishes and its legal information system (PIS) marks in force: the Constitution with its amendments, laws, Government decrees, regulations, decisions, rules, orders, instructions, plans, programmes, statutes and treaties, national and local, each from its official PDF.
-- Tens of thousands of acts, growing as the fetch of the PIS completes; [ACTS.md](ACTS.md) lists every act held, and [data/held.json](data/held.json) every act in force that is not yet held, with the reason.
+**What is in it now:** the Constitution and 36,000 acts in force from the Službeni list's legal information system (PIS), national and municipal, each as published: 1,122 laws, 1,094 Government decrees, 3,582 rulebooks, 27,535 decisions and rulings, 142 international treaties and 2,525 other acts (orders, instructions, rules, rules of procedure, statutes, programmes, plans); 4,301 of them are amending acts. [`ACTS.md`](ACTS.md) lists every act, by kind; [`data/held.json`](data/held.json) lists the acts in force that are not here yet, each with the reason.
 
-**Use**
-- The PIS shows an act as it was published, and lists the acts that later amended it. Here each act is a folder of article files, so what a provision said, and which act wrote it, is one `git log` or `git blame`.
-- Everything can be searched, compared and reused: the texts are official, and our work is public domain (CC0).
+Each act is in `<kind>/<year>/<PIS id>/`, by the year it was published (`zakon/2019/312153/` is the Zakon o radu, the Labour Law, Službeni list Crne Gore 74/2019); the Constitution is in [`ustav/`](ustav/), and the laws of this repository's first publish sit at the top level under their title (`zakon-o-akcizama/`). `data/paths.json` maps each act id to its folder.
 
-## Layout
-
-| Where | What |
-| --- | --- |
-| `ustav/` | the Constitution (2007), with Amendments I-XVI (2013) and XVII-XXI (2026) applied to the provisions they replace |
-| `zakon/`, `uredba/` | laws and Government decrees, by year of publication and PIS id; laws in force from the first publish sit at the top level under their title (`zakon-o-...`, listed in data/paths.json) |
-| `odluka/`, `rjesenje/`, `pravilnik/`, `naredba/`, `uputstvo/`, `pravila/`, `poslovnik/`, `statut/`, `program/`, `plan/`, `akt/` | decisions, rulings, regulations, orders, instructions, rules, rules of procedure, statutes, programmes, plans and other acts, national and local |
-| `ugovor/` | treaties and other international acts published in the Gazette |
-| `ukaz/`, `presuda/` | Presidential decrees (Ukaz) and the Gazette's translations of European Court of Human Rights judgments against Montenegro, which the PIS leaves unclassified (their kind is read from their titles) |
-| `local/<unit>/<year>/<id>/` | municipal acts (Službeni list Crne Gore – Opštinski propisi) added from 11 November 2026, by the municipality that issued them (read from each act's own signature block and preamble); earlier municipal acts are still in the kind folders above, listed in data/paths.json |
-| `<act>/clan-NNN.md` · `<act>/README.md` | one article per file (one paragraph per line) · the act's versions and notes |
-| [ACTS.md](ACTS.md) · `data/` · `tools/` | the act list · tables and indexes · the tools below |
+The text is in Montenegrin, as the Službeni list publishes it: the 2007 Constitution in Cyrillic, its amendments and almost every other act in Latin; nothing is transliterated. An English translation is not part of this record.
 
 ## Questions as git commands
 
 | Question | Command |
 | --- | --- |
-| What did Article 91 of the Constitution say on 1 January 2020? | `python tools/on.py 2020-01-01 ustav clan-091` |
-| Which amendment wrote each paragraph of Article 91? | `git blame ustav/clan-091.md` |
-| Every change to an article, word by word | `git log -p --word-diff ustav/clan-127.md` |
-| Everything one amendment changed | `git log --author="Amandman XX " --stat` |
-| Is an act here current? | `python tools/freshness.py <act id>` |
+| Every change to Article 91 of the Constitution | `git log -p --word-diff -- ustav/clan-091.md` |
+| Which amendment wrote each line of Article 91? | `git blame ustav/clan-091.md` |
+| Every version of the Constitution, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- ustav ':!ustav/README.md'` |
+| Article 91 as in force on 1 January 2020 | `python tools/on.py 2020-01-01 ustav clan-091` |
 
-Read dates with the tools, not `git rev-list --before`: they pick each version by its `In-force:` trailer.
+Any other act on a date: `python tools/on.py 2025-06-01 zakon/2019/312153`.
 
-**Or ask in plain words.** The same record is free to use without git, an account or a key:
+**Outside git**, we also host this record publicly, for free:
 
-- **[Ask Claude about Montenegrin law](https://global-law.lexifina.com/v1/try_claude?country=montenegro&q=what%20does%20the%20Labour%20Law%20%28Zakon%20o%20radu%29%20say%20about%20annual%20leave%20%28godi%C5%A1nji%20odmor%29%20today%2C%20and%20how%20has%20its%20%C4%8Dlan%2079%20changed%20since%202020%3F%20Quote%20the%20words%20of%20the%20law%2C%20name%20the%20law%20behind%20each%20change%20with%20the%20day%20it%20took%20effect%2C%20and%20cite%20the%20official%20publisher%27s%20page.)**: one click opens Claude with a first question ready (annual leave in the Labour Law, and how it has changed).
-- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=montenegro&q=what%20does%20the%20Labour%20Law%20%28Zakon%20o%20radu%29%20say%20about%20annual%20leave%20%28godi%C5%A1nji%20odmor%29%20today%2C%20and%20how%20has%20its%20%C4%8Dlan%2079%20changed%20since%202020%3F%20Quote%20the%20words%20of%20the%20law%2C%20name%20the%20law%20behind%20each%20change%20with%20the%20day%20it%20took%20effect%2C%20and%20cite%20the%20official%20publisher%27s%20page.)**: the same question in ChatGPT.
-- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=godi%C5%A1nji+odmor&jurisdictions=montenegro)**: Montenegrin law searched for "godišnji odmor", answered as JSON. No key for 5 calls a minute; [every tool](https://global-law.lexifina.com/v1), [keys and documentation](https://lexifina.com/api).
+- **[Ask Claude about Montenegrin law](https://global-law.lexifina.com/v1/try_claude?country=montenegro)**: opens Claude with a first question ready.
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=montenegro)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=godi%C5%A1nji+odmor&jurisdictions=montenegro)**: a search of Montenegrin law for "godišnji odmor", returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
 
-The assistants read it through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives the link that adds it. In Claude, choose "Always allow" so that each look-up is not asked about. Ask in Montenegrin or in English.
+Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in Montenegrin or in English.
 
-## Sources
+**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
 
-- The Službeni list's legal information system (PIS, [sluzbenilist.me/propisi](https://www.sluzbenilist.me/propisi)): each act's page gives its issue, publication, in-force and application days, its status (Važeći / Nevažeći) and the acts that amend it; `/propisi/<id>/download` gives its PDF, whose text layer is read. Where a PDF's text layer is not its text, the act is read from an alternative text, labelled on its version: the text layer with the characters an old font maps wrongly mapped back (Ĉ→Č, ţ→ž, Ċ→đ, ...; every corrected word checked against the clean texts), or OCR (Tesseract) of scanned pages, gated by word confidence.
-- Every version names the official page and PDF it was read from (the `Source:` and `Consolidated:` trailers of its commit, and `portal` in [data/acts.json](data/acts.json)).
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add montenegro/national/acts
+python3 tools/law.py show 2026-01-01 montenegro/national/acts/ustav/clan-091.md
+```
 
-## How current is it
+Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
-Every version names the official page it was read from, so every act can be checked against its source.
+## Dates
+
+Each commit is dated at noon, Europe/Podgorica, on the day the version took effect, and carries it in its `In-force:` trailer; the days the act was enacted and published are the `Enacted:` and `Published:` trailers:
+
+- the in-force day the PIS gives ("Datum stupanja na snagu"), checked against the act's own in-force article;
+- where the PIS gives none, the day the act's own in-force sentence gives ("osmog dana od dana objavljivanja"), counted from its publication day and quoted in the commit message;
+- a later application day ("Datum početka primjene") is noted in the commit message and does not move the date;
+- the Constitution took effect on its proclamation, 22 October 2007, and its amendments on theirs (I-XVI on 31 July 2013, XVII-XXI on 24 August 2026).
+
+Each act is credited to itself, with its Gazette issue (`Zakon o radu (Službeni list Crne Gore, broj 74/2019)`); each change to the Constitution is credited to its amendment (`Amandman IV`). Lexifina is the committer.
+
+## How current it is
 
 <!-- freshness-summary -->
 Checked against the official sources: 2026-11-11; 100% of acts verified in the last 7 days, 100% in the last 30 ([data/freshness.json](data/freshness.json)).
 <!-- /freshness-summary -->
 
-`python tools/freshness.py <act>` gives an act's status, its last check and the official link. A refresh runner re-reads each act's PIS page within its threshold (7 days for the Constitution, laws and Government decrees, 30 for the rest) and adds new acts as the Gazette publishes them; [data/status.json](data/status.json), rewritten by every run, says whether updates are running and which official sources answered. Statuses and fields are explained in [data/freshness.json](data/freshness.json). Acts in force but not held are in [data/held.json](data/held.json), with the reason; acts published but not yet in force are in [data/pending.json](data/pending.json), and are added on their day.
+- `python tools/freshness.py <act>`: an act's status, its last check against its PIS page and its official link; the Constitution, laws and Government decrees are due for a check every 7 days, the rest every 30
+- [data/status.json](data/status.json): whether updates are running and which official sources answered
+- [data/pending.json](data/pending.json): acts published but not yet in force, each added on the day it takes effect
 
-## Dates, authors and limits
+## How it is checked
 
-- Each commit is dated at noon, Europe/Podgorica, on the day the change took effect (the PIS "Datum stupanja na snagu", checked against the act's own final article); the author is the act that made it, the committer Lexifina. A separate application day ("Datum početka primjene") is noted on the version.
-- Individual and programme acts (appointments, decisions, conclusions, programmes, plans, Presidential decrees, ECHR judgments) whose text states no in-force day and for which the PIS gives none are dated by their publication day in the Službeni list; each such version's note says so. Laws, decrees, rulebooks, statutes and treaties without an in-force day stay held back (data/held.json).
-- The PIS publishes no consolidated texts. An act is held as it was published; where the PIS lists later amending acts, the act's status in data/acts.json is `amended, not consolidated` and `amended_by` names those acts, with their official links. Only the Constitution's amendments are applied to its text.
-- Where the PIS lists no amending act but later acts' titles name an act as amended or corrected, and no other act in the PIS has its title, it is labelled `amended, not consolidated` too, with those acts as `amended_by`; acts sharing a title stay held back.
-- Only the Službeni list Crne Gore is authoritative. The President's promulgation decree printed above a law, and the signatures, are left out; an annex printed after the signature is one unit.
-- The 2007 Constitution was published in Cyrillic and its amendments in Latin; each line keeps the script of the text that gave it its words. Nothing is transliterated.
-- Every version is read back from git on its in-force day and must match the source; results are in `REPRODUCE.md`.
+- `tools/build/check_repo.py` reads every version back from git on the day it took effect, and on the day before, and compares it with the corpus it was built from, file by file; it also checks every commit's trailers, and that `main` has no merge commits, no dates going backwards and nothing dated in the future.
+- `tools/build/append.py` adds new acts on top and rewrites nothing: the text on `main` must first equal the corpus for every act it holds, and any difference stops the run for a labelled correction decided by hand. The same head and corpus always give the same commit hashes.
+- The Constitution's amendments are applied by code to the provision each one's own instruction names, from an operation table checked against the Gazette's own words; the wording of the law is not changed.
+- Decisions made by hand are listed in each act's own `README.md`; how the repository was built is in [`REPRODUCE.md`](REPRODUCE.md).
+
+## What it does not show
+
+- **Acts as amended.** Apart from the Constitution, an act changed later is held as published: 3,188 are labelled `amended, not consolidated` in [data/acts.json](data/acts.json), with the acts that amend them in `amended_by`; those changes are not applied to their text.
+- **41,636 acts in force held back** ([data/held.json](data/held.json)): 21,209 whose in-force day cannot be read, 8,567 amended acts whose published text is not read yet, 3,997 of kinds not built yet, and 7,863 whose text or dates do not read cleanly (scanned pages, wrong glyphs, articles out of sequence, a day that contradicts the act).
+- **Acts no longer in force.** Only acts the PIS marks in force (Važeći) are read; repealed acts and earlier texts are not here.
+- **Case law, bills and drafts** are not part of this repository.
+
+## Sources
+
+| Source | Kind | Past versions | Notes |
+| --- | --- | --- | --- |
+| [Pravni informacioni sistem Službenog lista Crne Gore](https://www.sluzbenilist.me/propisi) (PIS) | Official Gazette's register of acts | no: each act as published, with the acts that amend it listed | Each act's page (issue, publication, in-force and application days, status) and its official PDF, whose text layer is read; only the Službeni list is authoritative |
 
 ## Licence
 
-The texts are official texts of Montenegro, which the Law on Copyright and Related Rights (Zakon o autorskom i srodnim pravima) excludes from copyright protection, taken from the Službeni list Crne Gore (www.sluzbenilist.me). Lexifina's arrangement, tables, commit messages and tools are in the public domain (CC0 1.0), as set out in `LICENSE`. This repository is not legal advice and not an official publication.
+See [`LICENSE`](LICENSE). Laws, other regulations and official acts are not protected by copyright under the Law on Copyright and Related Rights (Zakon o autorskom i srodnim pravima); Lexifina's arrangement, commit messages, tables and tools are dedicated to the public domain under CC0 1.0.
+
+No AI model wrote, translated or corrected legal text; the scripts were written by an AI model, which also transcribed each Constitutional amendment's instruction into the operation table the parser checks (see [`REPRODUCE.md`](REPRODUCE.md)).
 
 ## More
 
