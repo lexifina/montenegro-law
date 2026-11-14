@@ -30,7 +30,7 @@ Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git h
 | `<act>/clan-NNN.md` · `<act>/README.md` | one article per file (one paragraph per line) · the act's versions and notes |
 | [ACTS.md](ACTS.md) · `data/` · `tools/` | the act list · tables and indexes · the tools below |
 
-## Use it
+## Questions as git commands
 
 | Question | Command |
 | --- | --- |
@@ -41,6 +41,14 @@ Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git h
 | Is an act here current? | `python tools/freshness.py <act id>` |
 
 Read dates with the tools, not `git rev-list --before`: they pick each version by its `In-force:` trailer.
+
+**Or ask in plain words.** The same record is free to use without git, an account or a key:
+
+- **[Ask Claude about Montenegrin law](https://global-law.lexifina.com/v1/try_claude?country=montenegro&q=what%20does%20the%20Labour%20Law%20%28Zakon%20o%20radu%29%20say%20about%20annual%20leave%20%28godi%C5%A1nji%20odmor%29%20today%2C%20and%20how%20has%20its%20%C4%8Dlan%2079%20changed%20since%202020%3F%20Quote%20the%20words%20of%20the%20law%2C%20name%20the%20law%20behind%20each%20change%20with%20the%20day%20it%20took%20effect%2C%20and%20cite%20the%20official%20publisher%27s%20page.)**: one click opens Claude with a first question ready (annual leave in the Labour Law, and how it has changed).
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=montenegro&q=what%20does%20the%20Labour%20Law%20%28Zakon%20o%20radu%29%20say%20about%20annual%20leave%20%28godi%C5%A1nji%20odmor%29%20today%2C%20and%20how%20has%20its%20%C4%8Dlan%2079%20changed%20since%202020%3F%20Quote%20the%20words%20of%20the%20law%2C%20name%20the%20law%20behind%20each%20change%20with%20the%20day%20it%20took%20effect%2C%20and%20cite%20the%20official%20publisher%27s%20page.)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=godi%C5%A1nji+odmor&jurisdictions=montenegro)**: Montenegrin law searched for "godišnji odmor", answered as JSON. No key for 5 calls a minute; [every tool](https://global-law.lexifina.com/v1), [keys and documentation](https://lexifina.com/api).
+
+The assistants read it through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives the link that adds it. In Claude, choose "Always allow" so that each look-up is not asked about. Ask in Montenegrin or in English.
 
 ## Sources
 

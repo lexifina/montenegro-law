@@ -30,7 +30,7 @@ Dio projekta [lexifina/global-law](https://github.com/lexifina/global-law), jedn
 | `<act>/clan-NNN.md` · `<act>/README.md` | jedan član po datoteci (jedan stav po redu) · verzije akta i napomene |
 | [ACTS.md](ACTS.md) · `data/` · `tools/` | spisak akata · tabele i indeksi · alati navedeni ispod |
 
-## Kako koristiti
+## Pitanja kao git komande
 
 | Pitanje | Komanda |
 | --- | --- |
@@ -41,6 +41,14 @@ Dio projekta [lexifina/global-law](https://github.com/lexifina/global-law), jedn
 | Da li je akt ovdje ažuran? | `python tools/freshness.py <act id>` |
 
 Datume čitajte alatima, a ne sa `git rev-list --before`: alati biraju svaku verziju prema njenom zapisu `In-force:`.
+
+**Ili pitajte običnim riječima.** Isti podaci su besplatni i bez gita, naloga ili ključa:
+
+- **[Pitajte Claude o propisima Crne Gore](https://global-law.lexifina.com/v1/try_claude?country=montenegro&q=what%20does%20the%20Labour%20Law%20%28Zakon%20o%20radu%29%20say%20about%20annual%20leave%20%28godi%C5%A1nji%20odmor%29%20today%2C%20and%20how%20has%20its%20%C4%8Dlan%2079%20changed%20since%202020%3F%20Quote%20the%20words%20of%20the%20law%2C%20name%20the%20law%20behind%20each%20change%20with%20the%20day%20it%20took%20effect%2C%20and%20cite%20the%20official%20publisher%27s%20page.)**: jedan klik otvara Claude sa spremnim prvim pitanjem (godišnji odmor u Zakonu o radu i kako se mijenjao).
+- **[Pitajte ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=montenegro&q=what%20does%20the%20Labour%20Law%20%28Zakon%20o%20radu%29%20say%20about%20annual%20leave%20%28godi%C5%A1nji%20odmor%29%20today%2C%20and%20how%20has%20its%20%C4%8Dlan%2079%20changed%20since%202020%3F%20Quote%20the%20words%20of%20the%20law%2C%20name%20the%20law%20behind%20each%20change%20with%20the%20day%20it%20took%20effect%2C%20and%20cite%20the%20official%20publisher%27s%20page.)**: isto pitanje u ChatGPT-u.
+- **[Pozovite API u pregledaču](https://global-law.lexifina.com/v1/search_law?query=godi%C5%A1nji+odmor&jurisdictions=montenegro)**: pretraga propisa Crne Gore za „godišnji odmor”, odgovor u JSON-u. Bez ključa 5 poziva u minuti; [svi alati](https://global-law.lexifina.com/v1), [ključevi i dokumentacija](https://lexifina.com/api).
+
+Asistenti čitaju podatke preko besplatnog konektora Global law (MCP, `https://global-law.lexifina.com/mcp`); prvi put razgovor daje link kojim se konektor dodaje. U Claude-u izaberite „Always allow” da ne potvrđujete svaki poziv. Pitajte na crnogorskom ili engleskom.
 
 ## Izvori
 
