@@ -59,10 +59,6 @@ Svaki akt se pripisuje samom sebi, sa brojem Službenog lista (`Zakon o radu (Sl
 
 ## Koliko je ažurno
 
-<!-- freshness-summary -->
-Provjereno prema zvaničnim izvorima: 2026-11-11; 100% akata provjereno u posljednjih 7 dana, 100% u posljednjih 30 ([data/freshness.json](data/freshness.json)).
-<!-- /freshness-summary -->
-
 - `python tools/freshness.py <akt>`: status akta, njegova posljednja provjera prema njegovoj PIS stranici i zvanični link; Ustav, zakoni i uredbe Vlade provjeravaju se svakih 7 dana, ostali akti svakih 30
 - [data/status.json](data/status.json): da li ažuriranja rade i koji su zvanični izvori odgovorili
 - [data/pending.json](data/pending.json): akti koji su objavljeni, ali još nijesu stupili na snagu; svaki se dodaje na dan stupanja na snagu

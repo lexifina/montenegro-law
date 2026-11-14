@@ -59,10 +59,6 @@ Each act is credited to itself, with its Gazette issue (`Zakon o radu (Službeni
 
 ## How current it is
 
-<!-- freshness-summary -->
-Checked against the official sources: 2026-11-11; 100% of acts verified in the last 7 days, 100% in the last 30 ([data/freshness.json](data/freshness.json)).
-<!-- /freshness-summary -->
-
 - `python tools/freshness.py <act>`: an act's status, its last check against its PIS page and its official link; the Constitution, laws and Government decrees are due for a check every 7 days, the rest every 30
 - [data/status.json](data/status.json): whether updates are running and which official sources answered
 - [data/pending.json](data/pending.json): acts published but not yet in force, each added on the day it takes effect
