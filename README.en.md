@@ -70,6 +70,7 @@ Each act is credited to itself, with its Gazette issue (`Zakon o radu (Službeni
 - `tools/build/append.py` adds new acts on top and rewrites nothing: the text on `main` must first equal the corpus for every act it holds, and any difference stops the run for a labelled correction decided by hand. The same head and corpus always give the same commit hashes.
 - The Constitution's amendments are applied by code to the provision each one's own instruction names, from an operation table checked against the Gazette's own words; the wording of the law is not changed.
 - Decisions made by hand are listed in each act's own `README.md`; how the repository was built is in [`REPRODUCE.md`](REPRODUCE.md).
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in Montenegrin law, found by global-law's detectors and checked by hand.
 
 ## What it does not show
 

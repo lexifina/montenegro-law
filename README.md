@@ -70,6 +70,7 @@ Svaki akt se pripisuje samom sebi, sa brojem Službenog lista (`Zakon o radu (Sl
 - `tools/build/append.py` dodaje nove akte na vrh i ništa ne prepravlja: tekst na `main` prvo mora biti jednak korpusu za svaki akt koji sadrži, a svaka razlika zaustavlja pokretanje radi označene ispravke o kojoj se odlučuje ručno. Isti vrh i isti korpus uvijek daju iste hash vrijednosti commitova.
 - Amandmani na Ustav primjenjuju se kodom na odredbu koju svaki amandman sam navodi, iz tabele operacija provjerene prema riječima Službenog lista; tekst propisa se ne mijenja.
 - Odluke donesene ručno navedene su u `README.md` svakog akta; kako je repozitorijum napravljen, opisano je u [`REPRODUCE.md`](REPRODUCE.md).
+- [vulnerabilities/](vulnerabilities/): moguće greške u propisima Crne Gore, koje su pronašli detektori global-law i koje su ručno provjerene.
 
 ## Šta ne prikazuje
 
