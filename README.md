@@ -32,7 +32,8 @@ Bilo koji drugi akt na neki dan: `python tools/on.py 2025-06-01 zakon/2019/31215
 
 - **[Pitajte Claude o propisima Crne Gore](https://global-law.lexifina.com/v1/try_claude?country=montenegro)**: otvara Claude sa spremnim prvim pitanjem.
 - **[Pitajte ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=montenegro)**: isto pitanje u ChatGPT-u.
-- **[Pozovite API u pregledaču](https://global-law.lexifina.com/v1/search_law?query=godi%C5%A1nji+odmor&jurisdictions=montenegro)**: pretraga propisa Crne Gore za „godišnji odmor”, odgovor u JSON-u. Dokumentacija je [ovdje](https://lexifina.com/api/global-law).
+- **[Pretražite propise Crne Gore na našem sajtu](https://lexifina.com/law?country=montenegro&q=godi%C5%A1nji+odmor)**: pretraga za „godišnji odmor”, sa tekstom svake odredbe i njenim verzijama, bez naloga.
+- **[REST API za programere](https://global-law.lexifina.com/v1/search_law?query=godi%C5%A1nji+odmor&jurisdiction=montenegro)**: ista pretraga kao JSON, bez ključa. Dokumentacija je [ovdje](https://lexifina.com/api/global-law).
 
 Oba asistenta čitaju podatke preko besplatnog konektora Global law (MCP, `https://global-law.lexifina.com/mcp`); prvi put razgovor daje link kojim se konektor dodaje. Pitajte na crnogorskom ili na engleskom.
 
