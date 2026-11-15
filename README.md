@@ -13,7 +13,7 @@ Dio projekta [lexifina/global-law](https://github.com/lexifina/global-law), jedn
 
 **Šta sadrži sada:** Ustav i 36.000 važećih akata iz pravnog informacionog sistema Službenog lista (PIS), državnih i opštinskih, svaki onakav kakav je objavljen: 1.122 zakona, 1.094 uredbe Vlade, 3.582 pravilnika, 27.535 odluka i rješenja, 142 međunarodna ugovora i 2.525 drugih akata (naredbe, uputstva, pravila, poslovnici, statuti, programi, planovi); od toga je 4.301 akt o izmjenama i dopunama. [`ACTS.md`](ACTS.md) navodi sve akte, po vrsti; [`data/held.json`](data/held.json) navodi važeće akte koji ovdje još nijesu, svaki uz razlog.
 
-Svaki akt je u `<vrsta>/<godina>/<PIS id>/`, prema godini objavljivanja (`zakon/2019/312153/` je Zakon o radu, „Službeni list Crne Gore”, broj 74/2019); Ustav je u [`ustav/`](ustav/), a zakoni iz prve objave ovog repozitorijuma nalaze se na najvišem nivou, pod svojim naslovom (`zakon-o-akcizama/`). `data/paths.json` povezuje id svakog akta sa njegovim folderom.
+Svaki akt je u `<vrsta>/<godina>/<PIS id>/`, prema godini objavljivanja (`zakon/2019/312153/` je Zakon o radu, „Službeni list Crne Gore”, broj 74/2019); odluke, kojih ima više od hiljadu godišnje, nalaze se i pod mjesecom objavljivanja (`odluka/<godina>/<mjesec>/<PIS id>/`). Ustav je u [`ustav/`](ustav/). `data/paths.json` povezuje id svakog akta sa njegovim folderom.
 
 Tekst je na crnogorskom, onako kako ga objavljuje Službeni list: Ustav iz 2007. ćirilicom, njegovi amandmani i gotovo svi drugi akti latinicom; ništa nije transliterisano. Prevod na engleski nije dio ovog repozitorijuma.
 
@@ -92,6 +92,10 @@ Vidi [`LICENSE`](LICENSE). Zakoni, drugi propisi i službeni akti nijesu zašti�
 Nijedan AI model nije pisao, prevodio niti ispravljao tekst propisa; skripte je napisao AI model, koji je i prepisao uputstvo svakog amandmana na Ustav u tabelu operacija koju parser provjerava (vidi [`REPRODUCE.md`](REPRODUCE.md)).
 
 Ovo je prevod engleske verzije ([README.en.md](README.en.md)); ako se razlikuju, važi engleska verzija.
+
+## Vizualizacije
+
+[visualisations/](visualisations/): mjesto za grafikone o crnogorskom pravu, nacrtane iz ovog repozitorijuma; još nijesu nacrtani.
 
 ## Više
 

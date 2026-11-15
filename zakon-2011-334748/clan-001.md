@@ -1,3 +1,0 @@
-# Član 1
-## Predmet
-Ovim zakonom se uređuje Klasifikacija djelatnosti (u daljem tekstu: Klasifikacija) kao opšti standard prema kojem se vrši razvrstavanje jedinica razvrstavanja po djelatnostima. Jedinice razvrstavanja iz stava 1 ovog člana su: privredna društva, zadruge, banke, društva za osiguranje, brokersko-dilerska društva, davaoci finansijskog lizinga, druge pravne forme privrednih subjekata, preduzetnici, poljoprivredna gazdinstva, ustanove, državni organi, organi jedinica lokalne samouprave, političke partije, sindikalne organizacije i djelovi stranih pravnih lica, kao i druge organizacije koje obavljaju djelatnosti.

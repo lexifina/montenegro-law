@@ -13,7 +13,7 @@ Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git h
 
 **What is in it now:** the Constitution and 36,000 acts in force from the Službeni list's legal information system (PIS), national and municipal, each as published: 1,122 laws, 1,094 Government decrees, 3,582 rulebooks, 27,535 decisions and rulings, 142 international treaties and 2,525 other acts (orders, instructions, rules, rules of procedure, statutes, programmes, plans); 4,301 of them are amending acts. [`ACTS.md`](ACTS.md) lists every act, by kind; [`data/held.json`](data/held.json) lists the acts in force that are not here yet, each with the reason.
 
-Each act is in `<kind>/<year>/<PIS id>/`, by the year it was published (`zakon/2019/312153/` is the Zakon o radu, the Labour Law, Službeni list Crne Gore 74/2019); the Constitution is in [`ustav/`](ustav/), and the laws of this repository's first publish sit at the top level under their title (`zakon-o-akcizama/`). `data/paths.json` maps each act id to its folder.
+Each act is in `<kind>/<year>/<PIS id>/`, by the year it was published (`zakon/2019/312153/` is the Zakon o radu, the Labour Law, Službeni list Crne Gore 74/2019); decisions, more than a thousand a year, also sit under the month they were published (`odluka/<year>/<month>/<PIS id>/`). The Constitution is in [`ustav/`](ustav/). `data/paths.json` maps each act id to its folder.
 
 The text is in Montenegrin, as the Službeni list publishes it: the 2007 Constitution in Cyrillic, its amendments and almost every other act in Latin; nothing is transliterated. An English translation is not part of this record.
 
@@ -90,6 +90,10 @@ Each act is credited to itself, with its Gazette issue (`Zakon o radu (Službeni
 See [`LICENSE`](LICENSE). Laws, other regulations and official acts are not protected by copyright under the Law on Copyright and Related Rights (Zakon o autorskom i srodnim pravima); Lexifina's arrangement, commit messages, tables and tools are dedicated to the public domain under CC0 1.0.
 
 No AI model wrote, translated or corrected legal text; the scripts were written by an AI model, which also transcribed each Constitutional amendment's instruction into the operation table the parser checks (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+[visualisations/](visualisations/README.en.md): a placeholder for charts on Montenegrin law, drawn from this repository; none are drawn yet.
 
 ## More
 

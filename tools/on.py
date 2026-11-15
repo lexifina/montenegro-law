@@ -12,9 +12,10 @@ the source of truth: git cannot store dates before 1970, and reading the trailer
 in force on a day is the last commit on or before it that touches the act. Laws published but not yet in force live on
 the future branch, which is read for days after the newest commit on main. Merge commits are ignored.
 
-Acts live in folders named by their official identifier (<kind>/<year>/<number>/, data/paths.json). Before the layout
-move each act's folder was named by its id; this tool reads both, so any day gives the right text. Standard library
-only.
+Acts live in folders named by their official identifier (<kind>/<year>/<number>/, decisions
+odluka/<year>/<month>/<number>/; data/paths.json). Before the first layout move each act's folder was named by its id,
+and between the two moves some acts had another folder (data/paths.json "previous"); this tool reads all of them, so
+any day gives the right text. Standard library only.
 """
 import datetime as dt
 import json
@@ -42,39 +43,53 @@ def branches() -> tuple[str, str | None]:
 
 
 _PATHS = None
+_PREVIOUS = None
 
 
 def paths() -> dict[str, str]:
     """{act id: folder} from data/paths.json on main ({} before the layout move)."""
-    global _PATHS
+    global _PATHS, _PREVIOUS
     if _PATHS is None:
         try:
-            _PATHS = json.loads(git('show', 'main:data/paths.json')).get('paths', {})
+            pj = json.loads(git('show', 'main:data/paths.json'))
         except (subprocess.CalledProcessError, ValueError):
-            _PATHS = {}
+            pj = {}
+        _PATHS, _PREVIOUS = pj.get('paths', {}), pj.get('previous', {})
     return _PATHS
 
 
+def previous() -> dict[str, list[str]]:
+    """{act id: [folders it had between the layout moves]} from data/paths.json on main."""
+    paths()
+    return _PREVIOUS
+
+
+def all_folders(act: str) -> list[str]:
+    """An act's folder now, its folders between the layout moves, then its id (its first folder)."""
+    return list(dict.fromkeys([paths()[act], *previous().get(act, []), act]))
+
+
 def folders(act: str) -> list[str]:
-    """Every folder an act has had: its folder now, then its id (its folder before the layout move)."""
+    """Every folder an act has had: its folder now, any folder it had between the layout moves, then its id."""
     act = act.strip('/')
     p = paths()
     if act in p:
-        return list(dict.fromkeys([p[act], act]))
-    back = {v: k for k, v in p.items()}
-    if act in back:
-        return [act, back[act]]
+        return all_folders(act)
+    for key in p:
+        if act in all_folders(key):
+            return [act] + [f for f in all_folders(key) if f != act]
     return [act]
 
 
 def variants(path: str) -> list[str]:
     """A file path under every folder its act has had (lege/2009/287/art-1.md and codul-civil/art-1.md)."""
     p = paths()
-    for act, folder in p.items():
-        for root in (folder, act):
+    for act in p:
+        roots = all_folders(act)
+        for root in roots:
             if path == root or path.startswith(root + '/'):
                 rest = path[len(root):]
-                return list(dict.fromkeys([folder + rest, act + rest]))
+                return list(dict.fromkeys(r + rest for r in roots))
     return [path]
 
 
