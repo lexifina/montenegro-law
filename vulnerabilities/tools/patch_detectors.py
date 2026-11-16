@@ -311,5 +311,10 @@ patch("detectors/currency_scan.py", [
 patch("detectors/placeholder_ref.py", [
     ("abrogations is a noun", r"nevalid\w*|abrogat\w*|", r"nevalid\w*|abrogat(?!ions?\b)\w*|"),
 ])
+# twelfth round (found by the Montenegro update): "brisan" had no word end, so "brisanje/brisanja/brisanjem" (deleting an
+# entry from a register, personal data) and "brisan iz Registra" read as a repealed placeholder ("Brisan.", "(brisano)" still do)
+patch("detectors/placeholder_ref.py", [
+    ("brisan as a whole word", r'razveljavljen|brisan|', r'razveljavljen|\bbrisan[oa]?\b(?!\s+iz\b)|'),
+])
 print("applied:", len(done)); [print("  +", d) for d in done]
 print("already there:", len(skipped))

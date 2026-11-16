@@ -79,6 +79,8 @@ A last run, `redo.py --full`, repeated every step with the current `patch_detect
   francs CFP, French "lire" and "sucre", the dinar left out for French, Arabic and Serbian texts) change nothing here; the
   repository's language is not set to Serbian, so the dinars of 1998 to 2000 still count.
 - `placeholder_ref.py` no longer reads the French noun "abrogations" as a repeal marker; it changes nothing here.
+- `placeholder_ref.py` (twelfth round, found here): "brisan" counts only as a whole word ("brisan", "brisana", "brisano"),
+  not followed by "iz": the 20 references and the dead fine above are gone (9,977 flags to 9,956).
 - Lapsed time limits went from 2,911 to 2,913: the run, on 16 November 2026, counts two deadlines of 15 November 2026.
   The model reviewed 32 more with the top score, none surviving.
 - `build_vulns.py` (`patch_build_r7.py`): lapsed-limit reviews are matched on 400 characters of context, not 80, so two
