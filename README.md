@@ -11,7 +11,7 @@ Pravo Crne Gore kao git istorija: jedna datoteka po članu, jedan commit po verz
 
 Dio projekta [lexifina/global-law](https://github.com/lexifina/global-law), jedne git istorije prava svih zemalja: ovo je nacionalno pravo Crne Gore, koje global-law čita na putanji `montenegro/national/acts/`.
 
-**Šta sadrži sada:** Ustav i 36.000 važećih akata iz pravnog informacionog sistema Službenog lista (PIS), državnih i opštinskih, svaki onakav kakav je objavljen: 1.122 zakona, 1.094 uredbe Vlade, 3.582 pravilnika, 27.535 odluka i rješenja, 142 međunarodna ugovora i 2.525 drugih akata (naredbe, uputstva, pravila, poslovnici, statuti, programi, planovi); od toga je 4.301 akt o izmjenama i dopunama. [`ACTS.md`](ACTS.md) navodi sve akte, po vrsti; [`data/held.json`](data/held.json) navodi važeće akte koji ovdje još nijesu, svaki uz razlog.
+**Šta sadrži sada:** Ustav i 38.251 važećih akata iz pravnog informacionog sistema Službenog lista (PIS), državnih i opštinskih, svaki onakav kakav je objavljen: 1.314 zakona, 1.120 uredbi Vlade, 3.634 pravilnika, 29.127 odluka i rješenja, 142 međunarodna ugovora i 2.914 drugih akata (naredbe, uputstva, pravila, poslovnici, statuti, programi, planovi); od toga je 4.301 akt o izmjenama i dopunama. [`ACTS.md`](ACTS.md) navodi sve akte, po vrsti; [`data/held.json`](data/held.json) navodi važeće akte koji ovdje još nijesu, svaki uz razlog.
 
 Svaki akt je u `<vrsta>/<godina>/<PIS id>/`, prema godini objavljivanja (`zakon/2019/312153/` je Zakon o radu, „Službeni list Crne Gore”, broj 74/2019); odluke, kojih ima više od hiljadu godišnje, nalaze se i pod mjesecom objavljivanja (`odluka/<godina>/<mjesec>/<PIS id>/`). Ustav je u [`ustav/`](ustav/). `data/paths.json` povezuje id svakog akta sa njegovim folderom.
 
