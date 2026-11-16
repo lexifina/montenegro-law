@@ -8,5 +8,18 @@
   "latest_amendment_id": "382953",
   "source_images": 0,
   "referenced_images": 0,
-  "omitted_images": 0
+  "omitted_images": 0,
+  "text_completeness": "missing-annex",
+  "missing_annexes": [
+    {
+      "component": "application form",
+      "status": "not-included",
+      "source_article": "2",
+      "source_quote": "podnosi se na obrascu koji je sastavni dio ovih pravila i koji je dostupan na internet stranici Komisije.",
+      "source_url": "https://www.scmn.me/images/files/PravilaZOIF/17062025.pdf",
+      "official_listing_url": "https://www.scmn.me/me/regulativa",
+      "reason": "Article 2 declares the application form integral; the official two-page consolidated PDF contains Articles 1–6 but not the form. The form has not been obtained.",
+      "follow_up": "Append the official form when obtained and independently verified."
+    }
+  ]
 }
