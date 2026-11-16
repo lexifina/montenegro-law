@@ -95,7 +95,13 @@ Ovo je prevod engleske verzije ([README.en.md](README.en.md)); ako se razlikuju,
 
 ## Vizualizacije
 
-[visualisations/](visualisations/): mjesto za grafikone o crnogorskom pravu, nacrtane iz ovog repozitorijuma; još nijesu nacrtani.
+[visualisations/](visualisations/): Crnogorsko pravo u 20 grafikona, nacrtanih iz ovog repozitorijuma.
+
+Uključuje:
+
+- šta je danas na snazi, ko je to donio, od Vlade do opština, i kojim pismom, ćirilicom ili latinicom
+- sazive i zasijedanja Skupštine, zakone izglasane dva puta i najčešće mijenjane zakone
+- akte Evropske unije navedene u tekstovima, amandmane na Ustav i usklađivanje penzija od hiperinflacije do danas
 
 ## Više
 

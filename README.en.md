@@ -93,7 +93,13 @@ No AI model wrote, translated or corrected legal text; the scripts were written 
 
 ## Visualisations
 
-[visualisations/](visualisations/README.en.md): a placeholder for charts on Montenegrin law, drawn from this repository; none are drawn yet.
+[visualisations/](visualisations/): Montenegrin law in 20 charts, drawn from this repository.
+
+Including:
+
+- what is in force today, who made it, from the Government to the municipalities, and in which script, Cyrillic or Latin
+- the Skupština's convocations and sessions, laws passed twice and the most-amended laws
+- EU acts cited in the texts, the Constitution's amendments and pension adjustments from the hyperinflation to today
 
 ## More
 
