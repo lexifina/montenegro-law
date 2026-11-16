@@ -8,7 +8,7 @@ clone of global-law at `sources/global-law.git`, and a `pins.json` that names on
 
 | Script | What it does |
 | --- | --- |
-| `run.sh` | Indexes the history and texts, adds Montenegro's history rows, and runs the detectors |
+| `run.sh` | Indexes the history and texts, maps paths to the folders since a move of act folders (`map_moved.py`), adds Montenegro's history rows, and runs the detectors |
 | `add_root.py` | Builds Montenegro's history rows from this repository's own commits, so the history detectors read every change |
 | `run_triage.sh` | The model review: the 40 strongest flags per category, the 40 strongest lapsed time limits in law texts, and the empty periods |
 | `late_ext_select.py` | Chooses the 40 empty periods for global-law's review of that category (none were found here) |
@@ -17,7 +17,12 @@ clone of global-law at `sources/global-law.git`, and a `pins.json` that names on
 | `flags_chart.py` | Draws the chart at the top of the READMEs, in Montenegrin and English, light and dark |
 | `config.json` | The repository, the Montenegrin category names, the folders that are not law, and the chart's labels |
 | `patch_detectors.py` | Fixes blind spots found in runs on several country repositories in the copy of global-law's scripts (`python -X utf8 patch_detectors.py <scripts dir>`; a fix already in place is skipped) |
-| `redo.py` | Runs `patch_detectors.py`, then again only the scans and detectors the fixes change, the model review of lapsed time limits, references to deleted provisions and empty periods, and the build (`python -X utf8 redo.py <run folder> [--keep-reviews]`; `EMBED_FONTS` names the script that embeds the chart's fonts) |
+| `patch_detectors_vi.py` | The same for Vietnamese dates, references and amounts (found by the Vietnam run); it changes nothing here, but `redo.py` runs it on every repository |
+| `patch_es.py` | The same for Spanish dates and for "marco" and "escudo" read as currencies; it changes nothing here either |
+| `patch_ca.py` | The same for Catalan dates and time limits, the Catalan peseta, and "sucre" (sugar) read as the Ecuadorian sucre; it changes nothing here either |
+| `map_moved.py` | Rewrites the paths in the history table to each act's folder since a repository moved its act folders (`data/paths.json`), so that an act's history is not split in two at the move; `run.sh` runs it after the history is indexed. This repository has not moved its folders, and it rewrote no path |
+| `patch_build_r7.py` | Brings a country's `build_vulns.py` up to date: lapsed-limit reviews matched on 400 characters of context, not 80, and a file deleted before a move of folders linked under its old folder (already applied to the `build_vulns.py` here) |
+| `redo.py` | Runs the patches, then again only the scans and detectors the fixes change, the model review of lapsed time limits, references to deleted provisions and empty periods, and the build (`python -X utf8 redo.py <run folder> [--keep-reviews] [--full]`; `--full` runs every step again through `run.sh`, `map_moved.py` among them, sends every category to the model and keeps every review already made; `EMBED_FONTS` names the script that embeds the chart's fonts) |
 | `do_gap_check.py` | Counts the "do <day>. <month> <year>" and "do kraja <year>. godine" phrases in this repository that the lapsed-time-limit scan does not read (`python -X utf8 do_gap_check.py <scripts dir>`) |
 
 The model review needs `LLM_BASE_URL`, `LLM_API_KEY`, `LLM_MODEL` and `LLM_AUTH` set for an OpenAI-compatible Responses API.
@@ -59,3 +64,23 @@ shard and a stable split of acts between `refscan.py` shards (the old split by P
 others not at all; here the flags of the other categories came out the same); Croatian "listopada" read as October; and a fixed
 tie-break among flags with the same score when the model review picks the strongest. That pass sent 37 more lapsed time limits
 with the top score to the model, none of which survived.
+
+A last run, `redo.py --full`, repeated every step with the current `patch_detectors.py`, keeping every review already made
+(`map_moved.py` rewrote no path here). What changed for this repository:
+
+- References to repealed placeholders and dead fines (`detectors/placeholder_ref.py`, `detectors/dead_fine.py`): the
+  earlier `redo.py` passes did not run these two detectors again, so their last run predated the first round's "clan-N"
+  fix, when no Montenegrin file name gave an article and they found nothing. Run again, they found 20 references and 1 dead
+  fine, all misread: the repeal words include "brisan" with no word end, so "brisanje", "brisanja" and "brisanjem"
+  (deletion from a register, of personal data, of a ship) mark an article in force as repealed (see EDGE-CASES).
+- Currencies (`detectors/currency_scan.py`, sixth round): "lira" is no longer read inside "liraglutid" (4 flags) and the
+  Latvian "lati" and "latu" only as words, not inside "uplati", "isplatu", "naplatu", "plati", "alati" or "Latić" (27
+  flags): dead currencies went from 313 to 282. The other new currency fixes ("BEF" only in capitals, no Swiss "frank",
+  francs CFP, French "lire" and "sucre", the dinar left out for French, Arabic and Serbian texts) change nothing here; the
+  repository's language is not set to Serbian, so the dinars of 1998 to 2000 still count.
+- `placeholder_ref.py` no longer reads the French noun "abrogations" as a repeal marker; it changes nothing here.
+- Lapsed time limits went from 2,911 to 2,913: the run, on 16 November 2026, counts two deadlines of 15 November 2026.
+  The model reviewed 32 more with the top score, none surviving.
+- `build_vulns.py` (`patch_build_r7.py`): lapsed-limit reviews are matched on 400 characters of context, not 80, so two
+  flags that shared their first 80 characters with a reviewed flag no longer count as reviewed (147 reviewed in all), and
+  each retroactive-date row names the first file of its act in `path`.

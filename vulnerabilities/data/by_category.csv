@@ -1,6 +1,8 @@
 category,category_cnr,flags,in_law_texts,model_reviewed,candidate_defects,survive_rebuttal
-Lapsed time limits,Istekli rokovi,2911,2909,117,11,5
+Lapsed time limits,Istekli rokovi,2913,2911,147,11,5
 Retroactive or pre-publication dates,Stupanje na snagu prije objavljivanja,6721,6721,40,3,2
+References to repealed placeholders,Upućivanja na odredbe „brisano”,20,20,0,0,0
+Dead fines,Kazne bez opisa prekršaja,1,1,0,0,0
 Duplicate numbering,Dvostruko numerisanje,37,37,0,0,0
-Dead currencies,Ukinute valute,313,312,0,0,0
+Dead currencies,Ukinute valute,282,282,0,0,0
 Publisher notes,Napomene izdavača,3,3,0,0,0
